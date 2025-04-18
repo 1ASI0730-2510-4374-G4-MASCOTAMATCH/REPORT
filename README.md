@@ -18,7 +18,7 @@ El diagrama de contexto proporciona una visión general de alto nivel sobre cóm
 
 El diagrama de contenedores presenta una vista general de alto nivel sobre cómo interactúan las aplicaciones y las fuentes de datos que intervienen en la operación del sistema MascotaMatch.
 
-![C4_Container](./assets/chapter-4/c42.png)
+![C4_Container](./assets/Container.png)
 
 ### 4.6.3. Software Architecture Component Diagram
 
@@ -26,33 +26,33 @@ Los diagramas de componentes ilustran las relaciones entre los principales eleme
 
 En esta sección se detallan los componentes asociados al componente Pet Profile and Health.
   
-![C4_Component_Profile2](./assets/chapter-4/c45.png)
+![C4_Component_Profile2](./assets/petProfile.png)
 
 En esta sección se detallan los componentes asociados al componente Provider Management.
   
-![C4_Component_Profile3](./assets/chapter-4/c44.png)
+![C4_Component_Profile3](./assets/provider.png)
 
 En esta sección se detallan los componentes asociados al componente Rewards System.
   
-![C4_Component_Profile4](./assets/chapter-4/c46.png)
+![C4_Component_Profile4](./assets/rewards.png)
    
 En esta sección se detallan los componentes asociados al componente Authentication and User.
   
-![C4_Component_Profile4](./assets/chapter-4/c46.png)
+![C4_Component_Profile4](./assets/auth.png)
    
 En esta sección se detallan los componentes asociados al componente Appointment and Services.
   
-![C4_Component_Profile4](./assets/chapter-4/c46.png)
+![C4_Component_Profile4](./assets/cita.png)
    
 En esta sección se detallan los componentes asociados al componente Emergency and Alerts.
   
-![C4_Component_Profile4](./assets/chapter-4/c46.png)
+![C4_Component_Profile4](./assets/emergency.png)
    
 En esta sección se detallan los componentes asociados al componente Geolocation.
   
-![C4_Component_Profile4](./assets/chapter-4/c46.png)
+![C4_Component_Profile4](./assets/geo.png)
 
 En esta sección se detallan los componentes asociados al componente Subscription Management.
   
-![C4_Component_Profile4](./assets/chapter-4/c46.png)
+![C4_Component_Profile4](./assets/gestionSuscripcion.png)
    
