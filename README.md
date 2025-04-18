@@ -2,10 +2,50 @@
   
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
    ![UPC Logo](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
-   
-2.3 NeedFinding
 
-2.3.1 User Persona
+# Capítulo II: Requirements Elicitation & Analysis
+
+## 2.1. Competidores
+
+**Dog Houser**: Dog Houser es una plataforma peruana que conecta a dueños de mascotas con familias cuidadoras que ofrecen hospedaje y guardería en casa. Destaca por su ambiente familiar y personalizado, permitiendo elegir cuidadores según necesidades específicas.
+**PaseaPerros.com**: PaseaPerros.com es una plataforma peruana que conecta a dueños de perros con paseadores y cuidadores en su zona. Ofrece servicios como paseo, guardería y hospedaje, con perfiles calificados y reseñas de clientes.
+**PetBacker**: PetBacker es una plataforma internacional con presencia en Perú que permite encontrar cuidadores independientes cercanos. Ofrece servicios como paseos, visitas y hospedaje, con un sistema de reseñas que brinda confianza.
+
+### 2.1.1. Análisis competitivo
+
+### ¿Por qué llevar a cabo este análisis?
+Identificar fortalezas, debilidades y oportunidades frente a los principales competidores para mejorar el posicionamiento de MacotaMatch en el mercado del cuidado de mascotas.
+
+| **Nombre de los Startups**     |                                              | **MacotaMatch** | **Dog Houser** | **PaseaPerros.com** | **PetBacker** |
+|-------------------------------|----------------------------------------------|------------------|----------------|----------------------|----------------|
+| **Perfil**                    | Overview                                     | Plataforma peruana que conecta dueños de mascotas con cuidadores verificados para paseo, guardería y hospedaje. | Plataforma peruana que ofrece hospedaje y guardería en casas particulares. | Plataforma local que enlaza dueños con paseadores y cuidadores certificados. | Plataforma internacional que conecta a dueños con cuidadores independientes. |
+|                               | Ventaja competitiva / ¿Qué valor ofrece?     | Servicio seguro y personalizado, con verificación de usuarios y experiencia enfocada en el bienestar de las mascotas. | Atención familiar en ambientes hogareños que reduce el estrés de las mascotas. | Diversidad de servicios con opiniones de clientes que aseguran confianza. | Variedad de servicios en una sola app con sistema de reseñas internacionales. |
+| **Perfil de Marketing**       | Mercado objetivo                             | Dueños de mascotas en Perú que buscan confianza y seguridad en el cuidado. | Dueños que desean un trato hogareño y personalizado. | Usuarios que requieren opciones flexibles y cercanas. | Personas que valoran opciones amplias con soporte digital. |
+|                               | Estrategias de marketing                     | Presencia en redes sociales, alianzas con veterinarias, promociones digitales. | Publicidad online y recomendaciones por experiencia. | SEO local y redes sociales. | Presencia en app stores y promociones por ubicación. |
+| **Perfil del Producto**       | Productos & Servicios                        | Paseos, guardería, hospedaje y visitas domiciliarias. | Hospedaje y guardería personalizada. | Paseos, guardería, hospedaje. | Paseos, visitas, hospedaje, peluquería, etc. |
+|                               | Precios & Costos                             | Modelo freemium y planes premium. | Tarifas por cuidador y tipo de servicio. | Costos establecidos por el cuidador. | Tarifas variables por cuidador y servicio. |
+|                               | Canales de distribución (Web y/o Móvil)     | Web y app móvil. | Página web. | Página web. | App móvil y web. |
+| **Análisis SWOT**             | Fortalezas                                   | Plataforma local con enfoque personalizado, sistema de verificación. | Atención familiar que brinda confianza a los dueños. | Plataforma simple y fácil de usar. | Amplia cobertura internacional y experiencia digital. |
+|                               | Debilidades                                  | Nueva en el mercado, menor reconocimiento. | Limitado a ciertas zonas. | Menor visibilidad digital. | Menor personalización al ser global. |
+|                               | Oportunidades                                | Aumento en demanda digital de servicios para mascotas. | Expandirse a otras regiones del país. | Fortalecer alianzas locales. | Adaptarse más al mercado local peruano. |
+|                               | Amenazas                                     | Competencia internacional y local en crecimiento. | Nuevas plataformas más digitales. | Nuevos entrantes con más tecnología. | Preferencia por servicios personalizados locales. |
+
+## 2.1.2. Estrategias y tácticas frente a competidores
+Nuestra estrategia se basa en la diferenciación mediante una plataforma integral de servicios para mascotas que prioriza el bienestar animal, la conexión entre dueños y proveedores, y la trazabilidad de la salud de las mascotas. Así, nuestras tácticas son:
+
+🟩 **Desarrollar una plataforma con historial médico digital**: Incluir funcionalidades que permitan registrar, consultar y actualizar el historial médico de cada mascota, lo cual genera valor añadido respecto a plataformas tradicionales centradas solo en paseos o alojamiento.
+
+🟩 **Brindar soporte personalizado y atención rápida**: Implementar un sistema de atención al cliente eficaz, con soporte en tiempo real y asesoría especializada para resolver dudas sobre servicios, reservas y cuidado de mascotas, generando confianza y fidelización.
+
+🟩 **Establecer alianzas con veterinarias y groomers**: Formar vínculos con clínicas veterinarias, centros de grooming y tiendas especializadas que permitan ofrecer servicios integrales y confiables desde la misma plataforma.
+
+🟩 **Realizar campañas de concientización**: Difundir mensajes sobre tenencia responsable, salud preventiva, y la importancia del control veterinario a través de redes sociales, blogs y webinars, dirigidos a dueños primerizos y familias.
+
+🟩 **Fomentar el uso inicial mediante beneficios**: Ofrecer promociones, descuentos o servicios gratuitos durante el primer mes para atraer usuarios nuevos, generar confianza y asegurar la retención a largo plazo.
+  
+## 2.3 NeedFinding
+
+### 2.3.1 User Persona
 
 # Dueños de Mascotas (Clientes)
 
@@ -15,7 +55,7 @@
 
 ![Image](https://github.com/user-attachments/assets/6a23a831-1475-4892-b663-f94a473c204e)
 
-2.3.2 Task Matrix
+## 2.3.2 Task Matrix
 
 # Task Matrix para Dueños de Mascotas
 
@@ -37,7 +77,7 @@
 | Recibir pago por servicios          | Alta           | Alta            |
 | Recibir feedback y mejorar servicio | Media          | Media           |
 
-2.3.3 User Journey Map
+## 2.3.3 User Journey Map
 
 # User Journey Map para Dueños de mascotas
 
@@ -47,7 +87,7 @@
 
 ![Image](https://github.com/user-attachments/assets/ea6c9a1d-1ee0-4f9a-8faa-c5527b1545b9)
 
-2.3.4. Empathy Mapping.
+## 2.3.4. Empathy Mapping.
 
 # Empathy Map para Dueños de Mascotas
 
@@ -57,7 +97,7 @@
 
 ![Image](https://github.com/user-attachments/assets/77711368-dde2-47a0-a3f2-83c8943598ef)
 
-2.3.5. As-is Scenario Mapping.
+## 2.3.5. As-is Scenario Mapping.
 
 # Escenario As-Is: Dueño de Mascota buscando un servicio confiable
 
