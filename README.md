@@ -19,3 +19,9 @@ La startup MascotaMatch busca mejorar significativamente la calidad de vida de l
 ![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-1/Screenshot%202025-04-17%20215638.png)
 ![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-1/Screenshot%202025-04-17%20215646.png)
 ![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-1/Screenshot%202025-04-17%20220018.png)
+
+1.2. Solution Profile:
+
+Nombre del producto:
+
+Nuestro producto, MascotaMatch, fue creado pensando especialmente en nuestros valores y compromiso con el bienestar animal. La palabra "Mascota" refleja claramente nuestra dedicación al cuidado y felicidad de los animales domésticos, mientras que "Match" hace referencia a la eficiente conexión entre los propietarios de mascotas y los profesionales certificados del sector. Esta combinación expresa nuestra propuesta innovadora: una plataforma digital que facilita y centraliza todos los servicios necesarios para cuidar integralmente a las mascotas en entornos urbanos. MascotaMatch es una aplicación única basada en un modelo de suscripción mensual que brinda acceso a servicios como paseos regulares, sesiones de grooming, controles veterinarios, avisos oportunos para vacunas y atención prioritaria ante emergencias. Al detectar una necesidad específica del usuario, la aplicación enlaza de manera inmediata a los dueños con expertos calificados cercanos a su ubicación, proporcionando tranquilidad y comodidad. Gracias a esta rápida conexión, garantizamos un cuidado eficaz y oportuno que eleva considerablemente la calidad de vida de las mascotas. La app estará disponible en una página web diseñada para que sea intuitiva hacia cualquier público.
