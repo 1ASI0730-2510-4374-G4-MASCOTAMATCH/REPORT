@@ -3,7 +3,56 @@
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
    
    ![UPC Logo](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
-   
+
 </div>
 
+## 4.6. Domain-Driven Software Arquitecture
 
+### 4.6.1. Software Architecture Context Diagram 
+
+El diagrama de contexto proporciona una visión general de alto nivel sobre cómo el sistema MascotaMatch interactúa con sus distintos tipos de usuarios y, si corresponde, con sistemas externos relacionados.
+
+![C4_Context](./assets/chapter-4/c41.png)
+
+### 4.6.2. Software Architecture Container Diagram
+
+El diagrama de contenedores presenta una vista general de alto nivel sobre cómo interactúan las aplicaciones y las fuentes de datos que intervienen en la operación del sistema MascotaMatch.
+
+![C4_Container](./assets/chapter-4/c42.png)
+
+### 4.6.3. Software Architecture Component Diagram
+
+Los diagramas de componentes ilustran las relaciones entre los principales elementos del sistema MascotaMatch, detallando cómo se implementan los módulos funcionales dentro del programa.
+
+En esta sección se detallan los componentes asociados al componente Pet Profile and Health.
+  
+![C4_Component_Profile2](./assets/chapter-4/c45.png)
+
+En esta sección se detallan los componentes asociados al componente Provider Management.
+  
+![C4_Component_Profile3](./assets/chapter-4/c44.png)
+
+En esta sección se detallan los componentes asociados al componente Rewards System.
+  
+![C4_Component_Profile4](./assets/chapter-4/c46.png)
+   
+En esta sección se detallan los componentes asociados al componente Authentication and User.
+  
+![C4_Component_Profile4](./assets/chapter-4/c46.png)
+   
+En esta sección se detallan los componentes asociados al componente Appointment and Services.
+  
+![C4_Component_Profile4](./assets/chapter-4/c46.png)
+   
+En esta sección se detallan los componentes asociados al componente Emergency and Alerts.
+  
+![C4_Component_Profile4](./assets/chapter-4/c46.png)
+   
+En esta sección se detallan los componentes asociados al componente Geolocation.
+  
+![C4_Component_Profile4](./assets/chapter-4/c46.png)
+
+En esta sección se detallan los componentes asociados al componente Subscription Management.
+  
+![C4_Component_Profile4](./assets/chapter-4/c46.png)
+   
