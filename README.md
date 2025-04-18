@@ -12,7 +12,7 @@
 
 El diagrama de contexto proporciona una visión general de alto nivel sobre cómo el sistema MascotaMatch interactúa con sus distintos tipos de usuarios y, si corresponde, con sistemas externos relacionados.
 
-![C4_Context](./assets/chapter-4/c41.png)
+![C4_Context](./assets/Context.png)
 
 ### 4.6.2. Software Architecture Container Diagram
 
