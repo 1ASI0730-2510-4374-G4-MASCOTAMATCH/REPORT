@@ -40,16 +40,24 @@ Para nuestra versión de  landing page hemos utilizado un fondo azul degradado q
 
 ### Fondo:
 #FFFFFF – Blanco: áreas de contenido y tarjetas.
+
 #F3F4F6 – Gris muy claro: fondo alternativo y separación sutil.
+
 ![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-4/assets/Color2%20(2).png)
+
 ![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-4/assets/color1%20(2).png)
 
 ### Detalles:
 #111827 – Gris oscuro: texto principal y títulos.
+
 #6366F1 – Azul/violeta para íconos y detalles informativos.
+
 #2563EB – Azul secundario para navegación y resaltes.
+
 ![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-4/assets/Color1.png)
+
 ![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-4/assets/color1%20(2).png)
+
 ![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-4/assets/color%203.jpg)
 
 ### Tone of Communication:
