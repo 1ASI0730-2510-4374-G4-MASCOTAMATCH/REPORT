@@ -122,21 +122,21 @@ Nuestra estrategia se basa en la diferenciación mediante una plataforma integra
 
 ## 2.3.5. As-is Scenario Mapping.
 
-# Escenario As-Is: Dueño de Mascota buscando un servicio confiable
+### Escenario As-Is: Dueño de Mascota buscando un servicio confiable
 
-| **Fase**                            | **Doing**                                                                 | **Thinking**                                             | **Feeling**                                                                 |
-|-------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------|-----------------------------------------------------------------------------|
-| **Buscar opciones de cuidado**      | Pregunta a amigos, busca en línea opciones de cuidado de mascotas.      | “No tengo tiempo, pero quiero que mi perro esté bien.”   | Se siente preocupado porque su mascota es parte importante en su vida.      |
-| **Comparar opciones informales**    | Compara proveedores por redes sociales, revisa comentarios y calificaciones. | “¿Cómo sé que este paseador es confiable? ¿Y si no cumple?” | Inseguro por la falta de referencias claras.                               |
-| **Coordinar el servicio**           | Envía mensajes por WhatsApp, solicita precios, disponibilidad, agenda por chat. | “Espero que sea puntual y profesional.”                  | Ansioso por la informalidad del proceso.                                     |
-| **Dejar a su mascota**              | Deja a su perro con el paseador o proveedor, sin seguimiento.           | “¿Habrá cumplido bien el paseo? ¿Comió bien?”             | Intranquilo porque no hay seguimiento del servicio.                         |
+| **Fase**                        | **Doing**                                                                                      | **Thinking**                                                           | **Feeling**                                                             |
+|--------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| **Buscar opciones de cuidado** | Pregunta a amigos, busca en línea opciones de cuidado de mascotas.                            | “No tengo tiempo, pero quiero que mi perro esté bien.”                | Se siente preocupado porque su mascota es parte importante en su vida. |
+| **Comparar opciones informales** | • Compara proveedores por redes sociales. <br> • Revisa comentarios y calificaciones. <br> • Pregunta en grupos de Facebook o foros locales. | “¿Cómo sé que este paseador es confiable? ¿Y si no cumple?”            | Inseguro por la falta de referencias claras.                            |
+| **Coordinar el servicio**      | • Envía mensajes por WhatsApp, solicita precios, disponibilidad, agenda por chat. <br> • No hay contrato ni condiciones claras. | • “Espero que sea puntual y profesional.” <br> • “Estoy confiando sin conocerlo bien.” | Ansioso por la informalidad del proceso.                               |
+| **Dejar a su mascota**         | • Deja a su perro con el paseador o proveedor, sin seguimiento. <br> • Espera sin saber si ya comenzó el paseo o servicio. | • “¿Habrá cumplido bien el paseo?” <br> • “¿Comió bien?”                | Intranquilo porque no hay seguimiento del servicio.                    |
 
+### Escenario As-Is: Carla buscando clientes sin plataforma especializada
 
-# Escenario As-Is: Carla buscando clientes sin plataforma especializada
+| **Fase**                        | **Doing**                                                                                      | **Thinking**                                                           | **Feeling**                                                             |
+|--------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| **Difundir servicios en redes** | Publica servicios en redes, comparte flyers digitales, busca clientes en grupos.              | “Quiero más clientes cerca y estables.”                               | Se siente limitada por depender del boca a boca.                        |
+| **Evaluar a posibles clientes** | • Responde mensajes de interesados, evalúa si están en su zona o disponibles. <br> • Tiene conversaciones largas que no siempre terminan en venta. | “Este cliente parece bueno… pero ¿me cancelará?”                      | Insegura por la informalidad de los acuerdos.                           |
+| **Coordinar el servicio**      | • Agenda directamente con clientes por WhatsApp, anota a mano o en notas del celular. <br> • Debe estar pendiente todo el día de su celular. | “Ojalá que cumplan con el pago y los horarios.”                       | Tensa por falta de organización y protección como profesional.          |
+| **Realizar el servicio**       | • Acude al domicilio, realiza paseo, grooming o atención, según el caso. <br> • A veces recibe pagos en efectivo, a veces se demora. | “Voy a hacer bien mi trabajo, pero todo depende del cliente.”         | Siente inconformidad. A pesar de gustarle su trabajo, siente que puede mejorar. |
 
-| **Fase**                            | **Doing**                                                                 | **Thinking**                                             | **Feeling**                                                                 |
-|-------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------|-----------------------------------------------------------------------------|
-| **Difundir servicios en redes**     | Publica servicios en redes, comparte flyers digitales, busca clientes en grupos. | “Quiero más clientes cerca y estables.”                 | Se siente limitada por depender del boca a boca.                           |
-| **Evaluar a posibles clientes**     | Responde mensajes de interesados, evalúa si están en su zona o disponibles. | “Este cliente parece bueno… pero ¿me cancelará?”        | Insegura por la informalidad de los acuerdos.                              |
-| **Coordinar el servicio**           | Agenda directamente con clientes por WhatsApp, anota a mano o en notas del celular. | “Ojalá que cumplan con el pago y los horarios.”          | Tensa por falta de organización y protección como profesional.             |
-| **Realizar el servicio**            | Acude al domicilio, realiza paseo, grooming o atención, según el caso.    | “Voy a hacer bien mi trabajo, pero todo depende del cliente.” | Siente inconformidad. A pesar de gustarle su trabajo, siente que puede mejorar. |
