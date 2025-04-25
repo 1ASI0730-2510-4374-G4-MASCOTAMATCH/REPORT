@@ -40,7 +40,7 @@ Nuestra estrategia se basa en la diferenciación mediante una plataforma integra
 
 ## 2.2.1 Diseño de Entrevistas 
 
-###  Segmento 1: Dueños de Mascotas (Clientes)
+##  Segmento 1: Dueños de Mascotas (Clientes)
 
 - ¿Podrías contarme sobre tu mascota y cómo es tu día a día con ella?
 - ¿Qué tan seguido necesita tu mascota servicios como paseos, baño o visitas al veterinario?
@@ -53,7 +53,7 @@ Nuestra estrategia se basa en la diferenciación mediante una plataforma integra
 - ¿Qué dispositivos sueles usar en tu día a día para conectarte a internet? ¿Qué apps usas con frecuencia?
 - ¿Qué te motivaría a usar una app que reúna todos los servicios para tu mascota en un solo lugar?
 ---
-###  Segmento 2: Proveedores de Servicios (Veterinarios, Paseadores, Groomers)
+##  Segmento 2: Proveedores de Servicios (Veterinarios, Paseadores, Groomers)
 
 - ¿A qué te dedicas actualmente y cómo gestionas a tus clientes?
 - ¿Cuáles son tus principales dificultades al ofrecer tus servicios actualmente?
@@ -66,21 +66,21 @@ Nuestra estrategia se basa en la diferenciación mediante una plataforma integra
 - ¿Qué características tendría una plataforma ideal para ayudarte a crecer profesionalmente?
 - ¿Qué beneficios o incentivos te motivarían a unirte y permanecer en una plataforma como MascotaMatch?
 
-## 2.3 NeedFinding
+# 2.3 NeedFinding
 
 ### 2.3.1 User Persona
 
-# Dueños de Mascotas (Clientes)
+### Dueños de Mascotas (Clientes)
 
-![Image](https://github.com/user-attachments/assets/d905fcc8-48b0-475e-9943-95abd94400ea)
+![User Persona de Angel](../assets/USERPERSONAANGEL.jpg)
 
-# Proveedores de cuidado animal (Proveedores)
+### Proveedores de cuidado animal (Proveedores)
 
-![Image](https://github.com/user-attachments/assets/6a23a831-1475-4892-b663-f94a473c204e)
+![User Persona de Carla](../assets/USERPERSONACARLA.jpg)
 
 ## 2.3.2 Task Matrix
 
-# Task Matrix para Dueños de Mascotas
+### Task Matrix para Dueños de Mascotas
 
 | **Tareas**                          | **Frecuencia** | **Importancia** |
 |-------------------------------------|----------------|-----------------|
@@ -90,7 +90,7 @@ Nuestra estrategia se basa en la diferenciación mediante una plataforma integra
 | Revisar historial de la mascota    | Media          | Media           |
 | Acceso a servicios de emergencia   | Baja           | Alta            |
 
-# Task Matrix para Proveedores de Cuidado Animal
+### Task Matrix para Proveedores de Cuidado Animal
 
 | **Tareas**                          | **Frecuencia** | **Importancia** |
 |-------------------------------------|----------------|-----------------|
@@ -102,23 +102,23 @@ Nuestra estrategia se basa en la diferenciación mediante una plataforma integra
 
 ## 2.3.3 User Journey Map
 
-# User Journey Map para Dueños de mascotas
+### User Journey Map para Dueños de mascotas
 
-![Image](https://github.com/user-attachments/assets/08312de5-b2b6-4466-9fcd-38fd0fd96d6d)
+![User Journey Map de Angel](../assets/USERJOURNEYMAPANGEL.jpg)
 
-# User Journey Map para Proveedores de cuidado animal
+### User Journey Map para Proveedores de cuidado animal
 
-![Image](https://github.com/user-attachments/assets/ea6c9a1d-1ee0-4f9a-8faa-c5527b1545b9)
+![User Journey Map de Carla](../assets/USERJOURNEYMAPCARLA.jpg)
 
 ## 2.3.4. Empathy Mapping.
 
-# Empathy Map para Dueños de Mascotas
+### Empathy Map para Dueños de Mascotas
 
-![Image](https://github.com/user-attachments/assets/2953b6cc-bd86-4e92-89a8-f45c6be44e08)
+![Empathy Map de Angel](../assets/EMPHATYMAPANGEL.jpg)
 
-# Empathy Map para Proveedores de Cuidado Animal
+### Empathy Map para Proveedores de Cuidado Animal
 
-![Image](https://github.com/user-attachments/assets/77711368-dde2-47a0-a3f2-83c8943598ef)
+![Empathy Map de Carla](../assets/EMPATHYMAPCARLA.jpg)
 
 ## 2.3.5. As-is Scenario Mapping.
 
