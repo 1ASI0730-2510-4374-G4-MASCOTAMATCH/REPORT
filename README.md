@@ -18,6 +18,7 @@ La startup MascotaMatch busca mejorar significativamente la calidad de vida de l
   
 ### 1.1.2. Perfiles de integrantes del equipo
 </div>
+<div align="center">
 
 ![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-1/Screenshot%202025-04-17%20215254.png)
 ![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-1/Screenshot%202025-04-17%20215557.png)
@@ -25,6 +26,7 @@ La startup MascotaMatch busca mejorar significativamente la calidad de vida de l
 ![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-1/Screenshot%202025-04-17%20215638.png)
 ![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-1/Screenshot%202025-04-17%20215646.png)
 ![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-1/Screenshot%202025-04-17%20220018.png)
+</div>
 <div align="center">
   
 ### 1.2. Solution Profile:
