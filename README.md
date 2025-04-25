@@ -69,6 +69,13 @@ Motivador y cálido en los llamados a la acción y presentación de servicios.
 
 Tranquilizador y profesional en servicios como urgencias veterinarias.
 
+<div align="center">
+  
+### 4.1.2. Web Style Guidelines
+La web de MascotaMatch está enfocada en ser una entrada clara y amigable para el usuario. Utiliza una landing con estructura simple, encabezado directo, visual principal con mascota, CTA visible (“See Services”) y tarjetas explicativas de servicios. Los planes están presentados con imágenes reales que aportan confianza, mientras que las preguntas frecuentes usan íconos grandes y textos concretos para resolver dudas comunes.
+</div>
+
+![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-4/assets/Home.png)
 
 ## 4.6. Domain-Driven Software Arquitecture
 
