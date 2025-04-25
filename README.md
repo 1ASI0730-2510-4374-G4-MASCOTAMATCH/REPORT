@@ -13,7 +13,10 @@
 ### 4.1 Style Guidelines
 MascotaMatch es una plataforma que conecta a dueños de mascotas con profesionales certificados del cuidado animal, y su estilo visual refleja los valores de bienestar, confianza y accesibilidad. El diseño busca inspirar tranquilidad y cercanía, utilizando una interfaz limpia, moderna y emocionalmente cálida. Con una paleta de colores suaves y elementos ilustrativos amigables, la aplicación facilita la navegación, la toma de decisiones y la conexión con los servicios esenciales para el bienestar de las mascotas.
 
+<div align="center">
+
 ![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-4/assets/Screenshot%202025-04-25%20003957.png)
+</div>
 
 ## 4.6. Domain-Driven Software Arquitecture
 
