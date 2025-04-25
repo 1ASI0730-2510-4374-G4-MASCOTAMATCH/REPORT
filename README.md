@@ -40,6 +40,7 @@ En nuestor país, el crecimiento acelerado de las ciudades ha generado cambios s
 
 ### Esto lo explicamos en el siguiente a través del método 5W’s y 2H’s: 
 
+![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-1/Screenshot%202025-04-25%20003027.png)
 <div align="center">
   
 ### 1.3 Segmentos Objetivo 
