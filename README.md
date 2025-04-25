@@ -6,6 +6,15 @@
 
 </div>
 
+<div align="center">
+### 4. UX/UI Design
+</div>
+
+### 4.1 Style Guidelines
+MascotaMatch es una plataforma que conecta a dueños de mascotas con profesionales certificados del cuidado animal, y su estilo visual refleja los valores de bienestar, confianza y accesibilidad. El diseño busca inspirar tranquilidad y cercanía, utilizando una interfaz limpia, moderna y emocionalmente cálida. Con una paleta de colores suaves y elementos ilustrativos amigables, la aplicación facilita la navegación, la toma de decisiones y la conexión con los servicios esenciales para el bienestar de las mascotas.
+
+
+
 ## 4.6. Domain-Driven Software Arquitecture
 
 ### 4.6.1. Software Architecture Context Diagram 
