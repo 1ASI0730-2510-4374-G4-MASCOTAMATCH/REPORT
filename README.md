@@ -42,7 +42,35 @@ Nuestra estrategia se basa en la diferenciación mediante una plataforma integra
 🟩 **Realizar campañas de concientización**: Difundir mensajes sobre tenencia responsable, salud preventiva, y la importancia del control veterinario a través de redes sociales, blogs y webinars, dirigidos a dueños primerizos y familias.
 
 🟩 **Fomentar el uso inicial mediante beneficios**: Ofrecer promociones, descuentos o servicios gratuitos durante el primer mes para atraer usuarios nuevos, generar confianza y asegurar la retención a largo plazo.
-  
+
+### 2.2.1 Diseño de Entrevistas 
+
+##  Segmento 1: Dueños de Mascotas (Clientes)
+
+- ¿Podrías contarme sobre tu mascota y cómo es tu día a día con ella?
+- ¿Qué tan seguido necesita tu mascota servicios como paseos, baño o visitas al veterinario?
+- ¿Cómo sueles organizar esos servicios actualmente?
+- ¿Has tenido dificultades para encontrar profesionales confiables para el cuidado de tu mascota? ¿Cuáles?
+- ¿Qué tan dispuesto/a estarías a pagar una suscripción mensual que te ofrezca servicios integrales para tu mascota?
+- ¿Cuáles son tus principales preocupaciones respecto a la salud y bienestar de tu mascota?
+- ¿Qué tan familiarizado/a estás con aplicaciones móviles para contratar servicios? ¿Cuáles usas con frecuencia?
+- ¿Qué tipo de experiencias negativas o frustraciones has tenido con servicios para mascotas?
+- ¿Qué dispositivos sueles usar en tu día a día para conectarte a internet? ¿Qué apps usas con frecuencia?
+- ¿Qué te motivaría a usar una app que reúna todos los servicios para tu mascota en un solo lugar?
+---
+##  Segmento 2: Proveedores de Servicios (Veterinarios, Paseadores, Groomers)
+
+- ¿A qué te dedicas actualmente y cómo gestionas a tus clientes?
+- ¿Cuáles son tus principales dificultades al ofrecer tus servicios actualmente?
+- ¿Cómo consigues nuevos clientes hoy en día?
+- ¿Qué tan cómodo/a te sentirías usando una app que te conecte con dueños de mascotas cercanos?
+- ¿Qué tipo de servicios ofreces con mayor frecuencia? ¿Hay alguno que te gustaría ofrecer y aún no puedes?
+- ¿Estás interesado/a en recibir más formación o certificaciones en tu rubro?
+- ¿Qué importancia tiene para ti la estabilidad de ingresos y fidelización de clientes?
+- ¿Qué dispositivos usas en tu día a día? ¿Tienes experiencia usando apps tipo Uber, Rappi, etc.?
+- ¿Qué características tendría una plataforma ideal para ayudarte a crecer profesionalmente?
+- ¿Qué beneficios o incentivos te motivarían a unirte y permanecer en una plataforma como MascotaMatch?
+
 ## 2.3 NeedFinding
 
 ### 2.3.1 User Persona
