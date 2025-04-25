@@ -39,10 +39,13 @@ Nuestro producto, MascotaMatch, fue creado pensando especialmente en nuestros va
 ### 1.2.1 Antecedentes y problemática:
 </div>
 En nuestor país, el crecimiento acelerado de las ciudades ha generado cambios significativos en el estilo de vida de las personas, quienes, debido a largas jornadas laborales y responsabilidades diarias, cuentan con menos tiempo disponible para atender adecuadamente a sus mascotas. Esto provoca dificultades para encontrar proveedores confiables, formales y cercanos que puedan satisfacer las necesidades básicas y especializadas de cuidado animal, tales como paseos, grooming o visitas veterinarias. La escasa digitalización del sector y la falta de plataformas integradas complican aún más el acceso a servicios organizados y seguros, afectando directamente la calidad de vida, bienestar y salud de las mascotas y generando estrés y preocupación en sus propietarios.
-
+<div align="center">
+  
 ### Esto lo explicamos en el siguiente a través del método 5W’s y 2H’s: 
 
 ![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-1/Screenshot%202025-04-25%20003027.png)
+
+ </div>
 <div align="center">
   
 ### 1.3 Segmentos Objetivo 
