@@ -72,10 +72,27 @@ Tranquilizador y profesional en servicios como urgencias veterinarias.
 <div align="center">
   
 ### 4.1.2. Web Style Guidelines
-La web de MascotaMatch está enfocada en ser una entrada clara y amigable para el usuario. Utiliza una landing con estructura simple, encabezado directo, visual principal con mascota, CTA visible (“See Services”) y tarjetas explicativas de servicios. Los planes están presentados con imágenes reales que aportan confianza, mientras que las preguntas frecuentes usan íconos grandes y textos concretos para resolver dudas comunes.
 </div>
+La web de MascotaMatch está enfocada en ser una entrada clara y amigable para el usuario. Utiliza una landing con estructura simple, encabezado directo, visual principal con mascota, CTA visible (“See Services”) y tarjetas explicativas de servicios. Los planes están presentados con imágenes reales que aportan confianza, mientras que las preguntas frecuentes usan íconos grandes y textos concretos para resolver dudas comunes.
+
 
 ![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-4/assets/Home.png)
+
+En el diseño de la web se evita la sobrecarga de contenido y se prioriza la jerarquía visual a través del uso de espacios amplios, tarjetas modulares y una navegación intuitiva. La estructura está pensada para acompañar al usuario paso a paso, facilitando la comprensión de los planes de suscripción, servicios disponibles y preguntas frecuentes.
+La página de inicio (landing page) cumple una función de presentación general: presenta el valor diferencial de la plataforma, sus beneficios clave, y los distintos planes con imágenes amigables y testimonios visuales. Aunque la funcionalidad completa de MascotaMatch se encuentra en la app, la web sirve como vitrina digital que guía al usuario hacia su descarga y registro.
+
+### Características destacadas:
+
+Navegación superior clara (Home, Services, Plans, FAQ).
+
+Fondo degradado azul que da identidad y profundidad visual.
+
+Botones verdes para destacar acciones clave.
+
+Uso de íconos ilustrativos y fotografía humana para conexión emocional.
+
+Footer organizado por secciones útiles (ayuda, contacto, distritos).
+
 
 ## 4.6. Domain-Driven Software Arquitecture
 
