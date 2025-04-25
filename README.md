@@ -31,8 +31,11 @@ Para nuestra versión de  landing page hemos utilizado un fondo azul degradado q
 
 ### Principal:
 #3B82F6 – Azul Claro: fondo principal de la hero section.
+
 #34D399 – Verde Menta: botones y llamados a la acción
+
 ![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-4/assets/Color1.png)
+
 ![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-4/assets/Color2.png)
 
 ### Fondo:
