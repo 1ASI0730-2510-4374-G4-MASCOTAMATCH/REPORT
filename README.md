@@ -43,9 +43,9 @@ Nuestra estrategia se basa en la diferenciación mediante una plataforma integra
 
 🟩 **Fomentar el uso inicial mediante beneficios**: Ofrecer promociones, descuentos o servicios gratuitos durante el primer mes para atraer usuarios nuevos, generar confianza y asegurar la retención a largo plazo.
 
-### 2.2.1 Diseño de Entrevistas 
+## 2.2.1 Diseño de Entrevistas 
 
-##  Segmento 1: Dueños de Mascotas (Clientes)
+###  Segmento 1: Dueños de Mascotas (Clientes)
 
 - ¿Podrías contarme sobre tu mascota y cómo es tu día a día con ella?
 - ¿Qué tan seguido necesita tu mascota servicios como paseos, baño o visitas al veterinario?
@@ -58,7 +58,7 @@ Nuestra estrategia se basa en la diferenciación mediante una plataforma integra
 - ¿Qué dispositivos sueles usar en tu día a día para conectarte a internet? ¿Qué apps usas con frecuencia?
 - ¿Qué te motivaría a usar una app que reúna todos los servicios para tu mascota en un solo lugar?
 ---
-##  Segmento 2: Proveedores de Servicios (Veterinarios, Paseadores, Groomers)
+###  Segmento 2: Proveedores de Servicios (Veterinarios, Paseadores, Groomers)
 
 - ¿A qué te dedicas actualmente y cómo gestionas a tus clientes?
 - ¿Cuáles son tus principales dificultades al ofrecer tus servicios actualmente?
