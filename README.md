@@ -27,14 +27,14 @@
 
 ## 3.2. User Stories 
 
-| Epic ID | Título del Epic | Descripción general |
-|:--------|:----------------|:---------------------|
-| EPIC01 | Landing Page: Portada y Servicios | Contiene todo lo relacionado con la presentación inicial del sitio y la visualización de los servicios principales. |
-| EPIC02 | Planes de Suscripción | Engloba todo lo necesario para mostrar los planes de servicio, compararlos y acceder al detalle de cada uno. |
-| EPIC03 | Sección de Preguntas Frecuentes (FAQ) | Reúne la funcionalidad de resolver dudas de los usuarios mediante preguntas y respuestas. |
-| EPIC04 | Navegación y estructura general | Agrupa todos los elementos comunes de navegación (header, menú, footer) para mejorar la experiencia del usuario. |
-| EPIC05 | Registro y Login | Cubre todo el flujo de registro de usuarios, inicio de sesión y acceso protegido al contenido del sitio. |
-| EPIC06 | Diseño Visual y Responsividad | Considera todo lo relacionado al diseño consistente y adaptabilidad del sitio en distintos dispositivos. |
+| Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic) |
+|:----------------|:-------|:------------|:------------------------|:-----------------------|
+| EPIC01 | Landing Page: Portada y Servicios | **Como** visitante nuevo,<br>**Quiero** ver una portada atractiva y entender de inmediato de qué trata el sitio,<br>**Para** decidir navegar en los servicios ofrecidos. |  | - |
+| EPIC02 | Planes de Suscripción | **Como** visitante interesado,<br>**Quiero** conocer y comparar los distintos planes de servicio,<br>**Para** elegir el más adecuado para las necesidades de mi mascota. |  | - |
+| EPIC03 | Sección de Preguntas Frecuentes (FAQ) | **Como** usuario con dudas,<br>**Quiero** acceder fácilmente a preguntas frecuentes organizadas y claras,<br>**Para** resolver mis dudas rápidamente sin necesidad de asistencia adicional. |  | - |
+| EPIC04 | Navegación y estructura general | **Como** visitante del sitio,<br>**Quiero** navegar de manera intuitiva entre secciones principales como Home, Services y FAQ,<br>**Para** encontrar fácilmente lo que busco. |  | - |
+| EPIC05 | Registro y Login | **Como** nuevo usuario o visitante,<br>**Quiero** poder registrarme y hacer login de manera sencilla,<br>**Para** proteger el acceso a la landing page y personalizar mi experiencia. |  | - |
+| EPIC06 | Diseño Visual y Responsividad | **Como** visitante desde diferentes dispositivos,<br>**Quiero** que el sitio se adapte visualmente a computadoras, tablets y celulares,<br>**Para** tener una experiencia agradable y cómoda desde cualquier lugar. |  | - |
 
 | User Story ID | Título | Descripción | Criterios de Aceptación | Epic ID |
 |:--------------|:--------|:------------|:-----------------------|:--------|
