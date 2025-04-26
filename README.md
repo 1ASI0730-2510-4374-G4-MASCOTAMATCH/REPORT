@@ -28,7 +28,7 @@ Identificar fortalezas, debilidades y oportunidades frente a los principales com
 |                               | Oportunidades                                | Aumento en demanda digital de servicios para mascotas. | Expandirse a otras regiones del país. | Fortalecer alianzas locales. | Adaptarse más al mercado local peruano. |
 |                               | Amenazas                                     | Competencia internacional y local en crecimiento. | Nuevas plataformas más digitales. | Nuevos entrantes con más tecnología. | Preferencia por servicios personalizados locales. |
 
-## 2.1.2. Estrategias y tácticas frente a competidores
+### 2.1.2. Estrategias y tácticas frente a competidores
 Nuestra estrategia se basa en la diferenciación mediante una plataforma integral de servicios para mascotas que prioriza el bienestar animal, la conexión entre dueños y proveedores, y la trazabilidad de la salud de las mascotas. Así, nuestras tácticas son:
 
 🟩 **Desarrollar una plataforma con historial médico digital**: Incluir funcionalidades que permitan registrar, consultar y actualizar el historial médico de cada mascota, lo cual genera valor añadido respecto a plataformas tradicionales centradas solo en paseos o alojamiento.
@@ -45,7 +45,7 @@ Nuestra estrategia se basa en la diferenciación mediante una plataforma integra
 
 En esta sección se desarrolla la investigación realizada sobre nuestros públicos objetivos, utilizando como principal herramienta la realización de entrevistas para recolectar información relevante y obtener una mejor comprensión de sus necesidades y expectativas.
 
-## 2.2.1 Diseño de Entrevistas 
+### 2.2.1 Diseño de Entrevistas 
 
 ###  Segmento 1: Dueños de Mascotas (Clientes)
 
@@ -73,7 +73,7 @@ En esta sección se desarrolla la investigación realizada sobre nuestros públi
 - ¿Qué características tendría una plataforma ideal para ayudarte a crecer profesionalmente?
 - ¿Qué beneficios o incentivos te motivarían a unirte y permanecer en una plataforma como MascotaMatch?
 
-## 2.2.3. Análisis de entrevistas 
+### 2.2.3. Análisis de entrevistas 
 
 # Resumen de entrevistas a proveedores de servicios
 
@@ -95,7 +95,7 @@ Se entrevistó a dos jóvenes dueños de mascotas que relataron su rutina diaria
 
 ![Image](https://github.com/user-attachments/assets/6a23a831-1475-4892-b663-f94a473c204e)
 
-## 2.3.2 Task Matrix
+### 2.3.2 Task Matrix
 
 # Task Matrix para Dueños de Mascotas
 
@@ -117,7 +117,7 @@ Se entrevistó a dos jóvenes dueños de mascotas que relataron su rutina diaria
 | Recibir pago por servicios          | Alta           | Alta            |
 | Recibir feedback y mejorar servicio | Media          | Media           |
 
-## 2.3.3 User Journey Map
+### 2.3.3 User Journey Map
 
 # User Journey Map para Dueños de mascotas
 
@@ -127,7 +127,7 @@ Se entrevistó a dos jóvenes dueños de mascotas que relataron su rutina diaria
 
 ![Image](https://github.com/user-attachments/assets/ea6c9a1d-1ee0-4f9a-8faa-c5527b1545b9)
 
-## 2.3.4. Empathy Mapping.
+### 2.3.4. Empathy Mapping.
 
 # Empathy Map para Dueños de Mascotas
 
@@ -137,7 +137,7 @@ Se entrevistó a dos jóvenes dueños de mascotas que relataron su rutina diaria
 
 ![Image](https://github.com/user-attachments/assets/77711368-dde2-47a0-a3f2-83c8943598ef)
 
-## 2.3.5. As-is Scenario Mapping.
+### 2.3.5. As-is Scenario Mapping.
 
 # Escenario As-Is: Dueño de Mascota buscando un servicio confiable
 
@@ -160,4 +160,5 @@ Se entrevistó a dos jóvenes dueños de mascotas que relataron su rutina diaria
 
 </div>
 
+## 2.4. Ubiquitous Language.
 
