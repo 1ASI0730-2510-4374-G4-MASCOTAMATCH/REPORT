@@ -168,4 +168,7 @@ Se entrevistó a dos jóvenes dueños de mascotas que relataron su rutina diaria
 ## 2.4. Ubiquitous Language.
 
 | **Término (en inglés)**               | **Término (en español)**               | **Definición**              |
+|---------------------------------------|----------------------------------------|-----------------------------|
+|    Pet Owner     |     Dueño de mascota    |     Persona que tiene bajo su cuidado uno o más animales domésticos y requiere servicios para su bienestar.    |
+
 
