@@ -107,6 +107,8 @@ Veterinario con horario de 9 a.m. a 5 p.m., brinda atención clínica presencial
 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311828_upc_edu_pe/ERExDL-Coe5BptW5nop3KCwBcTepw3DZIxLfRRTtK_TqOQ?e=od8dKr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
+---
+
 ### 2.2.1 Diseño de Entrevistas 
 
 ###  Segmento 1: Dueños de Mascotas (Clientes)
