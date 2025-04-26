@@ -9,13 +9,21 @@
 
 ## 3.1. To-Be Scenario Mapping.
 
+<div align="center">
+
 -Dueños de Mascotas (Usuario):
 
 ![image](https://github.com/user-attachments/assets/71f9ccc9-a107-4367-8852-00065efc151c)
 
+</div>
+
 -Proveedores Certificados (Veterinarios, Groomers, Paseadores)
 
+<div align="center">
+  
 ![image](https://github.com/user-attachments/assets/f75b03ed-61ca-4242-8d4b-1ff0772cf109)
+
+</div>
 
 ## 3.2. User Stories 
 | User Story ID | Título | Descripción | Criterios de Aceptación | Epic ID |
