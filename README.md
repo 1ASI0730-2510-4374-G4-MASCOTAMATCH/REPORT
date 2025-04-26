@@ -169,6 +169,14 @@ Se entrevistó a dos jóvenes dueños de mascotas que relataron su rutina diaria
 
 | **Término (en inglés)**               | **Término (en español)**               | **Definición**              |
 |---------------------------------------|----------------------------------------|-----------------------------|
-|    Pet Owner     |     Dueño de mascota    |     Persona que tiene bajo su cuidado uno o más animales domésticos y requiere servicios para su bienestar.    |
+|     Pet Owner     |     Dueño de mascota    |     Persona que tiene bajo su cuidado uno o más animales domésticos y requiere servicios para su bienestar.    |
+|     Service Provider    |    Proveedor de servicios    |    Profesional o empresa que ofrece servicios para mascotas como veterinaria, grooming, paseo, adiestramiento, entre otros.     |
+|     Verified Provider     |     Proveedor verificado     |     Profesional que ha sido validado por MascotaMatch mediante documentos y filtros de seguridad para garantizar su confiabilidad.     |
+|     Pet Service     |    Servicio para mascotas     |     Cualquier tipo de atención o actividad dirigida al cuidado, salud, higiene o recreación de una mascota.     |
+|     Appointment     |     Cita     |     Reserva hecha por un dueño de mascota para que un proveedor brinde un servicio en una fecha y hora determinada.     |
+|     Service Rating     |     Calificación del servicio     |     Valoración que un usuario hace sobre la calidad del servicio recibido, basado en su experiencia.     |
+|     Subscription Plan     |     Plan de suscripción     |     Modelo de pago recurrente (mensual, trimestral, etc.) que permite a los usuarios acceder a funciones premium de la app.     |
+|Location Filter|Filtro de ubicación|Herramienta en la app que permite buscar servicios disponibles según la cercanía geográfica del usuario.|
+
 
 
