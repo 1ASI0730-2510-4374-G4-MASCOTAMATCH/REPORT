@@ -71,7 +71,9 @@
 
 ## 3.4. Product Backlog.
 
-# 📋 Product Backlog - Mascota Match
+# Product Backlog - Mascota Match
+
+El Product Backlog es una lista priorizada de todas las funcionalidades, mejoras, correcciones y tareas necesarias para desarrollar un producto. Cada ítem del backlog, como las User Stories y Technical Stories, representa algo que aporta valor al proyecto. El backlog se actualiza constantemente y sirve como guía para el equipo, asegurando que se enfoque en construir lo que realmente necesita el usuario o cliente final.
 
 | # Orden | User Story ID | Título | Descripción | Story Points (1/2/3/5/8) |
 |:-------:|:-------------:|:------:|:------------|:------------------------:|
