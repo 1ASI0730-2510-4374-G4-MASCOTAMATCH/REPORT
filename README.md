@@ -273,63 +273,6 @@ El sistema de navegación de MascotaMatch ha sido diseñado para facilitar el re
 
 </div>
 
-## 4.4.2 Web Applications Mock-ups
-
-### Iniciar sesión
-- Para iniciar sesión en la aplicación, los usuarios que ya se hayan registrado deberán proporcionar la información requerida para verificar su identidad.
-  
-<div align="center">
-	
-<img width="425" alt="image" src="https://github.com/user-attachments/assets/ec21e128-74eb-492d-8efc-1740d82de57f" />
-
-</div>
-
-### Registrarse
-- La imagen muestra la sección de "registro de Mascota Match", donde los usuarios ingresarán la información para crear su cuenta y disfrutar de los beneficios de Mascota Match.
-
-<div align="center">
-
-<img width="425" alt="image" src="https://github.com/user-attachments/assets/c03e15c9-afc4-49ae-bc90-52f939c032af" />
-
-</div>
-
-### Pantalla principal
-- La imagen muestra la sección de pantalla principal, donde los usuarios podrán navegar brevemente por el espacio mostrado.
-
-<div align="center">
-
-<img width="425" alt="image" src="https://github.com/user-attachments/assets/d80df61d-045e-4b49-a894-8c1bd39e2b56" />
-
-</div>
-
-### Nuestros servicios
-- La imagen muestra la sección de nuestros servicios, donde el usuario podrá ver los servicios que podemos ofrecerle como empresa.
-
-<div align="center">
-
-<img width="425" alt="image" src="https://github.com/user-attachments/assets/3b0a88c6-7f67-4e28-bd8e-b8ccfd7bb9ce" />
-
-</div>
-
-### Planes
-- La imagen muestra la sección de nuestros planes, donde el usuario podrá ver los planes que podemos ofrecerle como empresa para una mejor atención.
-
-<div align="center">
-  
-<img width="425" alt="image" src="https://github.com/user-attachments/assets/1409e29f-8401-40b7-9d36-eb6ea90f2bc9" />
-<img width="425" alt="image" src="https://github.com/user-attachments/assets/136703d0-8abd-4245-bcfa-9d5b88bef991" />
-
-</div>
-
-### Preguntas Frecuentes
-- La imagen muestra la sección de preguntas frecuentes, donde el usuario podrá ver las preguntas frecuentes que tienen otros usuarios y resolver sus dudas.
-
-<div align="center">
-
-<img width="425" alt="image" src="https://github.com/user-attachments/assets/a3bbc980-4fea-49c5-991a-38825af391f3" />
-
-</div>
-
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
 ## User Goal:
@@ -600,6 +543,62 @@ o	Las respuestas proporcionadas en la sección de FAQ están desactualizadas y n
 
 ![image](https://github.com/user-attachments/assets/a8b2249d-b204-4e7e-a27c-286a05592355)
 
+## 4.4.2 Web Applications Mock-ups
+
+### Iniciar sesión
+- Para iniciar sesión en la aplicación, los usuarios que ya se hayan registrado deberán proporcionar la información requerida para verificar su identidad.
+  
+<div align="center">
+	
+<img width="425" alt="image" src="https://github.com/user-attachments/assets/ec21e128-74eb-492d-8efc-1740d82de57f" />
+
+</div>
+
+### Registrarse
+- La imagen muestra la sección de "registro de Mascota Match", donde los usuarios ingresarán la información para crear su cuenta y disfrutar de los beneficios de Mascota Match.
+
+<div align="center">
+
+<img width="425" alt="image" src="https://github.com/user-attachments/assets/c03e15c9-afc4-49ae-bc90-52f939c032af" />
+
+</div>
+
+### Pantalla principal
+- La imagen muestra la sección de pantalla principal, donde los usuarios podrán navegar brevemente por el espacio mostrado.
+
+<div align="center">
+
+<img width="425" alt="image" src="https://github.com/user-attachments/assets/d80df61d-045e-4b49-a894-8c1bd39e2b56" />
+
+</div>
+
+### Nuestros servicios
+- La imagen muestra la sección de nuestros servicios, donde el usuario podrá ver los servicios que podemos ofrecerle como empresa.
+
+<div align="center">
+
+<img width="425" alt="image" src="https://github.com/user-attachments/assets/3b0a88c6-7f67-4e28-bd8e-b8ccfd7bb9ce" />
+
+</div>
+
+### Planes
+- La imagen muestra la sección de nuestros planes, donde el usuario podrá ver los planes que podemos ofrecerle como empresa para una mejor atención.
+
+<div align="center">
+  
+<img width="425" alt="image" src="https://github.com/user-attachments/assets/1409e29f-8401-40b7-9d36-eb6ea90f2bc9" />
+<img width="425" alt="image" src="https://github.com/user-attachments/assets/136703d0-8abd-4245-bcfa-9d5b88bef991" />
+
+</div>
+
+### Preguntas Frecuentes
+- La imagen muestra la sección de preguntas frecuentes, donde el usuario podrá ver las preguntas frecuentes que tienen otros usuarios y resolver sus dudas.
+
+<div align="center">
+
+<img width="425" alt="image" src="https://github.com/user-attachments/assets/a3bbc980-4fea-49c5-991a-38825af391f3" />
+
+</div>
 
 ### 4.4.3 Web Applications User Flow Diagrams.
 
