@@ -58,3 +58,6 @@
 | TS07 | POST agendar citas | **Como** desarrollador, **quiero** enviar información a la API para registrar una cita de servicio para la mascota **para** facilitar la organización de los servicios. | **Escenario 1:**<br>Dado que el usuario llena los datos de cita,<br>Cuando envía la información,<br>Entonces su cita queda registrada.<br><br>**Escenario 2:**<br>Dado que el usuario llena los datos de manera incorrecta,<br>Cuando intenta enviar,<br>Entonces ve un mensaje de error. |
 | TS08 | GET citas agendadas | **Como** desarrollador, **quiero** obtener desde la API la lista de citas agendadas del usuario **para** que pueda ver sus próximas reservas. | **Escenario 1:**<br>Dado que el usuario tiene citas agendadas,<br>Cuando accede a sus citas,<br>Entonces puede verlas listadas.<br><br>**Escenario 2:**<br>Dado que no tiene citas,<br>Cuando accede,<br>Entonces ve un mensaje indicando que no tiene citas. |
 
+## 3.3 Impact Mapping
+
+![Impact map 1](https://github.com/user-attachments/assets/e10660e6-3bed-4e57-82b4-1089468dbe21)
