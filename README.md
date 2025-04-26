@@ -273,6 +273,277 @@ El sistema de navegación de MascotaMatch ha sido diseñado para facilitar el re
 
 </div>
 
+### 4.4.2. Web Applications Wireflow Diagrams.
+
+## User Goal:
+
+Como usuario, quiero registrarme fácilmente en la aplicación, colocando mi nombre, apellidos, correo electrónico y contraseña para validar mi identidad. De esta manera, crear una cuenta que me permita navegar de forma rápida y segura. Además, me gustaría poder registrarme con las cuentas de otras plataformas que suelo utilizar.
+
+## Happy Path:
+
+### 1.	Pantalla de Inicio:
+   
+o	El usuario abre la aplicación Mascota Match.
+
+o	Visualiza la paleta de colores y el logo de la aplicación.
+
+o	Se presentan los campos "Email" y "Contraseña" para iniciar sesión.
+
+o	Se visualizan los botones principales: "Iniciar Sesión" y "Registrarse".
+
+o	Interpretación del wireframe: Se infiere la presencia de estos elementos, aunque no estén explícitamente etiquetados como botones en el primer recuadro.
+
+### 2.	Pantalla de Registro:
+   
+o	El usuario selecciona el botón "Registrarse".
+
+o	Es dirigido a una nueva pantalla con los campos: "Nombre", "Apellidos", "Email" y "Contraseña".
+
+o	El usuario llena todos los datos solicitados correctamente.
+
+o	Oprime el botón "Registrarse".
+
+o	Interpretación del wireframe: El tercer recuadro muestra claramente estos campos y el botón "Register".
+
+### 3.	Pantalla de Confirmación de Registro:
+   
+o	Una vez que el usuario oprime el botón "Registrarse" con la información válida, la aplicación muestra un mensaje de confirmación.
+
+o	Interpretación del wireframe: El cuarto recuadro muestra una ventana emergente superpuesta que indica “Registration successful Please check your email to verify your account." y un botón "Close".
+
+## Unhappy Path:
+
+### 1.	Errores en el Registro:
+   
+o	Campos Vacíos: El usuario intenta registrarse dejando campos obligatorios vacíos (Nombre, Apellidos, Email o Contraseña). La aplicación muestra un mensaje de error indicando qué campos deben ser completados.
+
+o	Interpretación del wireframe: No se visualizan mensajes de error específicos en el wireframe, pero se infiere su necesidad para una correcta validación.
+
+o	Formato de Email Inválido: El usuario ingresa un correo electrónico con un formato incorrecto. La aplicación muestra un mensaje de error indicando el formato esperado.
+
+o	Interpretación del wireframe: Similar al caso anterior, se infiere la necesidad de esta validación.
+
+o	Contraseñas no Coinciden (si aplica): Si hubiera un campo de "Confirmar Contraseña" (que no se visualiza en el wireframe), y las contraseñas no coinciden, la aplicación mostraría un mensaje de error.
+
+o	Interpretación del wireframe: No aplica directamente, pero es un escenario común en registros.
+
+o	Email ya Registrado: El usuario intenta registrarse con un correo electrónico que ya existe en la base de datos. La aplicación muestra un mensaje indicando que el email ya está registrado y puede iniciar sesión o solicitar recuperar su contraseña.
+
+o	Interpretación del wireframe: No se visualiza este mensaje, pero es crucial para la gestión de cuentas.
+
+### 2.	Errores al Iniciar Sesión:
+
+o	Email o Contraseña Incorrectos: El usuario ingresa un email o contraseña incorrectos. La aplicación muestra un mensaje de error indicando que las credenciales son inválidas y le pide que intente nuevamente o recupere su contraseña.
+
+o	Interpretación del wireframe: El segundo recuadro muestra un mensaje "Invalid credentials. Please try again." junto a un botón "Forgot?" (¿Olvidó su contraseña?).
+
+![image](https://github.com/user-attachments/assets/3054766f-d849-42e9-985d-bcf123c3a35a)
+
+## User Goal:
+
+Como usuario, quiero explorar los servicios ofrecidos por Mascota Match y seleccionar un plan de cuidado para mi mascota que se ajuste a mis necesidades, para así asegurar su bienestar integral.
+
+## Happy Path:
+
+### 1.	Pantalla de Inicio (Desktop - 5):
+
+o	El usuario accede a la página principal de Mascota Match en su navegador de escritorio.
+
+o	Visualiza el logo de Mascota Match en la esquina superior izquierda.
+
+o	Observa el título principal "Cuidado integral para tu mascota" y un texto descriptivo sobre los servicios ofrecidos.
+
+o	Ve una imagen destacada de una mascota (un beagle).
+
+o	Interactúa con el botón de llamada a la acción "Ver servicios".
+
+### 2.	Pantalla de Nuestros Servicios (Desktop - 6):
+
+o	Al hacer clic en "Ver servicios", el usuario es redirigido a la sección "Our Services".
+
+o	Visualiza un menú con diferentes categorías de servicios: "Safe Walks", "Veterinary Check-ups", "Grooming", y otros (parcialmente visibles).
+
+o	Explora brevemente las descripciones de cada servicio.
+
+o	Interactúa con el botón "Ver planes" ubicado en la parte inferior de la sección de servicios.
+
+### 3.	Pantalla de Planes (Desktop - 7):
+
+o	Al hacer clic en "Ver planes", el usuario llega a la sección "Plans".
+
+o	Visualiza diferentes planes de suscripción: "VIP Plan", "Premium Plan", y "Basic Plan".
+
+o	Lee la descripción de los beneficios incluidos en cada plan.
+
+o	Selecciona el botón "Ver más" o similar asociado a un plan específico que le interesa (por ejemplo, el "VIP Plan").
+
+### 4.	Detalle del Plan (Interpretado de la flecha hacia la derecha):
+
+o	Al hacer clic en "Ver más", el usuario accede a una página o sección con información detallada del plan seleccionado.
+
+o	Interpretación: Aunque la pantalla específica no se muestra, se infiere que aquí encontrará precios, coberturas completas, términos y condiciones, y posiblemente un botón para contratar el plan.
+
+## Unhappy Path:
+
+###1.	Navegación sin Acción:
+
+o	El usuario accede a la página de inicio pero no hace clic en el botón "Ver servicios" y abandona la página.
+
+o	El usuario accede a la sección "Our Services" pero no encuentra un servicio que le interese o no hace clic en "Ver planes".
+
+o	El usuario accede a la sección "Plans" pero no encuentra un plan adecuado para su mascota o no hace clic en "Ver más" en ningún plan.
+
+### 2.	Información Insuficiente en la Vista General:
+
+o	Las descripciones de los servicios en la pantalla "Our Services" son demasiado breves y no proporcionan suficiente información para que el usuario decida explorar los planes.
+
+o	Las descripciones de los planes en la pantalla "Plans" son vagas y no resaltan los beneficios clave, lo que impide que el usuario haga clic en "Ver más".
+
+### 3.	Falta de Claridad en los Botones:
+
+o	Los botones de llamada a la acción ("Ver servicios", "Ver planes", "Ver más") no son lo suficientemente llamativos o claros en su propósito, lo que dificulta la navegación del usuario.
+
+### 4.	Errores de Carga o Rendimiento:
+
+o	La página web tarda demasiado en cargar, lo que frustra al usuario y lo lleva a abandonar el sitio.
+
+o	Las imágenes de las mascotas o los iconos de los servicios no se cargan correctamente, afectando la experiencia visual.
+
+![image](https://github.com/user-attachments/assets/ab6e3a02-4eb7-419b-b27d-0685718772b3)
+
+
+## User Goal:
+
+Como usuario que ha explorado los planes, quiero revisar los detalles específicos de un plan de cuidado para mascotas (Complete Plan o Vive Plan) para comprender sus beneficios y decidir si se ajusta a las necesidades de mi mascota.
+Happy Path:
+
+### 1.	Selección del Plan (Asumiendo desde la pantalla anterior - Desktop 7):
+
+o	El usuario, desde la pantalla de "Plans", hace clic en el botón "Ver más" o similar asociado a uno de los planes que le interesa: "Complete Plan" (Desktop - 9) o "Mini Plan" (Desktop - 10).
+
+### 2.	Visualización de Detalles del "Complete Plan" (Desktop - 9):
+
+o	El usuario es dirigido a la página de detalles del "Complete Plan".
+
+o	Observa el nombre del plan: "Complete Plan" y su precio: "$199.90/month".
+
+o	Lee la "Full description" del plan, que detalla los servicios y el enfoque del cuidado integral (revisiones regulares, vacunación, apoyo 24/7, etc.).
+
+o	Revisa la sección de "Included Benefits", que lista específicamente los servicios incluidos (dos walks al mes, grooming básico, chequeos virtuales, etc.).
+
+### 3.	Visualización de Detalles del "Mini Plan" (Desktop - 10):
+
+o	El usuario es dirigido a la página de detalles del "Mini Plan".
+
+o	Observa el nombre del plan: "Mini Plan" y su precio: "$94.90/month".
+
+o	Lee la "Full description" del plan, que describe un enfoque en el bienestar mental y físico, consultas virtuales y soporte.
+
+o	Revisa la sección de "Included Benefits", que lista los servicios incluidos (walks según necesidad, soporte mental y emocional, consultas virtuales, etc.).
+
+### 4.	Decisión (Implícita):
+
+o	Después de revisar los detalles y los beneficios incluidos en uno de los planes (o comparando ambos), el usuario tiene la información necesaria para decidir si desea contratar ese plan o volver a la lista de planes.
+
+o	Interpretación: Aunque no se visualiza un botón de "Contratar" en estas pantallas, se asume que estaría presente o que el usuario tendría una forma de avanzar para la contratación.
+
+## Unhappy Path:
+
+### 1.	Información Insuficiente o Poco Clara:
+
+o	La descripción completa del plan no es lo suficientemente clara o detallada para que el usuario comprenda completamente los servicios ofrecidos.
+
+o	Los beneficios incluidos no están bien explicados o son ambiguos.
+
+o	El usuario no puede entender la diferencia clave entre los planes "Complete" y "Vive" basándose en la información proporcionada.
+
+### 2.	Precio Considerado Alto:
+
+o	El precio mensual de alguno de los planes (o ambos) es percibido como demasiado elevado por el usuario en relación con los beneficios ofrecidos o su presupuesto.
+
+### 3.	Beneficios No Relevantes:
+
+o	Los beneficios incluidos en un plan específico no son relevantes para las necesidades particulares de la mascota del usuario. Por ejemplo, si el usuario no necesita paseos, un plan que los incluye como beneficio principal puede no ser atractivo.
+
+### 4.	Falta de Opción de Personalización:
+
+o	El usuario puede sentir que los planes son demasiado rígidos y no se adaptan a las necesidades específicas de su mascota, y no encuentra opciones para personalizar o añadir servicios adicionales.
+
+### 5.	Ausencia de Llamada a la Acción Clara:
+
+o	La falta de un botón visible de "Contratar", "Seleccionar este plan" o similar en estas pantallas podría generar confusión en el usuario sobre cómo proceder si desea adquirir el plan.
+
+![image](https://github.com/user-attachments/assets/8b81a411-fd4d-4629-9726-97a42f3b7998)
+
+## User Goal:
+
+Como usuario con dudas sobre los servicios, suscripciones o planes de Mascota Match, quiero encontrar respuestas rápidas a mis preguntas frecuentes para aclarar mis inquietudes y poder tomar una decisión informada.
+
+## Happy Path:
+
+### 1.	Acceso a la Sección de Preguntas Frecuentes:
+
+o	El usuario navega hasta la sección de "Frequently Asked Questions" (Preguntas Frecuentes), ya sea a través de un enlace en el pie de página, en la página de planes, o en otra sección relevante del sitio web.
+
+o	Interpretación del wireframe: La pantalla Desktop - 11 muestra directamente esta sección.
+
+### 2.	Visualización de las Preguntas Frecuentes:
+
+o	El usuario observa una lista de preguntas comunes presentadas de forma clara y organizada. Las preguntas visibles incluyen: 
+
+	"¿How does the walking service work?" (¿Cómo funciona el servicio de paseo?)
+
+	"¿Are suppliers certified?" (¿Están certificados los proveedores?)
+
+	"¿How can I cancel my subscription?" (¿Cómo puedo cancelar mi suscripción?)
+
+	"¿How can I subscribe to a plan?" (¿Cómo puedo suscribirme a un plan?)
+
+	"¿Can I change plans at any time?" (¿Puedo cambiar de plan en cualquier momento?)
+
+	"¿What happens if my pet needs emergency care?" (¿Qué sucede si mi mascota necesita atención de emergencia?)
+
+### 3.	Selección de una Pregunta:
+
+o	El usuario identifica una pregunta que coincide con su duda y hace clic en ella.
+
+### 4.	Visualización de la Respuesta:
+
+o	Al hacer clic en la pregunta, se despliega o se muestra la respuesta concisa debajo de la pregunta. Por ejemplo, para "¿How does the walking service work?", se ofrece una breve explicación sobre la programación, los walks seguros y los reportes.
+
+### 5.	Resolución de la Duda (Implícito):
+
+o	El usuario lee la respuesta y encuentra la información que necesitaba para aclarar su duda. Esto le permite sentirse más seguro para continuar explorando los planes o contactar con soporte si su pregunta no fue respondida.
+
+## Unhappy Path:
+
+### 1.	Pregunta No Encontrada:
+
+o	La pregunta específica del usuario no se encuentra dentro de la lista de preguntas frecuentes.
+
+### 2.	Respuesta Insuficiente o Poco Clara:
+
+o	La respuesta proporcionada a una pregunta es demasiado breve, ambigua o no aborda completamente la inquietud del usuario.
+
+### 3.	Dificultad para Encontrar la Sección de FAQ:
+
+o	El enlace o la forma de acceder a la sección de "Frequently Asked Questions" no es intuitiva o está oculta en la navegación del sitio.
+
+### 4.	Formato o Diseño Poco Amigable:
+
+o	La presentación de las preguntas y respuestas es confusa, con mucho texto o sin una jerarquía clara, lo que dificulta la lectura y la búsqueda de información.
+
+### 5.	Falta de Opción de Contacto Directo:
+
+o	Si la pregunta del usuario no está en la lista de FAQ, no se ofrece una forma clara y visible de contactar directamente con el soporte al cliente desde esta sección (aunque se visualiza información de "Contact Support" en el pie de página).
+
+### 6.	Información Desactualizada:
+
+o	Las respuestas proporcionadas en la sección de FAQ están desactualizadas y no reflejan los procesos o políticas actuales de Mascota Match.
+
+![image](https://github.com/user-attachments/assets/a8b2249d-b204-4e7e-a27c-286a05592355)
+
+
 ### 4.4.3 Web Applications User Flow Diagrams.
 
 ### User Goal: Iniciar Sesión
