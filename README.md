@@ -149,13 +149,79 @@ Para el alojamiento de nuestra Landing Page, utilizaremos GitHub Pages. Subiremo
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
-### 5.2.1. Sprint 1
 
-### 5.2.1.1. Sprint Planning 1
+# 5.2. Landing Page, Services & Applications Implementation.
 
-### 5.2.1.2. Aspect Leaders and Collaborators.
+## 5.2.1. Sprint 1
 
-### 5.2.1.3. Sprint Backlog n.
+### 5.2.1.1. Sprint Planning 1.
+
+El Sprint Planning 1 establece la organización inicial del equipo para desarrollar el MVP de Mascota Match. Se definen el objetivo del Sprint, las User Stories que serán trabajadas, la capacidad del equipo, y los entregables esperados. Este proceso permite una planificación clara y el alineamiento de todo el equipo hacia un mismo objetivo para la entrega de valor.
+
+| Campo | Información |
+|:------|:------------|
+| **Sprint #** | Sprint 1 |
+| **Date** | 2024-04-18 |
+| **Time** | 05:00 PM |
+| **Location** | Virtual (Discord y Zoom) |
+| **Prepared By** | Oscar Espinoza, Miguel Vidal, Stephano Landaurí, Fabian Oliva, Gianfranco Durand, Erick Vasquez |
+| **Attendees (to planning meeting)** | Oscar Espinoza, Miguel Vidal, Stephano Landaurí, Fabian Oliva, Gianfranco Durand, Erick Vasquez |
+| **Sprint n – 1 Review Summary** | No aplica (Primer Sprint del proyecto Mascota Match). |
+| **Sprint n – 1 Retrospective Summary** | No aplica (Primer Sprint del proyecto Mascota Match). |
+| **Sprint n Goal** | Finalizar la primera versión de Mascota Match, incluyendo registro de usuarios, login, navegación general, publicación de servicios, planes de suscripción, sección de FAQ, agendamiento de citas y perfil de usuario.<br><br>**Sprint Goal:**<br>Our focus is on launching Mascota Match MVP.<br>We believe it delivers essential functionality and first user experience.<br>This will be confirmed when users can register, navigate, consult services, choose a plan, and book an appointment successfully. |
+| **Sprint n Velocity** | 82 Story Points |
+| **Sprint Goal & User Stories** | **User Stories:**<br>HU01, HU02, HU03, HU04, HU05, HU06, HU07, HU08, HU09, HU10, HU11, HU12, HU13, HU14, HU15, HU16, HU17, HU18, TS01, TS02, TS03, TS04, TS05, TS06, TS07, TS08 |
+| **Sum of Story Points** | **82 Story Points** |
+
+### 5.2.1.2. Aspect Leaders and Collaborators
+
+Para asegurar una ejecución eficiente del Sprint 1, se definieron líderes y colaboradores responsables de las principales áreas del proyecto. Cada miembro del equipo lidera o apoya aspectos específicos como el desarrollo de páginas, integración de funcionalidades, diseño visual y animaciones. Esta matriz garantiza una asignación clara de tareas y fomenta el trabajo colaborativo.
+
+| Team Member | GitHub Username | Home | Index | Plan Complete | Plan Mini | Plan VIP | FAQ / Perfil / Agendamiento / Animaciones |
+|:-----------:|:----------------|:----:|:-----:|:-------------:|:---------:|:--------:|:----------------------------------------:|
+| Oscar Espinoza | OscarEspinoza5443 | L | C | C | C | C | C |
+| Miguel Vidal | Gossk | C | L | C | C | C | C |
+| Fabian Oliva | FabulousFabStar | C | C | L | C | C | C |
+| Stephano Landaurí | Mayrzon02 | C | C | C | L | C | C |
+| Gianfranco Durand | Azucarita | C | C | C | C | L | C |
+| Erick Vasquez | erick580 | C | C | C | C | C | L |
+
+### 5.2.1.2. Sprint Backlog 1 
+
+El Sprint Backlog 1 consolida todas las funcionalidades principales de Mascota Match, enfocándose en completar toda la experiencia de usuario inicial: registro, login, navegación, servicios, planes de suscripción, sección FAQ, agendamiento de citas y consulta de perfiles.
+
+| User Story | Work-Item / Task | Description | Estimation (Hours) | Assigned To | Status |
+|:----------:|:----------------:|:-----------:|:------------------:|:-----------:|:------:|
+| HU14 | T1 | Crear pantalla de Login | 5 | Stephano (Plan Mini) | Done |
+| HU15 | T2 | Crear pantalla de Registro | 5 | Oscar (Home) | Done |
+| TS04 | T3 | Programar POST registro API | 5 | Oscar (Home) | Done |
+| TS05 | T4 | Programar POST login API | 5 | Miguel (Index) | Done |
+| HU11 | T5 | Visualizar logo en navbar | 1 | Fabian (Plan Complete) | Done |
+| HU12 | T6 | Menú de navegación principal | 2 | Miguel (Index) | Done |
+| HU16 | T7 | Aplicar diseño uniforme | 2 | Fabian (Plan Complete) | Done |
+| HU17 | T8 | Adaptar responsividad móvil | 3 | Erick (Animaciones) | Done |
+| HU01 | T9 | Crear sección bienvenida | 3 | Oscar (Home) | Done |
+| HU02 | T10 | Programar botón See Services | 3 | Miguel (Index) | Done |
+| HU03 | T11 | Diseñar tarjetas de servicios | 5 | Miguel (Index) | Done |
+| HU04 | T12 | Agregar descripción de servicios | 3 | Erick (Animaciones) | Done |
+| HU05 | T13 | Insertar imágenes en servicios | 2 | Erick (Animaciones) | Done |
+| TS01 | T14 | GET servicios disponibles API | 3 | Miguel (Index) | Done |
+| HU06 | T15 | Crear tarjetas planes VIP, Completo, Mini | 5 | Fabian, Stephano, Gianfranco | Done |
+| HU07 | T16 | Listar beneficios por plan | 3 | Fabian, Stephano, Gianfranco | Done |
+| HU08 | T17 | Imagen única por plan | 2 | Erick (Animaciones) | Done |
+| TS02 | T18 | GET planes de suscripción API | 3 | Miguel (Index) | Done |
+| HU09 | T19 | Botón "Read More" en cada plan | 2 | Stephano (Plan Mini) | Done |
+| HU18 | T20 | Crear páginas detalle de planes | 3 | Oscar (Home) | Done |
+| HU10 | T21 | Crear sección FAQ | 3 | Erick (Animaciones) | Done |
+| TS03 | T22 | GET preguntas frecuentes API | 2 | Miguel (Index) | Done |
+| HU13 | T23 | Footer contacto y ayuda | 2 | Fabian (Plan Complete) | Done |
+| TS06 | T24 | GET perfil de usuario API | 3 | Miguel (Index) | Done |
+| TS07 | T25 | POST agendar cita API | 5 | Gianfranco (Plan VIP) | Done |
+| TS08 | T26 | GET citas agendadas API | 3 | Gianfranco (Plan VIP) | Done |
+
+ URL del Board Trello 
+
+-->
 
 ### 5.2.1.4. Development Evidence for Sprint Review
 
