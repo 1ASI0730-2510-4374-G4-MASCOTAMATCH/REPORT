@@ -281,7 +281,7 @@ El sistema de navegación de MascotaMatch ha sido diseñado para facilitar el re
 
 Explicación del flujo: El proceso de inicio de sesión se inicia cuando el usuario intenta acceder a la aplicación, lo que requiere el llenado de sus credenciales. El sistema verifica estos datos ingresados y, si son correctos, confirma la identidad del usuario, permitiéndole el acceso a la pantalla principal. En caso de que la verificación falle debido a credenciales incorrectas o inexistentes, el sistema indica al usuario que debe pasar por el proceso de registro para crear una nueva cuenta.
 
-### Happy Path (Desde "Iniciar sesión"):
+### 🟩 Happy Path (Desde "Iniciar sesión"):
 
 1.	El usuario accede a la opción de "Iniciar sesión".
    
