@@ -385,7 +385,7 @@ o	Interpretación: Aunque la pantalla específica no se muestra, se infiere que 
 
 ## Unhappy Path:
 
-###1.	Navegación sin Acción:
+### 1.	Navegación sin Acción:
 
 o	El usuario accede a la página de inicio pero no hace clic en el botón "Ver servicios" y abandona la página.
 
