@@ -45,7 +45,78 @@ En nuestor país, el crecimiento acelerado de las ciudades ha generado cambios s
 
 ![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-1/Screenshot%202025-04-25%20003027.png)
 
+###1.2.2 Lean UX Process.
+
+###1.2.2.1. Lean UX Problem Statements.
+
+a. Domain
+MascotaMatch opera en el dominio de los servicios digitales para el cuidado de mascotas, enfocándose en conectar a dueños de mascotas con proveedores certificados (veterinarios, groomers, paseadores, etc.) a través de una aplicación móvil de suscripción.
+
+b. Customer Segments
+-Dueños de mascotas urbanos que requieren servicios confiables y convenientes.
+-Proveedores de servicios para mascotas, como veterinarios, groomers y paseadores, que desean mayor visibilidad y gestión digital de sus servicios.
+
+c. Pain Points
+
+Dueños:
+
+-No encuentran servicios profesionales cercanos y confiables fácilmente.
+-Desconfianza en proveedores no verificados.
+-Pérdida de tiempo al buscar servicios por separado.
+
+Proveedores:
+
+-Baja visibilidad y exposición de sus servicios.
+-Gestión ineficiente de clientes, reservas y pagos.
+-Dependencia de canales informales y redes sociales.
+
+d. Gap
+
+No existe en el mercado peruano una solución digital integral que:
+
+-Conecte a ambas partes con trazabilidad, seguridad y personalización.
+-Ofrezca confianza mediante la validación de proveedores y un sistema de reseñas.
+-Centralice toda la experiencia (búsqueda, reserva, pago, seguimiento).
+
+e. Visión / Strategy
+
+Ser la plataforma líder en el ecosistema de servicios para mascotas, ofreciendo:
+
+-Un marketplace con proveedores verificados.
+-Una experiencia intuitiva y rápida tanto para dueños como profesionales.
+-Un modelo de suscripción que promueve el uso constante.
+-Herramientas de gestión para los proveedores y servicios personalizados para los dueños.
+
+f. Initial Segment
+
+-Dueños: Jóvenes de 25 a 40 años, con mascotas, ubicados en Lima Metropolitana, acostumbrados al uso de apps móviles.
+-Proveedores: Profesionales independientes del rubro pet care (vets, groomers, paseadores), con experiencia, ubicados en Lima y con interés en digitalizar sus servicios.
+
+####1.2.2.2. Lean UX Assumptions.
+
+-Los dueños de mascotas buscan soluciones digitales para encontrar servicios de cuidado profesional.
+-Los proveedores están interesados en aumentar su clientela y necesitan herramientas para gestionar sus servicios de forma eficiente.
+-Los usuarios valoran la confianza, la validación de los proveedores y la facilidad de uso.
+-La experiencia personalizada, rápida y centralizada es un factor decisivo para la adopción de la app.
+-Las personas están dispuestas a pagar por comodidad y seguridad en el cuidado de sus mascotas.
+-Una buena experiencia inicial puede generar lealtad y un boca a boca positivo.
+
+####1.2.2.3. Lean UX Hypothesis Statements.
+
+-Creemos que si ofrecemos una experiencia personalizada y segura, los usuarios estarán más dispuestos a usar nuestra app con frecuencia.
+-Sabremos que es cierto cuando veamos alta retención y uso recurrente en la app.
+-Creemos que si validamos a los proveedores y permitimos reseñas, generaremos confianza en los dueños de mascotas.
+-Sabremos que es cierto cuando observemos un aumento en la tasa de reservas tras la lectura de reseñas.
+-Creemos que si damos a los proveedores una herramienta de gestión simple y efectiva, estos la adoptarán como su principal canal.
+-Sabremos que es cierto cuando más del 60% de reservas se gestionen por la app.
+-Creemos que si facilitamos el proceso de reserva y pago digital, reduciremos el tiempo y esfuerzo de los usuarios.
+-Sabremos que es cierto cuando los usuarios completen el flujo de reserva en menos de 3 minutos.
+
+####1.2.2.4. Lean UX Canvas.
+<div align="center">
+![image](https://github.com/user-attachments/assets/ba34c45f-1533-44bc-a9a7-3adca400c0c7)
  </div>
+ 
 <div align="center">
   
 ### 1.3 Segmentos Objetivo 
