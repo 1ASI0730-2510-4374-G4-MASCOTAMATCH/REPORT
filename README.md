@@ -19,7 +19,7 @@
 | **Time** | 05:00 PM |
 | **Location** | Virtual (Discord y Zoom) |
 | **Prepared By** | Oscar Espinoza |
-| **Attendees (to planning meeting)** | Oscar Espinoza, Miguel Vidal, Stephano Landaurí, Fabian Oliva, Gianfranco Durand, Erick Vasquez |
+| **Attendees (to planning meeting)** | Miguel Vidal, Stephano Landaurí, Fabian Oliva, Gianfranco Durand, Erick Vasquez |
 | **Sprint n – 1 Review Summary** | (Al ser el primer Sprint, no existe Sprint previo. No aplica resumen.) |
 | **Sprint n – 1 Retrospective Summary** | (Al ser el primer Sprint, no existe retrospectiva previa. No aplica.) |
 | **Sprint n Goal** | Nuestro foco está en habilitar el registro e inicio de sesión de usuarios para garantizar el acceso seguro a Mascota Match.<br><br>**Sprint Goal:**<br>Our focus is on secure user registration and login.<br>We believe it delivers confidence to our customers.<br>This will be confirmed when users can successfully register and log in to the platform. |
