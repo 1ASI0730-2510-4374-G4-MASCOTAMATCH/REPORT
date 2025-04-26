@@ -52,4 +52,22 @@ A continuación, se presenta la matriz de líderes y colaboradores:
 
 La definición anticipada de líderes y colaboradores en el Sprint 1 permite fortalecer el trabajo en equipo y clarificar las responsabilidades individuales. Con esta organización, se asegura una mayor eficiencia en la ejecución de tareas, mejor comunicación entre los miembros y un enfoque claro en el cumplimiento del **Sprint Goal**. Esta matriz será revisada y ajustada en cada Sprint Planning, de acuerdo al avance del proyecto y a la evolución de las prioridades.
 
+#### 5.2.1.3. Sprint Backlog 1.
+
+Se enfoca en implementar la funcionalidad básica que permita a los usuarios registrarse, iniciar sesión y navegar en la plataforma de manera segura y visualmente coherente. Se han seleccionado User Stories esenciales y se han descompuesto en Work-Items/Tasks específicos para facilitar su ejecución, estimando el esfuerzo necesario y asignando responsables de cada tarea.
+
+A continuación, se presenta la tabla de control de estado para el Sprint 1:
+
+| User Story | Work-Item / Task | Description | Estimation (Hours) | Assigned To | Status (To-Do / In-Process / To-Review / Done) |
+|:----------:|:----------------:|:-----------:|:------------------:|:-----------:|:---------------------------------------------:|
+| HU14 - Login obligatorio | T1 | Diseñar la pantalla de Login | 4 | Stephano (Mayrzon02) | To-Do |
+| HU14 - Login obligatorio | T2 | Implementar validación de credenciales | 5 | Miguel (Gossk) | To-Do |
+| TS05 - POST Inicio de sesión | T3 | Programar llamada a API para login | 5 | Miguel (Gossk) | To-Do |
+| HU15 - Registro de usuario | T4 | Diseñar la pantalla de registro | 3 | Stephano (Mayrzon02) | To-Do |
+| TS04 - POST Registro usuario | T5 | Programar llamada a API para registro | 5 | Oscar (OscarEspinoza5443) | To-Do |
+| HU11 - Visualizar logo | T6 | Integrar logo en navbar de todas las pantallas | 2 | Fabian (FabulousFabStar) | To-Do |
+| HU12 - Menú de navegación | T7 | Crear el menú de navegación responsive | 4 | Gianfranco (Azucarita) | To-Do |
+| HU16 - Diseño uniforme | T8 | Definir paleta de colores y aplicar estilo global | 3 | Fabian (FabulousFabStar) | To-Do |
+| HU17 - Visualización responsiva | T9 | Ajustar CSS para dispositivos móviles | 4 | Gianfranco (Azucarita) | To-Do |
+
 
