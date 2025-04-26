@@ -293,7 +293,7 @@ Explicación del flujo: El proceso de inicio de sesión se inicia cuando el usua
    
 5.	"Le muestra la pantalla principal" al usuario.
 
-### Unhappy Path (Desde "Iniciar sesión"):
+### 🟩 Unhappy Path (Desde "Iniciar sesión"):
 
 1.	El usuario accede a la opción de "Iniciar sesión".
    
@@ -313,7 +313,7 @@ Explicación del flujo: El proceso de inicio de sesión se inicia cuando el usua
 
 Explicación del flujo: El proceso de registro se inicia cuando un usuario accede a la opción de "Registro". A continuación, se le solicita el "Relleno de datos", donde deberá ingresar la información necesaria para crear una cuenta. El sistema luego "Verifica si ya tiene una cuenta existente" utilizando los datos proporcionados. Si el sistema "Confirma los datos" y determina que ya existe una cuenta asociada a esa información ("sí"), "Lo lleva a la página del login para que pueda entrar". Si, por el contrario, no se encuentra una cuenta existente ("no"), el sistema "Rellena sus datos, se registra y lo manda al login para ingresar su cuenta y mostrar la página principal". En resumen, el flujo permite tanto a usuarios nuevos registrarse y ser dirigidos al inicio de sesión, como a usuarios existentes ser redirigidos directamente a la página de inicio de sesión si sus datos ya están en el sistema.
 
-### Happy Path (Desde "Inicio de la opción Registro"):
+### 🟩 Happy Path (Desde "Inicio de la opción Registro"):
 
 1.	El usuario accede a la opción de "Registro".
    
@@ -325,7 +325,7 @@ Explicación del flujo: El proceso de registro se inicia cuando un usuario acced
    
 5.	El sistema "Rellena sus datos, se registra y lo manda al login para ingresar su cuenta y mostrar la página principal".
 
-###  Unhappy Path (Desde "Inicio de la opción Registro"):
+### 🟩 Unhappy Path (Desde "Inicio de la opción Registro"):
 
 1.	El usuario accede a la opción de "Registro".
    
@@ -337,7 +337,7 @@ Explicación del flujo: El proceso de registro se inicia cuando un usuario acced
    
 5.	"Lo lleva a la página del login para que pueda entrar" (implicando que debe iniciar sesión con su cuenta existente en lugar de crear una nueva).
 
-### Happy Path (Desde "Inicio de la opción Registro"):
+### 🟩 Happy Path (Desde "Inicio de la opción Registro"):
 
 1.	El usuario accede a la opción de "Registro".
    
@@ -349,7 +349,7 @@ Explicación del flujo: El proceso de registro se inicia cuando un usuario acced
    
 5.	El sistema "Rellena sus datos, se registra y lo manda al login para ingresar su cuenta y mostrar la página principal".
 
-### Unhappy Path (Desde "Inicio de la opción Registro"):
+### 🟩 Unhappy Path (Desde "Inicio de la opción Registro"):
 
 1.	El usuario accede a la opción de "Registro".
    
@@ -369,7 +369,7 @@ Explicación del flujo: El proceso de registro se inicia cuando un usuario acced
 
 Explicación del flujo: El flujo se inicia cuando el usuario selecciona la opción "Ver los servicios". Inicialmente, el usuario "Está en la página principal". Al seleccionar "Ver los servicios", el sistema navega a "Vamos a la sección de nuestros servicios". Luego, se evalúa si "Estamos en la página" de servicios. Si la respuesta es "sí", entonces "Se muestra todos los servicios que ofrecemos". Si por alguna razón no se llega correctamente a la página de servicios ("no"), entonces la consecuencia es que "Si no se muestra todos los servicios que ofrecemos". En resumen, el flujo describe la navegación desde la página principal hacia la sección de servicios, verificando que la transición sea exitosa para mostrar la lista completa de servicios disponibles.
 
-### Happy Path (Desde la "Página principal"):
+### 🟩 Happy Path (Desde la "Página principal"):
 1.	El usuario se encuentra en la "Página principal".
 	
 2.	Selecciona la opción "Ver los servicios".
@@ -380,7 +380,7 @@ Explicación del flujo: El flujo se inicia cuando el usuario selecciona la opci�
 	
 5.	"Se muestra todos los servicios que ofrecemos" al usuario.
 
-### Unhappy Path (Desde la "Página principal"):
+### 🟩 Unhappy Path (Desde la "Página principal"):
 
 1.	El usuario se encuentra en la "Página principal".
    
@@ -400,7 +400,7 @@ Explicación del flujo: El flujo se inicia cuando el usuario selecciona la opci�
 
 Explicación del flujo: El flujo comienza cuando el usuario selecciona la opción "Ver los planes". Inicialmente, el usuario "Está en la página principal". Al seleccionar "Ver los planes", el sistema navega a "Vamos a la sección de Planes". Luego, se evalúa si "Estamos en la página" de planes. Si la respuesta es "sí", entonces "Se muestra todos los planes que ofrecemos". Si por alguna razón no se llega correctamente a la página de planes ("no"), entonces la consecuencia es que "Si no se muestra todos los planes que ofrecemos". En resumen, el flujo describe la navegación desde la página principal hacia la sección de planes, verificando que la transición sea exitosa para mostrar la lista completa de planes disponibles.
 
-### Happy Path (Desde la "Página principal"):
+### 🟩 Happy Path (Desde la "Página principal"):
 
 1.	El usuario se encuentra en la "Página principal".
    
@@ -412,7 +412,7 @@ Explicación del flujo: El flujo comienza cuando el usuario selecciona la opció
    
 5.	"Se muestra todos los planes que ofrecemos" al usuario.
 
-### Unhappy Path (Desde la "Página principal"):
+### 🟩 Unhappy Path (Desde la "Página principal"):
 
 1.	El usuario se encuentra en la "Página principal".
    
@@ -432,7 +432,7 @@ Explicación del flujo: El flujo comienza cuando el usuario selecciona la opció
 
 Explicación del flujo: El flujo se inicia cuando el usuario selecciona la opción "Ver las preguntas frecuentes". Inicialmente, el usuario "Está en la página principal". Al seleccionar "Ver las preguntas frecuentes", el sistema navega a "Vamos a la sección de preguntas frecuentes". Luego, se evalúa si "Estamos en la página" de preguntas frecuentes. Si la respuesta es "sí", entonces "Se muestra todas las preguntas frecuentes de otros usuarios". Si por alguna razón no se llega correctamente a la página de preguntas frecuentes ("no"), entonces la consecuencia es que "Si no se muestra las preguntas frecuentes de otros usuarios". En resumen, el flujo describe la navegación desde la página principal hacia la sección de preguntas frecuentes, verificando que la transición sea exitosa para mostrar el listado de preguntas y respuestas de otros usuarios.
 
-### Happy Path (Desde la "Página principal"):
+### 🟩 Happy Path (Desde la "Página principal"):
 
 1.	El usuario se encuentra en la "Página principal".
    
@@ -444,7 +444,7 @@ Explicación del flujo: El flujo se inicia cuando el usuario selecciona la opci�
    
 5.	"Se muestra todas las preguntas frecuentes de otros usuarios" al usuario.
 
-### Unhappy Path (Desde la "Página principal"):
+### 🟩 Unhappy Path (Desde la "Página principal"):
 
 1.	El usuario se encuentra en la "Página principal".
    
