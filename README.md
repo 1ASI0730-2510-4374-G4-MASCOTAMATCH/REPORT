@@ -217,6 +217,38 @@ El sistema de navegación de MascotaMatch ha sido diseñado para facilitar el re
 - **Bonos / Recompensas:**
   - Acceso a promociones y beneficios organizados por categorías.
 
+## 4.4.1 Web Applications Wireframes
+
+### Iniciar sesión
+- Para iniciar sesión en la aplicación, los usuarios que ya se hayan registrado deberán proporcionar la información requerida para verificar su identidad.
+
+<img width="425" alt="image" src="https://github.com/user-attachments/assets/046a0e64-b2ff-4445-ab0c-4a208f9f4878" /> 
+
+### Registrarse
+- La imagen muestra la sección de "registro de Mascota Match", donde los usuarios ingresarán la información para crear su cuenta y disfrutar de los beneficios de Mascota Match.
+
+<img width="425" alt="image" src="https://github.com/user-attachments/assets/e288d08e-5701-4537-9b0c-a7862858124b" />
+
+### Pantalla principal
+- La imagen muestra la sección de pantalla principal, donde los usuarios podrán navegar brevemente por el espacio mostrado.
+
+<img width="420" alt="image" src="https://github.com/user-attachments/assets/895513cf-7371-405d-b849-e8c89c1b1bc1" />
+
+### Nuestros servicios
+- La imagen muestra la sección de nuestros servicios, donde el usuario podrá ver los servicios que podemos ofrecerle como empresa.
+
+<img width="425" alt="image" src="https://github.com/user-attachments/assets/88ff77de-c5a0-496b-aee5-71aeed285a99" />
+
+### Planes
+- La imagen muestra la sección de nuestros planes, donde el usuario podrá ver los planes que podemos ofrecerle como empresa para una mejor atención.
+
+<img width="425" alt="image" src="https://github.com/user-attachments/assets/19002477-fd3a-4c45-bf35-c7842e1d8312" />
+
+### Preguntas Frecuentes
+- La imagen muestra la sección de preguntas frecuentes, donde el usuario podrá ver las preguntas frecuentes que tienen otros usuarios y resolver sus dudas.
+
+<img width="425" alt="image" src="https://github.com/user-attachments/assets/fec1bfd7-095b-45f8-8115-b14fc5c98962" />
+
 ## 4.6. Domain-Driven Software Arquitecture
 
 ### 4.6.1. Software Architecture Context Diagram 
