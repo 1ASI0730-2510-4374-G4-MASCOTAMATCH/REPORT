@@ -98,6 +98,30 @@ Footer organizado por secciones útiles (ayuda, contacto, distritos).
 ## 4.2 Information Architecture
 La arquitectura de la información de MascotaMatch ha sido diseñada para ofrecer una experiencia clara, fluida y accesible, enfocada en conectar a dueños de mascotas con profesionales certificados. La organización y etiquetado del contenido permite guiar a los usuarios desde su ingreso hasta la elección de servicios y planes, priorizando la simplicidad, personalización y bienestar animal. Esta arquitectura se implementa mediante jerarquías visuales limpias, categorización por secciones, acciones intuitivas y navegación orientada a la acción.
 
+### 4.2.1 Organization Systems
+
+El sistema de organización de MascotaMatch ha sido diseñado para brindar una experiencia intuitiva y eficiente, diferenciando las necesidades de dos tipos de usuarios: dueños de mascotas (clientes) y profesionales del cuidado animal (proveedores). Aunque ambas audiencias acceden a secciones similares, el enfoque y la funcionalidad varían según el tipo de usuario.
+
+#### Dueños de Mascotas
+
+Los usuarios acceden a una interfaz centrada en la salud y el cuidado de su mascota. Se utiliza una estructura jerárquica que resalta primero la información más relevante, como los servicios disponibles, los recordatorios de salud y el historial de atenciones.
+
+- **Inicio:** Se presenta una organización matricial con módulos visuales a un mismo nivel: servicios destacados, próximos recordatorios, acceso a cuidadores y planes activos. Cada bloque tiene una función clara, y su distribución facilita la navegación.
+- **Planes:** Visualización jerárquica. Muestra los planes disponibles con beneficios específicos y permite su comparación directa. La organización prioriza la elección rápida mediante botones de acción.
+- **Servicios contratados:** Organización secuencial. Lista los servicios contratados y programados, incluyendo detalles como fecha, tipo de servicio y profesional asignado.
+- **Historial del animal:** Organización cronológica, con acceso al historial de vacunación, chequeos y notas del profesional. Se prioriza lo más reciente.
+- **FAQ / Emergencias:** Organización por temas frecuentes. Se destacan preguntas sobre funcionamiento del servicio, cambios de plan y asistencia en emergencias.
+
+#### Proveedores
+
+El módulo para proveedores está centrado en la gestión operativa y profesional. Se aplica una estructura organizativa matricial para facilitar la administración de servicios, agenda y formación continua.
+
+- **Agenda diaria:** Vista visual tipo calendario, organizada por zonas y horas. Permite una rápida visualización de citas próximas y servicios a brindar.
+- **Perfil profesional:** Organización jerárquica. Sección destacada con información pública del proveedor, servicios ofrecidos y puntuación recibida.
+- **Clientes asignados:** Organización secuencial. Lista de mascotas y dueños asignados, con opciones para ver historial o contactar.
+- **Capacitación:** Organización temática por niveles. Acceso a módulos según la categoría del proveedor (groomer, paseador, veterinario).
+- **Bonos y beneficios:** Vista de recompensas, promociones internas y medallas por desempeño. Organización visual tipo tarjetas.
+
 
 ## 4.6. Domain-Driven Software Arquitecture
 
