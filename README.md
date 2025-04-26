@@ -864,9 +864,285 @@ En esta sección se detallan los componentes asociados al componente Subscriptio
 
 Diagrama de clases(PlantUML):
 
-<div align="center">
-  
+
 ![image](https://github.com/user-attachments/assets/67d1ba84-4001-4827-be2a-f0c73466e03e)
+
+
+### 4.7.2. Class Dictionary
+
+<table border="0" width="50%">
+  <tr>
+    <td colspan="3" valign="top">Usuario</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="40%">Attribute</td>
+    <td colspan="1" valign="top" width="40%">Type</td>
+    <td colspan="2" valign="top">Description</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">id</td>
+    <td colspan="1" valign="top">int</td>
+    <td colspan="2" valign="top">Identificador único del usuario</td>
+  </tr>
+ <tr>
+    <td colspan="1" valign="top">nombre</td>
+    <td colspan="1" valign="top">string</td>
+    <td colspan="2" valign="top">Nombre completo del usuario</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">correo</td>
+    <td colspan="1" valign="top">string</td>
+    <td colspan="2" valign="top">Correo electrónico del usuario.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">contraseña</td>
+    <td colspan="1" valign="top">string</td>
+    <td colspan="2" valign="top">Contraseña para acceder al sistema.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">direccion</td>
+    <td colspan="1" valign="top">string</td>
+    <td colspan="2" valign="top">Dirección física del usuario</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">numeroTelefono</td>
+    <td colspan="1" valign="top">string</td>
+    <td colspan="2" valign="top">Número de teléfono del usuario.</td>
+  </tr>
+</table>
+
+<table border="0" width="50%">
+  <tr>
+    <td colspan="3" valign="top">Plan</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top" width="40%">Attribute</td>
+    <td colspan="1" valign="top" width="40%">Type</td>
+    <td colspan="2" valign="top">Description</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">id</td>
+    <td colspan="1" valign="top">int</td>
+    <td colspan="2" valign="top">Identificador único del plan</td>
+  </tr>
+ <tr>
+    <td colspan="1" valign="top">nombre</td>
+    <td colspan="1" valign="top">string</td>
+    <td colspan="2" valign="top">Nombre completo del plan</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">descripcion</td>
+    <td colspan="1" valign="top">string</td>
+    <td colspan="2" valign="top">Detalles y beneficios del plan.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">precio</td>
+    <td colspan="1" valign="top">double</td>
+    <td colspan="2" valign="top">Costo del plan.</td>
+  </tr>
+</table>
+
+<table border="0" width="50%">
+  <tr>
+    <td colspan="3" valign="top">Suscripcion</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top" width="40%">Attribute</td>
+    <td colspan="1" valign="top" width="40%">Type</td>
+    <td colspan="2" valign="top">Description</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">id</td>
+    <td colspan="1" valign="top">int</td>
+    <td colspan="2" valign="top">Identificador único de la suscripción</td>
+  </tr>
+ <tr>
+    <td colspan="1" valign="top">fehcaInicio</td>
+    <td colspan="1" valign="top">string</td>
+    <td colspan="2" valign="top">Fecha de inicio de la suscripción.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">fechaFin</td>
+    <td colspan="1" valign="top">string</td>
+    <td colspan="2" valign="top">Fecha de finalización de la suscripción.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">estado</td>
+    <td colspan="1" valign="top">bool</td>
+    <td colspan="2" valign="top">Estado actual (activa/inactiva) de la suscripción.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">idUsuario</td>
+    <td colspan="1" valign="top">int</td>
+    <td colspan="2" valign="top">ID del usuario asociado a la suscripción.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">idPlan</td>
+    <td colspan="1" valign="top">int</td>
+    <td colspan="2" valign="top">ID del plan seleccionado</td>
+  </tr>
+</table>
+
+<table border="0" width="50%">
+  <tr>
+    <td colspan="3" valign="top">Mascota</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top" width="40%">Attribute</td>
+    <td colspan="1" valign="top" width="40%">Type</td>
+    <td colspan="2" valign="top">Description</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">id</td>
+    <td colspan="1" valign="top">int</td>
+    <td colspan="2" valign="top">Identificador único de la mascota.</td>
+  </tr>
+ <tr>
+    <td colspan="1" valign="top">nombre</td>
+    <td colspan="1" valign="top">string</td>
+    <td colspan="2" valign="top">Nombre de la mascota</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">especie</td>
+    <td colspan="1" valign="top">string</td>
+    <td colspan="2" valign="top">Tipo de especie (perro, gato, etc.).</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">raza</td>
+    <td colspan="1" valign="top">string</td>
+    <td colspan="2" valign="top">Raza específica de la mascota.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">edad</td>
+    <td colspan="1" valign="top">int</td>
+    <td colspan="2" valign="top">Edad de la mascota.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">idUsuario</td>
+    <td colspan="1" valign="top">string</td>
+    <td colspan="2" valign="top">ID del dueño (usuario) de la mascota.</td>
+  </tr>
+</table>
+
+<table border="0" width="50%">
+  <tr>
+    <td colspan="3" valign="top">Proveedor</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top" width="40%">Attribute</td>
+    <td colspan="1" valign="top" width="40%">Type</td>
+    <td colspan="2" valign="top">Description</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">id</td>
+    <td colspan="1" valign="top">int</td>
+    <td colspan="2" valign="top">Identificador único del proveedor.</td>
+  </tr>
+ <tr>
+    <td colspan="1" valign="top">nombre</td>
+    <td colspan="1" valign="top">string</td>
+    <td colspan="2" valign="top">Nombre del proveedor o especialista.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">especialidad</td>
+    <td colspan="1" valign="top">string</td>
+    <td colspan="2" valign="top">Tipo de servicio o área en la que se especializa</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">certificado</td>
+    <td colspan="1" valign="top">string</td>
+    <td colspan="2" valign="top">Certificación o acreditación del proveedor.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">contacto</td>
+    <td colspan="1" valign="top">string</td>
+    <td colspan="2" valign="top">Información de contacto (teléfono o correo).</td>
+  </tr>
+</table>
+
+<table border="0" width="50%">
+  <tr>
+    <td colspan="3" valign="top">Cita</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top" width="40%">Attribute</td>
+    <td colspan="1" valign="top" width="40%">Type</td>
+    <td colspan="2" valign="top">Description</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">id</td>
+    <td colspan="1" valign="top">int</td>
+    <td colspan="2" valign="top">Identificador único de la cita.</td>
+  </tr>
+ <tr>
+    <td colspan="1" valign="top">fechaHora</td>
+    <td colspan="1" valign="top">date</td>
+    <td colspan="2" valign="top">Fecha y hora programadas para la cita.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">tipoServicio</td>
+    <td colspan="1" valign="top">string</td>
+    <td colspan="2" valign="top">Tipo de servicio que se brindará en la cita.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">idMascota</td>
+    <td colspan="1" valign="top">int</td>
+    <td colspan="2" valign="top">ID de la mascota que recibirá el servicio.</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">idProveedor</td>
+    <td colspan="1" valign="top">int</td>
+    <td colspan="2" valign="top">ID del proveedor que brindará el servicio.</td>
+  </tr>
+</table>
+
+<table border="0" width="50%">
+  <tr>
+    <td colspan="3" valign="top">Servicio</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top" width="40%">Attribute</td>
+    <td colspan="1" valign="top" width="40%">Type</td>
+    <td colspan="2" valign="top">Description</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">id</td>
+    <td colspan="1" valign="top">int</td>
+    <td colspan="2" valign="top">Identificador único del servicio.</td>
+  </tr>
+ <tr>
+    <td colspan="1" valign="top">nombre</td>
+    <td colspan="1" valign="top">string</td>
+    <td colspan="2" valign="top">Nombre del servicio (baño, vacuna, etc.).</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">descripción</td>
+    <td colspan="1" valign="top">string</td>
+    <td colspan="2" valign="top">Detalles del servicio ofrecido.</td>
+  </tr>
+</table>
+
+<table border="0" width="50%">
+  <tr>
+    <td colspan="3" valign="top">ServicioPlan</td>
+  </tr>
+   <tr>
+    <td colspan="1" valign="top" width="40%">Attribute</td>
+    <td colspan="1" valign="top" width="40%">Type</td>
+    <td colspan="2" valign="top">Description</td>
+  </tr>
+  <tr>
+    <td colspan="1" valign="top">id</td>
+    <td colspan="1" valign="top">int</td>
+    <td colspan="2" valign="top">Identificador único del registro.</td>
+  </tr>
+ <tr>
+    <td colspan="1" valign="top">nombre</td>
+    <td colspan="1" valign="top">string</td>
+    <td colspan="2" valign="top">ID del servicio incluido en el plan.</td>
+  </tr>
+</table>
+
 
 </div>
 
