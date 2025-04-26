@@ -167,6 +167,55 @@ Las etiquetas usadas en la plataforma priorizan la claridad, simplicidad y orien
 - **Meta Description:** Descubre todos los servicios incluidos en tu suscripción mensual. Cuidado integral para tu mascota con expertos certificados.
 - **Keywords:** paseos seguros, grooming mascotas, veterinario domicilio, atención de emergencias para mascotas
 
+### 4.2.4 Searching Systems
+
+| Filtro            | Descripción                                                                 |
+|-------------------|------------------------------------------------------------------------------|
+| Buscar en FAQ     | Permite ingresar palabras clave relacionadas a suscripciones, cancelaciones o servicios |
+| Filtrar por Plan  | Permite ver únicamente los beneficios asociados al plan seleccionado (VIP, Complete, Mini) |
+| Buscar Servicio   | Navegación rápida por los servicios destacados (Paseos, Chequeos, Grooming, Emergencias) |
+
+
+### 4.2.5 Navigation Systems
+
+El sistema de navegación de MascotaMatch ha sido diseñado para facilitar el recorrido del usuario tanto en la landing page como dentro de la aplicación, garantizando una experiencia fluida, clara y centrada en el cumplimiento de objetivos. La navegación se basa en principios de diseño centrado en el usuario y estructuras modernas que aseguran accesibilidad, claridad y bajo esfuerzo cognitivo.
+
+#### Landing Page
+
+- **Estructura:** Presentación general de MascotaMatch con llamada a la acción visible, acceso a servicios, planes, preguntas frecuentes y contacto.
+- **Incluye acceso rápido a:**
+  - Registro / Inicio de sesión
+  - Servicios destacados
+  - Comparación de planes disponibles
+  - Preguntas frecuentes (FAQ)
+  - Contacto / soporte
+- **Acción del Usuario:** Explorar contenido, comparar opciones y tomar decisiones como registrarse, consultar servicios o resolver dudas.
+
+#### Aplicación Web – Clientes
+
+- **Inicio:**
+  - Muestra servicios activos, recordatorios próximos y acceso rápido a cuidadores.
+  - Organización matricial con tarjetas de acción.
+- **Planes:**
+  - Vista jerárquica con opciones comparativas.
+  - Botón de contratación rápida.
+- **Historial de mascota:**
+  - Lista cronológica con información médica y servicios pasados.
+- **Emergencias:**
+  - Acceso directo desde el menú principal, disponible en todo momento.
+
+#### Aplicación Web – Proveedores
+
+- **Inicio:**
+  - Vista resumida del día: citas próximas, zonas asignadas y alertas.
+- **Agenda:**
+  - Calendario semanal organizado por hora y tipo de servicio.
+- **Clientes asignados:**
+  - Lista detallada por día, con accesos al historial del animal.
+- **Perfil profesional:**
+  - Navegación hacia configuraciones, reputación pública y certificaciones.
+- **Bonos / Recompensas:**
+  - Acceso a promociones y beneficios organizados por categorías.
 
 ## 4.6. Domain-Driven Software Arquitecture
 
