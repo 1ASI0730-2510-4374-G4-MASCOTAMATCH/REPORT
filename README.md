@@ -12,6 +12,8 @@
 
 ### 5.2.1.1. Sprint Planning 1.
 
+En el desarrollo del proyecto **Mascota Match**, se ha seguido una metodología ágil basada en **Scrum**, con el objetivo de construir de manera iterativa y colaborativa una solución que permita conectar dueños de mascotas con servicios confiables como paseos, grooming, atención veterinaria y emergencias. El Sprint Planning es una ceremonia clave que nos permite definir qué funcionalidades serán entregadas en cada iteración, organizando y priorizando el trabajo de forma estratégica. Durante el Sprint Planning, el equipo revisa el Product Backlog, establece los objetivos de Sprint, selecciona las User Stories y Technical Stories que se abordarán, estima la capacidad de trabajo (Velocity) y acuerda el Sprint Goal, siempre orientado a entregar valor tangible para los usuarios finales. La siguiente sección presenta la planificación detallada de los Sprints establecidos para el proyecto Mascota Match, incluyendo fecha, participantes, objetivos, historias seleccionadas y Story Points asociados.
+
 | Campo | Información |
 |:------|:------------|
 | **Sprint #** | Sprint 1 |
