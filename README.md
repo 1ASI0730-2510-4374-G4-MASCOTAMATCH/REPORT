@@ -731,6 +731,26 @@ Explicación del flujo: El flujo se inicia cuando el usuario selecciona la opci�
 
 Enlace: https://lucid.app/lucidchart/d55fe3f4-9615-4091-a3e3-c715169b2df1/edit?viewport_loc=-36%2C283%2C1933%2C871%2C0_0&invitationId=inv_b17c5844-c165-436e-bd0a-4f6c24433e82 
 
+## 4.5. Web Applications Prototyping
+
+Para el desarrollo de los prototipos de interfaz de usuario, tanto para escritorio como para navegadores móviles, se consideraron varios principios esenciales, entre ellos:
+
+1.	Simplicidad y Comprensión: Se buscó que la navegación dentro de la aplicación fuera clara e intuitiva, permitiendo que los usuarios comprendan con facilidad las funcionalidades principales, como el registro de procesos y la consulta de reportes estadísticos.
+   
+2.	Adaptabilidad del Diseño: Se priorizó un enfoque de diseño adaptable o responsive, asegurando que la interfaz se visualice correctamente en distintos tamaños de pantalla y dispositivos, brindando una experiencia consistente sin importar el equipo utilizado.
+   
+3.	Enfoque en lo Esencial: El diseño se centró en mostrar únicamente la información más relevante para el público objetivo, facilitando así una interacción más directa y eficiente con la aplicación.
+   
+LINK: https://youtu.be/L9YZMDfhDUc 
+
+### FIGMA:
+-	https://www.figma.com/design/Kki4rMGiITv5IylQMlT7u6/Web-Applications-UX-UI-Design?m=auto&t=P9LBuwLdRwt8ezJy-6 
+-	https://www.figma.com/design/0NFSnZZMYlf8GnUl0M5M4K/Web-Applications-Wireframes?m=auto&t=P9LBuwLdRwt8ezJy-6 
+-	https://www.figma.com/design/c4bfohm4ieVACqzJKjsoLw/Web-Applications-Mock-ups?m=auto&t=P9LBuwLdRwt8ezJy-6
+-	https://www.figma.com/design/m0wCmL072lpSwNI1j2okPd/Web-Applications-Wireflow-Diagrams.?m=auto&t=P9LBuwLdRwt8ezJy-6
+-	https://www.figma.com/design/ul4NEPHMmQiqoXuBLgIwkA/Web-Applications-Prototyping?m=auto&t=P9LBuwLdRwt8ezJy-6
+-	https://www.figma.com/design/qk6azbZrE6A5AfY629JCGE/Mobile-Applications-Prototyping?m=auto&t=P9LBuwLdRwt8ezJy-6 
+
 
 ## 4.6. Domain-Driven Software Arquitecture
 
@@ -793,5 +813,6 @@ Diagrama de clases(PlantUML):
 ![image](https://github.com/user-attachments/assets/67d1ba84-4001-4827-be2a-f0c73466e03e)
 
 </div>
+
 
    
