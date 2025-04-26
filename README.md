@@ -167,3 +167,5 @@ Se entrevistó a dos jóvenes dueños de mascotas que relataron su rutina diaria
 
 ## 2.4. Ubiquitous Language.
 
+| **Término (en inglés)**               | **Término (en español)**               | **Definición**              |
+
