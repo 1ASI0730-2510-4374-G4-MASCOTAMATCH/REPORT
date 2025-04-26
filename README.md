@@ -50,6 +50,63 @@ Nuestra estrategia se basa en la diferenciación mediante una plataforma integra
 
 En esta sección se desarrolla la investigación realizada sobre nuestros públicos objetivos, utilizando como principal herramienta la realización de entrevistas para recolectar información relevante y obtener una mejor comprensión de sus necesidades y expectativas.
 
+# 2.2.2. Registro de entrevistas
+
+## Entrevista a dueños de mascotas
+
+### Entrevistado 1: Renzo Livia
+
+- **Edad:** 19  
+- **Distrito:** Surco  
+- **Resumen:**  
+  Dueño de un pug de seis meses, al que cuida con rutinas diarias de paseos, alimentación y control del agua. Lleva a su mascota al veterinario cada cuatro meses o cuando detecta anomalías. Al inicio tuvo dificultades para encontrar veterinarios confiables, pero actualmente trabaja con dos de confianza. Baña a su mascota cada dos semanas y corta su pelo cada mes. Está dispuesto a pagar una suscripción mensual si esta ofrece servicios integrales con profesionales certificados. Se preocupa por enfermedades graves y accidentes en casa. Se siente muy familiarizado con el uso de aplicaciones móviles para servicios y considera que una app centralizada ayudaría a mejorar la organización y bienestar de su mascota.  
+
+![image](https://github.com/user-attachments/assets/3709aa26-ce3f-4a4d-bb0d-c8c00866898d)
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311828_upc_edu_pe/ERExDL-Coe5BptW5nop3KCwBcTepw3DZIxLfRRTtK_TqOQ?e=od8dKr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+---
+
+### Entrevistado 2: Jagger Baldivieso
+
+- **Edad:** 19  
+- **Distrito:** Casaruinas.  
+- **Resumen:**  
+Realiza paseos a su mascota tres veces al día y verifica constantemente su bienestar. Las visitas al veterinario son esporádicas y gestionadas por su madre. Ha tenido malas experiencias con algunos veterinarios y peluqueros, lo que ha dificultado encontrar servicios confiables. Está dispuesto a pagar una suscripción mensual si esta garantiza atención de calidad. Le preocupa la salud emocional y física de su mascota, ya que impacta directamente en su bienestar personal. Aunque no es muy usuario de apps, ve con buenos ojos una plataforma que centralice todos los servicios para mascotas y le facilite su búsqueda y planificación.
+
+![image](https://github.com/user-attachments/assets/56f6cdc7-3f1e-4e17-95d6-d5e133c9c3e0)
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311828_upc_edu_pe/ERExDL-Coe5BptW5nop3KCwBcTepw3DZIxLfRRTtK_TqOQ?e=od8dKr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+--- 
+
+
+## Entrevista a médicos veterinarios
+
+### Entrevistado 3: Médico veterinario 
+
+- **Edad:** 36  
+- **Distrito:** Callao  
+- **Resumen:**  
+Veterinario con 8 años de experiencia colegiado, trabaja actualmente en una empresa enfocándose en el área sanitaria (profilaxis y tratamiento), mientras que el área de counter gestiona la llegada de clientes. Indica que las mayores dificultades radican en la comunicación con los propietarios, ya que muchos no comprenden la importancia de ciertos exámenes. También resalta la importancia de ser didáctico. Considera útil contar con una base de datos para enviar recordatorios o promociones. Cree que una app ayudaría a mejorar la relación con el cliente y a organizar mejor los servicios. Está a favor de la actualización profesional continua y considera que la rentabilidad es clave para mejorar la calidad del centro.
+
+![image](https://github.com/user-attachments/assets/c7099fdc-175f-466e-8525-98452d9f6f16)
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311828_upc_edu_pe/ERExDL-Coe5BptW5nop3KCwBcTepw3DZIxLfRRTtK_TqOQ?e=od8dKr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+---
+
+### Entrevistado 4: Médico veterinario clínico
+
+- **Edad:** 50
+- **Distrito:** San Miguel 
+- **Resumen:**  
+Veterinario con horario de 9 a.m. a 5 p.m., brinda atención clínica presencial y algunas consultas virtuales. Se encarga de paseos, baños y consultas generales. Indica que el 70% de las dificultades en la atención provienen del comportamiento de las mascotas (ansiedad, agresividad) y el 30% de los clientes. Lleva registros manuales y considera útil contar con una app para organizar citas, enviar recordatorios y registrar tratamientos. Ofrece servicios de radiografías, ecografías y venta de productos, pero desea contar con un laboratorio propio para evitar depender de terceros. Considera que una aplicación ayudaría a mejorar la experiencia del cliente y permitiría brindar una atención más ordenada y efectiva.
+
+![image](https://github.com/user-attachments/assets/67a6046c-3c90-4c7c-ba93-bace7afb9e77)
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311828_upc_edu_pe/ERExDL-Coe5BptW5nop3KCwBcTepw3DZIxLfRRTtK_TqOQ?e=od8dKr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 ### 2.2.1 Diseño de Entrevistas 
 
 ###  Segmento 1: Dueños de Mascotas (Clientes)
