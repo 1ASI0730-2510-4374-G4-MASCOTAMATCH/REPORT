@@ -77,6 +77,8 @@ Se entrevistó a dos médicos veterinarios que trabajan en centros privados, qui
 
 # Resumen de entrevistas a dueños de mascotas
 
+Se entrevistó a dos jóvenes dueños de mascotas que relataron su rutina diaria de cuidado, incluyendo paseos, control de alimentación y visitas veterinarias cuando detectan problemas de salud. Ambos comentaron que al inicio tuvieron dificultades para encontrar veterinarios confiables, pero actualmente trabajan con profesionales en quienes confían. Mostraron gran interés en una suscripción mensual que ofrezca servicios como paseos, emergencias, atención veterinaria 24/7 y peluquería, siempre con profesionales certificados. También expresaron preocupación por enfermedades o accidentes que puedan afectar a sus mascotas. Ambos se mostraron familiarizados con el uso de aplicaciones móviles y consideran muy útil contar con una plataforma que centralice estos servicios para facilitar la organización, mejorar el bienestar de sus animales y ahorrar tiempo en la gestión de citas y atenciones.
+
 ## 2.3 NeedFinding
 
 ### 2.3.1 User Persona
