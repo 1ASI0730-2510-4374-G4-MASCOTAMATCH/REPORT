@@ -74,7 +74,7 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311828_upc_edu_pe/ERExDL-C
 - **Resumen:**  
 Realiza paseos a su mascota tres veces al día y verifica constantemente su bienestar. Las visitas al veterinario son esporádicas y gestionadas por su madre. Ha tenido malas experiencias con algunos veterinarios y peluqueros, lo que ha dificultado encontrar servicios confiables. Está dispuesto a pagar una suscripción mensual si esta garantiza atención de calidad. Le preocupa la salud emocional y física de su mascota, ya que impacta directamente en su bienestar personal. Aunque no es muy usuario de apps, ve con buenos ojos una plataforma que centralice todos los servicios para mascotas y le facilite su búsqueda y planificación.
 
-![image](https://github.com/user-attachments/assets/7b4587f3-60e4-4063-ba7d-f607e910b8a6)
+<img width="1512" alt="image" src="https://github.com/user-attachments/assets/faacacfa-f238-4d33-9042-bd41bbdbe388" />
 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311828_upc_edu_pe/ERExDL-Coe5BptW5nop3KCwBcTepw3DZIxLfRRTtK_TqOQ?e=od8dKr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
@@ -103,7 +103,7 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311828_upc_edu_pe/ERExDL-C
 - **Resumen:**  
 Veterinario con horario de 9 a.m. a 5 p.m., brinda atención clínica presencial y algunas consultas virtuales. Se encarga de paseos, baños y consultas generales. Indica que el 70% de las dificultades en la atención provienen del comportamiento de las mascotas (ansiedad, agresividad) y el 30% de los clientes. Lleva registros manuales y considera útil contar con una app para organizar citas, enviar recordatorios y registrar tratamientos. Ofrece servicios de radiografías, ecografías y venta de productos, pero desea contar con un laboratorio propio para evitar depender de terceros. Considera que una aplicación ayudaría a mejorar la experiencia del cliente y permitiría brindar una atención más ordenada y efectiva.
 
-![image](https://github.com/user-attachments/assets/5bffef23-396b-4f1f-817f-a9697e639533)
+![image](https://github.com/user-attachments/assets/9bc8a69a-01de-4be0-ac01-c8b370bb83b1)
 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311828_upc_edu_pe/ERExDL-Coe5BptW5nop3KCwBcTepw3DZIxLfRRTtK_TqOQ?e=od8dKr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
