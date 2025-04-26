@@ -188,3 +188,8 @@ Se entrevistó a dos jóvenes dueños de mascotas que relataron su rutina diaria
 |Pet Care Ecosystem|Ecosistema de cuidado de mascotas|Conjunto de actores, servicios y procesos que intervienen en la atención integral de los animales domésticos.|
 
 </div>
+
+
+
+![image](https://github.com/user-attachments/assets/4c68644e-ed4e-4981-9da5-52d2fd75885f)
+
