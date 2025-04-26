@@ -275,11 +275,190 @@ El sistema de navegación de MascotaMatch ha sido diseñado para facilitar el re
 
 ### 4.4.3 Web Applications User Flow Diagrams.
 
-User Goal: Iniciar Sesión
+### User Goal: Iniciar Sesión
 
-User Persona: Usuario
+### User Persona: Usuario
 
 Explicación del flujo: El proceso de inicio de sesión se inicia cuando el usuario intenta acceder a la aplicación, lo que requiere el llenado de sus credenciales. El sistema verifica estos datos ingresados y, si son correctos, confirma la identidad del usuario, permitiéndole el acceso a la pantalla principal. En caso de que la verificación falle debido a credenciales incorrectas o inexistentes, el sistema indica al usuario que debe pasar por el proceso de registro para crear una nueva cuenta.
+
+### Happy Path (Desde "Iniciar sesión"):
+
+1.	El usuario accede a la opción de "Iniciar sesión".
+   
+2.	Realiza el "Relleno de datos" con sus credenciales correctas (usuario/email y contraseña).
+   
+3.	El sistema "Verifica los datos ingresados" y los encuentra válidos.
+   
+4.	La condición "Confirma los datos" es "Sí".
+   
+5.	"Le muestra la pantalla principal" al usuario.
+
+### Unhappy Path (Desde "Iniciar sesión"):
+
+1.	El usuario accede a la opción de "Iniciar sesión".
+   
+2.	Realiza el "Relleno de datos" con credenciales incorrectas o correspondientes a una cuenta inexistente.
+   
+3.	El sistema "Verifica los datos ingresados" y no encuentra una coincidencia válida.
+   
+4.	La condición "Confirma los datos" es "No".
+   
+5.	El usuario es dirigido a "Debe pasar por la parte del registro".
+
+![path](https://github.com/user-attachments/assets/422f960a-61c8-4f1e-bce2-7e5dab8af842)
+
+### User Goal: Registro
+
+### User Persona: Usuario
+
+Explicación del flujo: El proceso de registro se inicia cuando un usuario accede a la opción de "Registro". A continuación, se le solicita el "Relleno de datos", donde deberá ingresar la información necesaria para crear una cuenta. El sistema luego "Verifica si ya tiene una cuenta existente" utilizando los datos proporcionados. Si el sistema "Confirma los datos" y determina que ya existe una cuenta asociada a esa información ("sí"), "Lo lleva a la página del login para que pueda entrar". Si, por el contrario, no se encuentra una cuenta existente ("no"), el sistema "Rellena sus datos, se registra y lo manda al login para ingresar su cuenta y mostrar la página principal". En resumen, el flujo permite tanto a usuarios nuevos registrarse y ser dirigidos al inicio de sesión, como a usuarios existentes ser redirigidos directamente a la página de inicio de sesión si sus datos ya están en el sistema.
+
+### Happy Path (Desde "Inicio de la opción Registro"):
+
+1.	El usuario accede a la opción de "Registro".
+   
+2.	Realiza el "Relleno de datos" con la información requerida para crear una nueva cuenta.
+   
+3.	El sistema "Verifica si ya tiene una cuenta existente" con los datos proporcionados y determina que no existe una cuenta.
+   
+4.	La condición implícita (¿Cuenta existente?) es "No".
+   
+5.	El sistema "Rellena sus datos, se registra y lo manda al login para ingresar su cuenta y mostrar la página principal".
+
+###  Unhappy Path (Desde "Inicio de la opción Registro"):
+
+1.	El usuario accede a la opción de "Registro".
+   
+2.	Realiza el "Relleno de datos" con información que ya está asociada a una cuenta existente en el sistema.
+   
+3.	El sistema "Verifica si ya tiene una cuenta existente" y determina que sí existe una cuenta con esos datos.
+   
+4.	La condición implícita (¿Cuenta existente?) es "Sí".
+   
+5.	"Lo lleva a la página del login para que pueda entrar" (implicando que debe iniciar sesión con su cuenta existente en lugar de crear una nueva).
+
+### Happy Path (Desde "Inicio de la opción Registro"):
+
+1.	El usuario accede a la opción de "Registro".
+   
+2.	Realiza el "Relleno de datos" con la información requerida para crear una nueva cuenta.
+   
+3.	El sistema "Verifica si ya tiene una cuenta existente" con los datos proporcionados y determina que no existe una cuenta.
+   
+4.	La condición implícita (¿Cuenta existente?) es "No".
+   
+5.	El sistema "Rellena sus datos, se registra y lo manda al login para ingresar su cuenta y mostrar la página principal".
+
+### Unhappy Path (Desde "Inicio de la opción Registro"):
+
+1.	El usuario accede a la opción de "Registro".
+   
+2.	Realiza el "Relleno de datos" con información que ya está asociada a una cuenta existente en el sistema.
+   
+3.	El sistema "Verifica si ya tiene una cuenta existente" y determina que sí existe una cuenta con esos datos.
+   
+4.	La condición implícita (¿Cuenta existente?) es "Sí".
+   
+5.	"Lo lleva a la página del login para que pueda entrar" (implicando que debe iniciar sesión con su cuenta existente en lugar de crear una nueva).
+
+![path2](https://github.com/user-attachments/assets/fe73c6c1-7119-4ae7-a5fc-2f6cd792dcad)
+
+### User Goal: Nuestros servicios
+
+### User Persona: Usuario
+
+Explicación del flujo: El flujo se inicia cuando el usuario selecciona la opción "Ver los servicios". Inicialmente, el usuario "Está en la página principal". Al seleccionar "Ver los servicios", el sistema navega a "Vamos a la sección de nuestros servicios". Luego, se evalúa si "Estamos en la página" de servicios. Si la respuesta es "sí", entonces "Se muestra todos los servicios que ofrecemos". Si por alguna razón no se llega correctamente a la página de servicios ("no"), entonces la consecuencia es que "Si no se muestra todos los servicios que ofrecemos". En resumen, el flujo describe la navegación desde la página principal hacia la sección de servicios, verificando que la transición sea exitosa para mostrar la lista completa de servicios disponibles.
+
+### Happy Path (Desde la "Página principal"):
+1.	El usuario se encuentra en la "Página principal".
+	
+2.	Selecciona la opción "Ver los servicios".
+	
+3.	El sistema navega a "Vamos a la sección de nuestros servicios".
+	
+4.	La condición "¿Estamos en la página?" es "Sí".
+	
+5.	"Se muestra todos los servicios que ofrecemos" al usuario.
+
+### Unhappy Path (Desde la "Página principal"):
+
+1.	El usuario se encuentra en la "Página principal".
+   
+2.	Selecciona la opción "Ver los servicios".
+   
+3.	El sistema intenta navegar a "Vamos a la sección de nuestros servicios", pero ocurre un error técnico o de navegación.
+   
+4.	La condición "¿Estamos en la página?" es "No".
+   
+5.	"Si no se muestra todos los servicios que ofrecemos" (el usuario no puede ver la lista de servicios).
+
+![path3](https://github.com/user-attachments/assets/fd26585e-ae98-4ece-ab37-7e738b6ed9f9)
+
+### User Goal: Planes
+
+### User Persona: Usuario
+
+Explicación del flujo: El flujo comienza cuando el usuario selecciona la opción "Ver los planes". Inicialmente, el usuario "Está en la página principal". Al seleccionar "Ver los planes", el sistema navega a "Vamos a la sección de Planes". Luego, se evalúa si "Estamos en la página" de planes. Si la respuesta es "sí", entonces "Se muestra todos los planes que ofrecemos". Si por alguna razón no se llega correctamente a la página de planes ("no"), entonces la consecuencia es que "Si no se muestra todos los planes que ofrecemos". En resumen, el flujo describe la navegación desde la página principal hacia la sección de planes, verificando que la transición sea exitosa para mostrar la lista completa de planes disponibles.
+
+### Happy Path (Desde la "Página principal"):
+
+1.	El usuario se encuentra en la "Página principal".
+   
+2.	Selecciona la opción "Ver los planes".
+   
+3.	El sistema navega a "Vamos a la sección de Planes".
+   
+4.	La condición "¿Estamos en la página?" es "Sí".
+   
+5.	"Se muestra todos los planes que ofrecemos" al usuario.
+
+### Unhappy Path (Desde la "Página principal"):
+
+1.	El usuario se encuentra en la "Página principal".
+   
+2.	Selecciona la opción "Ver los planes".
+   
+3.	El sistema intenta navegar a "Vamos a la sección de Planes", pero ocurre un error técnico o de navegación.
+   
+4.	La condición "¿Estamos en la página?" es "No".
+   
+5.	"Si no se muestra todos los planes que ofrecemos" (el usuario no puede ver la lista de planes).
+
+![path4](https://github.com/user-attachments/assets/3730a6f1-e8c4-4f1f-ac36-98838361e72c)
+
+### User Goal: Preguntas Frecuentes
+
+### User Persona: Usuario
+
+Explicación del flujo: El flujo se inicia cuando el usuario selecciona la opción "Ver las preguntas frecuentes". Inicialmente, el usuario "Está en la página principal". Al seleccionar "Ver las preguntas frecuentes", el sistema navega a "Vamos a la sección de preguntas frecuentes". Luego, se evalúa si "Estamos en la página" de preguntas frecuentes. Si la respuesta es "sí", entonces "Se muestra todas las preguntas frecuentes de otros usuarios". Si por alguna razón no se llega correctamente a la página de preguntas frecuentes ("no"), entonces la consecuencia es que "Si no se muestra las preguntas frecuentes de otros usuarios". En resumen, el flujo describe la navegación desde la página principal hacia la sección de preguntas frecuentes, verificando que la transición sea exitosa para mostrar el listado de preguntas y respuestas de otros usuarios.
+
+### Happy Path (Desde la "Página principal"):
+
+1.	El usuario se encuentra en la "Página principal".
+   
+2.	Selecciona la opción "Ver las preguntas frecuentes".
+   
+3.	El sistema navega a "Vamos a la sección de preguntas frecuentes".
+   
+4.	La condición "¿Estamos en la página?" es "Sí".
+   
+5.	"Se muestra todas las preguntas frecuentes de otros usuarios" al usuario.
+
+### Unhappy Path (Desde la "Página principal"):
+
+1.	El usuario se encuentra en la "Página principal".
+   
+2.	Selecciona la opción "Ver las preguntas frecuentes".
+   
+3.	El sistema intenta navegar a "Vamos a la sección de preguntas frecuentes", pero ocurre un error técnico o de navegación.
+   
+4.	La condición "¿Estamos en la página?" es "No".
+   
+5.	"Si no se muestra las preguntas frecuentes de otros usuarios" (el usuario no puede ver la lista de preguntas frecuentes).
+
+![path5](https://github.com/user-attachments/assets/bc519a77-c3b5-4aa0-b190-b4311b518e6d)
+
+Enlace: https://lucid.app/lucidchart/d55fe3f4-9615-4091-a3e3-c715169b2df1/edit?viewport_loc=-36%2C283%2C1933%2C871%2C0_0&invitationId=inv_b17c5844-c165-436e-bd0a-4f6c24433e82 
 
 
 ## 4.6. Domain-Driven Software Arquitecture
