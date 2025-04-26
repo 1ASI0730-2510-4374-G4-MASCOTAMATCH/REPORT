@@ -191,5 +191,3 @@ Se entrevistó a dos jóvenes dueños de mascotas que relataron su rutina diaria
 
 
 
-![image](https://github.com/user-attachments/assets/4c68644e-ed4e-4981-9da5-52d2fd75885f)
-
