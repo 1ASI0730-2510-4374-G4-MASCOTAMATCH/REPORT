@@ -266,4 +266,15 @@ En esta sección se detallan los componentes asociados al componente Geolocation
 En esta sección se detallan los componentes asociados al componente Subscription Management.
   
 ![C4_Component_Profile4](./assets/gestionSuscripcion.png)
+
+## 4.7. Software Object-Oriented Design.
+
+### 4.7.1. Class Diagrams.
+
+Diagrama de clases(PlantUML):
+
+![image](https://github.com/user-attachments/assets/67d1ba84-4001-4827-be2a-f0c73466e03e)
+
+
+
    
