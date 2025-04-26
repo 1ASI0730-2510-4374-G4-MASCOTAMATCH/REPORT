@@ -69,6 +69,14 @@ Nuestra estrategia se basa en la diferenciación mediante una plataforma integra
 - ¿Qué características tendría una plataforma ideal para ayudarte a crecer profesionalmente?
 - ¿Qué beneficios o incentivos te motivarían a unirte y permanecer en una plataforma como MascotaMatch?
 
+## 2.2.3. Análisis de entrevistas 
+
+# Resumen de entrevistas a proveedores de servicios
+
+Se entrevistó a dos médicos veterinarios que trabajan en centros privados, quienes resaltaron que gestionan a sus clientes a través de promociones y atención presencial, aunque también realizan algunas consultas virtuales. Entre sus principales dificultades mencionaron la necesidad de explicar de manera didáctica los tratamientos a los propietarios y el manejo de mascotas nerviosas o agresivas. También señalaron la falta de laboratorios propios como una limitación. Ambos coincidieron en que la fidelización de clientes es esencial para garantizar ingresos y prestigio profesional. Además, expresaron gran interés en el uso de una aplicación que permita registrar citas, enviar recordatorios, organizar agendas y calificar discretamente a los clientes, mejorando la atención y el servicio. Finalmente, destacaron que la sostenibilidad económica del centro veterinario depende de ofrecer servicios especializados y modernizar la gestión mediante nuevas tecnologías.
+
+# Resumen de entrevistas a dueños de mascotas
+
 ## 2.3 NeedFinding
 
 ### 2.3.1 User Persona
