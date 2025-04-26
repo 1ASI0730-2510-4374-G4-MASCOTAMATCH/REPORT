@@ -41,7 +41,7 @@ Nuestra estrategia se basa en la diferenciación mediante una plataforma integra
 
 🟩 **Fomentar el uso inicial mediante beneficios**: Ofrecer promociones, descuentos o servicios gratuitos durante el primer mes para atraer usuarios nuevos, generar confianza y asegurar la retención a largo plazo.
 
-## 2.1. Competidores
+## 2.2. Entrevistas 
 
 En esta sección se desarrolla la investigación realizada sobre nuestros públicos objetivos, utilizando como principal herramienta la realización de entrevistas para recolectar información relevante y obtener una mejor comprensión de sus necesidades y expectativas.
 
