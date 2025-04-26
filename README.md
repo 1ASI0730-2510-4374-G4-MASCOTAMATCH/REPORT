@@ -122,6 +122,51 @@ El módulo para proveedores está centrado en la gestión operativa y profesiona
 - **Capacitación:** Organización temática por niveles. Acceso a módulos según la categoría del proveedor (groomer, paseador, veterinario).
 - **Bonos y beneficios:** Vista de recompensas, promociones internas y medallas por desempeño. Organización visual tipo tarjetas.
 
+### 4.2.2 Labeling Systems
+
+Las etiquetas usadas en la plataforma priorizan la claridad, simplicidad y orientación a la acción. Se evita el uso de términos técnicos, optando por palabras clave comprensibles y directas.
+
+#### Landing Page
+
+| Etiqueta         | Descripción                                                                 |
+|------------------|------------------------------------------------------------------------------|
+| Home             | Presenta la propuesta de valor general y acceso a servicios                  |
+| Services         | Acceso directo a los cuatro servicios principales de la app                  |
+| Plans            | Visualización de los planes disponibles, con descripción y botón de acción   |
+| FAQ              | Sección de preguntas frecuentes sobre el uso del servicio                    |
+| See Services     | Botón CTA para navegar a la sección de servicios                             |
+| Read more        | Botones para expandir información de cada plan                               |
+| Contact Support  | Campo para ingresar correo y enviar consulta                                 |
+| Login / Register | Accesos rápidos para crear cuenta o iniciar sesión                           |
+
+#### Interfaces Login / Register
+
+| Etiqueta     | Descripción                                     |
+|--------------|--------------------------------------------------|
+| Email        | Campo de ingreso para correo electrónico         |
+| Password     | Campo de ingreso para contraseña                 |
+| Login        | Botón de acceso para usuarios registrados        |
+| Register     | Botón para crear cuenta                          |
+| Register here / Login | Enlaces alternos para navegar entre ambas interfaces |
+
+### 4.2.3 SEO Tags and Meta Tags
+
+**Landing Page**
+- **Title:** MascotaMatch – Cuida a tu mascota con profesionales certificados
+- **Meta Description:** Plataforma integral de servicios para mascotas. Conecta con veterinarios, paseadores y groomers cerca de ti. Suscríbete al plan que mejor se adapte a ti.
+- **Keywords:** mascotas, veterinarios, paseadores, cuidado de mascotas, planes para mascotas, grooming, servicios para mascotas Perú
+- **Author:** MascotaMatch Team
+
+**Planes**
+- **Title:** Planes MascotaMatch – Encuentra el cuidado ideal para tu mascota
+- **Meta Description:** Compara planes y accede a beneficios como atención veterinaria, paseos, grooming y emergencias 24/7.
+- **Keywords:** planes de mascotas, atención veterinaria, paseos de perros, suscripción mascotas, MascotaMatch
+
+**Servicios**
+- **Title:** Servicios MascotaMatch – Paseos, Chequeos, Grooming y Emergencias
+- **Meta Description:** Descubre todos los servicios incluidos en tu suscripción mensual. Cuidado integral para tu mascota con expertos certificados.
+- **Keywords:** paseos seguros, grooming mascotas, veterinario domicilio, atención de emergencias para mascotas
+
 
 ## 4.6. Domain-Driven Software Arquitecture
 
