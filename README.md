@@ -82,6 +82,7 @@ La web de MascotaMatch está enfocada en ser una entrada clara y amigable para e
 En el diseño de la web se evita la sobrecarga de contenido y se prioriza la jerarquía visual a través del uso de espacios amplios, tarjetas modulares y una navegación intuitiva. La estructura está pensada para acompañar al usuario paso a paso, facilitando la comprensión de los planes de suscripción, servicios disponibles y preguntas frecuentes.
 La página de inicio (landing page) cumple una función de presentación general: presenta el valor diferencial de la plataforma, sus beneficios clave, y los distintos planes con imágenes amigables y testimonios visuales. Aunque la funcionalidad completa de MascotaMatch se encuentra en la app, la web sirve como vitrina digital que guía al usuario hacia su descarga y registro.
 
+
 ### Características destacadas:
 
 Navegación superior clara (Home, Services, Plans, FAQ).
@@ -93,6 +94,9 @@ Botones verdes para destacar acciones clave.
 Uso de íconos ilustrativos y fotografía humana para conexión emocional.
 
 Footer organizado por secciones útiles (ayuda, contacto, distritos).
+
+## 4.2 Information Architecture
+La arquitectura de la información de MascotaMatch ha sido diseñada para ofrecer una experiencia clara, fluida y accesible, enfocada en conectar a dueños de mascotas con profesionales certificados. La organización y etiquetado del contenido permite guiar a los usuarios desde su ingreso hasta la elección de servicios y planes, priorizando la simplicidad, personalización y bienestar animal. Esta arquitectura se implementa mediante jerarquías visuales limpias, categorización por secciones, acciones intuitivas y navegación orientada a la acción.
 
 
 ## 4.6. Domain-Driven Software Arquitecture
