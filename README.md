@@ -183,7 +183,7 @@ Para asegurar una ejecución eficiente del Sprint 1, se definieron líderes y co
 | Gianfranco Durand | Azucarita | C | C | C | C | L | C |
 | Erick Vasquez | erick580 | C | C | C | C | C | L |
 
-### 5.2.1.2. Sprint Backlog 1 
+### 5.2.1.3. Sprint Backlog 1 
 
 El Sprint Backlog 1 consolida todas las funcionalidades principales de Mascota Match, enfocándose en completar toda la experiencia de usuario inicial: registro, login, navegación, servicios, planes de suscripción, sección FAQ, agendamiento de citas y consulta de perfiles.
 
@@ -222,11 +222,31 @@ El Sprint Backlog 1 consolida todas las funcionalidades principales de Mascota M
 
 ### 5.2.1.4. Development Evidence for Sprint Review
 
-### 5.2.1.5. Development Evidence for Sprint Review
 
-### 5.2.1.6. Development Evidence for Sprint Review
 
-### 5.2.1.7. Development Evidence for Sprint Review
+### 5.2.1.5. Execution Evidence for Sprint Review.
 
-### 5.2.1.8. Team Collaboration Insights during Sprint
+Durante el Sprint 1, el equipo ejecutó las tareas de desarrollo de la Landing Page de MascotaMatch siguiendo el plan establecido. Se completó el objetivo de crear, implementar y desplegar la página con una estructura HTML básica, diseño UX/UI optimizado y estilos responsivos, todo dentro del plazo asignado.
+
+-Enlace al Landing Page desplegado: 
+
+-Capturas de pantalla de la ejecución: ++++++++++++++++++++++++++++++++++++
+
+### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+Durante el Sprint 1, el equipo de MascotaMatch se enfocó en el desarrollo de la Landing Page del proyecto, por lo que no se implementaron ni consumieron servicios (APIs) en esta etapa. La documentación de servicios se realizará en futuros sprints, conforme se avance en el desarrollo del backend y las funcionalidades dinámicas de la aplicación.
+
+### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+En el Sprint 1 se realizó el lanzamiento de la primera versión del Landing Page, la cual fue publicada mediante GitHub Pages. A continuación, se muestran las evidencias correspondientes al despliegue.
+
+Cómo acceder a la landing page:++++++++++++++++++++++++++++++++++++
+
+Imágenes de la pantalla del Landing Page:++++++++++++++++++++++++++++++++++++
+
+### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+En el Sprint 1, el equipo se centró en el desarrollo, implementación y despliegue de la Landing Page de MascotaMatch. El trabajo se distribuyó de manera colaborativa, con cada miembro asumiendo responsabilidades en áreas clave como el desarrollo de la estructura HTML, el diseño de la interfaz y la experiencia de usuario, y la creación de estilos responsivos. Además, algunos miembros se encargaron del control de versiones y del despliegue en GitHub Pages.
+
+La comunicación fue constante a través de plataforma usada: Discord, WhatsApp, Slack; y utilizamos herramientas como Trello, GitHub Projects para gestionar tareas y hacer seguimiento de los avances. La colaboración fue eficiente y fluida, pero se identificó la necesidad de mejorar la planificación temporal para optimizar la entrega de futuros sprints.
 
