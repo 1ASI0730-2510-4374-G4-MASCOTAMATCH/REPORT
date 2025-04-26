@@ -124,27 +124,27 @@ Se entrevistó a dos jóvenes dueños de mascotas que relataron su rutina diaria
 
 ### 2.3.3 User Journey Map
 
-# User Journey Map para Dueños de mascotas
+## User Journey Map para Dueños de mascotas
 
 ![Image](https://github.com/user-attachments/assets/08312de5-b2b6-4466-9fcd-38fd0fd96d6d)
 
-# User Journey Map para Proveedores de cuidado animal
+## User Journey Map para Proveedores de cuidado animal
 
 ![Image](https://github.com/user-attachments/assets/ea6c9a1d-1ee0-4f9a-8faa-c5527b1545b9)
 
 ### 2.3.4. Empathy Mapping.
 
-# Empathy Map para Dueños de Mascotas
+## Empathy Map para Dueños de Mascotas
 
 ![Image](https://github.com/user-attachments/assets/2953b6cc-bd86-4e92-89a8-f45c6be44e08)
 
-# Empathy Map para Proveedores de Cuidado Animal
+## Empathy Map para Proveedores de Cuidado Animal
 
 ![Image](https://github.com/user-attachments/assets/77711368-dde2-47a0-a3f2-83c8943598ef)
 
 ### 2.3.5. As-is Scenario Mapping.
 
-# Escenario As-Is: Dueño de Mascota buscando un servicio confiable
+## Escenario As-Is: Dueño de Mascota buscando un servicio confiable
 
 | **Fase**                            | **Doing**                                                                 | **Thinking**                                             | **Feeling**                                                                 |
 |-------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------|-----------------------------------------------------------------------------|
@@ -154,7 +154,7 @@ Se entrevistó a dos jóvenes dueños de mascotas que relataron su rutina diaria
 | **Dejar a su mascota**              | Deja a su perro con el paseador o proveedor, sin seguimiento.           | “¿Habrá cumplido bien el paseo? ¿Comió bien?”             | Intranquilo porque no hay seguimiento del servicio.                         |
 
 
-# Escenario As-Is: Carla buscando clientes sin plataforma especializada
+## Escenario As-Is: Carla buscando clientes sin plataforma especializada
 
 | **Fase**                            | **Doing**                                                                 | **Thinking**                                             | **Feeling**                                                                 |
 |-------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------|-----------------------------------------------------------------------------|
