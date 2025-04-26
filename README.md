@@ -29,3 +29,27 @@ En el desarrollo del proyecto **Mascota Match**, se ha seguido una metodología 
 | **Sprint Goal & User Stories** | **User Stories a desarrollar:**<br><br>1. HU14 - Pantalla de Login obligatoria (5 pts)<br>2. HU15 - Registrarse si no tiene cuenta (5 pts)<br>3. HU11 - Visualización del logo (1 pt)<br>4. HU12 - Menú de navegación (2 pts)<br>5. HU16 - Diseño uniforme (2 pts)<br>6. HU17 - Visualización responsiva (3 pts)<br>7. TS04 - POST Registro de usuarios (5 pts)<br>8. TS05 - POST Inicio de sesión (5 pts) |
 | **Sum of Story Points** | **Total: 28 Story Points** |
 
+#### 5.2.1.2. Aspect Leaders and Collaborators.
+
+Para el desarrollo del Sprint 1 del proyecto Mascota Match , se definió una matriz de liderazgo y colaboración para organizar el trabajo de forma clara y eficiente.  
+Cada aspecto principal dentro del alcance del Sprint cuenta con un líder (L) encargado de coordinar el trabajo en ese tema específico, y con colaboradores (C) que apoyan el cumplimiento de las tareas relacionadas.
+
+Esta organización permite una mejor distribución de responsabilidades, facilita la comunicación interna y asegura que todos los miembros del equipo contribuyan al logro del Sprint Goal.
+
+A continuación, se presenta la matriz de líderes y colaboradores:
+
+> **L = Leader** (Responsable principal)  
+> **C = Collaborator** (Apoya en la ejecución)
+
+| Team Member | GitHub Username | Registro de Usuarios (L/C) | Inicio de Sesión (L/C) | Navegación Principal (L/C) | Diseño Uniforme (L/C) | Responsividad Móvil (L/C) |
+|:-----------:|:----------------|:--------------------------:|:----------------------:|:--------------------------:|:--------------------:|:-------------------------:|
+| Oscar Espinoza | OscarEspinoza5443 | L | C | C | C | C |
+| Miguel Vidal | Gossk | C | L | C | C | C |
+| Stephano Landaurí | Mayrzon02 | C | C | L | C | C |
+| Fabian Oliva | FabulousFabStar | C | C | C | L | C |
+| Gianfranco Durand | Azucarita | C | C | C | C | L |
+| Erick Vasquez | erick580 | C | C | C | C | C |
+
+La definición anticipada de líderes y colaboradores en el Sprint 1 permite fortalecer el trabajo en equipo y clarificar las responsabilidades individuales. Con esta organización, se asegura una mayor eficiencia en la ejecución de tareas, mejor comunicación entre los miembros y un enfoque claro en el cumplimiento del **Sprint Goal**. Esta matriz será revisada y ajustada en cada Sprint Planning, de acuerdo al avance del proyecto y a la evolución de las prioridades.
+
+
