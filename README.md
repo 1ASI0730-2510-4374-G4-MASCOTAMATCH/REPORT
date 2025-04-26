@@ -26,6 +26,16 @@
 </div>
 
 ## 3.2. User Stories 
+
+| Epic ID | Título del Epic | Descripción general |
+|:--------|:----------------|:---------------------|
+| EPIC01 | Landing Page: Portada y Servicios | Contiene todo lo relacionado con la presentación inicial del sitio y la visualización de los servicios principales. |
+| EPIC02 | Planes de Suscripción | Engloba todo lo necesario para mostrar los planes de servicio, compararlos y acceder al detalle de cada uno. |
+| EPIC03 | Sección de Preguntas Frecuentes (FAQ) | Reúne la funcionalidad de resolver dudas de los usuarios mediante preguntas y respuestas. |
+| EPIC04 | Navegación y estructura general | Agrupa todos los elementos comunes de navegación (header, menú, footer) para mejorar la experiencia del usuario. |
+| EPIC05 | Registro y Login | Cubre todo el flujo de registro de usuarios, inicio de sesión y acceso protegido al contenido del sitio. |
+| EPIC06 | Diseño Visual y Responsividad | Considera todo lo relacionado al diseño consistente y adaptabilidad del sitio en distintos dispositivos. |
+
 | User Story ID | Título | Descripción | Criterios de Aceptación | Epic ID |
 |:--------------|:--------|:------------|:-----------------------|:--------|
 | HU01 | Mensaje de bienvenida visible | Como visitante, quiero ver un mensaje de bienvenida en la portada que me explique qué es MascotaMatch, para entender rápidamente el propósito del sitio. | **ESCENARIO 1:**<br> Dado que el usuario accede correctamente.<br> Cuando realiza la acción esperada.<br> Entonces el visitante ve un título principal que resume el propósito del sitio.<br><br>**ESCENARIO 2:**<br> Dado que el usuario aún no ha interactuado.<br> Cuando lo intenta por primera vez.<br> Entonces el sistema muestra un texto explicativo debajo. | EPIC01 |
