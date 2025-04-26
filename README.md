@@ -147,9 +147,6 @@ directa de conectarse con nosotros y por nuestra parte estar al tanto de ellos.
 
 Para el alojamiento de nuestra Landing Page, utilizaremos GitHub Pages. Subiremos los archivos necesarios (como HTML y CSS) a un repositorio público en GitHub, de modo que la página sea accesible en línea y pueda ser visitada por cualquier usuario.
 
-## 5.2. Landing Page, Services & Applications Implementation
-
-
 # 5.2. Landing Page, Services & Applications Implementation.
 
 ## 5.2.1. Sprint 1
