@@ -167,6 +167,8 @@ Se entrevistó a dos jóvenes dueños de mascotas que relataron su rutina diaria
 
 ## 2.4. Ubiquitous Language.
 
+<div align="center">
+
 | **Término (en inglés)**               | **Término (en español)**               | **Definición**              |
 |---------------------------------------|----------------------------------------|-----------------------------|
 |     Pet Owner     |     Dueño de mascota    |     Persona que tiene bajo su cuidado uno o más animales domésticos y requiere servicios para su bienestar.    |
@@ -177,6 +179,12 @@ Se entrevistó a dos jóvenes dueños de mascotas que relataron su rutina diaria
 |     Service Rating     |     Calificación del servicio     |     Valoración que un usuario hace sobre la calidad del servicio recibido, basado en su experiencia.     |
 |     Subscription Plan     |     Plan de suscripción     |     Modelo de pago recurrente (mensual, trimestral, etc.) que permite a los usuarios acceder a funciones premium de la app.     |
 |Location Filter|Filtro de ubicación|Herramienta en la app que permite buscar servicios disponibles según la cercanía geográfica del usuario.|
+|Pet Profile|Perfil de mascota|Información registrada de una mascota dentro de la app, incluyendo raza, edad, tamaño, condiciones de salud, etc.|
+|Emergency Service|Servicio de emergencia|Atención inmediata brindada por un proveedor ante situaciones críticas de salud o riesgo para la mascota.|
+|Trusted Network|Red confiable|Comunidad de proveedores y usuarios verificados que garantiza calidad, seguridad y buenas prácticas.|
+|Service History|Historial de servicios|Registro de todas las citas y servicios pasados realizados a través de la plataforma.|
+|Availability Schedule|Horario de disponibilidad|Tiempo en el que un proveedor está libre para ofrecer sus servicios y recibir reservas.|
+|Customer Review|Reseña del cliente|Opinión escrita por el usuario sobre el proveedor o el servicio, visible para otros usuarios.|
+|Pet Care Ecosystem|Ecosistema de cuidado de mascotas|Conjunto de actores, servicios y procesos que intervienen en la atención integral de los animales domésticos.|
 
-
-
+</div>
