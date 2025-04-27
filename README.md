@@ -219,7 +219,7 @@ El Sprint Backlog 1 consolida todas las funcionalidades principales de Mascota M
 
  URL del Board Trello 
 
--->
+--> https://trello.com/invite/b/680d687b243945443095fd34/ATTIce7e124a2b8bc6835ae388ae521389d986676F9C/trabajo
 
 ### 5.2.1.4. Development Evidence for Sprint Review
 
