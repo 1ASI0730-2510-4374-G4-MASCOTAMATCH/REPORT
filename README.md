@@ -4,5 +4,3 @@
    ![UPC Logo](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
   
 </div>
-
-##Ingeniería de Software
