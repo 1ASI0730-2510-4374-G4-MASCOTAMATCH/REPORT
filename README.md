@@ -64,9 +64,9 @@ Para el desarrollo de MascotaMatch, se implementará el modelo GitFlow como est�
 
 **Repositorios de GitHub:**
 
-- Enlace a la organización en GitHub: https://github.com/orgs/Open-Source-SW56-Group-2-EcoMovil/repositories
+- Enlace a la organización en GitHub: https://github.com/orgs/1ASI0730-2510-4374-G4-MASCOTAMATCH/repositories
   
-- Enlace al repositorio de la **Landing Page**: https://open-source-sw56-group-2-ecomovil.github.io/Landing-Page-EcoMovil/
+- Enlace al repositorio de la **Landing Page**: +++++++++++++++++++++++++++++++++++++
 
 ![gitflow](assets/chapter-5/gitflow.png)
 
