@@ -48,35 +48,35 @@ En nuestor país, el crecimiento acelerado de las ciudades ha generado cambios s
 
 #### 1.2.2.1. Lean UX Problem Statements.
 
-a. Domain:
+**a. Domain:**
 
 MascotaMatch opera en el dominio de los servicios digitales para el cuidado de mascotas, enfocándose en conectar a dueños de mascotas con proveedores certificados (veterinarios, groomers, paseadores, etc.) a través de una aplicación móvil de suscripción.
 
-b. Customer Segments:
+**b. Customer Segments:**
 
 -Dueños de mascotas urbanos que requieren servicios confiables y convenientes.
 
 -Proveedores de servicios para mascotas, como veterinarios, groomers y paseadores, que desean mayor visibilidad y gestión digital de sus servicios.
 
-c. Pain Points:
+**c. Pain Points:**
 
-Dueños:
+  Dueños:
 
--No encuentran servicios profesionales cercanos y confiables fácilmente.
+  -No encuentran servicios profesionales cercanos y confiables fácilmente.
+  
+  -Desconfianza en proveedores no verificados.
+  
+  -Pérdida de tiempo al buscar servicios por separado.
 
--Desconfianza en proveedores no verificados.
+  Proveedores:
 
--Pérdida de tiempo al buscar servicios por separado.
+  -Baja visibilidad y exposición de sus servicios.
+  
+  -Gestión ineficiente de clientes, reservas y pagos.
+  
+  -Dependencia de canales informales y redes sociales.
 
-Proveedores:
-
--Baja visibilidad y exposición de sus servicios.
-
--Gestión ineficiente de clientes, reservas y pagos.
-
--Dependencia de canales informales y redes sociales.
-
-d. Gap
+**d. Gap**
 
 No existe en el mercado peruano una solución digital integral que:
 
@@ -86,7 +86,7 @@ No existe en el mercado peruano una solución digital integral que:
 
 -Centralice toda la experiencia (búsqueda, reserva, pago, seguimiento).
 
-e. Visión / Strategy:
+**e. Visión / Strategy:**
 
 Ser la plataforma líder en el ecosistema de servicios para mascotas, ofreciendo:
 
@@ -98,7 +98,7 @@ Ser la plataforma líder en el ecosistema de servicios para mascotas, ofreciendo
 
 -Herramientas de gestión para los proveedores y servicios personalizados para los dueños.
 
-f. Initial Segment:
+**f. Initial Segment:**
 
 -Dueños: Jóvenes de 25 a 40 años, con mascotas, ubicados en Lima Metropolitana, acostumbrados al uso de apps móviles.
 
