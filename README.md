@@ -6,7 +6,7 @@
 </div>
 
 
-
+<div align="center">
 ## Desarrollo de Aplicaciones App Web - 4374
 
 ## Docente: Alberto Wilmer
@@ -28,3 +28,4 @@
 | Erick |       u                        | 
 
 ## Ciclo 2025-01
+</div>
