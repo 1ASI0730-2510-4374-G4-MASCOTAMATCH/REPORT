@@ -17,14 +17,14 @@ MascotaMatch es una plataforma que conecta a dueños de mascotas con profesional
 
 <div align="center">
 
-![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-4/assets/Screenshot%202025-04-25%20003957.png)
+![logo](./assets/un.png)
 </div>
 
 ### Typography:
 Se utiliza la tipografía "Nunito", una fuente redondeada, amigable y altamente legible. Su estructura moderna y fluida se adapta perfectamente a textos largos, botones y encabezados. Además, brinda una experiencia visual cómoda y cercana, ideal para transmitir confianza y afecto. En algunos casos, se combina con "Inter" para contenidos secundarios o informativos.
 <div align="center">
   
-![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-4/assets/tipograf%C3%ADa.png)
+![typography](./assets/dos.png)
 </div>
 
 ### Colors:
