@@ -231,11 +231,28 @@ Se presentan las siguientes secciones:
 
 - **Navbar:** Fijo en la parte superior con acceso directo a Home, Services, Plans, FAQ, y botones de Login/Register.
 - **Hero Section:** Mensaje central con un eslogan claro (“Comprehensive care for your pet”), imagen representativa (un perro) y botón de llamada a la acción ("See Services").
+
+![Image](./assets/wf1.jpg)
+
 - **Our Services:** Cards o bloques visuales que describen los servicios clave (Safe Walks, Veterinary Check-Ups, Grooming, Emergencies) acompañados de íconos ilustrativos y texto breve.
+
+![Image](./assets/wf2.jpg)
+
 - **Plans Section:** Presenta los planes disponibles (VIP Plan, Complete Plan, Mini Plan) en tarjetas visuales con breve descripción de beneficios y botones para "Read more".
+
+![Image](./assets/wf3.jpg)
+
 - **FAQ Section:** Cards individuales que responden a preguntas frecuentes relevantes sobre servicios, suscripciones, cambios de plan y emergencias veterinarias.
+
+![Image](./assets/wf4.jpg)
+
 - **Contact Support:** Formulario simple para ingresar un correo electrónico y solicitar asistencia directa.
+
+![Image](./assets/wf5.jpg)
+
 - **Footer:** Información básica de la empresa, zonas de cobertura (Surquillo, San Borja, San Isidro) y enlaces rápidos de ayuda.
+
+![Image](./assets/wf6.jpg)
 
 ## 4.3.2. Landing Page Mock-up
 El mock-up de la landing page de MascotaMatch presenta una interfaz limpia, moderna y funcional, organizada en una estructura vertical con navegación fija superior. Las secciones Home, Services, Plans y FAQs se muestran claramente en el navbar, acompañadas de botones visibles para Login y Register.
@@ -243,6 +260,12 @@ El mock-up de la landing page de MascotaMatch presenta una interfaz limpia, mode
 Visualmente se usaron colores frescos (degradado celeste), tipografías legibles y gráficos amigables que refuerzan la identidad de MascotaMatch como plataforma confiable para el cuidado de mascotas. La paleta clara y los accesos rápidos mejoran la experiencia del usuario.
 
 ### Desktop Web Browser
+
+![Image](./assets/1.jpg)
+![Image](./assets/2.jpg)
+![Image](./assets/3.jpg)
+![image](./assets/faq.jpg)
+![Image](./assets/6.jpg)
 
 ## 4.4.1 Web Applications Wireframes
 
