@@ -282,3 +282,14 @@ En el Sprint 1, el equipo se centró en el desarrollo, implementación y desplie
 
 La comunicación fue constante a través de plataforma usada: Discord, WhatsApp, Slack; y utilizamos herramientas como Trello, GitHub Projects para gestionar tareas y hacer seguimiento de los avances. La colaboración fue eficiente y fluida, pero se identificó la necesidad de mejorar la planificación temporal para optimizar la entrega de futuros sprints.
 
+## Conclusiones
+
+El desarrollo del proyecto *MascotaMatch* permitió aplicar de manera efectiva los principios de diseño UX/UI, así como el modelado de la interacción de los usuarios a través de wireframes, wireflows y prototipos.
+
+Se logró diseñar una plataforma simple, amigable y adaptada a las necesidades de los usuarios, enfocándose en facilitar tareas comunes como registrarse, iniciar sesión, explorar servicios y seleccionar planes de atención para mascotas.  
+El diseño aplicado en los mockups reflejó consistencia en la paleta de colores, tipografías y componentes visuales, mejorando la experiencia de navegación en diferentes dispositivos (desktop y mobile).
+
+Además, se plantearon historias técnicas fáciles relacionadas a la conexión API, promoviendo una arquitectura ordenada para que los datos de servicios, planes, citas y perfiles de usuario puedan cargarse dinámicamente, reduciendo el mantenimiento manual y mejorando la escalabilidad.
+
+---
+
