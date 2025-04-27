@@ -68,7 +68,8 @@ Para el desarrollo de MascotaMatch, se implementar√° el modelo GitFlow como est√
   
 - Enlace al repositorio de la **Landing Page**: +++++++++++++++++++++++++++++++++++++
 
-![gitflow](assets/chapter-5/gitflow.png)
+![images](https://github.com/user-attachments/assets/225ec5f9-9df1-42fb-8314-6d8e13689763)
+
 
 **Estructura de Ramas (Branches) en GitFlow:**
 
