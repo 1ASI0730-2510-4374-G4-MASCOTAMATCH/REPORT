@@ -224,6 +224,19 @@ El Sprint Backlog 1 consolida todas las funcionalidades principales de Mascota M
 ### 5.2.1.4. Development Evidence for Sprint Review
 
 
+| Repository      | Branch                | Commit ID | Commit Message                  | Commit Message Body | Committed on Date     |
+|-----------------|------------------------|-----------|----------------------------------|----------------------|------------------------|
+| MascotaMatch    | feature/animaciones     | 298c45a   | feat: add vc animaciones         | -                    | 26 de abril de 2025    |
+| MascotaMatch    | feature/plan_vip        | e856efe   | feat:add plan_vip                | -                    | 26 de abril de 2025    |
+| MascotaMatch    | feature/plan_mini       | d08a274   | feat:Add Plan_mini               | -                    | 26 de abril de 2025    |
+| MascotaMatch    | feature/plan_complete   | b8fe11d   | feat: add PlanComplete           | -                    | 26 de abril de 2025    |
+| MascotaMatch    | feature/index           | afe5753   | feat: landing page               | -                    | 26 de abril de 2025    |
+| MascotaMatch    | feature/home            | b1a74fa   | Feature: add landing register-login | -                | 26 de abril de 2025    |
+
+
+## Detalles
+Cada feature fue desarrollado en una branch diferente siguiendo buenas prácticas de control de versiones y trabajo en equipo. Se utilizaron mensajes de commit descriptivos y cada cambio fue verificado.
+
 
 ### 5.2.1.5. Execution Evidence for Sprint Review.
 
