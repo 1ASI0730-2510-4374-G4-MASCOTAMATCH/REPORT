@@ -20,12 +20,12 @@
 
 | Nombre     | Código                                     |
 |--------------|--------------------------------------------------|
-| Oscar Espinoza        | u2023         |
+| Oscar Espinoza        | u202311842         |
 | Gianfranco Durand     | u202312614                |
-| Stephano Landauri	        |u2023        |
-| Fabian Olivia	     |u2023                      |
-| Miguel | u20 |
-| Erick |       u                        | 
+| Stephano Landauri	        |u202311828        |
+| Fabian Olivia	     |u202312013                      |
+| Miguel Castro | u202314186 |
+| Erick Goicochea |       u202019181                       | 
 
 ## Ciclo 2025-01
 </div>
