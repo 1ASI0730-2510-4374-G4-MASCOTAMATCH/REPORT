@@ -228,9 +228,23 @@ El Sprint Backlog 1 consolida todas las funcionalidades principales de Mascota M
 
 Durante el Sprint 1, el equipo ejecutó las tareas de desarrollo de la Landing Page de MascotaMatch siguiendo el plan establecido. Se completó el objetivo de crear, implementar y desplegar la página con una estructura HTML básica, diseño UX/UI optimizado y estilos responsivos, todo dentro del plazo asignado.
 
--Enlace al Landing Page desplegado: 
+-Enlace al Landing Page desplegado: ++++++++++++++++++++++++++
 
--Capturas de pantalla de la ejecución: ++++++++++++++++++++++++++++++++++++
+-Capturas de pantalla de la ejecución: 
+
+![image](https://github.com/user-attachments/assets/299875a8-0b15-4bdb-b29e-533680b67e7c)
+
+![image](https://github.com/user-attachments/assets/c6d2d5dd-bb78-48ac-8db3-5f8108be7f08)
+
+![image](https://github.com/user-attachments/assets/112ae393-4d40-4ebd-9383-2cd8393782e4)
+
+![image](https://github.com/user-attachments/assets/d493cac4-c518-45b1-af4e-2a521b81cbd6)
+
+![image](https://github.com/user-attachments/assets/c6b9a7e9-a2f8-44d1-bf3e-5b51e52a726e)
+
+![image](https://github.com/user-attachments/assets/d701beb7-c557-49f8-9115-fe5addf06ab7)
+
+![image](https://github.com/user-attachments/assets/3709325a-6e6f-41fb-93cb-068e5feb7117)
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
@@ -242,7 +256,24 @@ En el Sprint 1 se realizó el lanzamiento de la primera versión del Landing Pag
 
 Cómo acceder a la landing page:++++++++++++++++++++++++++++++++++++
 
-Imágenes de la pantalla del Landing Page:++++++++++++++++++++++++++++++++++++
+Accedemos al dominio de la Landing Page, nos aseguramos que esta correctamente configurado y hacemos click en "guardar".
+
+Imágenes de la pantalla del Landing Page:
+
+
+![image](https://github.com/user-attachments/assets/299875a8-0b15-4bdb-b29e-533680b67e7c)
+
+![image](https://github.com/user-attachments/assets/c6d2d5dd-bb78-48ac-8db3-5f8108be7f08)
+
+![image](https://github.com/user-attachments/assets/112ae393-4d40-4ebd-9383-2cd8393782e4)
+
+![image](https://github.com/user-attachments/assets/d493cac4-c518-45b1-af4e-2a521b81cbd6)
+
+![image](https://github.com/user-attachments/assets/c6b9a7e9-a2f8-44d1-bf3e-5b51e52a726e)
+
+![image](https://github.com/user-attachments/assets/d701beb7-c557-49f8-9115-fe5addf06ab7)
+
+![image](https://github.com/user-attachments/assets/3709325a-6e6f-41fb-93cb-068e5feb7117)
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
 
