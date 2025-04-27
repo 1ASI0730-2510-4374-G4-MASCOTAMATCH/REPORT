@@ -217,6 +217,33 @@ El sistema de navegación de MascotaMatch ha sido diseñado para facilitar el re
 - **Bonos / Recompensas:**
   - Acceso a promociones y beneficios organizados por categorías.
 
+## 4.3. Landing Page UI Design
+
+El diseño de la landing page de MascotaMatch se enfocó en ofrecer una experiencia clara, accesible y centrada en el bienestar animal, dirigida tanto a dueños de mascotas como a profesionales del cuidado animal. Se organizó el contenido siguiendo principios de jerarquía visual, arquitectura de la información orientada a la acción y experiencia de usuario intuitiva. Cada sección está diseñada para reforzar la propuesta de valor de MascotaMatch: facilitar el acceso a servicios de calidad para mascotas urbanas.
+
+## 4.3.1. Landing Page Wireframe
+
+La navegación principal está compuesta por secciones clave: Home, Services, Plans, FAQ y Contact Support, complementadas con botones visibles de Login y Register, permitiendo que los usuarios accedan fácilmente a sus cuentas o se registren según su necesidad. Cada sección fue estructurada para responder preguntas esenciales del usuario: primero entender qué ofrece MascotaMatch, luego qué servicios están disponibles y cómo suscribirse.
+
+### Desktop Web Browser
+
+Se presentan las siguientes secciones:
+
+- **Navbar:** Fijo en la parte superior con acceso directo a Home, Services, Plans, FAQ, y botones de Login/Register.
+- **Hero Section:** Mensaje central con un eslogan claro (“Comprehensive care for your pet”), imagen representativa (un perro) y botón de llamada a la acción ("See Services").
+- **Our Services:** Cards o bloques visuales que describen los servicios clave (Safe Walks, Veterinary Check-Ups, Grooming, Emergencies) acompañados de íconos ilustrativos y texto breve.
+- **Plans Section:** Presenta los planes disponibles (VIP Plan, Complete Plan, Mini Plan) en tarjetas visuales con breve descripción de beneficios y botones para "Read more".
+- **FAQ Section:** Cards individuales que responden a preguntas frecuentes relevantes sobre servicios, suscripciones, cambios de plan y emergencias veterinarias.
+- **Contact Support:** Formulario simple para ingresar un correo electrónico y solicitar asistencia directa.
+- **Footer:** Información básica de la empresa, zonas de cobertura (Surquillo, San Borja, San Isidro) y enlaces rápidos de ayuda.
+
+## 4.3.2. Landing Page Mock-up
+El mock-up de la landing page de MascotaMatch presenta una interfaz limpia, moderna y funcional, organizada en una estructura vertical con navegación fija superior. Las secciones Home, Services, Plans y FAQs se muestran claramente en el navbar, acompañadas de botones visibles para Login y Register.
+
+Visualmente se usaron colores frescos (degradado celeste), tipografías legibles y gráficos amigables que refuerzan la identidad de MascotaMatch como plataforma confiable para el cuidado de mascotas. La paleta clara y los accesos rápidos mejoran la experiencia del usuario.
+
+### Desktop Web Browser
+
 ## 4.4.1 Web Applications Wireframes
 
 ### Iniciar sesión
