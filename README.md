@@ -151,8 +151,6 @@ Profesionales del cuidado animal: Incluye a veterinarios, técnicos veterinarios
 
 # Capítulo II: Requirements Elicitation & Analysis
 
-</div>
-
 ## 2.1. Competidores
 
 **Dog Houser**: Dog Houser es una plataforma peruana que conecta a dueños de mascotas con familias cuidadoras que ofrecen hospedaje y guardería en casa. Destaca por su ambiente familiar y personalizado, permitiendo elegir cuidadores según necesidades específicas.
