@@ -472,6 +472,34 @@ Se entrevistó a dos jóvenes dueños de mascotas que relataron su rutina diaria
 
 El Product Backlog es una lista priorizada de todas las funcionalidades, mejoras, correcciones y tareas necesarias para desarrollar un producto. Cada ítem del backlog, como las User Stories y Technical Stories, representa algo que aporta valor al proyecto. El backlog se actualiza constantemente y sirve como guía para el equipo, asegurando que se enfoque en construir lo que realmente necesita el usuario o cliente final.
 
+| # Orden | User Story ID | Título | Descripción | Story Points (1/2/3/5/8) |
+|:-------:|:-------------:|:------:|:------------|:------------------------:|
+| 1 | HU14 | Pantalla de Login obligatoria | Como visitante, deseo iniciar sesión en una pantalla previa para acceder al contenido protegido. | 5 |
+| 2 | HU15 | Registrarse si no tiene cuenta | Como visitante, deseo registrarme fácilmente si aún no tengo cuenta para ingresar al contenido. | 5 |
+| 3 | HU01 | Mensaje de bienvenida | Como visitante, deseo ver un mensaje de bienvenida para entender rápidamente el propósito del sitio. | 3 |
+| 4 | HU02 | Botón See Services | Como visitante, deseo hacer clic en "See Services" para ir directamente a la sección de servicios. | 3 |
+| 5 | HU03 | Visualizar tarjetas de servicios | Como visitante, deseo visualizar las tarjetas de servicios ofrecidos para conocer las opciones disponibles. | 5 |
+| 6 | HU04 | Descripción clara de servicios | Como visitante, deseo leer una breve descripción debajo de cada servicio para entender qué incluye. | 3 |
+| 7 | HU05 | Imágenes representativas de servicios | Como visitante, deseo que cada servicio tenga una imagen visual para reconocerlo rápidamente. | 2 |
+| 8 | HU06 | Ver planes de suscripción | Como visitante, deseo visualizar los distintos planes para comparar opciones y elegir el mejor. | 5 |
+| 9 | HU07 | Beneficios organizados en lista | Como visitante, deseo ver los beneficios de cada plan organizados en listas para entender qué incluye cada uno. | 3 |
+| 10 | HU09 | Botón Read More en cada plan | Como visitante, deseo hacer clic en un botón "Read More" para ver una página con información completa. | 2 |
+| 11 | HU18 | Acceso a páginas de detalle por plan | Como visitante, deseo poder acceder a una página individual con todos los detalles del plan. | 3 |
+| 12 | HU10 | Acceso a sección FAQ | Como visitante, deseo ver una sección de preguntas frecuentes con íconos y respuestas simples para resolver dudas. | 3 |
+| 13 | HU11 | Visualización del logo | Como visitante, deseo ver el logo de MascotaMatch en la parte superior izquierda para confirmar que estoy en el sitio correcto. | 1 |
+| 14 | HU12 | Menú de navegación | Como visitante, deseo tener acceso a un menú con secciones principales para moverme rápidamente por el sitio. | 2 |
+| 15 | HU13 | Footer con contacto | Como visitante, deseo ver en el pie de página opciones de contacto y ayuda para comunicarme si necesito información. | 2 |
+| 16 | HU16 | Diseño uniforme | Como visitante, deseo navegar en un sitio con diseño uniforme para sentir confianza y comodidad. | 2 |
+| 17 | HU17 | Visualización responsiva | Como visitante, deseo que el sitio se vea bien en mi computadora o celular para poder explorarlo cómodamente. | 3 |
+| 18 | HU08 | Imagen por plan | Como visitante, deseo que cada plan tenga una imagen para diferenciarlo visualmente. | 2 |
+| 19 | TS04 | POST Registro de usuario | Como desarrollador, deseo enviar información a la API para registrar nuevos usuarios. | 5 |
+| 20 | TS05 | POST Inicio de sesión | Como desarrollador, deseo enviar información a la API para permitir el inicio de sesión. | 5 |
+| 21 | TS01 | GET Servicios disponibles | Como desarrollador, deseo conectar con la API para obtener los servicios disponibles. | 3 |
+| 22 | TS02 | GET Planes disponibles | Como desarrollador, deseo conectar con la API para obtener los planes de suscripción. | 3 |
+| 23 | TS03 | GET Preguntas frecuentes | Como desarrollador, deseo conectar con la API para obtener las preguntas frecuentes. | 2 |
+| 24 | TS07 | POST Agendar citas | Como desarrollador, deseo enviar información a la API para registrar una cita de servicio. | 5 |
+| 25 | TS08 | GET Citas agendadas | Como desarrollador, deseo obtener desde la API la lista de citas agendadas del usuario. | 3 |
+| 26 | TS06 | GET Perfil de usuario | Como desarrollador, deseo obtener desde la API la información del perfil del usuario autenticado. | 3 |
 
 ### 4. UX/UI Design
 </div>
@@ -1982,34 +2010,3 @@ A continuación, se listan las fuentes que sirvieron como referencia o guía par
 - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 - [Gherkin Conventions for Readable Specifications](https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/)
 - [How to Write a User Story for an API Product](https://sameera17w.medium.com/how-to-write-a-user-story-for-an-api-product7af6abd4ad2e)
-
-
-
-| # Orden | User Story ID | Título | Descripción | Story Points (1/2/3/5/8) |
-|:-------:|:-------------:|:------:|:------------|:------------------------:|
-| 1 | HU14 | Pantalla de Login obligatoria | Como visitante, deseo iniciar sesión en una pantalla previa para acceder al contenido protegido. | 5 |
-| 2 | HU15 | Registrarse si no tiene cuenta | Como visitante, deseo registrarme fácilmente si aún no tengo cuenta para ingresar al contenido. | 5 |
-| 3 | HU01 | Mensaje de bienvenida | Como visitante, deseo ver un mensaje de bienvenida para entender rápidamente el propósito del sitio. | 3 |
-| 4 | HU02 | Botón See Services | Como visitante, deseo hacer clic en "See Services" para ir directamente a la sección de servicios. | 3 |
-| 5 | HU03 | Visualizar tarjetas de servicios | Como visitante, deseo visualizar las tarjetas de servicios ofrecidos para conocer las opciones disponibles. | 5 |
-| 6 | HU04 | Descripción clara de servicios | Como visitante, deseo leer una breve descripción debajo de cada servicio para entender qué incluye. | 3 |
-| 7 | HU05 | Imágenes representativas de servicios | Como visitante, deseo que cada servicio tenga una imagen visual para reconocerlo rápidamente. | 2 |
-| 8 | HU06 | Ver planes de suscripción | Como visitante, deseo visualizar los distintos planes para comparar opciones y elegir el mejor. | 5 |
-| 9 | HU07 | Beneficios organizados en lista | Como visitante, deseo ver los beneficios de cada plan organizados en listas para entender qué incluye cada uno. | 3 |
-| 10 | HU09 | Botón Read More en cada plan | Como visitante, deseo hacer clic en un botón "Read More" para ver una página con información completa. | 2 |
-| 11 | HU18 | Acceso a páginas de detalle por plan | Como visitante, deseo poder acceder a una página individual con todos los detalles del plan. | 3 |
-| 12 | HU10 | Acceso a sección FAQ | Como visitante, deseo ver una sección de preguntas frecuentes con íconos y respuestas simples para resolver dudas. | 3 |
-| 13 | HU11 | Visualización del logo | Como visitante, deseo ver el logo de MascotaMatch en la parte superior izquierda para confirmar que estoy en el sitio correcto. | 1 |
-| 14 | HU12 | Menú de navegación | Como visitante, deseo tener acceso a un menú con secciones principales para moverme rápidamente por el sitio. | 2 |
-| 15 | HU13 | Footer con contacto | Como visitante, deseo ver en el pie de página opciones de contacto y ayuda para comunicarme si necesito información. | 2 |
-| 16 | HU16 | Diseño uniforme | Como visitante, deseo navegar en un sitio con diseño uniforme para sentir confianza y comodidad. | 2 |
-| 17 | HU17 | Visualización responsiva | Como visitante, deseo que el sitio se vea bien en mi computadora o celular para poder explorarlo cómodamente. | 3 |
-| 18 | HU08 | Imagen por plan | Como visitante, deseo que cada plan tenga una imagen para diferenciarlo visualmente. | 2 |
-| 19 | TS04 | POST Registro de usuario | Como desarrollador, deseo enviar información a la API para registrar nuevos usuarios. | 5 |
-| 20 | TS05 | POST Inicio de sesión | Como desarrollador, deseo enviar información a la API para permitir el inicio de sesión. | 5 |
-| 21 | TS01 | GET Servicios disponibles | Como desarrollador, deseo conectar con la API para obtener los servicios disponibles. | 3 |
-| 22 | TS02 | GET Planes disponibles | Como desarrollador, deseo conectar con la API para obtener los planes de suscripción. | 3 |
-| 23 | TS03 | GET Preguntas frecuentes | Como desarrollador, deseo conectar con la API para obtener las preguntas frecuentes. | 2 |
-| 24 | TS07 | POST Agendar citas | Como desarrollador, deseo enviar información a la API para registrar una cita de servicio. | 5 |
-| 25 | TS08 | GET Citas agendadas | Como desarrollador, deseo obtener desde la API la lista de citas agendadas del usuario. | 3 |
-| 26 | TS06 | GET Perfil de usuario | Como desarrollador, deseo obtener desde la API la información del perfil del usuario autenticado. | 3 |
