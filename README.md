@@ -1660,6 +1660,332 @@ Se entrevistó a dos jóvenes dueños de mascotas que relataron su rutina diaria
 
 El Product Backlog es una lista priorizada de todas las funcionalidades, mejoras, correcciones y tareas necesarias para desarrollar un producto. Cada ítem del backlog, como las User Stories y Technical Stories, representa algo que aporta valor al proyecto. El backlog se actualiza constantemente y sirve como guía para el equipo, asegurando que se enfoque en construir lo que realmente necesita el usuario o cliente final.
 
+feature/Chapter-5
+# Capítulo V: Product Implementation, Validation & Deployment
+## 5.1. Software Configuration Management
+
+### 5.1.1. Software Development Environment Configuration
+
+**Requirements Management**
+
+**User Experience Design (UX/UI)**
+
+**Project Managment**
+
+1. Discord y WhatsApp: Estas plataformas fueron esenciales para la comunicación interna del equipo, siendo WhatsApp especialmente útil por su facilidad para gestionar grupos de trabajo.
+
+2. Trello: Se utilizó para planificar y dar seguimiento al avance del proyecto mediante tableros que representaban el backlog del producto y otras tareas organizativas.
+
+**Product UX/UI**
+
+
+1. Figma: Herramienta principal para el diseño de wireframes y prototipos, tanto en versiones de escritorio como móviles.
+
+2. Miro: Apoyo en la creación de los escenarios mapping y escenario mapping en ambos casos para ambos segmentos del objetivo en el desarrollo del proyecto.
+
+
+**Software Development**
+
+1. Visual Studio Code: Editor principal utilizado para programar el landing page.
+
+2. Github y Git bash: Se emplearon para el control de versiones y el desarrollo colaborativo del repositorio del proyecto.
+
+3.HTML y CSS: Lenguajes fundamentales utilizados para la estructura (HTML) y el diseño visual (CSS) del landing page.
+
+**Software Documentation**
+
+1. Google Drive: Plataforma utilizada para el almacenamiento compartido de documentación e informes colaborativos.
+   
+2. Google Meets y Zoom: Se usó Google Meets más que nada para las videoconferencias de reunión del equipo y el Zoom para las grabaciones de las entrevistas, y las presentaciones del trabajo en el desarrollo de este.
+   
+3. LucidChart: Herramienta utilizada para diagramas de flujo y modelado visual del diseño de la aplicación, incluyendo diagramas de clases.
+   
+4. Structuriz: Permite la creación del modelo C4 en sus tres niveles (contexto, contenedores, componentes), también trabajado en conjunto con Visual Studio Code.
+   
+5. Vertabello: Se empleó para el diseño de la base de datos y sus respectivos diagramas lógicos.
+
+
+### 5.1.2. Source Code Management
+
+Para el desarrollo de MascotaMatch, se implementará el modelo GitFlow como estándar de control de versiones, utilizando GitHub como plataforma central. Esta metodología permitirá una organización clara y sistemática del trabajo en equipo, facilitando la colaboración, el control de cambios y la integración continua. A continuación, se describe cómo se aplicará GitFlow dentro del proyecto y los enlaces relevantes a los repositorios de GitHub.
+
+**GitFlow Workflow:**
+
+- Ramas principales: main (para versiones estables de producción) y develop (para integrar el desarrollo en curso).
+  
+- Ramas de características (features): Cada nueva funcionalidad de MascotaMatch será desarrollada en una rama específica, siguiendo un esquema de nombres como feature/nombre-de-la-funcionalidad.
+  
+- Rama develop:  Es la rama base para el desarrollo de nuevas funcionalidades. Todo el trabajo en curso se integra primero en develop, y solo después de ser validado, se pasa a main.
+
+**Repositorios de GitHub:**
+
+- Enlace a la organización en GitHub: https://github.com/orgs/1ASI0730-2510-4374-G4-MASCOTAMATCH/repositories
+  
+- Enlace al repositorio de la **Landing Page**: +++++++++++++++++++++++++++++++++++++
+
+![images](https://github.com/user-attachments/assets/225ec5f9-9df1-42fb-8314-6d8e13689763)
+
+
+**Estructura de Ramas (Branches) en GitFlow:**
+
+1. **Rama main (Principal):** Es la rama principal del proyecto, contiene la versión más reciente y estable de MascotaMatch, apta para producción.
+   
+2. **Rama Develop (Desarrollo):** Su función es mantener el progreso continuo del proyecto. Aglutina el trabajo diario del equipo de desarrollo, sirviendo de base para integrar nuevas funcionalidades antes de su despliegue final.
+   
+3. **Ramas de Funcionalidad (Feature branches):** Cada funcionalidad nueva (por ejemplo, "registro de mascotas" o "búsqueda de adopciones") se trabajará en una rama independiente, la cual se fusionará en develop una vez completada y verificada.
+
+**Convenciones de Commits:**
+
+En el repositorio de GitHub del proyecto MascotaMatch, se siguió el estándar de convenciones de commits versión 1.1.0. Esta convención establece una sintaxis clara para los mensajes de commit con el siguiente formato:
+
+<tipo>[alcance opcional]: <descripción>
+
+1. Tipo: indica la naturaleza del cambio, como feat para nuevas funcionalidades, fix para correcciones, o docs para modificaciones en la documentación.
+
+
+2. Alcance (opcional): especifica el área del código afectada por el cambio.
+
+
+3. Descripción: resume brevemente lo que se ha hecho en ese commit.
+
+
+### 5.1.3. Source Code Style Guide & Conventions
+
+En el desarrollo de nuestra Landing Page, hemos seguido las mejores prácticas de diseño web, empleando HTML y CSS para estructurar y
+estilizar el contenido de manera eficaz. Para organizar la información, utilizamos etiquetas HTML de encabezado, como "h1" para los 
+títulos y "p" para los párrafos. Para personalizar el estilo visual, aplicamos el atributo styles.css en HTML, ajustando propiedades 
+como el color, el tamaño de la fuente y el tipo de letra. Para resaltar ciertos elementos, usamos "strong" en el footer para énfasis 
+adicional. En cuanto a la navegación, diseñamos una barra horizontal con css, lo que contribuye a una experiencia de usuario más fluida 
+al explorar la página. Para hacer la página más interactiva, agregamos botones con efectos de hover utilizando css, tanto en secciones 
+como planes y botones para register y login. Para facilitar el acceso entre diferentes secciones de productos también usamos css. Por 
+último, en el pie de página, incluimos un formulario para contactarse con nuestro soporte, brindando a los usuarios una forma sencilla y 
+directa de conectarse con nosotros y por nuestra parte estar al tanto de ellos.
+
+**HTML Style Guide and Coding Conventions**
+
+1. Se emplea una indentación de dos espacios para mantener una estructura clara y legible.
+
+
+2. Las etiquetas HTML se escriben en minúsculas, al igual que sus atributos.
+
+
+3. Se insertan comentarios breves y precisos en el código para facilitar su entendimiento por parte del equipo de desarrollo.
+
+**CSS Style Guide (Based on Google HTML/CSS Style Guide)**
+
+1. Las clases siguen el formato de guiones medios (por ejemplo, .main-container).
+
+
+2. Las líneas de código se limitan a un máximo de 80 caracteres para mantener la legibilidad.
+
+
+3. Se utilizan nombres descriptivos para clases e identificadores, facilitando la comprensión de su propósito.
+
+**JavaScript Style Guide**
+
+1. Las variables y funciones se nombran utilizando camelCase.
+
+
+2. Se usa una indentación de dos espacios para mantener la uniformidad.
+
+
+3. Las comillas simples (' ') son el estándar para definir strings.
+
+
+4. Se incluyen comentarios explicativos para aclarar el comportamiento de las funciones y bloques clave.
+
+**Gherkin Conventions for Readable Specifications**
+
+1. Se redactan escenarios en lenguaje claro y comprensible, siguiendo la estructura Given - When - Then, para documentar de forma efectiva el comportamiento esperado del sistema.
+
+
+### 5.1.4. Software Deployment Configuration. 
+
+Para el alojamiento de nuestra Landing Page, utilizaremos GitHub Pages. Subiremos los archivos necesarios (como HTML y CSS) a un repositorio público en GitHub, de modo que la página sea accesible en línea y pueda ser visitada por cualquier usuario.
+
+# 5.2. Landing Page, Services & Applications Implementation.
+
+## 5.2.1. Sprint 1
+
+### 5.2.1.1. Sprint Planning 1.
+
+El Sprint Planning 1 establece la organización inicial del equipo para desarrollar el MVP de Mascota Match. Se definen el objetivo del Sprint, las User Stories que serán trabajadas, la capacidad del equipo, y los entregables esperados. Este proceso permite una planificación clara y el alineamiento de todo el equipo hacia un mismo objetivo para la entrega de valor.
+
+| Campo | Información |
+|:------|:------------|
+| **Sprint #** | Sprint 1 |
+| **Date** | 2024-04-18 |
+| **Time** | 05:00 PM |
+| **Location** | Virtual (Discord y Zoom) |
+| **Prepared By** | Oscar Espinoza, Miguel Vidal, Stephano Landaurí, Fabian Oliva, Gianfranco Durand, Erick Vasquez |
+| **Attendees (to planning meeting)** | Oscar Espinoza, Miguel Vidal, Stephano Landaurí, Fabian Oliva, Gianfranco Durand, Erick Vasquez |
+| **Sprint n – 1 Review Summary** | No aplica (Primer Sprint del proyecto Mascota Match). |
+| **Sprint n – 1 Retrospective Summary** | No aplica (Primer Sprint del proyecto Mascota Match). |
+| **Sprint n Goal** | Finalizar la primera versión de Mascota Match, incluyendo registro de usuarios, login, navegación general, publicación de servicios, planes de suscripción, sección de FAQ, agendamiento de citas y perfil de usuario.<br><br>**Sprint Goal:**<br>Our focus is on launching Mascota Match MVP.<br>We believe it delivers essential functionality and first user experience.<br>This will be confirmed when users can register, navigate, consult services, choose a plan, and book an appointment successfully. |
+| **Sprint n Velocity** | 82 Story Points |
+| **Sprint Goal & User Stories** | **User Stories:**<br>HU01, HU02, HU03, HU04, HU05, HU06, HU07, HU08, HU09, HU10, HU11, HU12, HU13, HU14, HU15, HU16, HU17, HU18, TS01, TS02, TS03, TS04, TS05, TS06, TS07, TS08 |
+| **Sum of Story Points** | **82 Story Points** |
+
+### 5.2.1.2. Aspect Leaders and Collaborators
+
+Para asegurar una ejecución eficiente del Sprint 1, se definieron líderes y colaboradores responsables de las principales áreas del proyecto. Cada miembro del equipo lidera o apoya aspectos específicos como el desarrollo de páginas, integración de funcionalidades, diseño visual y animaciones. Esta matriz garantiza una asignación clara de tareas y fomenta el trabajo colaborativo.
+
+| Team Member | GitHub Username | Home | Index | Plan Complete | Plan Mini | Plan VIP | FAQ / Perfil / Agendamiento / Animaciones |
+|:-----------:|:----------------|:----:|:-----:|:-------------:|:---------:|:--------:|:----------------------------------------:|
+| Oscar Espinoza | OscarEspinoza5443 | L | C | C | C | C | C |
+| Miguel Vidal | Gossk | C | L | C | C | C | C |
+| Fabian Oliva | FabulousFabStar | C | C | L | C | C | C |
+| Stephano Landaurí | Mayrzon02 | C | C | C | L | C | C |
+| Gianfranco Durand | Azucarita | C | C | C | C | L | C |
+| Erick Vasquez | erick580 | C | C | C | C | C | L |
+
+### 5.2.1.3. Sprint Backlog 1 
+
+El Sprint Backlog 1 consolida todas las funcionalidades principales de Mascota Match, enfocándose en completar toda la experiencia de usuario inicial: registro, login, navegación, servicios, planes de suscripción, sección FAQ, agendamiento de citas y consulta de perfiles.
+
+| User Story | Work-Item / Task | Description | Estimation (Hours) | Assigned To | Status |
+|:----------:|:----------------:|:-----------:|:------------------:|:-----------:|:------:|
+| HU14 | T1 | Crear pantalla de Login | 5 | Stephano (Plan Mini) | Done |
+| HU15 | T2 | Crear pantalla de Registro | 5 | Oscar (Home) | Done |
+| TS04 | T3 | Programar POST registro API | 5 | Oscar (Home) | Done |
+| TS05 | T4 | Programar POST login API | 5 | Miguel (Index) | Done |
+| HU11 | T5 | Visualizar logo en navbar | 1 | Fabian (Plan Complete) | Done |
+| HU12 | T6 | Menú de navegación principal | 2 | Miguel (Index) | Done |
+| HU16 | T7 | Aplicar diseño uniforme | 2 | Fabian (Plan Complete) | Done |
+| HU17 | T8 | Adaptar responsividad móvil | 3 | Erick (Animaciones) | Done |
+| HU01 | T9 | Crear sección bienvenida | 3 | Oscar (Home) | Done |
+| HU02 | T10 | Programar botón See Services | 3 | Miguel (Index) | Done |
+| HU03 | T11 | Diseñar tarjetas de servicios | 5 | Miguel (Index) | Done |
+| HU04 | T12 | Agregar descripción de servicios | 3 | Erick (Animaciones) | Done |
+| HU05 | T13 | Insertar imágenes en servicios | 2 | Erick (Animaciones) | Done |
+| TS01 | T14 | GET servicios disponibles API | 3 | Miguel (Index) | Done |
+| HU06 | T15 | Crear tarjetas planes VIP, Completo, Mini | 5 | Fabian, Stephano, Gianfranco | Done |
+| HU07 | T16 | Listar beneficios por plan | 3 | Fabian, Stephano, Gianfranco | Done |
+| HU08 | T17 | Imagen única por plan | 2 | Erick (Animaciones) | Done |
+| TS02 | T18 | GET planes de suscripción API | 3 | Miguel (Index) | Done |
+| HU09 | T19 | Botón "Read More" en cada plan | 2 | Stephano (Plan Mini) | Done |
+| HU18 | T20 | Crear páginas detalle de planes | 3 | Oscar (Home) | Done |
+| HU10 | T21 | Crear sección FAQ | 3 | Erick (Animaciones) | Done |
+| TS03 | T22 | GET preguntas frecuentes API | 2 | Miguel (Index) | Done |
+| HU13 | T23 | Footer contacto y ayuda | 2 | Fabian (Plan Complete) | Done |
+| TS06 | T24 | GET perfil de usuario API | 3 | Miguel (Index) | Done |
+| TS07 | T25 | POST agendar cita API | 5 | Gianfranco (Plan VIP) | Done |
+| TS08 | T26 | GET citas agendadas API | 3 | Gianfranco (Plan VIP) | Done |
+
+ URL del Board Trello 
+
+--> https://trello.com/invite/b/680d687b243945443095fd34/ATTIce7e124a2b8bc6835ae388ae521389d986676F9C/trabajo
+
+### 5.2.1.4. Development Evidence for Sprint Review
+
+
+| Repository      | Branch                | Commit ID | Commit Message                  | Commit Message Body | Committed on Date     |
+|-----------------|------------------------|-----------|----------------------------------|----------------------|------------------------|
+| MascotaMatch    | feature/animaciones     | 298c45a   | feat: add vc animaciones         | -                    | 26 de abril de 2025    |
+| MascotaMatch    | feature/plan_vip        | e856efe   | feat:add plan_vip                | -                    | 26 de abril de 2025    |
+| MascotaMatch    | feature/plan_mini       | d08a274   | feat:Add Plan_mini               | -                    | 26 de abril de 2025    |
+| MascotaMatch    | feature/plan_complete   | b8fe11d   | feat: add PlanComplete           | -                    | 26 de abril de 2025    |
+| MascotaMatch    | feature/index           | afe5753   | feat: landing page               | -                    | 26 de abril de 2025    |
+| MascotaMatch    | feature/home            | b1a74fa   | Feature: add landing register-login | -                | 26 de abril de 2025    |
+
+
+## Detalles
+Cada feature fue desarrollado en una branch diferente siguiendo buenas prácticas de control de versiones y trabajo en equipo. Se utilizaron mensajes de commit descriptivos y cada cambio fue verificado.
+
+
+### 5.2.1.5. Execution Evidence for Sprint Review.
+
+Durante el Sprint 1, el equipo ejecutó las tareas de desarrollo de la Landing Page de MascotaMatch siguiendo el plan establecido. Se completó el objetivo de crear, implementar y desplegar la página con una estructura HTML básica, diseño UX/UI optimizado y estilos responsivos, todo dentro del plazo asignado.
+
+-Enlace al Landing Page desplegado: ++++++++++++++++++++++++++
+
+-Capturas de pantalla de la ejecución: 
+
+![image](https://github.com/user-attachments/assets/299875a8-0b15-4bdb-b29e-533680b67e7c)
+
+![image](https://github.com/user-attachments/assets/c6d2d5dd-bb78-48ac-8db3-5f8108be7f08)
+
+![image](https://github.com/user-attachments/assets/112ae393-4d40-4ebd-9383-2cd8393782e4)
+
+![image](https://github.com/user-attachments/assets/d493cac4-c518-45b1-af4e-2a521b81cbd6)
+
+![image](https://github.com/user-attachments/assets/c6b9a7e9-a2f8-44d1-bf3e-5b51e52a726e)
+
+![image](https://github.com/user-attachments/assets/d701beb7-c557-49f8-9115-fe5addf06ab7)
+
+![image](https://github.com/user-attachments/assets/3709325a-6e6f-41fb-93cb-068e5feb7117)
+
+### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+Durante el Sprint 1, el equipo de MascotaMatch se enfocó en el desarrollo de la Landing Page del proyecto, por lo que no se implementaron ni consumieron servicios (APIs) en esta etapa. La documentación de servicios se realizará en futuros sprints, conforme se avance en el desarrollo del backend y las funcionalidades dinámicas de la aplicación.
+
+### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+En el Sprint 1 se realizó el lanzamiento de la primera versión del Landing Page, la cual fue publicada mediante GitHub Pages. A continuación, se muestran las evidencias correspondientes al despliegue.
+
+Cómo acceder a la landing page:++++++++++++++++++++++++++++++++++++
+
+Accedemos al dominio de la Landing Page, nos aseguramos que esta correctamente configurado y hacemos click en "guardar".
+
+Imágenes de la pantalla del Landing Page:
+
+
+![image](https://github.com/user-attachments/assets/299875a8-0b15-4bdb-b29e-533680b67e7c)
+
+![image](https://github.com/user-attachments/assets/c6d2d5dd-bb78-48ac-8db3-5f8108be7f08)
+
+![image](https://github.com/user-attachments/assets/112ae393-4d40-4ebd-9383-2cd8393782e4)
+
+![image](https://github.com/user-attachments/assets/d493cac4-c518-45b1-af4e-2a521b81cbd6)
+
+![image](https://github.com/user-attachments/assets/c6b9a7e9-a2f8-44d1-bf3e-5b51e52a726e)
+
+![image](https://github.com/user-attachments/assets/d701beb7-c557-49f8-9115-fe5addf06ab7)
+
+![image](https://github.com/user-attachments/assets/3709325a-6e6f-41fb-93cb-068e5feb7117)
+
+### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+En el Sprint 1, el equipo se centró en el desarrollo, implementación y despliegue de la Landing Page de MascotaMatch. El trabajo se distribuyó de manera colaborativa, con cada miembro asumiendo responsabilidades en áreas clave como el desarrollo de la estructura HTML, el diseño de la interfaz y la experiencia de usuario, y la creación de estilos responsivos. Además, algunos miembros se encargaron del control de versiones y del despliegue en GitHub Pages.
+
+La comunicación fue constante a través de plataforma usada: Discord, WhatsApp, Slack; y utilizamos herramientas como Trello, GitHub Projects para gestionar tareas y hacer seguimiento de los avances. La colaboración fue eficiente y fluida, pero se identificó la necesidad de mejorar la planificación temporal para optimizar la entrega de futuros sprints.
+
+## Conclusiones
+
+El desarrollo del proyecto *MascotaMatch* permitió aplicar de manera efectiva los principios de diseño UX/UI, así como el modelado de la interacción de los usuarios a través de wireframes, wireflows y prototipos.
+
+Se logró diseñar una plataforma simple, amigable y adaptada a las necesidades de los usuarios, enfocándose en facilitar tareas comunes como registrarse, iniciar sesión, explorar servicios y seleccionar planes de atención para mascotas.  
+El diseño aplicado en los mockups reflejó consistencia en la paleta de colores, tipografías y componentes visuales, mejorando la experiencia de navegación en diferentes dispositivos (desktop y mobile).
+
+Además, se plantearon historias técnicas fáciles relacionadas a la conexión API, promoviendo una arquitectura ordenada para que los datos de servicios, planes, citas y perfiles de usuario puedan cargarse dinámicamente, reduciendo el mantenimiento manual y mejorando la escalabilidad.
+
+---
+## Bibliografía 
+A continuación, se listan las fuentes que sirvieron como referencia o guía para el desarrollo del trabajo:
+
+- [The Markdown Guide](https://www.markdownguide.org/)
+- [Seriously, what’s your (startup’s) problem?](https://medium.com/@jakemendel/seriously-whats-your-startup-s-problem-b3a884c54ab4)
+- [5W+2H - Técnica de análisis de problemas](https://www.progressalean.com/5w2h-tecnica-de-analisis-de-problemas/)
+- [Ubiquitous Language (Martin Fowler)](https://martinfowler.com/bliki/UbiquitousLanguage.html)
+- [Lean UX – Chapter 3](https://www.scribd.com/document/655516553/Leanux-Sampler)
+- [Mike Cohn’s Mountain Goat Software Blog – User Stories](https://www.mountaingoatsoftware.com/blog/tag/user-stories)
+- [User vs. Buyer Persona: Differences and Free Template](https://uxpressia.com/blog/user-persona-vs-buyer-persona-difference)
+- [How to create an Impact Map in 4 easy steps](https://uxpressia.com/blog/build-impact-map-4-easy-steps)
+- [As-is Scenario Map](https://www.ibm.com/design/thinking/page/toolkit/activity/as-is-scenario-map)
+- [To-be Scenario Map](https://www.ibm.com/design/thinking/page/toolkit/activity/to-be-scenario-map)
+- [Acceptance Criteria in Scrum: Explanation, Examples, and Template](https://dzone.com/articles/acceptance-criteria-in-software-explanation-exampl)
+- [A Beginner’s Guide to finding User Needs](https://jdittrich.github.io/userNeedResearchBook/)
+- [Scenario Mapping](http://www.uxforthemasses.com/scenario-mapping/)
+- [What are User Flows in User Experience (UX) Design?](https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/)
+- [Design Systems 101](https://www.nngroup.com/articles/design-systems-101/)
+- [Front-End Style-Guides](https://www.nngroup.com/articles/front-end-style-guides/)
+- [HTML Style Guide and Coding Conventions (W3Schools)](https://www.w3schools.com/html/html5_syntax.asp)
+- [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+- [Gherkin Conventions for Readable Specifications](https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/)
+- [How to Write a User Story for an API Product](https://sameera17w.medium.com/how-to-write-a-user-story-for-an-api-product7af6abd4ad2e)
+
+
+
 | # Orden | User Story ID | Título | Descripción | Story Points (1/2/3/5/8) |
 |:-------:|:-------------:|:------:|:------------|:------------------------:|
 | 1 | HU14 | Pantalla de Login obligatoria | Como visitante, deseo iniciar sesión en una pantalla previa para acceder al contenido protegido. | 5 |
@@ -1689,3 +2015,4 @@ El Product Backlog es una lista priorizada de todas las funcionalidades, mejoras
 | 25 | TS08 | GET Citas agendadas | Como desarrollador, deseo obtener desde la API la lista de citas agendadas del usuario. | 3 |
 | 26 | TS06 | GET Perfil de usuario | Como desarrollador, deseo obtener desde la API la información del perfil del usuario autenticado. | 3 |
 develop
+ develop
