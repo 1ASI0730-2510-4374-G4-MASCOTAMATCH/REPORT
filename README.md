@@ -34,8 +34,7 @@ La startup MascotaMatch busca mejorar significativamente la calidad de vida de l
 
 |Criterio Específico                                            | Acciones Realizadas                                        | Conclusiones                  |
 |---------------------------------------------------------------|------------------------------------------------------------|--------------------------------|
-|Trabajar en equipo para proporcionar liderazgo en forma conjunta | **Fabián Oliva**  **TB1** Desarrollé el análisis competitivo e identificó estrategias frente a los competidores. Además, diseñé la arquitectura de información, sistemas de organización, etiquetado, búsqueda y navegación. También configuré el entorno de desarrollo y la gestión del software.| TB1:
-Cada integrante cumplió con sus responsabilidades asignadas, aportando al análisis competitivo, diseño UX, desarrollo técnico y planificación ágil. Gracias a una comunicación constante y efectiva, se logró integrar los avances de manera coherente, sentando una base sólida para continuar el desarrollo del proyecto MascotaMatch.|
+|Trabajar en equipo para proporcionar liderazgo en forma conjunta | **Fabián Oliva**  **TB1** Desarrollé el análisis competitivo e identificó estrategias frente a los competidores. Además, diseñé la arquitectura de información, sistemas de organización, etiquetado, búsqueda y navegación. También configuré el entorno de desarrollo y la gestión del software.| TB1: Cada integrante cumplió con sus responsabilidades asignadas, aportando al análisis competitivo, diseño UX, desarrollo técnico y planificación ágil. Gracias a una comunicación constante y efectiva, se logró integrar los avances de manera coherente, sentando una base sólida para continuar el desarrollo del proyecto MascotaMatch.|
 
   
 
