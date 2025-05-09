@@ -147,31 +147,30 @@ Se entrevistó a dos jóvenes dueños de mascotas que relataron su rutina diaria
 
 ![Image](https://github.com/user-attachments/assets/d905fcc8-48b0-475e-9943-95abd94400ea)
 
-# Proveedores de cuidado animal (Proveedores)
+# Cuidadores de animales (Proveedores)
 
 ![Image](https://github.com/user-attachments/assets/6a23a831-1475-4892-b663-f94a473c204e)
 
 ### 2.3.2 Task Matrix
+| **Task Matrix para Dueños de Mascotas** |                |                 |
+|----------------------------------------|----------------|-----------------|
+| **Tareas**                              | **Frecuencia** | **Importancia** |
+| Buscar proveedores confiables           | Media          | Alta            |
+| Agendar una cita                        | Media          | Alta            |
+| Pagar servicio mensual                  | Media          | Alta            |
+| Revisar historial de la mascota         | Media          | Media           |
+| Acceso a servicios de emergencia        | Baja           | Alta            |
 
-# Task Matrix para Dueños de Mascotas
+---
 
-| **Tareas**                          | **Frecuencia** | **Importancia** |
-|-------------------------------------|----------------|-----------------|
-| Buscar proveedores confiables       | Media          | Alta            |
-| Agendar una cita                    | Media          | Alta            |
-| Pagar servicio mensual              | Media          | Alta            |
-| Revisar historial de la mascota    | Media          | Media           |
-| Acceso a servicios de emergencia   | Baja           | Alta            |
-
-# Task Matrix para Proveedores de Cuidado Animal
-
-| **Tareas**                          | **Frecuencia** | **Importancia** |
-|-------------------------------------|----------------|-----------------|
-| Agendar un servicio                 | Alta           | Media           |
-| Buscar nuevos clientes              | Alta           | Alta            |
-| Verificar disponibilidad de citas   | Media          | Alta            |
-| Recibir pago por servicios          | Alta           | Alta            |
-| Recibir feedback y mejorar servicio | Media          | Media           |
+| **Task Matrix para Cuidadores de Animales** |                |                 |
+|--------------------------------------------|----------------|-----------------|
+| **Tareas**                                  | **Frecuencia** | **Importancia** |
+| Agendar un servicio                         | Alta           | Media           |
+| Buscar nuevos clientes                      | Alta           | Alta            |
+| Verificar disponibilidad de citas           | Media          | Alta            |
+| Recibir pago por servicios                  | Alta           | Alta            |
+| Recibir feedback y mejorar servicio         | Media          | Media           |
 
 ### 2.3.3 User Journey Map
 
@@ -179,7 +178,7 @@ Se entrevistó a dos jóvenes dueños de mascotas que relataron su rutina diaria
 
 ![Image](https://github.com/user-attachments/assets/08312de5-b2b6-4466-9fcd-38fd0fd96d6d)
 
-## User Journey Map para Proveedores de cuidado animal
+## User Journey Map para Cuidadores de animales
 
 ![Image](https://github.com/user-attachments/assets/ea6c9a1d-1ee0-4f9a-8faa-c5527b1545b9)
 
@@ -189,15 +188,13 @@ Se entrevistó a dos jóvenes dueños de mascotas que relataron su rutina diaria
 
 ![Image](https://github.com/user-attachments/assets/2953b6cc-bd86-4e92-89a8-f45c6be44e08)
 
-## Empathy Map para Proveedores de Cuidado Animal
+## Empathy Map para Cuidadores de animales
 
 ![Image](https://github.com/user-attachments/assets/77711368-dde2-47a0-a3f2-83c8943598ef)
 
 ### 2.3.5. As-is Scenario Mapping.
 
 ![Escenario As-Is de Angel](./assets/miro1.jpg)
-
-### Escenario As-Is: Carla buscando clientes sin plataforma especializada
 
 ![Escenario As-Is de Carla](./assets/miro2.jpg)
 
