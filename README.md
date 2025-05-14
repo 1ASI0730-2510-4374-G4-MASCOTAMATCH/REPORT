@@ -241,7 +241,7 @@ En esta sección se desarrolla la investigación realizada sobre nuestros públi
 
 ![image](https://github.com/user-attachments/assets/3709aa26-ce3f-4a4d-bb0d-c8c00866898d)
 
-https://bit.ly/4jSgQgS 
+https://bit.ly/4jSgQgS
 ---
 
 ### Entrevistado 2: Jagger Baldivieso
@@ -253,7 +253,7 @@ Realiza paseos a su mascota tres veces al día y verifica constantemente su bien
 
 <img width="1512" alt="image" src="https://github.com/user-attachments/assets/faacacfa-f238-4d33-9042-bd41bbdbe388" />
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311828_upc_edu_pe/ERExDL-Coe5BptW5nop3KCwBcTepw3DZIxLfRRTtK_TqOQ?e=od8dKr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+https://bit.ly/4jSgQgS
 
 --- 
 
@@ -269,7 +269,7 @@ Veterinario con 8 años de experiencia colegiado, trabaja actualmente en una emp
 
 ![image](https://github.com/user-attachments/assets/c7099fdc-175f-466e-8525-98452d9f6f16)
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311828_upc_edu_pe/ERExDL-Coe5BptW5nop3KCwBcTepw3DZIxLfRRTtK_TqOQ?e=od8dKr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+https://bit.ly/4jSgQgS
 
 ---
 
@@ -282,7 +282,7 @@ Veterinario con horario de 9 a.m. a 5 p.m., brinda atención clínica presencial
 
 ![image](https://github.com/user-attachments/assets/9bc8a69a-01de-4be0-ac01-c8b370bb83b1)
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311828_upc_edu_pe/ERExDL-Coe5BptW5nop3KCwBcTepw3DZIxLfRRTtK_TqOQ?e=od8dKr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+https://bit.ly/4jSgQgS
 
 ---
 
