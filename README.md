@@ -239,7 +239,8 @@ En esta sección se desarrolla la investigación realizada sobre nuestros públi
 - **Resumen:**  
   Dueño de un pug de seis meses, al que cuida con rutinas diarias de paseos, alimentación y control del agua. Lleva a su mascota al veterinario cada cuatro meses o cuando detecta anomalías. Al inicio tuvo dificultades para encontrar veterinarios confiables, pero actualmente trabaja con dos de confianza. Baña a su mascota cada dos semanas y corta su pelo cada mes. Está dispuesto a pagar una suscripción mensual si esta ofrece servicios integrales con profesionales certificados. Se preocupa por enfermedades graves y accidentes en casa. Se siente muy familiarizado con el uso de aplicaciones móviles para servicios y considera que una app centralizada ayudaría a mejorar la organización y bienestar de su mascota.  
 
-![image](https://github.com/user-attachments/assets/3709aa26-ce3f-4a4d-bb0d-c8c00866898d)
+![image](https://github.com/user-attachments/assets/dd08bcf9-b0aa-49c0-ae88-24737721008d)
+
 
 https://bit.ly/4jSgQgS
 
