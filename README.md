@@ -241,8 +241,7 @@ En esta sección se desarrolla la investigación realizada sobre nuestros públi
 
 ![image](https://github.com/user-attachments/assets/3709aa26-ce3f-4a4d-bb0d-c8c00866898d)
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311828_upc_edu_pe/ERExDL-Coe5BptW5nop3KCwBcTepw3DZIxLfRRTtK_TqOQ?e=od8dKr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
+https://bit.ly/4jSgQgS 
 ---
 
 ### Entrevistado 2: Jagger Baldivieso
