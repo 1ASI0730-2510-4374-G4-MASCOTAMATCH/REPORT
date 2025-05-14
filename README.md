@@ -234,6 +234,7 @@ En esta sección se desarrolla la investigación realizada sobre nuestros públi
 
 ### Entrevistado 1: Renzo Livia
 
+- **Timing:** 14:11 - 21:56 min
 - **Edad:** 19  
 - **Distrito:** Surco  
 - **Resumen:**  
@@ -248,6 +249,7 @@ https://bit.ly/4jSgQgS
 
 ### Entrevistado 2: Jagger Baldivieso
 
+- **Timing:** 11:17 - 14:10 min
 - **Edad:** 19  
 - **Distrito:** Casaruinas.  
 - **Resumen:**  
@@ -261,10 +263,11 @@ https://bit.ly/4jSgQgS
 --- 
 
 
-## Entrevista a médicos veterinarios
+## Entrevista a Profesionales del cuidado animal
 
 ### Entrevistado 3: Médico veterinario 
 
+- **Timing:** 0:00 - 5:41 min
 - **Edad:** 36  
 - **Distrito:** Callao  
 - **Resumen:**  
@@ -278,6 +281,7 @@ https://bit.ly/4jSgQgS
 
 ### Entrevistado 4: Médico veterinario clínico
 
+- **Timing:** 5:41 - 11:16 min
 - **Edad:** 50
 - **Distrito:** San Miguel 
 - **Resumen:**  
