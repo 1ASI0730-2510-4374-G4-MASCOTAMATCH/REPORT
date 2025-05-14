@@ -242,6 +242,7 @@ En esta sección se desarrolla la investigación realizada sobre nuestros públi
 ![image](https://github.com/user-attachments/assets/3709aa26-ce3f-4a4d-bb0d-c8c00866898d)
 
 https://bit.ly/4jSgQgS
+
 ---
 
 ### Entrevistado 2: Jagger Baldivieso
@@ -252,6 +253,7 @@ https://bit.ly/4jSgQgS
 Realiza paseos a su mascota tres veces al día y verifica constantemente su bienestar. Las visitas al veterinario son esporádicas y gestionadas por su madre. Ha tenido malas experiencias con algunos veterinarios y peluqueros, lo que ha dificultado encontrar servicios confiables. Está dispuesto a pagar una suscripción mensual si esta garantiza atención de calidad. Le preocupa la salud emocional y física de su mascota, ya que impacta directamente en su bienestar personal. Aunque no es muy usuario de apps, ve con buenos ojos una plataforma que centralice todos los servicios para mascotas y le facilite su búsqueda y planificación.
 
 <img width="1512" alt="image" src="https://github.com/user-attachments/assets/faacacfa-f238-4d33-9042-bd41bbdbe388" />
+
 
 https://bit.ly/4jSgQgS
 
