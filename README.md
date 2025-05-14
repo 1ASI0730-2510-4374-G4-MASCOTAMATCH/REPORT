@@ -182,28 +182,6 @@ Dueños de mascotas en zonas urbanas: Hombres y mujeres, principalmente entre 25
 
 Profesionales del cuidado animal: Incluye a veterinarios, técnicos veterinarios, paseadores, groomers y cuidadores (pet sitters) que desean ampliar su base de clientes, generar ingresos estables y profesionalizar su labor. Están interesados en plataformas que les ofrezcan visibilidad, organización por zonas, herramientas para mejorar su servicio y oportunidades de desarrollo a través de capacitaciones y recompensas.
 
-
-## Desarrollo de Aplicaciones App Web - 4374
-
-## Docente: Alberto Wilmer
-
-## Startup: ManoloCorp
-
-## Producto: MascotaMatch.
-
-
-## Team Members:
-
-| Nombre     | Código                                     |
-|--------------|--------------------------------------------------|
-| Oscar Espinoza        | u202311842         |
-| Gianfranco Durand     | u202312614                |
-| Stephano Landauri	        |u202311828        |
-| Fabian Olivia	     |u202312013                      |
-| Miguel Castro | u202314186 |
-| Erick Goicochea |       u202019181                       | 
-
-## Ciclo 2025-01
 </div>
 
 # Capítulo II: Requirements Elicitation & Analysis
