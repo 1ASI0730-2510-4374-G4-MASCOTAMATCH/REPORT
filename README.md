@@ -34,7 +34,7 @@
 
 | Versión | Fecha      | Autor                                  | Descripción                                                                                                                                                        |
 | ------- | ---------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| TB1     | 17/04/2025 | **Oscar Espinoza Quijandría**          | Desarrollé el Lean UX Canvas y definí los problem statements, assumptions e hipótesis basados en las necesidades detectadas en usuarios.                           |
+| TB1     | 17/04/2025 | **Oscar Espinoza Quijandría**          | Desarrollé el Lean UX Canvas y definí los problem statements, assumptions e hipótesis basados en las necesidades detectadas en usuarios.                           | 
 | TB1     | 20/04/2025 | **Stephano Mayrzon Landauri Preciado** | Conduje entrevistas a usuarios del segmento objetivo, analicé patrones y definí el lenguaje ubicuo del proyecto.                                                   |
 | TB1     | 16/04/2025 | **Fabian Oliva**                       | Diseñé la arquitectura de la información y los sistemas de búsqueda, navegación y etiquetado del sistema, además de configurar el entorno de desarrollo.           |
 | TB1     | 23/04/2025 | **Erick Alessander Vasquez Goicochea** | Elaboré los diagramas de arquitectura de software (contexto, contenedores y componentes) aplicando diseño orientado al dominio.                                    |
