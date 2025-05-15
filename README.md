@@ -6,7 +6,7 @@
 
 </div>
 
-<div align="center">
+
 
 ## Desarrollo de Aplicaciones App Web - 4374
 
@@ -2090,3 +2090,7 @@ A continuación, se listan las fuentes que sirvieron como referencia o guía par
 - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 - [Gherkin Conventions for Readable Specifications](https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/)
 - [How to Write a User Story for an API Product](https://sameera17w.medium.com/how-to-write-a-user-story-for-an-api-product7af6abd4ad2e)
+
+
+
+<div align="center">
