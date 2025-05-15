@@ -1963,34 +1963,20 @@ Para asegurar una ejecución eficiente del Sprint 1, se definieron líderes y co
 
 El Sprint Backlog 1 consolida todas las funcionalidades principales de Mascota Match, enfocándose en completar toda la experiencia de usuario inicial: registro, login, navegación, servicios, planes de suscripción, sección FAQ, agendamiento de citas y consulta de perfiles.
 
-| User Story | Work-Item / Task | Description | Estimation (Hours) | Assigned To | Status |
-|:----------:|:----------------:|:-----------:|:------------------:|:-----------:|:------:|
-| HU14 | T1 | Crear pantalla de Login | 5 | Stephano (Plan Mini) | Done |
-| HU15 | T2 | Crear pantalla de Registro | 5 | Oscar (Home) | Done |
-| TS04 | T3 | Programar POST registro API | 5 | Oscar (Home) | Done |
-| TS05 | T4 | Programar POST login API | 5 | Miguel (Index) | Done |
-| HU11 | T5 | Visualizar logo en navbar | 1 | Fabian (Plan Complete) | Done |
-| HU12 | T6 | Menú de navegación principal | 2 | Miguel (Index) | Done |
-| HU16 | T7 | Aplicar diseño uniforme | 2 | Fabian (Plan Complete) | Done |
-| HU17 | T8 | Adaptar responsividad móvil | 3 | Erick (Animaciones) | Done |
-| HU01 | T9 | Crear sección bienvenida | 3 | Oscar (Home) | Done |
-| HU02 | T10 | Programar botón See Services | 3 | Miguel (Index) | Done |
-| HU03 | T11 | Diseñar tarjetas de servicios | 5 | Miguel (Index) | Done |
-| HU04 | T12 | Agregar descripción de servicios | 3 | Erick (Animaciones) | Done |
-| HU05 | T13 | Insertar imágenes en servicios | 2 | Erick (Animaciones) | Done |
-| TS01 | T14 | GET servicios disponibles API | 3 | Miguel (Index) | Done |
-| HU06 | T15 | Crear tarjetas planes VIP, Completo, Mini | 5 | Fabian, Stephano, Gianfranco | Done |
-| HU07 | T16 | Listar beneficios por plan | 3 | Fabian, Stephano, Gianfranco | Done |
-| HU08 | T17 | Imagen única por plan | 2 | Erick (Animaciones) | Done |
-| TS02 | T18 | GET planes de suscripción API | 3 | Miguel (Index) | Done |
-| HU09 | T19 | Botón "Read More" en cada plan | 2 | Stephano (Plan Mini) | Done |
-| HU18 | T20 | Crear páginas detalle de planes | 3 | Oscar (Home) | Done |
-| HU10 | T21 | Crear sección FAQ | 3 | Erick (Animaciones) | Done |
-| TS03 | T22 | GET preguntas frecuentes API | 2 | Miguel (Index) | Done |
-| HU13 | T23 | Footer contacto y ayuda | 2 | Fabian (Plan Complete) | Done |
-| TS06 | T24 | GET perfil de usuario API | 3 | Miguel (Index) | Done |
-| TS07 | T25 | POST agendar cita API | 5 | Gianfranco (Plan VIP) | Done |
-| TS08 | T26 | GET citas agendadas API | 3 | Gianfranco (Plan VIP) | Done |
+| User Story | Work-Item / Task | Description                            | Estimation (Hours) | Assigned To         | Status |
+|------------|------------------|----------------------------------------|---------------------|----------------------|--------|
+| HU01       | T1               | Mostrar mensaje de bienvenida          | 4                   | Oscar (Home)         | Done   |
+| HU02       | T2               | Botón "See Services"                   | 4                   | Oscar (Home)         | Done   |
+| HU03       | T3               | Visualizar tarjetas de servicios       | 8                   | Stephano (Plan Mini) | Done   |
+| HU04       | T4               | Descripción clara de servicios         | 4                   | Gianfranco (Plan Mini) | Done   |
+| HU05       | T5               | Imágenes representativas por servicio  | 4                   | Stephano (Plan Mini) | Done   |
+| HU06       | T6               | Ver planes de suscripción              | 8                   | Oscar (Home)         | Done   |
+| HU07       | T7               | Beneficios por plan en lista           | 4                   | Oscar (Home)         | Done   |
+| HU12       | T8               | Menú de navegación principal           | 4                   | Miguel (Index)       | Done   |
+| HU13       | T9               | Footer con contacto y secciones        | 4                   | Fabian (Plan Complete)| Done   |
+| HU14       | T10              | Pantalla de Login                      | 4                   | Stephano (Plan Mini) | Done   |
+| HU15       | T11              | Pantalla de Registro                   | 4                   | Oscar (Home)         | Done   |
+
 
  URL del Board Trello 
 
