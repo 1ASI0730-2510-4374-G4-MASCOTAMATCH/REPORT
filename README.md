@@ -181,7 +181,7 @@ La startup MascotaMatch busca mejorar significativamente la calidad de vida de l
 </div>
 
 
-
+## Studen Outcome
 
 | **Criterio específico** | **Acciones realizadas** | **Conclusión** |
 |-------------------------|--------------------------|------------------|
