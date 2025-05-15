@@ -1803,7 +1803,7 @@ El Sprint Planning 1 establece la organización inicial del equipo para desarrol
 | **Date** | 2024-04-18 |
 | **Time** | 05:00 PM |
 | **Location** | Virtual (Discord y Zoom) |
-| **Prepared By** | Oscar Espinoza, Miguel Vidal, Stephano Landaurí, Fabian Oliva, Gianfranco Durand, Erick Vasquez |
+| **Prepared By** | Espinoza Quijandria, Oscar Leonardo |
 | **Attendees (to planning meeting)** | Oscar Espinoza, Miguel Vidal, Stephano Landaurí, Fabian Oliva, Gianfranco Durand, Erick Vasquez |
 | **Sprint n – 1 Review Summary** | No aplica (Primer Sprint del proyecto Mascota Match). |
 | **Sprint n – 1 Retrospective Summary** | No aplica (Primer Sprint del proyecto Mascota Match). |
