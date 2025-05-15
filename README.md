@@ -1928,7 +1928,7 @@ Cada feature fue desarrollado en una branch diferente siguiendo buenas práctica
 
 Durante el Sprint 1, el equipo ejecutó las tareas de desarrollo de la Landing Page de MascotaMatch siguiendo el plan establecido. Se completó el objetivo de crear, implementar y desplegar la página con una estructura HTML básica, diseño UX/UI optimizado y estilos responsivos, todo dentro del plazo asignado.
 
--Enlace al Landing Page desplegado: ++++++++++++++++++++++++++
+-Enlace al Landing Page desplegado: https://youtu.be/L9YZMDfhDUc?si=qtolreUqJ-c4QS-B 
 
 -Capturas de pantalla de la ejecución: 
 
