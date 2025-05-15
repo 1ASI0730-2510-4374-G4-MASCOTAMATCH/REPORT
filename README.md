@@ -1498,9 +1498,7 @@ En esta sección se detallan los componentes asociados al componente Subscriptio
 
 Diagrama de clases(PlantUML):
 
-
-![image](https://github.com/user-attachments/assets/67d1ba84-4001-4827-be2a-f0c73466e03e)
-
+![image](https://github.com/user-attachments/assets/272d15d1-3dd0-4cb8-9578-6dea102b5acb)
 
 ### 4.7.2. Class Dictionary
 
