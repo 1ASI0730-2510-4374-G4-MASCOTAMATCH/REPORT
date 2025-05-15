@@ -47,6 +47,20 @@
 | TB1     | 15/04/2025 | **Miguel Vidal**                       | Realicé el proceso de needfinding, elaboré los user personas, empathy maps y escenarios As-is.                                                                     |
 | TB1     | 17/04/2025 | **Fabian Oliva**                       | Propuse estrategias competitivas tras evaluar productos similares, diferenciando nuestra solución en el mercado.                                                   |
 
+## Project Report Collaboration Insights
+
+Link del Github: https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH
+
+Link del repositorio: https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT
+
+Link de la Landingpage: https://www.figma.com/design/mrE2HdtnKGpcc3JNmnxwVG/MascotaMatch?node-id=2034-386&p=f&t=JjcBmkbtOIzrSkCR-0
+
+
+![image](https://github.com/user-attachments/assets/d84fa6f1-20b4-456d-98f0-4f4ae11f53eb)
+
+
+
+
 
 
 ### 1.1. Startup Profile
