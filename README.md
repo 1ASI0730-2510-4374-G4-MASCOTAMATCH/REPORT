@@ -1943,7 +1943,7 @@ El Sprint Planning 1 establece la organización inicial del equipo para desarrol
 | **Sprint n – 1 Retrospective Summary** | No aplica (Primer Sprint del proyecto Mascota Match). |
 | **Sprint n Goal** | Finalizar la primera versión de Mascota Match, incluyendo registro de usuarios, login, navegación general, publicación de servicios, planes de suscripción, sección de FAQ, agendamiento de citas y perfil de usuario.<br><br>**Sprint Goal:**<br>Our focus is on launching Mascota Match MVP.<br>We believe it delivers essential functionality and first user experience.<br>This will be confirmed when users can register, navigate, consult services, choose a plan, and book an appointment successfully. |
 | **Sprint n Velocity** | 82 Story Points |
-| **Sprint Goal & User Stories** | **User Stories:**<br>HU01, HU02, HU03, HU04, HU05, HU06, HU07, HU08, HU09, HU10, HU11, HU12, HU13, HU14, HU15, HU16, HU17, HU18, TS01, TS02, TS03, TS04, TS05, TS06, TS07, TS08 |
+| **Sprint Goal & User Stories** | **User Stories:**<br> HU01, HU02, HU03, HU04, HU05, HU06, HU07, HU12, HU13, HU14, HU15 |
 | **Sum of Story Points** | **82 Story Points** |
 
 ### 5.2.1.2. Aspect Leaders and Collaborators
