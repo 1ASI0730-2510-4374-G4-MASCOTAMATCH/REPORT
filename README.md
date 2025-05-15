@@ -30,6 +30,25 @@
 
 ## Ciclo 2025-01
 
+## Registro de Versiones del Informe
+
+| Versión | Fecha      | Autor                                  | Descripción                                                                                                                                                        |
+| ------- | ---------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| TB1     | 17/04/2025 | **Oscar Espinoza Quijandría**          | Desarrollé el Lean UX Canvas y definí los problem statements, assumptions e hipótesis basados en las necesidades detectadas en usuarios.                           |
+| TB1     | 20/04/2025 | **Stephano Mayrzon Landauri Preciado** | Conduje entrevistas a usuarios del segmento objetivo, analicé patrones y definí el lenguaje ubicuo del proyecto.                                                   |
+| TB1     | 16/04/2025 | **Fabian Oliva**                       | Diseñé la arquitectura de la información y los sistemas de búsqueda, navegación y etiquetado del sistema, además de configurar el entorno de desarrollo.           |
+| TB1     | 23/04/2025 | **Erick Alessander Vasquez Goicochea** | Elaboré los diagramas de arquitectura de software (contexto, contenedores y componentes) aplicando diseño orientado al dominio.                                    |
+| TB1     | 19/04/2025 | **Gianfranco Jared Durand Vega**       | Documenté los antecedentes y problemática del proyecto, definiendo con claridad los retos a abordar.                                                               |
+| TB1     | 22/04/2025 | **Miguel Vidal**                       | Diseñé la interfaz gráfica y maqueta de la landing page en Figma, además de estructurar la base de datos y su diagrama respectivo.                                 |
+| TB1     | 25/04/2025 | **Oscar Espinoza Quijandría**          | Configuré el despliegue del software, diseñé los diagramas de clases y aseguré la implementación funcional de la landing page y servicios.                         |
+| TB1     | 18/04/2025 | **Stephano Mayrzon Landauri Preciado** | Redacté las user stories y participé en la organización de roles y la planificación del Sprint 1.                                                                  |
+| TB1     | 21/04/2025 | **Gianfranco Jared Durand Vega**       | Elaboré el perfil de la startup, definiendo su propuesta de valor, objetivos y estructura de trabajo.                                                              |
+| TB1     | 24/04/2025 | **Erick Alessander Vasquez Goicochea** | Reuní evidencias de ejecución, documentación y despliegue para el sprint review. También analicé la colaboración del equipo e identifiqué mejoras en coordinación. |
+| TB1     | 15/04/2025 | **Miguel Vidal**                       | Realicé el proceso de needfinding, elaboré los user personas, empathy maps y escenarios As-is.                                                                     |
+| TB1     | 17/04/2025 | **Fabian Oliva**                       | Propuse estrategias competitivas tras evaluar productos similares, diferenciando nuestra solución en el mercado.                                                   |
+
+
+
 ### 1.1. Startup Profile
 
 MascotaMatch nace con el propósito de cambiar el cuidado de mascotas en el Perú, conectado a dueños de mascotas con profesionales certificados cmo veterinarios, paseadores y groomes a través de una plataforma digital "todo en uno". Mediante un modelo de suscripción mensual, ofrece servicios tales como paseos, grooming, check-ups veterinarios, recordatorios de vacunas y atención prioritaria, dándoles así una comodidad y tranquilidad a los dueños y también oportunidad de ingresos a los proovedores. La aplicación utiliza tecnología de geolocalización, historial médico digital y un emparejamiento inteligente para asegurar una experiencia confiable y personalizada, además de fomentar la formalización y capacitación de los profesionales de un sector. Con nuestra app, buscamos conectar más comunidades pet-friendly en el Perú, apostando por la digitalización y el bienestar animal.
