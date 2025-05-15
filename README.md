@@ -263,7 +263,9 @@ Profesionales del cuidado animal: Incluye a veterinarios, técnicos veterinarios
 ## 2.1. Competidores
 
 **Dog Houser**: Dog Houser es una plataforma peruana que conecta a dueños de mascotas con familias cuidadoras que ofrecen hospedaje y guardería en casa. Destaca por su ambiente familiar y personalizado, permitiendo elegir cuidadores según necesidades específicas.
+
 **PaseaPerros.com**: PaseaPerros.com es una plataforma peruana que conecta a dueños de perros con paseadores y cuidadores en su zona. Ofrece servicios como paseo, guardería y hospedaje, con perfiles calificados y reseñas de clientes.
+
 **PetBacker**: PetBacker es una plataforma internacional con presencia en Perú que permite encontrar cuidadores independientes cercanos. Ofrece servicios como paseos, visitas y hospedaje, con un sistema de reseñas que brinda confianza.
 
 ### 2.1.1. Análisis competitivo
