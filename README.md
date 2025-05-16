@@ -2058,7 +2058,24 @@ La comunicación fue constante a través de plataforma usada: Discord, WhatsApp,
 
 ---
 [5.2.2. Sprint 2]
-[5.2.2.1. Sprint Planning 2]
+
+###  5.2.2.4. Spring Planning 2.
+
+| Campo | Información |
+|:------|:------------|
+| **Sprint #** | Sprint 2 |
+| **Date** | 2025-05-15 |
+| **Time** | 07:00 PM |
+| **Location** | Virtual (Discord y Zoom) |
+| **Prepared By** | Stephano Landauri |
+| **Attendees (to planning meeting)** | Oscar Espinoza, Miguel Vidal, Stephano Landauri, Fabian Oliva, Gianfranco Durand, Erick Vasquez |
+| **Sprint 1 – 2 Review Summary** | Se desarrolló exclusivamente la Landing Page de Mascota Match, enfocándose en el diseño visual, los textos informativos, navegación inicial y estructura base del frontend. Si bien no se integraron funcionalidades del sistema, el avance permitió definir la línea gráfica del producto y sentó las bases para la futura implementación del MVP. El feedback recibido fue positivo, destacando la estética y claridad del contenido. |
+| **Sprint 1 – 2 Retrospective Summary** | El equipo resaltó fortalezas en la coordinación para el diseño de mockups y la implementación visual. Se identificó como mejora la necesidad de dividir mejor las tareas, ya que algunos miembros no pudieron avanzar por la falta de definición en funciones futuras. Se acordó establecer criterios de aceptación claros desde el inicio del sprint. |
+| **Sprint 2 Goal** | Implementar la primera versión del Frontend de Mascota Match, incluyendo registro de usuarios, login, navegación entre pantallas, perfil de usuario, listado de servicios disponibles, selección de planes y agendamiento de citas.<br><br>**Sprint Goal:**<br>Deliver the first MVP version of Mascota Match with core user flows: sign up, login, explore services, and schedule an appointment.<br>Success will be confirmed when users can complete these flows end-to-end. |
+| **Sprint 2 Velocity** | 90 Story Points |
+| **Sprint Goal & User Stories** | **User Stories:**<br>HU01, HU02, HU03, HU04, HU05, HU06, HU07, HU08, HU09, HU10, HU11, HU12, HU13, HU14, HU15, HU16, HU17, HU18, TS01, TS02, TS03, TS04, TS05, TS06, TS07, TS08 |
+| **Sum of Story Points** | **82 Story Points** |
+
 [5.2.2.2. Aspect Leaders and Collaborators]
 [5.2.2.3. Sprint Backlog 2]
 
