@@ -2057,7 +2057,7 @@ En el Sprint 1, el equipo se centró en el desarrollo, implementación y desplie
 La comunicación fue constante a través de plataforma usada: Discord, WhatsApp, Slack; y utilizamos herramientas como Trello, GitHub Projects para gestionar tareas y hacer seguimiento de los avances. La colaboración fue eficiente y fluida, pero se identificó la necesidad de mejorar la planificación temporal para optimizar la entrega de futuros sprints.
 
 ---
-[5.2.2. Sprint 2]
+## 5.2.1. Sprint 2
 
 ###  5.2.2.4. Spring Planning 2.
 
