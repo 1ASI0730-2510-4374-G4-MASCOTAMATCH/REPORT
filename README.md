@@ -2077,8 +2077,33 @@ La comunicación fue constante a través de plataforma usada: Discord, WhatsApp,
 | **Sum of Story Points** | **82 Story Points** |
 
 [5.2.2.2. Aspect Leaders and Collaborators]
-[5.2.2.3. Sprint Backlog 2]
 
+###  5.2.2.3. Sprint Backlog 2.
+
+| User Story | Work-Item / Task | Description                                              | Estimation (Hours) | Assigned To         | Status |
+|------------|------------------|----------------------------------------------------------|---------------------|----------------------|--------|
+| HU01       | T1               | Como desarrollador, quiero ver un mensaje de bienvenida en la portada que me explique qué es MascotaMatch. | 4         | Oscar (Home)         | Done   |
+| HU02       | T2               | Como desarrollador, quiero hacer clic en "See Services" en portada para ir a servicios.        | 4         | Oscar (Home)         | Done   |
+| HU03-HU04-HU05 | T3          | Como desarrollador, quiero visualizar tarjetas de servicios con descripción e íconos.          | 8         | Stephano (Plan Mini) | Done   |
+| HU06       | T4               | Como desarrollador, quiero ver los planes (Mini, Completo, VIP) y comparar sus beneficios.     | 8         | Oscar (Home)         | Done   |
+| HU07-HU08-HU09 | T5           | Como desarrollador, quiero ver beneficios por plan con imagen y botón “Read more”.             | 8         | Oscar (Home)         | Done   |
+| HU10       | T6               | Como desarrollador, quiero ver sección de preguntas frecuentes con íconos y respuestas.        | 4         | Miguel (Index)       | Done   |
+| HU11       | T7               | Como desarrollador, quiero ver el logo de MascotaMatch en el header del sitio.                | 1         | Fabian (Plan Complete)| Done   |
+| HU12       | T8               | Como desarrollador, quiero tener un menú con enlaces a Home, Services, Plans y FAQ.           | 4         | Miguel (Index)       | Done   |
+| HU13       | T9               | Como desarrollador, quiero tener un footer con contacto y secciones informativas.             | 4         | Fabian (Plan Complete)| Done   |
+| HU14       | T10              | Como desarrollador, quiero crear una pantalla de Login previa al acceso al sitio.             | 4         | Stephano (Plan Mini) | Done   |
+| HU15       | T11              | Como desarrollador, quiero crear una pantalla de Registro sencilla para nuevos usuarios.       | 4         | Oscar (Home)         | Done   |
+| HU18       | T12              | Como desarrollador, quiero acceder a detalle de cada plan desde su botón.                     | 4         | Oscar (Home)         | Done   |
+| HU19 (Nueva) | T13            | Como desarrollador, quiero agregar una opción de pago (Yape, Tarjeta, PayPal) en los planes.   | 8         | Miguel (Index)       | Done   |
+| HU20 (Nueva) | T14            | Como desarrollador, quiero agendar una cita desde la sección de servicios.                    | 8         | Stephano (Plan Mini) | Done   |
+| TS01       | T15              | Como desarrollador, quiero obtener desde la API los servicios disponibles. GET /servicios     | 4         | Miguel (Index)       | Done   |
+| TS02       | T16              | Como desarrollador, quiero obtener desde la API los planes disponibles. GET /planes           | 4         | Miguel (Index)       | Done   |
+| TS03       | T17              | Como desarrollador, quiero obtener desde la API las preguntas frecuentes. GET /faq            | 4         | Miguel (Index)       | Done   |
+| TS04       | T18              | Como desarrollador, quiero enviar nuevos usuarios a la API para su registro. POST /registro   | 4         | Oscar (Home)         | Done   |
+| TS05       | T19              | Como desarrollador, quiero enviar credenciales a la API para iniciar sesión. POST /login      | 4         | Miguel (Index)       | Done   |
+| TS06       | T20              | Como desarrollador, quiero obtener desde la API el perfil del usuario autenticado. GET /perfil| 4         | Miguel (Index)       | Done   |
+| TS07       | T21              | Como desarrollador, quiero registrar citas para mascotas enviando info a la API. POST /citas  | 4         | Stephano (Plan Mini) | Done   |
+| TS08       | T22              | Como desarrollador, quiero obtener desde la API la lista de citas. GET /citas                 | 4         | Stephano (Plan Mini) | Done   |
 
 ###  5.2.2.4. Development Evidence for Sprint Review
 
