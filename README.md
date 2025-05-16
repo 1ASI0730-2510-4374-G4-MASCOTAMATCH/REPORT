@@ -2076,7 +2076,23 @@ La comunicación fue constante a través de plataforma usada: Discord, WhatsApp,
 | **Sprint Goal & User Stories** | **User Stories:**<br>HU01, HU02, HU03, HU04, HU05, HU06, HU07, HU08, HU09, HU10, HU11, HU12, HU13, HU14, HU15, HU16, HU17, HU18, TS01, TS02, TS03, TS04, TS05, TS06, TS07, TS08 |
 | **Sum of Story Points** | **82 Story Points** |
 
-[5.2.2.2. Aspect Leaders and Collaborators]
+###  5.2.2.2. Aspect Leaders and Collaborators
+
+## Introducción
+
+En el presente Sprint, se han identificado cinco aspectos clave para el desarrollo del proyecto: Frontend, Testing, UX/UI Design, Documentación y Coordinación General. Con el objetivo de asegurar una ejecución eficiente, el equipo ha asignado un líder por cada aspecto y colaboradores de apoyo. La distribución se ha realizado considerando fortalezas individuales y la participación activa de cada miembro en múltiples áreas. A continuación, se presenta la tabla de líderes y colaboradores por aspecto:
+
+## Tabla de Aspect Leaders and Collaborators
+
+| Team Member (Last Name, First Name)          | GitHub Username        | Frontend (L/C) | Testing (L/C) | UX/UI Design (L/C) | Documentación (L/C) | Coordinación (L/C) |
+|---------------------------------------------|------------------------|----------------|---------------|---------------------|----------------------|---------------------|
+| Mayrzon Landauri Preciado, Stephano         | `Mayrzon02`            | C              | C             | C                   | L                    | C                   |
+| Vidal, Miguel Angel                         | `Gossk`                | L              | C             | C                   | C                    | C                   |
+| Vasquez Goicochea, Erick Alessander         | `erick580`             | C              | L             | C                   | C                    | C                   |
+| Durand Vega, Gianfranco Jared               | `Azucarita`            | C              | C             | L                   | L                    | C                   |
+| Espinoza Quijandría, Oscar                  | `OscarEspinoza5443`    | C              | C             | C                   | C                    | L                   |
+| Oliva Lopez, Fabian Alejandro               | `FabulousFabStar`      | C              | L             | C                   | C                    | C                   |
+
 
 ###  5.2.2.3. Sprint Backlog 2.
 
