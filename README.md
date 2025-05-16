@@ -2025,7 +2025,7 @@ Durante el Sprint 1, el equipo de MascotaMatch se enfocó en el desarrollo de la
 
 En el Sprint 1 se realizó el lanzamiento de la primera versión del Landing Page, la cual fue publicada mediante GitHub Pages. A continuación, se muestran las evidencias correspondientes al despliegue.
 
-Cómo acceder a la landing page:++++++++++++++++++++++++++++++++++++
+Cómo acceder a la landing page: https://1asi0730-2510-4374-g4-mascotamatch.github.io/LANDINGPAGE/
 
 Accedemos al dominio de la Landing Page, nos aseguramos que esta correctamente configurado y hacemos click en "guardar".
 
