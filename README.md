@@ -6,154 +6,6 @@
 
 </div>
 
-<div align="center">
-
-### 1.1. Startup Profile
-
-MascotaMatch nace con el propósito de cambiar el cuidado de mascotas en el Perú, conectado a dueños de mascotas con profesionales certificados cmo veterinarios, paseadores y groomes a través de una plataforma digital "todo en uno". Mediante un modelo de suscripción mensual, ofrece servicios tales como paseos, grooming, check-ups veterinarios, recordatorios de vacunas y atención prioritaria, dándoles así una comodidad y tranquilidad a los dueños y también oportunidad de ingresos a los proovedores. La aplicación utiliza tecnología de geolocalización, historial médico digital y un emparejamiento inteligente para asegurar una experiencia confiable y personalizada, además de fomentar la formalización y capacitación de los profesionales de un sector. Con nuestra app, buscamos conectar más comunidades pet-friendly en el Perú, apostando por la digitalización y el bienestar animal.
-
-### 1.1.1. Descripción de la Startup
-
-La startup MascotaMatch busca mejorar significativamente la calidad de vida de las mascotas logrando así que el cuidado de sus mascotas sea sencillo y eficiente. Además, nuestra app busca promover un entorno más formal y seguro dentro del mercado de servicios para mascotas, aumentando la tranquilidad y confianza de los propietarios. Para lograr esto, se presenta una plataforma digital innovadora basada en un modelo de suscripción mensual, la cual conecta fácilmente a los dueños con especialistas certificados en veterinaria, paseo y grooming, dando múltiples servicios especializados, como chequeos regulares, aseo mensual, paseos programados, alerta para vacunas y atención prioritaria. Con MascotaMatch buscamos mejorar la gestión y monitorio del bienestar animal, asegurando un cuidado oportuno que mejora tanto la salud como la felicidad de las mascotas.
-
-  
-### 1.1.2. Perfiles de integrantes del equipo
-
-<div align="center">
-
-![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-1/Screenshot%202025-04-17%20215254.png)
-![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-1/Screenshot%202025-04-17%20215557.png)
-![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-1/Screenshot%202025-04-17%20215626.png)
-![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-1/Screenshot%202025-04-17%20215638.png)
-![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-1/Screenshot%202025-04-17%20215646.png)
-![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-1/Screenshot%202025-04-17%20220018.png)
-</div>
-
-| **Criterio específico** | **Acciones realizadas** | **Conclusión** |
-|-------------------------|--------------------------|------------------|
-| Trabajar en equipo para proporcionar liderazgo en forma conjunta | **Fabián Oliva**<br>**TB1:** Desarrollé el análisis competitivo e identifiqué estrategias frente a los competidores. Además, diseñé la arquitectura de información, sistemas de organización, etiquetado, búsqueda y navegación. También configuré el entorno de desarrollo y la gestión del software.<br><br>**Gianfranco Jared Durand Vega**<br>**TB1:** Redacté el perfil de la startup, la descripción general y los perfiles del equipo. También desarrollé los antecedentes, objetivos, solución planteada e Impact Mapping. Finalmente, apoyé en la gestión del código fuente y definí las convenciones de estilo.<br><br>**Oscar Leonel Espinoza Quijandría**<br>**TB1:** Desarrollé todo el proceso Lean UX, incluyendo los problem statements, assumptions, hipótesis y el Lean UX Canva. También trabajé en el To-Be Scenario Mapping, el Product Backlog, los diagramas de clases, la configuración de despliegue y la implementación de la landing page y servicios web.<br><br>**Stephano Mayrzon Landauri Preciado**<br>**TB1:** Me encargué de diseñar y registrar entrevistas, además de analizar sus resultados. Definí el lenguaje ubicuo, elaboré las user stories y participé en el desarrollo de la aplicación web. También colaboré en la planificación del primer sprint y la organización de roles.<br><br>**Miguel Vidal**<br>**TB1:** Realicé el needfinding y elaboré los user personas, journey mapping, empathy mapping y escenarios As-is. También diseñé la interfaz de la landing page, su maqueta en Figma, la base de datos, su diagrama y el Sprint Backlog 1, incluyendo la evidencia para la revisión del sprint.<br><br>**Erick Alessander Vásquez Goicochea**<br>**TB1:** Elaboré los diagramas de arquitectura de software (contexto, contenedores y componentes), y apliqué el enfoque orientado al dominio. También desarrollé el class directory y reuní evidencias de ejecución, documentación y despliegue para el sprint review. Finalmente, aporté con análisis sobre la colaboración del equipo durante el sprint. | **TB1:**<br>Cada integrante cumplió con sus responsabilidades asignadas, aportando al análisis competitivo, diseño UX, desarrollo técnico y planificación ágil. Gracias a una comunicación constante y efectiva, se logró integrar los avances de manera coherente, sentando una base sólida para continuar el desarrollo del proyecto MascotaMatch. |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | **Fabián Oliva**<br>**TB1:** Me encargué del análisis competitivo, evaluando productos similares para identificar sus puntos fuertes y débiles. A partir de ello, propuse estrategias que diferenciaran nuestra solución en el mercado. También diseñé la arquitectura de información y los sistemas de organización, etiquetado, búsqueda y navegación, asegurando una experiencia fluida y estructurada para el usuario. Además, configuré el entorno de desarrollo y gestioné el software para garantizar un soporte técnico sólido durante todo el proyecto.<br><br>**Gianfranco Jared Durand Vega**<br>**TB1:** Redacté el perfil de la startup, describiendo claramente su propósito, propuesta de valor y estructura de trabajo. También desarrollé los perfiles de los integrantes del equipo, resaltando sus habilidades y roles. Elaboré los antecedentes y la problemática, definiendo con precisión los objetivos del proyecto. Además, estructuré el Solution Profile e implementé el Impact Mapping para alinear nuestras acciones con las metas. Finalmente, participé en la gestión del código fuente y definí las convenciones de estilo para mantener un desarrollo limpio y consistente.<br><br>**Oscar Espinoza Quijandría**<br>**TB1:** Me encargué de desarrollar el proceso completo de Lean UX, formulando los problem statements, assumptions, hipótesis y el Lean UX Canva para validar nuestra propuesta con base en necesidades reales. Además, diseñé el To-Be Scenario Mapping y estructuré el Product Backlog, asegurando una planificación clara de las funcionalidades. Participé activamente en el desarrollo de la aplicación web, diseñé los diagramas de clases, configuré el despliegue del software y realicé la implementación de la landing page y los servicios, asegurando la funcionalidad técnica del sistema.<br><br>**Stephano Mayrzon Landauri Preciado**<br>**TB1:** Diseñé y conduje entrevistas con usuarios potenciales, registrando sus respuestas y realizando un análisis detallado para identificar patrones y necesidades. A partir de esta información, definí el lenguaje ubicuo del proyecto y redacté las user stories que guiarían el desarrollo del producto. También participé en el desarrollo de la aplicación web, colaboré en la planificación del Sprint 1 y en la asignación de roles y responsabilidades dentro del equipo, promoviendo una organización clara y efectiva durante el proceso ágil.<br><br>**Miguel Vidal**<br>**TB1:** Me encargué de realizar el proceso de needfinding, lo que me permitió identificar las necesidades reales de los usuarios. A partir de ello, elaboré los user personas, empathy maps, journey maps y los escenarios As-is, herramientas clave para entender el contexto y comportamiento de los usuarios. También diseñé la interfaz de la landing page y su maqueta en Figma, asegurando una experiencia visual coherente. Además, estructuré la base de datos y su diagrama correspondiente. Finalmente, elaboré el Sprint Backlog 1 y reuní las evidencias necesarias para la revisión del sprint.<br><br>**Erick Vásquez**<br>**TB1:** Elaboré los diagramas de arquitectura de software, incluyendo el de contexto, contenedores y componentes, aplicando el enfoque de diseño orientado al dominio para mantener una estructura lógica y escalable. También desarrollé el class directory para definir de manera clara las entidades y sus relaciones dentro del sistema. Me encargué de reunir y documentar las evidencias de ejecución, despliegue y funcionamiento del software para el sprint review. Además, analicé la colaboración del equipo durante el sprint, identificando oportunidades de mejora en la coordinación y cumplimiento de tareas. | **TB1:**<br>Se validó que la propuesta de MascotaMatch responde a necesidades reales de los usuarios en contextos urbanos, considerando aspectos de bienestar animal, confiabilidad del servicio y accesibilidad tecnológica. El trabajo colaborativo y el enfoque centrado en el usuario permitieron definir una solución funcional y contextualizada que servirá como base para las siguientes etapas del desarrollo. |
-  
-### 1.2. Solution Profile:
-
-Nombre del producto:
-
-Nuestro producto, MascotaMatch, fue creado pensando especialmente en nuestros valores y compromiso con el bienestar animal. La palabra "Mascota" refleja claramente nuestra dedicación al cuidado y felicidad de los animales domésticos, mientras que "Match" hace referencia a la eficiente conexión entre los propietarios de mascotas y los profesionales certificados del sector. Esta combinación expresa nuestra propuesta innovadora: una plataforma digital que facilita y centraliza todos los servicios necesarios para cuidar integralmente a las mascotas en entornos urbanos. MascotaMatch es una aplicación única basada en un modelo de suscripción mensual que brinda acceso a servicios como paseos regulares, sesiones de grooming, controles veterinarios, avisos oportunos para vacunas y atención prioritaria ante emergencias. Al detectar una necesidad específica del usuario, la aplicación enlaza de manera inmediata a los dueños con expertos calificados cercanos a su ubicación, proporcionando tranquilidad y comodidad. Gracias a esta rápida conexión, garantizamos un cuidado eficaz y oportuno que eleva considerablemente la calidad de vida de las mascotas. La app estará disponible en una página web diseñada para que sea intuitiva hacia cualquier público.
-
-  
-### 1.2.1 Antecedentes y problemática:
-
-En nuestor país, el crecimiento acelerado de las ciudades ha generado cambios significativos en el estilo de vida de las personas, quienes, debido a largas jornadas laborales y responsabilidades diarias, cuentan con menos tiempo disponible para atender adecuadamente a sus mascotas. Esto provoca dificultades para encontrar proveedores confiables, formales y cercanos que puedan satisfacer las necesidades básicas y especializadas de cuidado animal, tales como paseos, grooming o visitas veterinarias. La escasa digitalización del sector y la falta de plataformas integradas complican aún más el acceso a servicios organizados y seguros, afectando directamente la calidad de vida, bienestar y salud de las mascotas y generando estrés y preocupación en sus propietarios.
-
-  
-### Esto lo explicamos en el siguiente a través del método 5W’s y 2H’s: 
-
-![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-1/Screenshot%202025-04-25%20003027.png)
-
-### 1.2.2 Lean UX Process.
-
-#### 1.2.2.1. Lean UX Problem Statements.
-
-**a. Domain:**
-
-MascotaMatch opera en el dominio de los servicios digitales para el cuidado de mascotas, enfocándose en conectar a dueños de mascotas con proveedores certificados (veterinarios, groomers, paseadores, etc.) a través de una aplicación móvil de suscripción.
-
-**b. Customer Segments:**
-
--Dueños de mascotas urbanos que requieren servicios confiables y convenientes.
-
--Proveedores de servicios para mascotas, como veterinarios, groomers y paseadores, que desean mayor visibilidad y gestión digital de sus servicios.
-
-**c. Pain Points:**
-
-  Dueños:
-
-  -No encuentran servicios profesionales cercanos y confiables fácilmente.
-  
-  -Desconfianza en proveedores no verificados.
-  
-  -Pérdida de tiempo al buscar servicios por separado.
-
-  Proveedores:
-
-  -Baja visibilidad y exposición de sus servicios.
-  
-  -Gestión ineficiente de clientes, reservas y pagos.
-  
-  -Dependencia de canales informales y redes sociales.
-
-**d. Gap**
-
-No existe en el mercado peruano una solución digital integral que:
-
--Conecte a ambas partes con trazabilidad, seguridad y personalización.
-
--Ofrezca confianza mediante la validación de proveedores y un sistema de reseñas.
-
--Centralice toda la experiencia (búsqueda, reserva, pago, seguimiento).
-
-**e. Visión / Strategy:**
-
-Ser la plataforma líder en el ecosistema de servicios para mascotas, ofreciendo:
-
--Un marketplace con proveedores verificados.
-
--Una experiencia intuitiva y rápida tanto para dueños como profesionales.
-
--Un modelo de suscripción que promueve el uso constante.
-
--Herramientas de gestión para los proveedores y servicios personalizados para los dueños.
-
-**f. Initial Segment:**
-
--Dueños: Jóvenes de 25 a 40 años, con mascotas, ubicados en Lima Metropolitana, acostumbrados al uso de apps móviles.
-
--Proveedores: Profesionales independientes del rubro pet care (vets, groomers, paseadores), con experiencia, ubicados en Lima y con interés en digitalizar sus servicios.
-
-#### 1.2.2.2. Lean UX Assumptions.
-
--Los dueños de mascotas buscan soluciones digitales para encontrar servicios de cuidado profesional.
-
--Los proveedores están interesados en aumentar su clientela y necesitan herramientas para gestionar sus servicios de forma eficiente.
-
--Los usuarios valoran la confianza, la validación de los proveedores y la facilidad de uso.
-
--La experiencia personalizada, rápida y centralizada es un factor decisivo para la adopción de la app.
-
--Las personas están dispuestas a pagar por comodidad y seguridad en el cuidado de sus mascotas.
-
--Una buena experiencia inicial puede generar lealtad y un boca a boca positivo.
-
-#### 1.2.2.3. Lean UX Hypothesis Statements.
-
--Creemos que si ofrecemos una experiencia personalizada y segura, los usuarios estarán más dispuestos a usar nuestra app con frecuencia.
-
--Sabremos que es cierto cuando veamos alta retención y uso recurrente en la app.
-
--Creemos que si validamos a los proveedores y permitimos reseñas, generaremos confianza en los dueños de mascotas.
-
--Sabremos que es cierto cuando observemos un aumento en la tasa de reservas tras la lectura de reseñas.
-
--Creemos que si damos a los proveedores una herramienta de gestión simple y efectiva, estos la adoptarán como su principal canal.
-
--Sabremos que es cierto cuando más del 60% de reservas se gestionen por la app.
-
--Creemos que si facilitamos el proceso de reserva y pago digital, reduciremos el tiempo y esfuerzo de los usuarios.
-
--Sabremos que es cierto cuando los usuarios completen el flujo de reserva en menos de 3 minutos.
-
-#### 1.2.2.4. Lean UX Canvas.
-<div align="center">
-  
-![image](https://github.com/user-attachments/assets/ba34c45f-1533-44bc-a9a7-3adca400c0c7)
-
- </div>
-  
-### 1.3 Segmentos Objetivo 
-
-Dueños de mascotas en zonas urbanas: Hombres y mujeres, principalmente entre 25 y 45 años, que residen en ciudades como Lima, Arequipa y Trujillo. Son personas con estilos de vida activos, jornadas laborales extensas y poco tiempo disponible, pero que se preocupan profundamente por el bienestar de sus mascotas. Buscan soluciones prácticas, confiables y accesibles que les permitan brindar atención integral a sus animales sin complicaciones ni traslados innecesarios.
-
-Profesionales del cuidado animal: Incluye a veterinarios, técnicos veterinarios, paseadores, groomers y cuidadores (pet sitters) que desean ampliar su base de clientes, generar ingresos estables y profesionalizar su labor. Están interesados en plataformas que les ofrezcan visibilidad, organización por zonas, herramientas para mejorar su servicio y oportunidades de desarrollo a través de capacitaciones y recompensas.
 
 
 ## Desarrollo de Aplicaciones App Web - 4374
@@ -177,6 +29,229 @@ Profesionales del cuidado animal: Incluye a veterinarios, técnicos veterinarios
 | Erick Goicochea |       u202019181                       | 
 
 ## Ciclo 2025-01
+
+## Registro de Versiones del Informe
+
+| Versión | Fecha      | Autor                                  | Descripción                                                                                                                                                        |
+| ------- | ---------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| TB1     | 17/04/2025 | **Oscar Espinoza Quijandría**          | Desarrollé el Lean UX Canvas y definí los problem statements, assumptions e hipótesis basados en las necesidades detectadas en usuarios.                           | 
+| TB1     | 20/04/2025 | **Stephano Mayrzon Landauri Preciado** | Conduje entrevistas a usuarios del segmento objetivo, analicé patrones y definí el lenguaje ubicuo del proyecto.                                                   |
+| TB1     | 16/04/2025 | **Fabian Oliva**                       | Diseñé la arquitectura de la información y los sistemas de búsqueda, navegación y etiquetado del sistema, además de configurar el entorno de desarrollo.           |
+| TB1     | 23/04/2025 | **Erick Alessander Vasquez Goicochea** | Elaboré los diagramas de arquitectura de software (contexto, contenedores y componentes) aplicando diseño orientado al dominio.                                    |
+| TB1     | 19/04/2025 | **Gianfranco Jared Durand Vega**       | Documenté los antecedentes y problemática del proyecto, definiendo con claridad los retos a abordar.                                                               |
+| TB1     | 22/04/2025 | **Miguel Vidal**                       | Diseñé la interfaz gráfica y maqueta de la landing page en Figma, además de estructurar la base de datos y su diagrama respectivo.                                 |
+| TB1     | 25/04/2025 | **Oscar Espinoza Quijandría**          | Configuré el despliegue del software, diseñé los diagramas de clases y aseguré la implementación funcional de la landing page y servicios.                         |
+| TB1     | 18/04/2025 | **Stephano Mayrzon Landauri Preciado** | Redacté las user stories y participé en la organización de roles y la planificación del Sprint 1.                                                                  |
+| TB1     | 21/04/2025 | **Gianfranco Jared Durand Vega**       | Elaboré el perfil de la startup, definiendo su propuesta de valor, objetivos y estructura de trabajo.                                                              |
+| TB1     | 24/04/2025 | **Erick Alessander Vasquez Goicochea** | Reuní evidencias de ejecución, documentación y despliegue para el sprint review. También analicé la colaboración del equipo e identifiqué mejoras en coordinación. |
+| TB1     | 15/04/2025 | **Miguel Vidal**                       | Realicé el proceso de needfinding, elaboré los user personas, empathy maps y escenarios As-is.                                                                     |
+| TB1     | 17/04/2025 | **Fabian Oliva**                       | Propuse estrategias competitivas tras evaluar productos similares, diferenciando nuestra solución en el mercado.                                                   |
+
+## Project Report Collaboration Insights
+
+Link del Github: https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH
+
+Link del repositorio: https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT
+
+Link de la Landingpage: https://www.figma.com/design/mrE2HdtnKGpcc3JNmnxwVG/MascotaMatch?node-id=2034-386&p=f&t=JjcBmkbtOIzrSkCR-0
+
+
+![image](https://github.com/user-attachments/assets/d84fa6f1-20b4-456d-98f0-4f4ae11f53eb)
+
+## Table of Contents
+
+- [Registro de Versiones del Informe]
+- [Project Report Collaboration Insights]
+- [Student Outcome]
+
+- [Capítulo I: Introducción]
+  - [1.1. Startup Profile]
+    - [1.1.1. Descripción de la Startup]
+    - [1.1.2. Perfiles de integrantes del equipo]
+  - [1.2. Solution Profile]
+    - [1.2.1. Antecedentes y problemática]
+    - [1.2.2. Lean UX Process]
+      - [1.2.2.1. Lean UX Problem Statements]
+      - [1.2.2.2. Lean UX Assumptions]
+      - [1.2.2.3. Lean UX Hypothesis Statements]
+      - [1.2.2.4. Lean UX Canvas]
+  - [1.3. Segmentos objetivo]
+
+- [Capítulo II: Requirements Elicitation & Analysis]
+  - [2.1. Competidores]
+    - [2.1.1. Análisis competitivo]
+    - [2.1.2. Estrategias y tácticas frente a competidores]
+  - [2.2. Entrevistas]
+    - [2.2.1. Diseño de entrevistas]
+    - [2.2.2. Registro de entrevistas]
+    - [2.2.3. Análisis de entrevistas]
+  - [2.3. Needfinding]
+    - [2.3.1. User Personas]
+    - [2.3.2. User Task Matrix]
+    - [2.3.3. User Journey Mapping]
+    - [2.3.4. Empathy Mapping]
+    - [2.3.5. As-is Scenario Mapping]
+  - [2.4. Ubiquitous Language]
+
+- [Capítulo III: Requirements Specification]
+  - [3.1. To-Be Scenario Mapping]
+  - [3.2. User Stories]
+  - [3.3. Impact Mapping]
+  - [3.4. Product Backlog]
+
+- [Capítulo IV: Product Design]
+  - [4.1. Style Guidelines]
+    - [4.1.1. General Style Guidelines]
+    - [4.1.2. Web Style Guidelines]
+  - [4.2. Information Architecture]
+    - [4.2.1. Organization Systems]
+    - [4.2.2. Labeling Systems]
+    - [4.2.3. SEO Tags and Meta Tags]
+    - [4.2.4. Searching Systems]
+    - [4.2.5. Navigation Systems]
+  - [4.3. Landing Page UI Design]
+    - [4.3.1. Landing Page Wireframe]
+    - [4.3.2. Landing Page Mock-up]
+  - [4.4. Web Applications UX/UI Design]
+    - [4.4.1. Web Applications Wireframes]
+    - [4.4.2. Web Applications Wireflow Diagrams]
+    - [4.4.3. Web Applications Mock-ups]
+    - [4.4.4. Web Applications User Flow Diagrams]
+  - [4.5. Web Applications Prototyping]
+  - [4.6. Domain-Driven Software Architecture]
+    - [4.6.1. Software Architecture Context Diagram]
+    - [4.6.2. Software Architecture Container Diagrams]
+    - [4.6.3. Software Architecture Components Diagrams]
+  - [4.7. Software Object-Oriented Design]
+    - [4.7.1. Class Diagrams]
+    - [4.7.2. Class Dictionary]
+  - [4.8. Database Design]
+    - [4.8.1. Database Diagram]
+
+- [Capítulo V: Product Implementation, Validation & Deployment]
+  - [5.1. Software Configuration Management]
+    - [5.1.1. Software Development Environment Configuration]
+    - [5.1.2. Source Code Management]
+    - [5.1.3. Source Code Style Guide & Conventions]
+    - [5.1.4. Software Deployment Configuration]
+  - [5.2. Landing Page, Services & Applications Implementation]
+    - [5.2.1. Sprint 1]
+      - [5.2.1.1. Sprint Planning 1]
+      - [5.2.1.2. Aspect Leaders and Collaborators]
+      - [5.2.1.3. Sprint Backlog 1]
+      - [5.2.1.4. Development Evidence for Sprint Review]
+      - [5.2.1.5. Execution Evidence for Sprint Review]
+      - [5.2.1.6. Services Documentation Evidence for Sprint Review]
+      - [5.2.1.7. Software Deployment Evidence for Sprint Review]
+      - [5.2.1.8. Team Collaboration Insights during Sprint]
+      - [5.2.2. Sprint 2]
+      - [5.2.2.1. Sprint Planning 2]
+      - [5.2.2.2. Aspect Leaders and Collaborators]
+      - [5.2.2.3. Sprint Backlog 2]
+      - [5.2.2.4. Development Evidence for Sprint Review]
+      - [5.2.2.5. Execution Evidence for Sprint Review]
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review]
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review]
+      - [5.2.2.8. Team Collaboration Insights during Sprint]
+
+- [Conclusiones](#conclusiones-recomendaciones-about-the-team)
+- [Bibliografía](#bibliografía)
+- [Anexos](#anexos)
+
+
+
+### 1.1. Startup Profile
+
+MascotaMatch nace con el propósito de cambiar el cuidado de mascotas en el Perú, conectado a dueños de mascotas con profesionales certificados cmo veterinarios, paseadores y groomes a través de una plataforma digital "todo en uno". Mediante un modelo de suscripción mensual, ofrece servicios tales como paseos, grooming, check-ups veterinarios, recordatorios de vacunas y atención prioritaria, dándoles así una comodidad y tranquilidad a los dueños y también oportunidad de ingresos a los proovedores. La aplicación utiliza tecnología de geolocalización, historial médico digital y un emparejamiento inteligente para asegurar una experiencia confiable y personalizada, además de fomentar la formalización y capacitación de los profesionales de un sector. Con nuestra app, buscamos conectar más comunidades pet-friendly en el Perú, apostando por la digitalización y el bienestar animal.
+
+### 1.1.1. Descripción de la Startup
+
+La startup MascotaMatch busca mejorar significativamente la calidad de vida de las mascotas logrando así que el cuidado de sus mascotas sea sencillo y eficiente. Además, nuestra app busca promover un entorno más formal y seguro dentro del mercado de servicios para mascotas, aumentando la tranquilidad y confianza de los propietarios. Para lograr esto, se presenta una plataforma digital innovadora basada en un modelo de suscripción mensual, la cual conecta fácilmente a los dueños con especialistas certificados en veterinaria, paseo y grooming, dando múltiples servicios especializados, como chequeos regulares, aseo mensual, paseos programados, alerta para vacunas y atención prioritaria. Con MascotaMatch buscamos mejorar la gestión y monitorio del bienestar animal, asegurando un cuidado oportuno que mejora tanto la salud como la felicidad de las mascotas.
+
+  
+### 1.1.2. Perfiles de integrantes del equipo
+
+<div align="center">
+
+![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-1/Screenshot%202025-04-17%20215254.png)
+![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-1/Screenshot%202025-04-17%20215557.png)
+![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-1/Screenshot%202025-04-17%20215626.png)
+![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-1/Screenshot%202025-04-17%20215638.png)
+![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-1/Screenshot%202025-04-17%20215646.png)
+![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-1/Screenshot%202025-04-17%20220018.png)
+</div>
+
+
+| **Criterio específico** | **Acciones realizadas** | **Conclusión** |
+|-------------------------|--------------------------|------------------|
+| Trabajar en equipo para proporcionar liderazgo en forma conjunta | **Fabián Oliva**<br>**TB1:** Desarrollé el análisis competitivo e identifiqué estrategias frente a los competidores. Además, diseñé la arquitectura de información, sistemas de organización, etiquetado, búsqueda y navegación. También configuré el entorno de desarrollo y la gestión del software.<br><br>**Gianfranco Jared Durand Vega**<br>**TB1:** Redacté el perfil de la startup, la descripción general y los perfiles del equipo. También desarrollé los antecedentes, objetivos, solución planteada e Impact Mapping. Finalmente, apoyé en la gestión del código fuente y definí las convenciones de estilo.<br><br>**Oscar Leonel Espinoza Quijandría**<br>**TB1:** Desarrollé todo el proceso Lean UX, incluyendo los problem statements, assumptions, hipótesis y el Lean UX Canva. También trabajé en el To-Be Scenario Mapping, el Product Backlog, los diagramas de clases, la configuración de despliegue y la implementación de la landing page y servicios web.<br><br>**Stephano Mayrzon Landauri Preciado**<br>**TB1:** Me encargué de diseñar y registrar entrevistas, además de analizar sus resultados. Definí el lenguaje ubicuo, elaboré las user stories y participé en el desarrollo de la aplicación web. También colaboré en la planificación del primer sprint y la organización de roles.<br><br>**Miguel Vidal**<br>**TB1:** Realicé el needfinding y elaboré los user personas, journey mapping, empathy mapping y escenarios As-is. También diseñé la interfaz de la landing page, su maqueta en Figma, la base de datos, su diagrama y el Sprint Backlog 1, incluyendo la evidencia para la revisión del sprint.<br><br>**Erick Alessander Vásquez Goicochea**<br>**TB1:** Elaboré los diagramas de arquitectura de software (contexto, contenedores y componentes), y apliqué el enfoque orientado al dominio. También desarrollé el class directory y reuní evidencias de ejecución, documentación y despliegue para el sprint review. Finalmente, aporté con análisis sobre la colaboración del equipo durante el sprint. | **TB1:**<br>Cada integrante cumplió con sus responsabilidades asignadas, aportando al análisis competitivo, diseño UX, desarrollo técnico y planificación ágil. Gracias a una comunicación constante y efectiva, se logró integrar los avances de manera coherente, sentando una base sólida para continuar el desarrollo del proyecto MascotaMatch. |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos. | **Fabián Oliva**<br>**TB1:** Me encargué del análisis competitivo, evaluando productos similares para identificar sus puntos fuertes y débiles. A partir de ello, propuse estrategias que diferenciaran nuestra solución en el mercado. También diseñé la arquitectura de información y los sistemas de organización, etiquetado, búsqueda y navegación, asegurando una experiencia fluida y estructurada para el usuario. Además, configuré el entorno de desarrollo y gestioné el software para garantizar un soporte técnico sólido durante todo el proyecto.<br><br>**Gianfranco Jared Durand Vega**<br>**TB1:** Redacté el perfil de la startup, describiendo claramente su propósito, propuesta de valor y estructura de trabajo. También desarrollé los perfiles de los integrantes del equipo, resaltando sus habilidades y roles. Elaboré los antecedentes y la problemática, definiendo con precisión los objetivos del proyecto. Además, estructuré el Solution Profile e implementé el Impact Mapping para alinear nuestras acciones con las metas. Finalmente, participé en la gestión del código fuente y definí las convenciones de estilo para mantener un desarrollo limpio y consistente.<br><br>**Oscar Espinoza Quijandría**<br>**TB1:** Me encargué de desarrollar el proceso completo de Lean UX, formulando los problem statements, assumptions, hipótesis y el Lean UX Canva para validar nuestra propuesta con base en necesidades reales. Además, diseñé el To-Be Scenario Mapping y estructuré el Product Backlog, asegurando una planificación clara de las funcionalidades. Participé activamente en el desarrollo de la aplicación web, diseñé los diagramas de clases, configuré el despliegue del software y realicé la implementación de la landing page y los servicios, asegurando la funcionalidad técnica del sistema.<br><br>**Stephano Mayrzon Landauri Preciado**<br>**TB1:** Diseñé y conduje entrevistas con usuarios potenciales, registrando sus respuestas y realizando un análisis detallado para identificar patrones y necesidades. A partir de esta información, definí el lenguaje ubicuo del proyecto y redacté las user stories que guiarían el desarrollo del producto. También participé en el desarrollo de la aplicación web, colaboré en la planificación del Sprint 1 y en la asignación de roles y responsabilidades dentro del equipo, promoviendo una organización clara y efectiva durante el proceso ágil.<br><br>**Miguel Vidal**<br>**TB1:** Me encargué de realizar el proceso de needfinding, lo que me permitió identificar las necesidades reales de los usuarios. A partir de ello, elaboré los user personas, empathy maps, journey maps y los escenarios As-is, herramientas clave para entender el contexto y comportamiento de los usuarios. También diseñé la interfaz de la landing page y su maqueta en Figma, asegurando una experiencia visual coherente. Además, estructuré la base de datos y su diagrama correspondiente. Finalmente, elaboré el Sprint Backlog 1 y reuní las evidencias necesarias para la revisión del sprint.<br><br>**Erick Vásquez**<br>**TB1:** Elaboré los diagramas de arquitectura de software, incluyendo el de contexto, contenedores y componentes, aplicando el enfoque de diseño orientado al dominio para mantener una estructura lógica y escalable. También desarrollé el class directory para definir de manera clara las entidades y sus relaciones dentro del sistema. Me encargué de reunir y documentar las evidencias de ejecución, despliegue y funcionamiento del software para el sprint review. Además, analicé la colaboración del equipo durante el sprint, identificando oportunidades de mejora en la coordinación y cumplimiento de tareas. | **TB1:**<br>Se validó que la propuesta de MascotaMatch responde a necesidades reales de los usuarios en contextos urbanos, considerando aspectos de bienestar animal, confiabilidad del servicio y accesibilidad tecnológica. El trabajo colaborativo y el enfoque centrado en el usuario permitieron definir una solución funcional y contextualizada que servirá como base para las siguientes etapas del desarrollo. |
+
+### 1.2. Solution Profile:
+
+Nombre del producto:
+
+Nuestro producto, MascotaMatch, fue creado pensando especialmente en nuestros valores y compromiso con el bienestar animal. La palabra "Mascota" refleja claramente nuestra dedicación al cuidado y felicidad de los animales domésticos, mientras que "Match" hace referencia a la eficiente conexión entre los propietarios de mascotas y los profesionales certificados del sector. Esta combinación expresa nuestra propuesta innovadora: una plataforma digital que facilita y centraliza todos los servicios necesarios para cuidar integralmente a las mascotas en entornos urbanos. MascotaMatch es una aplicación única basada en un modelo de suscripción mensual que brinda acceso a servicios como paseos regulares, sesiones de grooming, controles veterinarios, avisos oportunos para vacunas y atención prioritaria ante emergencias. Al detectar una necesidad específica del usuario, la aplicación enlaza de manera inmediata a los dueños con expertos calificados cercanos a su ubicación, proporcionando tranquilidad y comodidad. Gracias a esta rápida conexión, garantizamos un cuidado eficaz y oportuno que eleva considerablemente la calidad de vida de las mascotas. La app estará disponible en una página web diseñada para que sea intuitiva hacia cualquier público.
+
+  
+### 1.2.1 Antecedentes y problemática:
+
+En nuestor país, el crecimiento acelerado de las ciudades ha generado cambios significativos en el estilo de vida de las personas, quienes, debido a largas jornadas laborales y responsabilidades diarias, cuentan con menos tiempo disponible para atender adecuadamente a sus mascotas. Esto provoca dificultades para encontrar proveedores confiables, formales y cercanos que puedan satisfacer las necesidades básicas y especializadas de cuidado animal, tales como paseos, grooming o visitas veterinarias. La escasa digitalización del sector y la falta de plataformas integradas complican aún más el acceso a servicios organizados y seguros, afectando directamente la calidad de vida, bienestar y salud de las mascotas y generando estrés y preocupación en sus propietarios.
+
+  
+### Esto lo explicamos en el siguiente a través del método 5W’s y 2H’s: 
+
+![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-1/Screenshot%202025-04-25%20003027.png)
+
+### 1.2.2 Lean UX Process.
+
+#### 1.2.2.1. Lean UX Problem Statements.
+
+Para usuarios:
+Los dueños de mascotas que tienen una agenda ocupada o poca experiencia en cuidado animal necesitan una forma confiable, centralizada y segura de gestionar la salud y bienestar de sus mascotas.
+
+Para el negocio:
+MascotaMatch necesita validar si una app que centraliza múltiples servicios para mascotas (paseos, grooming, salud, recordatorios y emergencias) puede atraer y retener usuarios de forma sostenible y escalable.
+
+#### 1.2.2.2. Lean UX Assumptions.
+
+Los dueños de mascotas desean soluciones digitales todo-en-uno para gestionar el bienestar de sus mascotas.
+
+Los usuarios confían más en una app que ofrece servicios verificados y notificaciones automáticas.
+
+Las personas están dispuestas a pagar por conveniencia y atención especializada para sus mascotas.
+
+Las urgencias veterinarias requieren una respuesta inmediata, lo que hace valioso tener un botón de emergencia en la app.
+
+La geolocalización de paseadores y veterinarios cercanos mejora la experiencia del usuario.
+
+#### 1.2.2.3. Lean UX Hypothesis Statements.
+
+Creemos que una app con servicios integrados (paseos, grooming, salud, recordatorios y emergencias)
+ayudará a los dueños de mascotas a cuidar mejor de ellas,
+lo que resultará en una mayor retención de usuarios activos dentro del primer mes.
+
+Creemos que el botón de emergencia con ubicación automática
+ayudará a los usuarios a gestionar situaciones críticas con rapidez,
+lo que resultará en una mejora en la percepción de confiabilidad del servicio.
+
+Creemos que mostrar perfiles verificados de paseadores y veterinarios
+aumentará la confianza en el uso de los servicios,
+lo que resultará en más reservas semanales por usuario.
+
+#### 1.2.2.4. Lean UX Canvas.
+<div align="center">
+  
+![image](https://github.com/user-attachments/assets/ba34c45f-1533-44bc-a9a7-3adca400c0c7)
+
+ </div>
+  
+### 1.3 Segmentos Objetivo 
+
+Dueños de mascotas en zonas urbanas: Hombres y mujeres, principalmente entre 25 y 45 años, que residen en ciudades como Lima, Arequipa y Trujillo. Son personas con estilos de vida activos, jornadas laborales extensas y poco tiempo disponible, pero que se preocupan profundamente por el bienestar de sus mascotas. Buscan soluciones prácticas, confiables y accesibles que les permitan brindar atención integral a sus animales sin complicaciones ni traslados innecesarios.
+
+Profesionales del cuidado animal: Incluye a veterinarios, técnicos veterinarios, paseadores, groomers y cuidadores (pet sitters) que desean ampliar su base de clientes, generar ingresos estables y profesionalizar su labor. Están interesados en plataformas que les ofrezcan visibilidad, organización por zonas, herramientas para mejorar su servicio y oportunidades de desarrollo a través de capacitaciones y recompensas.
+
 </div>
 
 # Capítulo II: Requirements Elicitation & Analysis
@@ -184,7 +259,9 @@ Profesionales del cuidado animal: Incluye a veterinarios, técnicos veterinarios
 ## 2.1. Competidores
 
 **Dog Houser**: Dog Houser es una plataforma peruana que conecta a dueños de mascotas con familias cuidadoras que ofrecen hospedaje y guardería en casa. Destaca por su ambiente familiar y personalizado, permitiendo elegir cuidadores según necesidades específicas.
+
 **PaseaPerros.com**: PaseaPerros.com es una plataforma peruana que conecta a dueños de perros con paseadores y cuidadores en su zona. Ofrece servicios como paseo, guardería y hospedaje, con perfiles calificados y reseñas de clientes.
+
 **PetBacker**: PetBacker es una plataforma internacional con presencia en Perú que permite encontrar cuidadores independientes cercanos. Ofrece servicios como paseos, visitas y hospedaje, con un sistema de reseñas que brinda confianza.
 
 ### 2.1.1. Análisis competitivo
@@ -229,19 +306,22 @@ En esta sección se desarrolla la investigación realizada sobre nuestros públi
 
 ### Entrevistado 1: Renzo Livia
 
+- **Timing:** 14:11 - 21:56 min
 - **Edad:** 19  
 - **Distrito:** Surco  
 - **Resumen:**  
   Dueño de un pug de seis meses, al que cuida con rutinas diarias de paseos, alimentación y control del agua. Lleva a su mascota al veterinario cada cuatro meses o cuando detecta anomalías. Al inicio tuvo dificultades para encontrar veterinarios confiables, pero actualmente trabaja con dos de confianza. Baña a su mascota cada dos semanas y corta su pelo cada mes. Está dispuesto a pagar una suscripción mensual si esta ofrece servicios integrales con profesionales certificados. Se preocupa por enfermedades graves y accidentes en casa. Se siente muy familiarizado con el uso de aplicaciones móviles para servicios y considera que una app centralizada ayudaría a mejorar la organización y bienestar de su mascota.  
 
-![image](https://github.com/user-attachments/assets/3709aa26-ce3f-4a4d-bb0d-c8c00866898d)
+![image](https://github.com/user-attachments/assets/dd08bcf9-b0aa-49c0-ae88-24737721008d)
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311828_upc_edu_pe/ERExDL-Coe5BptW5nop3KCwBcTepw3DZIxLfRRTtK_TqOQ?e=od8dKr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+https://bit.ly/4jSgQgS
 
 ---
 
 ### Entrevistado 2: Jagger Baldivieso
 
+- **Timing:** 11:17 - 14:10 min
 - **Edad:** 19  
 - **Distrito:** Casaruinas.  
 - **Resumen:**  
@@ -249,15 +329,17 @@ Realiza paseos a su mascota tres veces al día y verifica constantemente su bien
 
 <img width="1512" alt="image" src="https://github.com/user-attachments/assets/faacacfa-f238-4d33-9042-bd41bbdbe388" />
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311828_upc_edu_pe/ERExDL-Coe5BptW5nop3KCwBcTepw3DZIxLfRRTtK_TqOQ?e=od8dKr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+https://bit.ly/4jSgQgS
 
 --- 
 
 
-## Entrevista a médicos veterinarios
+## Entrevista a Profesionales del cuidado animal
 
 ### Entrevistado 3: Médico veterinario 
 
+- **Timing:** 0:00 - 5:41 min
 - **Edad:** 36  
 - **Distrito:** Callao  
 - **Resumen:**  
@@ -265,12 +347,13 @@ Veterinario con 8 años de experiencia colegiado, trabaja actualmente en una emp
 
 ![image](https://github.com/user-attachments/assets/c7099fdc-175f-466e-8525-98452d9f6f16)
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311828_upc_edu_pe/ERExDL-Coe5BptW5nop3KCwBcTepw3DZIxLfRRTtK_TqOQ?e=od8dKr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+https://bit.ly/4jSgQgS
 
 ---
 
 ### Entrevistado 4: Médico veterinario clínico
 
+- **Timing:** 5:41 - 11:16 min
 - **Edad:** 50
 - **Distrito:** San Miguel 
 - **Resumen:**  
@@ -278,7 +361,7 @@ Veterinario con horario de 9 a.m. a 5 p.m., brinda atención clínica presencial
 
 ![image](https://github.com/user-attachments/assets/9bc8a69a-01de-4be0-ac01-c8b370bb83b1)
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311828_upc_edu_pe/ERExDL-Coe5BptW5nop3KCwBcTepw3DZIxLfRRTtK_TqOQ?e=od8dKr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+https://bit.ly/4jSgQgS
 
 ---
 
@@ -438,35 +521,39 @@ Se entrevistó a dos jóvenes dueños de mascotas que relataron su rutina diaria
 | EPIC04 | Navegación y estructura general | **Como** visitante del sitio,<br>**Quiero** navegar de manera intuitiva entre secciones principales como Home, Services y FAQ,<br>**Para** encontrar fácilmente lo que busco. |  | - |
 | EPIC05 | Registro y Login | **Como** nuevo usuario o visitante,<br>**Quiero** poder registrarme y hacer login de manera sencilla,<br>**Para** proteger el acceso a la landing page y personalizar mi experiencia. |  | - |
 | EPIC06 | Diseño Visual y Responsividad | **Como** visitante desde diferentes dispositivos,<br>**Quiero** que el sitio se adapte visualmente a computadoras, tablets y celulares,<br>**Para** tener una experiencia agradable y cómoda desde cualquier lugar. |  | - |
-| HU01 | Mensaje de bienvenida visible | Como visitante, quiero ver un mensaje de bienvenida en la portada que me explique qué es MascotaMatch, para entender rápidamente el propósito del sitio. | **ESCENARIO 1:**<br> Dado que el usuario accede correctamente.<br> Cuando realiza la acción esperada.<br> Entonces el visitante ve un título principal que resume el propósito del sitio.<br><br>**ESCENARIO 2:**<br> Dado que el usuario aún no ha interactuado.<br> Cuando lo intenta por primera vez.<br> Entonces el sistema muestra un texto explicativo debajo. | EPIC01 |
-| HU02 | Botón See Services | Como visitante, quiero hacer clic en el botón "See Services" en la portada para ir directamente a la sección de servicios. | **ESCENARIO 1:**<br> Dado que el usuario accede correctamente.<br> Cuando realiza la acción esperada.<br> Entonces ve el botón debajo del mensaje principal.<br><br>**ESCENARIO 2:**<br> Dado que el usuario aún no ha interactuado.<br> Cuando lo intenta por primera vez.<br> Entonces al hacer clic, va a la sección de servicios. | EPIC01 |
-| HU03 | Visualizar tarjetas de servicios | Como visitante, quiero visualizar tarjetas de servicios para conocer opciones disponibles para mi mascota. | **ESCENARIO 1:**<br> Dado que el usuario accede correctamente.<br> Cuando realiza la acción esperada.<br> Entonces el sistema muestra 4 servicios claros (paseos, grooming, emergencias, recordatorios).<br><br>**ESCENARIO 2:**<br> Dado que el usuario aún no ha interactuado.<br> Cuando lo intenta por primera vez.<br> Entonces las tarjetas contienen imagen, título y descripción breve. | EPIC01 |
-| HU04 | Descripción clara de servicios | Como visitante, quiero leer una breve descripción debajo de cada servicio para entender qué incluye y decidir si es relevante para mí. | **ESCENARIO 1:**<br> Dado que el usuario accede correctamente.<br> Cuando realiza la acción esperada.<br> Entonces cada tarjeta contiene un texto de resumen comprensible.<br><br>**ESCENARIO 2:**<br> Dado que el usuario aún no ha interactuado.<br> Cuando lo intenta por primera vez.<br> Entonces el sistema se enfoca en el beneficio directo para el cliente. | EPIC01 |
-| HU05 | Imágenes representativas en servicios | Como visitante, quiero que cada servicio tenga una imagen visual que lo represente para reconocerlo rápidamente sin leer demasiado texto. | **ESCENARIO 1:**<br> Dado que el usuario accede correctamente.<br> Cuando realiza la acción esperada.<br> Entonces todas las tarjetas tienen íconos claros.<br><br>**ESCENARIO 2:**<br> Dado que el usuario aún no ha interactuado.<br> Cuando lo intenta por primera vez.<br> Entonces las imágenes están relacionadas con el servicio. | EPIC01 |
-| HU06 | Ver planes de suscripción | Como visitante, quiero visualizar los distintos planes (VIP, Completo, Mini) para comparar opciones y elegir el mejor para mi mascota. | **ESCENARIO 1:**<br> Dado que el usuario accede correctamente.<br> Cuando realiza la acción esperada.<br> Entonces el sistema muestra 3 tarjetas de planes con nombre, imagen y contenido.<br><br>**ESCENARIO 2:**<br> Dado que el usuario aún no ha interactuado.<br> Cuando lo intenta por primera vez.<br> Entonces cada plan está diferenciado visualmente. | EPIC02 |
-| HU07 | Beneficios por plan en lista | Como visitante, quiero ver los beneficios de cada plan organizados en listas para entender claramente qué incluye cada uno. | **ESCENARIO 1:**<br> Dado que el usuario accede correctamente.<br> Cuando realiza la acción esperada.<br> Entonces cada plan tiene viñetas con beneficios claros.<br><br>**ESCENARIO 2:**<br> Dado que el usuario aún no ha interactuado.<br> Cuando lo intenta por primera vez.<br> Entonces las listas permiten comparar fácilmente. | EPIC02 |
-| HU08 | Imagen por plan | Como visitante, quiero que cada plan tenga una imagen para diferenciarlo visualmente de los demás. | **ESCENARIO 1:**<br> Dado que el usuario accede correctamente.<br> Cuando realiza la acción esperada.<br> Entonces cada tarjeta de plan tiene una imagen distinta.<br><br>**ESCENARIO 2:**<br> Dado que el usuario aún no ha interactuado.<br> Cuando lo intenta por primera vez.<br> Entonces la imagen se ubica en la parte superior de cada plan. | EPIC02 |
-| HU09 | Botón Read more en cada plan | Como visitante, quiero hacer clic en un botón 'Read more' para ver una página con información completa sobre ese plan. | **ESCENARIO 1:**<br> Dado que el usuario accede correctamente.<br> Cuando realiza la acción esperada.<br> Entonces debajo de cada plan hay un botón funcional.<br><br>**ESCENARIO 2:**<br> Dado que el usuario aún no ha interactuado.<br> Cuando lo intenta por primera vez.<br> Entonces al hacer clic se accede a plan_vip.html, plan_complete.html o plan_mini.html. | EPIC02 |
-| HU10 | Acceso a sección FAQ | Como visitante, quiero ver una sección de preguntas frecuentes (FAQ) con íconos y respuestas simples para resolver dudas rápidamente. | **ESCENARIO 1:**<br> Dado que el usuario accede correctamente.<br> Cuando realiza la acción esperada.<br> Entonces hay 6 preguntas frecuentes en tarjetas organizadas.<br><br>**ESCENARIO 2:**<br> Dado que el usuario aún no ha interactuado.<br> Cuando lo intenta por primera vez.<br> Entonces cada tarjeta incluye un ícono representativo y texto explicativo. | EPIC03 |
-| HU11 | Visualización del logo | Como visitante, quiero ver el logo de MascotaMatch en la parte superior izquierda para confirmar que estoy en el sitio correcto. | **ESCENARIO 1:**<br> Dado que el usuario accede correctamente.<br> Cuando realiza la acción esperada.<br> Entonces el logo está visible en el header.<br><br>**ESCENARIO 2:**<br> Dado que el usuario aún no ha interactuado.<br> Cuando lo intenta por primera vez.<br> Entonces el logo se mantiene en todas las páginas. | EPIC04 |
-| HU12 | Menú de navegación | Como visitante, quiero tener acceso a un menú con secciones como Home, Services, Plans y FAQ para moverme rápidamente por el sitio. | **ESCENARIO 1:**<br> Dado que el usuario accede correctamente.<br> Cuando realiza la acción esperada.<br> Entonces el menú está en la parte superior.<br><br>**ESCENARIO 2:**<br> Dado que el usuario aún no ha interactuado.<br> Cuando lo intenta por primera vez.<br> Entonces cada enlace funciona como ancla a la sección respectiva. | EPIC04 |
-| HU13 | Footer con contacto y secciones | Como visitante, quiero ver en el pie de página opciones de contacto, ayuda, distritos y un formulario de correo para comunicarme si necesito más información. | **ESCENARIO 1:**<br> Dado que el usuario accede correctamente.<br> Cuando realiza la acción esperada.<br> Entonces el footer incluye tres columnas con información.<br><br>**ESCENARIO 2:**<br> Dado que el usuario aún no ha interactuado.<br> Cuando lo intenta por primera vez.<br> Entonces hay campo para ingresar correo. | EPIC04 |
-| HU14 | Pantalla de login obligatoria | Como visitante, quiero iniciar sesión en una pantalla previa para poder ingresar a la landing page y que el contenido esté protegido. | **ESCENARIO 1:**<br> Dado que el usuario accede correctamente.<br> Cuando realiza la acción esperada.<br> Entonces el login está en index.html y es obligatorio.<br><br>**ESCENARIO 2:**<br> Dado que el usuario aún no ha interactuado.<br> Cuando lo intenta por primera vez.<br> Entonces no se puede acceder a la landing sin estar logueado. | EPIC05 |
-| HU15 | Registrarme si no tengo cuenta | Como visitante, quiero registrarme fácilmente si aún no tengo una cuenta para poder acceder al contenido del sitio. | **ESCENARIO 1:**<br> Dado que el usuario accede correctamente.<br> Cuando realiza la acción esperada.<br> Entonces el login incluye la opción 'register here'.<br><br>**ESCENARIO 2:**<br> Dado que el usuario aún no ha interactuado.<br> Cuando lo intenta por primera vez.<br> Entonces el registro permite luego acceder a la landing. | EPIC05 |
-| HU16 | Diseño uniforme visualmente agradable | Como visitante, quiero navegar por un sitio con una tipografía, paleta de colores y estilo visual uniforme para sentir confianza y comodidad. | **ESCENARIO 1:**<br> Dado que el usuario accede correctamente.<br> Cuando realiza la acción esperada.<br> Entonces todo el sitio usa fondo degradado azul.<br><br>**ESCENARIO 2:**<br> Dado que el usuario aún no ha interactuado.<br> Cuando lo intenta por primera vez.<br> Entonces los botones verdes son consistentes. | EPIC06 |
-| HU17 | Visualización responsiva | Como visitante, quiero que el sitio se vea bien en mi computadora o celular para poder explorarlo cómodamente. | **ESCENARIO 1:**<br> Dado que el usuario accede correctamente.<br> Cuando realiza la acción esperada.<br> Entonces el sitio adapta los contenidos a diferentes tamaños.<br><br>**ESCENARIO 2:**<br> Dado que el usuario aún no ha interactuado.<br> Cuando lo intenta por primera vez.<br> Entonces las secciones están alineadas y centradas. | EPIC06 |
-| HU18 | Acceso a páginas de detalle por plan | Como visitante, quiero poder acceder a una página individual con todos los detalles del plan VIP, Completo o Mini desde su botón “Read more”. | **ESCENARIO 1:**<br> Dado que el usuario accede correctamente.<br> Cuando realiza la acción esperada.<br> Entonces cada plan tiene su página independiente.<br><br>**ESCENARIO 2:**<br> Dado que el usuario aún no ha interactuado.<br> Cuando lo intenta por primera vez.<br> Entonces se incluye imagen grande, descripción extensa y lista de beneficios. | EPIC02 |
 
-| User Story ID | Título | Descripción | Criterios de Aceptación |
-|:---|:---|:---|:---|
-| TS01 | GET servicios disponibles | **Como** desarrollador, **quiero** conectar con la API para obtener los servicios disponibles **para** que el usuario pueda ver las opciones de MascotaMatch. | **Escenario 1:**<br>Dado que accedo a los servicios,<br>Cuando solicito la información,<br>Entonces veo los servicios cargados.<br><br>**Escenario 2:**<br>Dado que no hay servicios,<br>Cuando solicito la información,<br>Entonces veo un mensaje indicando que no hay servicios disponibles. |
-| TS02 | GET planes de suscripción | **Como** desarrollador, **quiero** conectar con la API para obtener los planes disponibles **para** que el usuario pueda elegir el mejor plan. | **Escenario 1:**<br>Dado que accedo a los planes,<br>Cuando solicito la información,<br>Entonces veo todos los planes disponibles.<br><br>**Escenario 2:**<br>Dado que no existen planes,<br>Cuando solicito la información,<br>Entonces recibo un mensaje informativo. |
-| TS03 | GET preguntas frecuentes | **Como** desarrollador, **quiero** conectar con la API para obtener las preguntas frecuentes **para** resolver las dudas comunes de los usuarios. | **Escenario 1:**<br>Dado que accedo a las preguntas,<br>Cuando solicito la información,<br>Entonces veo todas las preguntas y respuestas.<br><br>**Escenario 2:**<br>Dado que no hay preguntas,<br>Cuando solicito la información,<br>Entonces veo un mensaje indicando que no hay preguntas disponibles. |
-| TS04 | POST registro de usuarios | **Como** desarrollador, **quiero** enviar información a la API para registrar nuevos usuarios **para** que puedan crear su cuenta en MascotaMatch. | **Escenario 1:**<br>Dado que un usuario llena sus datos correctamente,<br>Cuando envía su información,<br>Entonces su cuenta se registra exitosamente.<br><br>**Escenario 2:**<br>Dado que un usuario llena datos incorrectos,<br>Cuando intenta registrarse,<br>Entonces recibe un mensaje de error. |
-| TS05 | POST inicio de sesión de usuarios | **Como** desarrollador, **quiero** enviar información a la API para permitir que los usuarios inicien sesión **para** acceder a sus servicios personalizados. | **Escenario 1:**<br>Dado que un usuario ingresa datos correctos,<br>Cuando envía su acceso,<br>Entonces puede ingresar correctamente.<br><br>**Escenario 2:**<br>Dado que un usuario ingresa datos incorrectos,<br>Cuando intenta acceder,<br>Entonces recibe un error de acceso. |
-| TS06 | GET perfil de usuario | **Como** desarrollador, **quiero** obtener desde la API la información del perfil del usuario autenticado **para** mostrar sus datos personales en la página. | **Escenario 1:**<br>Dado que el usuario ya ingresó,<br>Cuando accede a su perfil,<br>Entonces ve su nombre, correo y mascotas registradas.<br><br>**Escenario 2:**<br>Dado que el usuario no ha ingresado,<br>Cuando intenta ver su perfil,<br>Entonces se le pide iniciar sesión. |
-| TS07 | POST agendar citas | **Como** desarrollador, **quiero** enviar información a la API para registrar una cita de servicio para la mascota **para** facilitar la organización de los servicios. | **Escenario 1:**<br>Dado que el usuario llena los datos de cita,<br>Cuando envía la información,<br>Entonces su cita queda registrada.<br><br>**Escenario 2:**<br>Dado que el usuario llena los datos de manera incorrecta,<br>Cuando intenta enviar,<br>Entonces ve un mensaje de error. |
-| TS08 | GET citas agendadas | **Como** desarrollador, **quiero** obtener desde la API la lista de citas agendadas del usuario **para** que pueda ver sus próximas reservas. | **Escenario 1:**<br>Dado que el usuario tiene citas agendadas,<br>Cuando accede a sus citas,<br>Entonces puede verlas listadas.<br><br>**Escenario 2:**<br>Dado que no tiene citas,<br>Cuando accede,<br>Entonces ve un mensaje indicando que no tiene citas. |
+| ID    | Título                               | Descripción                                                                                         | Criterios de Aceptación                                                                                                                                                                                                                                       | Epic Relacionado |
+|-------|--------------------------------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|
+| HU01  | Mensaje de bienvenida visible        | Como visitante, quiero ver un mensaje de bienvenida que me explique qué es MascotaMatch.            | Escenario 1: Se muestra un mensaje con la descripción del sitio. <br> Escenario 2: Está centrado en la parte superior y es visible sin desplazarse.                                                                                                            | EPIC01           |
+| HU02  | Botón See Services                   | Como visitante, quiero hacer clic en el botón “See Services” y ser redirigido a la sección de servicios. | Escenario 1: El botón funciona correctamente desde la portada. <br> Escenario 2: Al hacer clic se baja automáticamente a la sección servicios.                                                                                                                 | EPIC01           |
+| HU03  | Visualización de servicios           | Como visitante, quiero ver tarjetas de servicios con iconos, nombre y descripción clara.             | Escenario 1: Se muestran 4 tarjetas de servicios (paseos, grooming, emergencias, recordatorios). <br> Escenario 2: Cada tarjeta tiene ícono, título y descripción breve.                                                                                       | EPIC01           |
+| HU04  | Acceso a sección FAQ                 | Como visitante, quiero ver una sección con preguntas frecuentes organizadas para resolver dudas.     | Escenario 1: Se muestran al menos 6 preguntas. <br> Escenario 2: Cada tarjeta tiene un icono y la respuesta clara.                                                                                                                                            | EPIC03           |
+| HU05  | Visualización del logo               | Como visitante, quiero ver el logo de MascotaMatch para confirmar que estoy en el sitio correcto.    | Escenario 1: El logo aparece en la parte superior izquierda en todo momento. <br> Escenario 2: El logo se mantiene fijo durante la navegación.                                                                                                                | EPIC04           |
+| HU06  | Menú de navegación                   | Como visitante, quiero tener acceso a un menú con Home, Services, Plans y FAQ.                       | Escenario 1: El menú aparece como barra lateral o superior. <br> Escenario 2: Al hacer clic en un ítem se desplaza a la sección correspondiente.                                                                                                              | EPIC04           |
+| HU07  | Footer con contacto y redes          | Como visitante, quiero ver un footer con contacto y enlaces útiles.                                 | Escenario 1: Aparece en la parte inferior. <br> Escenario 2: Tiene tres columnas: contacto, ayuda, redes.                                                                                                                                                      | EPIC04           |
+| HU08  | Pantalla de login obligatoria        | Como visitante, quiero iniciar sesión para acceder a la landing.                                     | Escenario 1: Si no estás logueado no se muestra el contenido. <br> Escenario 2: Solo usuarios logueados pueden ingresar.                                                                                                                                       | EPIC05           |
+| HU09  | Registro de usuarios                 | Como nuevo visitante, quiero registrarme para acceder a la plataforma.                               | Escenario 1: Desde login se puede ir a registro. <br> Escenario 2: Tras el registro correcto se accede al home.                                                                                                                                                 | EPIC05           |
+| HU10  | Diseño visual uniforme               | Como visitante, quiero que la web tenga un diseño consistente.                                       | Escenario 1: Se usa una paleta de colores uniforme. <br> Escenario 2: Los botones y tipografía siguen el mismo estilo.                                                                                                                                         | EPIC06           |
+| HU11  | Visualización responsiva             | Como visitante, quiero ver bien el contenido desde PC y celular.                                     | Escenario 1: Se adapta el diseño en móviles. <br> Escenario 2: No hay elementos cortados ni fuera de lugar.                                                                                                                                                    | EPIC06           |
+| HU12  | Acceso a detalle de plan             | Como visitante, quiero ver más información del plan haciendo clic en “Read More”.                    | Escenario 1: Se redirige a una página por plan. <br> Escenario 2: En esa vista hay imagen, nombre y beneficios.                                                                                                                                                 | EPIC02           |
+| HU13  | Visualización de planes de suscripción | Como visitante, quiero ver los tres planes (Mini, Completo, VIP) para comparar.                     | Escenario 1: Cada plan tiene imagen, lista de beneficios y botón “Read More”. <br> Escenario 2: Cada tarjeta es visualmente distinta.                                                                                                                          | EPIC02           |
+| HU14  | Botón “See Plans” funcional          | Como visitante, quiero hacer clic en “See Plans” para ir directamente a los planes.                  | Escenario 1: El botón redirige correctamente. <br> Escenario 2: Funciona tanto en desktop como en móvil.                                                                                                                                                       | EPIC02           |
+| HU15  | Transiciones visuales animadas       | Como visitante, quiero que los elementos aparezcan con animación suave.                              | Escenario 1: El contenido entra con transición. <br> Escenario 2: Las animaciones no son molestas ni exageradas.                                                                                                                                               | EPIC06           |
+| HU16  | Efectos hover en botones             | Como visitante, quiero ver cambios visuales al pasar el cursor sobre los botones.                    | Escenario 1: Al pasar el mouse cambia color o sombra. <br> Escenario 2: Funciona igual en todos los botones.                                                                                                                                                    | EPIC06           |
+| HU17  | Método de pago                       | Como usuario, quiero elegir método de pago (Yape, tarjeta, PayPal) desde la vista de planes.         | Escenario 1: Desde un botón en la tarjeta accedo al pago. <br> Escenario 2: En la vista de pago hay íconos y selección del método.                                                                                                                              | EPIC02           |
+| HU18  | Agendar cita desde servicios         | Como usuario, quiero agendar una cita desde la tarjeta de servicio.                                  | Escenario 1: Cada tarjeta tiene botón “Agendar”. <br> Escenario 2: El botón abre formulario con fecha, proveedor y tipo de atención.                                                                                                                           | EPIC01           |
+
+| ID    | Título                         | Descripción                                                                                     | Criterios de Aceptación                                                                                                                                                                                     | Epic Relacionado |
+|-------|--------------------------------|-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|
+| TS01  | Servicios disponibles (GET)     | Como desarrollador, quiero conectar con la API para obtener los servicios disponibles.          | Escenario 1: Se hace un GET a `/services`. Si hay datos, se muestran como tarjetas. <br> Escenario 2: Si no hay servicios, se muestra mensaje “No hay servicios disponibles por el momento”.                 | EPIC01           |
+| TS02  | Planes disponibles (GET)        | Como desarrollador, quiero conectar con la API para obtener los planes de suscripción.          | Escenario 1: Se hace GET a `/plans`. Se muestran tarjetas de planes. <br> Escenario 2: Si no hay planes, se muestra un mensaje informativo para el usuario.                                                 | EPIC02           |
+| TS03  | Preguntas frecuentes (GET)      | Como desarrollador, quiero mostrar la sección FAQ conectada a la API.                          | Escenario 1: Se hace GET a `/faq`. Las preguntas y respuestas aparecen en tarjetas. <br> Escenario 2: Si no hay preguntas, se informa “No hay preguntas registradas”.                                      | EPIC03           |
+| TS04  | Registro de usuarios (POST)     | Como desarrollador, quiero enviar los datos del usuario nuevo al servidor para su registro.     | Escenario 1: Se hace POST a `/register` con nombre, correo y contraseña. <br> Escenario 2: Si faltan campos o hay error, se muestra un mensaje validando los campos.                                        | EPIC05           |
+| TS05  | Inicio de sesión (POST)         | Como desarrollador, quiero autenticar usuarios desde el login.                                  | Escenario 1: Se hace POST a `/login`. Si las credenciales son correctas, se accede. <br> Escenario 2: Si las credenciales son incorrectas, se muestra mensaje de error.                                     | EPIC05           |
+| TS06  | Obtener perfil de usuario (GET) | Como desarrollador, quiero obtener los datos del usuario logueado.                              | Escenario 1: Se hace GET a `/users/profile`. Se muestran nombre, correo y mascotas. <br> Escenario 2: Si no hay sesión iniciada, se redirige al login.                                                      | EPIC05           |
+| TS07  | Agendar citas (POST)            | Como desarrollador, quiero registrar una cita nueva para la mascota desde un formulario.        | Escenario 1: POST a `/appointments` con mascota, proveedor, fecha y tipo. Se guarda correctamente. <br> Escenario 2: Si hay error o campo vacío, el sistema muestra mensaje y no guarda.                    | EPIC01           |
+| TS08  | Obtener citas agendadas (GET)   | Como desarrollador, quiero obtener desde la API la lista de citas del usuario.                 | Escenario 1: GET a `/appointments/{userId}` muestra citas en orden por fecha. <br> Escenario 2: Si no hay citas registradas, se muestra mensaje “No hay citas agendadas aún”.                              | EPIC01           |
+
 
 ## 3.3 Impact Mapping
 
@@ -1411,9 +1498,7 @@ En esta sección se detallan los componentes asociados al componente Subscriptio
 
 Diagrama de clases(PlantUML):
 
-
-![image](https://github.com/user-attachments/assets/67d1ba84-4001-4827-be2a-f0c73466e03e)
-
+![image](https://github.com/user-attachments/assets/272d15d1-3dd0-4cb8-9578-6dea102b5acb)
 
 ### 4.7.2. Class Dictionary
 
@@ -1848,13 +1933,13 @@ El Sprint Planning 1 establece la organización inicial del equipo para desarrol
 | **Date** | 2024-04-18 |
 | **Time** | 05:00 PM |
 | **Location** | Virtual (Discord y Zoom) |
-| **Prepared By** | Oscar Espinoza, Miguel Vidal, Stephano Landaurí, Fabian Oliva, Gianfranco Durand, Erick Vasquez |
+| **Prepared By** | Espinoza Quijandria, Oscar Leonardo |
 | **Attendees (to planning meeting)** | Oscar Espinoza, Miguel Vidal, Stephano Landaurí, Fabian Oliva, Gianfranco Durand, Erick Vasquez |
 | **Sprint n – 1 Review Summary** | No aplica (Primer Sprint del proyecto Mascota Match). |
 | **Sprint n – 1 Retrospective Summary** | No aplica (Primer Sprint del proyecto Mascota Match). |
 | **Sprint n Goal** | Finalizar la primera versión de Mascota Match, incluyendo registro de usuarios, login, navegación general, publicación de servicios, planes de suscripción, sección de FAQ, agendamiento de citas y perfil de usuario.<br><br>**Sprint Goal:**<br>Our focus is on launching Mascota Match MVP.<br>We believe it delivers essential functionality and first user experience.<br>This will be confirmed when users can register, navigate, consult services, choose a plan, and book an appointment successfully. |
 | **Sprint n Velocity** | 82 Story Points |
-| **Sprint Goal & User Stories** | **User Stories:**<br>HU01, HU02, HU03, HU04, HU05, HU06, HU07, HU08, HU09, HU10, HU11, HU12, HU13, HU14, HU15, HU16, HU17, HU18, TS01, TS02, TS03, TS04, TS05, TS06, TS07, TS08 |
+| **Sprint Goal & User Stories** | **User Stories:**<br> HU01, HU02, HU03, HU04, HU05, HU06, HU07, HU12, HU13, HU14, HU15 |
 | **Sum of Story Points** | **82 Story Points** |
 
 ### 5.2.1.2. Aspect Leaders and Collaborators
@@ -1874,34 +1959,20 @@ Para asegurar una ejecución eficiente del Sprint 1, se definieron líderes y co
 
 El Sprint Backlog 1 consolida todas las funcionalidades principales de Mascota Match, enfocándose en completar toda la experiencia de usuario inicial: registro, login, navegación, servicios, planes de suscripción, sección FAQ, agendamiento de citas y consulta de perfiles.
 
-| User Story | Work-Item / Task | Description | Estimation (Hours) | Assigned To | Status |
-|:----------:|:----------------:|:-----------:|:------------------:|:-----------:|:------:|
-| HU14 | T1 | Crear pantalla de Login | 5 | Stephano (Plan Mini) | Done |
-| HU15 | T2 | Crear pantalla de Registro | 5 | Oscar (Home) | Done |
-| TS04 | T3 | Programar POST registro API | 5 | Oscar (Home) | Done |
-| TS05 | T4 | Programar POST login API | 5 | Miguel (Index) | Done |
-| HU11 | T5 | Visualizar logo en navbar | 1 | Fabian (Plan Complete) | Done |
-| HU12 | T6 | Menú de navegación principal | 2 | Miguel (Index) | Done |
-| HU16 | T7 | Aplicar diseño uniforme | 2 | Fabian (Plan Complete) | Done |
-| HU17 | T8 | Adaptar responsividad móvil | 3 | Erick (Animaciones) | Done |
-| HU01 | T9 | Crear sección bienvenida | 3 | Oscar (Home) | Done |
-| HU02 | T10 | Programar botón See Services | 3 | Miguel (Index) | Done |
-| HU03 | T11 | Diseñar tarjetas de servicios | 5 | Miguel (Index) | Done |
-| HU04 | T12 | Agregar descripción de servicios | 3 | Erick (Animaciones) | Done |
-| HU05 | T13 | Insertar imágenes en servicios | 2 | Erick (Animaciones) | Done |
-| TS01 | T14 | GET servicios disponibles API | 3 | Miguel (Index) | Done |
-| HU06 | T15 | Crear tarjetas planes VIP, Completo, Mini | 5 | Fabian, Stephano, Gianfranco | Done |
-| HU07 | T16 | Listar beneficios por plan | 3 | Fabian, Stephano, Gianfranco | Done |
-| HU08 | T17 | Imagen única por plan | 2 | Erick (Animaciones) | Done |
-| TS02 | T18 | GET planes de suscripción API | 3 | Miguel (Index) | Done |
-| HU09 | T19 | Botón "Read More" en cada plan | 2 | Stephano (Plan Mini) | Done |
-| HU18 | T20 | Crear páginas detalle de planes | 3 | Oscar (Home) | Done |
-| HU10 | T21 | Crear sección FAQ | 3 | Erick (Animaciones) | Done |
-| TS03 | T22 | GET preguntas frecuentes API | 2 | Miguel (Index) | Done |
-| HU13 | T23 | Footer contacto y ayuda | 2 | Fabian (Plan Complete) | Done |
-| TS06 | T24 | GET perfil de usuario API | 3 | Miguel (Index) | Done |
-| TS07 | T25 | POST agendar cita API | 5 | Gianfranco (Plan VIP) | Done |
-| TS08 | T26 | GET citas agendadas API | 3 | Gianfranco (Plan VIP) | Done |
+| User Story | Work-Item / Task | Description                            | Estimation (Hours) | Assigned To         | Status |
+|------------|------------------|----------------------------------------|---------------------|----------------------|--------|
+| HU01       | T1               | Mostrar mensaje de bienvenida          | 4                   | Oscar (Home)         | Done   |
+| HU02       | T2               | Botón "See Services"                   | 4                   | Oscar (Home)         | Done   |
+| HU03       | T3               | Visualizar tarjetas de servicios       | 8                   | Stephano (Plan Mini) | Done   |
+| HU04       | T4               | Descripción clara de servicios         | 4                   | Gianfranco (Plan Mini) | Done   |
+| HU05       | T5               | Imágenes representativas por servicio  | 4                   | Stephano (Plan Mini) | Done   |
+| HU06       | T6               | Ver planes de suscripción              | 8                   | Oscar (Home)         | Done   |
+| HU07       | T7               | Beneficios por plan en lista           | 4                   | Oscar (Home)         | Done   |
+| HU12       | T8               | Menú de navegación principal           | 4                   | Miguel (Index)       | Done   |
+| HU13       | T9               | Footer con contacto y secciones        | 4                   | Fabian (Plan Complete)| Done   |
+| HU14       | T10              | Pantalla de Login                      | 4                   | Stephano (Plan Mini) | Done   |
+| HU15       | T11              | Pantalla de Registro                   | 4                   | Oscar (Home)         | Done   |
+
 
  URL del Board Trello 
 
@@ -1981,6 +2052,124 @@ En el Sprint 1, el equipo se centró en el desarrollo, implementación y desplie
 
 La comunicación fue constante a través de plataforma usada: Discord, WhatsApp, Slack; y utilizamos herramientas como Trello, GitHub Projects para gestionar tareas y hacer seguimiento de los avances. La colaboración fue eficiente y fluida, pero se identificó la necesidad de mejorar la planificación temporal para optimizar la entrega de futuros sprints.
 
+---
+## 5.2.2. Sprint 2
+
+###  5.2.2.1. Spring Planning 2.
+
+| Campo | Información |
+|:------|:------------|
+| **Sprint #** | Sprint 2 |
+| **Date** | 2025-05-15 |
+| **Time** | 07:00 PM |
+| **Location** | Virtual (Discord y Zoom) |
+| **Prepared By** | Stephano Landauri |
+| **Attendees (to planning meeting)** | Oscar Espinoza, Miguel Vidal, Stephano Landauri, Fabian Oliva, Gianfranco Durand, Erick Vasquez |
+| **Sprint 1 – 2 Review Summary** | Se desarrolló exclusivamente la Landing Page de Mascota Match, enfocándose en el diseño visual, los textos informativos, navegación inicial y estructura base del frontend. Si bien no se integraron funcionalidades del sistema, el avance permitió definir la línea gráfica del producto y sentó las bases para la futura implementación del MVP. El feedback recibido fue positivo, destacando la estética y claridad del contenido. |
+| **Sprint 1 – 2 Retrospective Summary** | El equipo resaltó fortalezas en la coordinación para el diseño de mockups y la implementación visual. Se identificó como mejora la necesidad de dividir mejor las tareas, ya que algunos miembros no pudieron avanzar por la falta de definición en funciones futuras. Se acordó establecer criterios de aceptación claros desde el inicio del sprint. |
+| **Sprint 2 Goal** | Implementar la primera versión del Frontend de Mascota Match, incluyendo registro de usuarios, login, navegación entre pantallas, perfil de usuario, listado de servicios disponibles, selección de planes y agendamiento de citas.<br><br>**Sprint Goal:**<br>Deliver the first MVP version of Mascota Match with core user flows: sign up, login, explore services, and schedule an appointment.<br>Success will be confirmed when users can complete these flows end-to-end. |
+| **Sprint 2 Velocity** | 90 Story Points |
+| **Sprint Goal & User Stories** | **User Stories:**<br>HU01, HU02, HU03, HU04, HU05, HU06, HU07, HU08, HU09, HU10, HU11, HU12, HU13, HU14, HU15, HU16, HU17, HU18, TS01, TS02, TS03, TS04, TS05, TS06, TS07, TS08 |
+| **Sum of Story Points** | **82 Story Points** |
+
+###  5.2.2.2. Aspect Leaders and Collaborators
+
+## Introducción
+
+En el presente Sprint, se han identificado cinco aspectos clave para el desarrollo del proyecto: Frontend, Testing, UX/UI Design, Documentación y Coordinación General. Con el objetivo de asegurar una ejecución eficiente, el equipo ha asignado un líder por cada aspecto y colaboradores de apoyo. La distribución se ha realizado considerando fortalezas individuales y la participación activa de cada miembro en múltiples áreas. A continuación, se presenta la tabla de líderes y colaboradores por aspecto:
+
+## Tabla de Aspect Leaders and Collaborators
+
+| Team Member (Last Name, First Name)          | GitHub Username        | Frontend (L/C) | Testing (L/C) | UX/UI Design (L/C) | Documentación (L/C) | Coordinación (L/C) |
+|---------------------------------------------|------------------------|----------------|---------------|---------------------|----------------------|---------------------|
+| Mayrzon Landauri Preciado, Stephano         | `Mayrzon02`            | C              | C             | C                   | L                    | C                   |
+| Vidal, Miguel Angel                         | `Gossk`                | L              | C             | C                   | C                    | C                   |
+| Vasquez Goicochea, Erick Alessander         | `erick580`             | C              | L             | C                   | C                    | C                   |
+| Durand Vega, Gianfranco Jared               | `Azucarita`            | C              | C             | L                   | L                    | C                   |
+| Espinoza Quijandría, Oscar                  | `OscarEspinoza5443`    | C              | C             | C                   | C                    | L                   |
+| Oliva Lopez, Fabian Alejandro               | `FabulousFabStar`      | C              | L             | C                   | C                    | C                   |
+
+
+###  5.2.2.3. Sprint Backlog 2.
+
+| User Story | Work-Item / Task | Description                                              | Estimation (Hours) | Assigned To         | Status |
+|------------|------------------|----------------------------------------------------------|---------------------|----------------------|--------|
+| HU01       | T1               | Como desarrollador, quiero ver un mensaje de bienvenida en la portada que me explique qué es MascotaMatch. | 4         | Oscar (Home)         | Done   |
+| HU02       | T2               | Como desarrollador, quiero hacer clic en "See Services" en portada para ir a servicios.        | 4         | Oscar (Home)         | Done   |
+| HU03-HU04-HU05 | T3          | Como desarrollador, quiero visualizar tarjetas de servicios con descripción e íconos.          | 8         | Stephano (Plan Mini) | Done   |
+| HU06       | T4               | Como desarrollador, quiero ver los planes (Mini, Completo, VIP) y comparar sus beneficios.     | 8         | Oscar (Home)         | Done   |
+| HU07-HU08-HU09 | T5           | Como desarrollador, quiero ver beneficios por plan con imagen y botón “Read more”.             | 8         | Oscar (Home)         | Done   |
+| HU10       | T6               | Como desarrollador, quiero ver sección de preguntas frecuentes con íconos y respuestas.        | 4         | Miguel (Index)       | Done   |
+| HU11       | T7               | Como desarrollador, quiero ver el logo de MascotaMatch en el header del sitio.                | 1         | Fabian (Plan Complete)| Done   |
+| HU12       | T8               | Como desarrollador, quiero tener un menú con enlaces a Home, Services, Plans y FAQ.           | 4         | Miguel (Index)       | Done   |
+| HU13       | T9               | Como desarrollador, quiero tener un footer con contacto y secciones informativas.             | 4         | Fabian (Plan Complete)| Done   |
+| HU14       | T10              | Como desarrollador, quiero crear una pantalla de Login previa al acceso al sitio.             | 4         | Stephano (Plan Mini) | Done   |
+| HU15       | T11              | Como desarrollador, quiero crear una pantalla de Registro sencilla para nuevos usuarios.       | 4         | Oscar (Home)         | Done   |
+| HU18       | T12              | Como desarrollador, quiero acceder a detalle de cada plan desde su botón.                     | 4         | Oscar (Home)         | Done   |
+| HU19 (Nueva) | T13            | Como desarrollador, quiero agregar una opción de pago (Yape, Tarjeta, PayPal) en los planes.   | 8         | Miguel (Index)       | Done   |
+| HU20 (Nueva) | T14            | Como desarrollador, quiero agendar una cita desde la sección de servicios.                    | 8         | Stephano (Plan Mini) | Done   |
+| TS01       | T15              | Como desarrollador, quiero obtener desde la API los servicios disponibles. GET /servicios     | 4         | Miguel (Index)       | Done   |
+| TS02       | T16              | Como desarrollador, quiero obtener desde la API los planes disponibles. GET /planes           | 4         | Miguel (Index)       | Done   |
+| TS03       | T17              | Como desarrollador, quiero obtener desde la API las preguntas frecuentes. GET /faq            | 4         | Miguel (Index)       | Done   |
+| TS04       | T18              | Como desarrollador, quiero enviar nuevos usuarios a la API para su registro. POST /registro   | 4         | Oscar (Home)         | Done   |
+| TS05       | T19              | Como desarrollador, quiero enviar credenciales a la API para iniciar sesión. POST /login      | 4         | Miguel (Index)       | Done   |
+| TS06       | T20              | Como desarrollador, quiero obtener desde la API el perfil del usuario autenticado. GET /perfil| 4         | Miguel (Index)       | Done   |
+| TS07       | T21              | Como desarrollador, quiero registrar citas para mascotas enviando info a la API. POST /citas  | 4         | Stephano (Plan Mini) | Done   |
+| TS08       | T22              | Como desarrollador, quiero obtener desde la API la lista de citas. GET /citas                 | 4         | Stephano (Plan Mini) | Done   |
+
+###  5.2.2.4. Development Evidence for Sprint Review
+
+Durante el Sprint 2, se avanzó significativamente en la implementación de nuevas funcionalidades para la aplicación MascotaMatch. Se desarrollaron vistas clave como el dashboard de bienvenida personalizado, el módulo de edición de perfil con campos dinámicos y la sección de preguntas frecuentes (FAQ). Estas mejoras consolidan la arquitectura base del sistema, aportando una experiencia más completa para el usuario final.
+
+![image](https://github.com/user-attachments/assets/bf201540-4a1b-4d3b-a77c-915b7206e292)
+
+###  5.2.2.5. Execution Evidence for Sprint Review
+
+En este sprint, se ejecutaron tareas de desarrollo correspondientes a la visualización y navegación dentro de la plataforma MascotaMatch. Se completó la implementación de componentes como:
+
+✅Página de bienvenida personalizada con mensaje dinámico.
+
+✅Vista de servicios con diseño gráfico mejorado.
+
+✅Planes de suscripción visualmente diferenciados y responsivos.
+
+✅Módulo de FAQ con respuestas claras y jerarquía visual optimizada.
+
+✅Perfil editable con campos personales estructurados.
+
+![image](https://github.com/user-attachments/assets/5d210477-8362-4ea1-81b4-51ac71995851)
+
+
+###  5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Durante este sprint, aún no se implementaron servicios o consumo de APIs externas, ya que el enfoque se centró en el desarrollo del frontend completo. No obstante, se estructuró el diseño base para la futura integración de funcionalidades dinámicas que involucren lógica de backend y comunicación con servicios externos. La documentación correspondiente será incluida conforme se avance hacia esas etapas.
+
+![image](https://github.com/user-attachments/assets/9912d183-7d87-499d-a5d5-a7a9577f40ff)
+
+###  5.2.2.7. Software Deployment Evidence for Sprint Review
+
+El equipo desplegó exitosamente la segunda versión de la Landing Page en GitHub Pages. Esta versión contiene las nuevas secciones implementadas en este sprint, con navegación funcional y layout optimizado para distintos dispositivos. La verificación se realizó accediendo directamente al dominio, comprobando la correcta carga y visualización del contenido.
+
+![image](https://github.com/user-attachments/assets/940b7e83-8e2c-48ea-99f0-e0fc2d6816f7)
+
+
+Enlace a la landing page desplegada: https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/LANDINGPAGE
+
+Enlace al repositorio: https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/tree/develop
+
+
+###  5.2.2.8. Team Collaboration Insights during Sprint
+
+| Repository     | Branch     | Commit ID      | Commit Message                     | Commit Message Body                                        | Committed on Date     |
+|----------------|------------|----------------|-------------------------------------|-------------------------------------------------------------|------------------------|
+| MascotaMatch   | feature/ui-home      | a1c3f4e     | feat: add Home View                | Implementación de la vista de bienvenida personalizada       | 13 de mayo de 2025    |
+| MascotaMatch   | feature/profile      | b7d8e2c     | feat: add Profile Page             | Creación del módulo de edición de perfil con campos dinámicos| 13 de mayo de 2025    |
+| MascotaMatch   | feature/services     | c2e9a8d     | feat: services page                | Diseño e implementación de la sección de servicios           | 13 de mayo de 2025    |
+| MascotaMatch   | feature/plans        | d4b7f3a     | feat: plans section                | Incorporación de los tres planes de suscripción con botones  | 13 de mayo de 2025    |
+| MascotaMatch   | feature/faq          | e5f6b0d     | feat: FAQ page                     | Desarrollo de la sección FAQ con preguntas frecuentes        | 13 de mayo de 2025    |
+| MascotaMatch   | deploy/github-pages  | f9c2a1b     | chore: deploy to GitHub Pages      | Despliegue de la landing actualizada en entorno de producción| 13 de mayo de 2025    |
+
+
 ## Conclusiones
 
 El desarrollo del proyecto *MascotaMatch* permitió aplicar de manera efectiva los principios de diseño UX/UI, así como el modelado de la interacción de los usuarios a través de wireframes, wireflows y prototipos.
@@ -1990,27 +2179,52 @@ El diseño aplicado en los mockups reflejó consistencia en la paleta de colores
 
 Además, se plantearon historias técnicas fáciles relacionadas a la conexión API, promoviendo una arquitectura ordenada para que los datos de servicios, planes, citas y perfiles de usuario puedan cargarse dinámicamente, reduciendo el mantenimiento manual y mejorando la escalabilidad.
 
----
+
+
+
 ## Bibliografía 
 A continuación, se listan las fuentes que sirvieron como referencia o guía para el desarrollo del trabajo:
 
-- [The Markdown Guide](https://www.markdownguide.org/)
-- [Seriously, what’s your (startup’s) problem?](https://medium.com/@jakemendel/seriously-whats-your-startup-s-problem-b3a884c54ab4)
-- [5W+2H - Técnica de análisis de problemas](https://www.progressalean.com/5w2h-tecnica-de-analisis-de-problemas/)
-- [Ubiquitous Language (Martin Fowler)](https://martinfowler.com/bliki/UbiquitousLanguage.html)
-- [Lean UX – Chapter 3](https://www.scribd.com/document/655516553/Leanux-Sampler)
-- [Mike Cohn’s Mountain Goat Software Blog – User Stories](https://www.mountaingoatsoftware.com/blog/tag/user-stories)
-- [User vs. Buyer Persona: Differences and Free Template](https://uxpressia.com/blog/user-persona-vs-buyer-persona-difference)
-- [How to create an Impact Map in 4 easy steps](https://uxpressia.com/blog/build-impact-map-4-easy-steps)
-- [As-is Scenario Map](https://www.ibm.com/design/thinking/page/toolkit/activity/as-is-scenario-map)
-- [To-be Scenario Map](https://www.ibm.com/design/thinking/page/toolkit/activity/to-be-scenario-map)
-- [Acceptance Criteria in Scrum: Explanation, Examples, and Template](https://dzone.com/articles/acceptance-criteria-in-software-explanation-exampl)
-- [A Beginner’s Guide to finding User Needs](https://jdittrich.github.io/userNeedResearchBook/)
-- [Scenario Mapping](http://www.uxforthemasses.com/scenario-mapping/)
-- [What are User Flows in User Experience (UX) Design?](https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/)
-- [Design Systems 101](https://www.nngroup.com/articles/design-systems-101/)
-- [Front-End Style-Guides](https://www.nngroup.com/articles/front-end-style-guides/)
-- [HTML Style Guide and Coding Conventions (W3Schools)](https://www.w3schools.com/html/html5_syntax.asp)
-- [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
-- [Gherkin Conventions for Readable Specifications](https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/)
-- [How to Write a User Story for an API Product](https://sameera17w.medium.com/how-to-write-a-user-story-for-an-api-product7af6abd4ad2e)
+- CareerFoundry. (n.d.). *What are User Flows in User Experience (UX) Design?* https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/
+
+- Dzone. (n.d.). *Acceptance Criteria in Scrum: Explanation, Examples, and Template*. https://dzone.com/articles/acceptance-criteria-in-software-explanation-exampl
+
+- Fowler, M. (n.d.). *Ubiquitous Language*. https://martinfowler.com/bliki/UbiquitousLanguage.html
+
+- Google. (n.d.). *HTML/CSS Style Guide*. https://google.github.io/styleguide/htmlcssguide.html
+
+- IBM. (n.d.-a). *As-is Scenario Map: Build a better understanding of your users’ current experience*. https://www.ibm.com/design/thinking/page/toolkit/activity/as-is-scenario-map
+
+- IBM. (n.d.-b). *To-be Scenario Map: Draft a vision of your user’s future experience*. https://www.ibm.com/design/thinking/page/toolkit/activity/to-be-scenario-map
+
+- Jdittrich. (n.d.). *A Beginner’s Guide to finding User Needs*. https://jdittrich.github.io/userNeedResearchBook/
+
+- Mendel, J. (2018). *Seriously, what’s your startup’s problem?* Medium. https://medium.com/@jakemendel/seriously-whats-your-startup-s-problem-b3a884c54ab4
+
+- Mountain Goat Software. (n.d.). *User Stories – Blog by Mike Cohn*. https://www.mountaingoatsoftware.com/blog/tag/user-stories
+
+- NNGroup. (n.d.-a). *Design Systems 101*. https://www.nngroup.com/articles/design-systems-101/
+
+- NNGroup. (n.d.-b). *Front-End Style-Guides: Definition, Requirements, Component Checklist*. https://www.nngroup.com/articles/front-end-style-guides/
+
+- ProgressaLean. (2021). *5W+2H - Técnica de análisis de problemas*. https://www.progressalean.com/5w2h-tecnica-de-analisis-de-problemas/
+
+- Scribd. (n.d.). *Lean UX – Chapter 3*. https://www.scribd.com/document/655516553/Leanux-Sampler
+
+- SpecFlow. (n.d.). *Gherkin Conventions for Readable Specifications*. https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/
+
+- UXPressia. (n.d.-a). *User vs. Buyer Persona: Differences and Free Template*. https://uxpressia.com/blog/user-persona-vs-buyer-persona-difference
+
+- UXPressia. (n.d.-b). *How to create an Impact Map in 4 easy steps*. https://uxpressia.com/blog/build-impact-map-4-easy-steps
+
+- UX for the Masses. (n.d.). *A step-by-step guide to scenario mapping*. http://www.uxforthemasses.com/scenario-mapping/
+
+- W3Schools. (n.d.). *HTML Style Guide and Coding Conventions*. https://www.w3schools.com/html/html5_syntax.asp
+
+- W3Schools. (n.d.). *The Markdown Guide*. https://www.markdownguide.org/
+
+- Sameera. (2023). *How to Write a User Story for an API Product*. https://sameera17w.medium.com/how-to-write-a-user-story-for-an-api-product7af6abd4ad2e
+
+
+
+<div align="center">
