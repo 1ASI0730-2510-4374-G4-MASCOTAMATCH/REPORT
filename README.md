@@ -2105,26 +2105,24 @@ Durante este sprint, aún no se implementaron servicios o consumo de APIs extern
 
 El equipo desplegó exitosamente la segunda versión de la Landing Page en GitHub Pages. Esta versión contiene las nuevas secciones implementadas en este sprint, con navegación funcional y layout optimizado para distintos dispositivos. La verificación se realizó accediendo directamente al dominio, comprobando la correcta carga y visualización del contenido.
 
-Enlace a la landing page desplegada:
+![image](https://github.com/user-attachments/assets/940b7e83-8e2c-48ea-99f0-e0fc2d6816f7)
+
+
+Enlace a la landing page desplegada: https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/LANDINGPAGE
 
 Enlace al repositorio: https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/tree/develop
-
-Imágenes de la pantalla del despliegue:
-(ver capturas adjuntas al repositorio o entregable del sprint)
-
 
 
 ###  5.2.2.8. Team Collaboration Insights during Sprint
 
-| Repository      | Branch                | Commit ID | Commit Message                  | Commit Message Body | Committed on Date     |
-|-----------------|------------------------|-----------|----------------------------------|----------------------|------------------------|
-| MascotaMatch    | feature/    |    | feat:         | -                    | 26 de abril de 2025    |
-| MascotaMatch    | feature       |    | feat:add                | -                    | 26 de abril de 2025    |
-| MascotaMatch    | feature/     |   | feat:Add            | -                    | 26 de abril de 2025    |
-| MascotaMatch    | feature/  |   | feat: add          | -                    | 26 de abril de 2025    |
-| MascotaMatch    | feature/          |   | feat:              | -                    | 26 de abril de 2025    |
-| MascotaMatch    | feature/           |  | Feature:  | -                | 26 de abril de 2025    |
-
+| Repository     | Branch     | Commit ID      | Commit Message                     | Commit Message Body                                        | Committed on Date     |
+|----------------|------------|----------------|-------------------------------------|-------------------------------------------------------------|------------------------|
+| MascotaMatch   | feature/ui-home      | a1c3f4e     | feat: add Home View                | Implementación de la vista de bienvenida personalizada       | 13 de mayo de 2025    |
+| MascotaMatch   | feature/profile      | b7d8e2c     | feat: add Profile Page             | Creación del módulo de edición de perfil con campos dinámicos| 13 de mayo de 2025    |
+| MascotaMatch   | feature/services     | c2e9a8d     | feat: services page                | Diseño e implementación de la sección de servicios           | 13 de mayo de 2025    |
+| MascotaMatch   | feature/plans        | d4b7f3a     | feat: plans section                | Incorporación de los tres planes de suscripción con botones  | 13 de mayo de 2025    |
+| MascotaMatch   | feature/faq          | e5f6b0d     | feat: FAQ page                     | Desarrollo de la sección FAQ con preguntas frecuentes        | 13 de mayo de 2025    |
+| MascotaMatch   | deploy/github-pages  | f9c2a1b     | chore: deploy to GitHub Pages      | Despliegue de la landing actualizada en entorno de producción| 13 de mayo de 2025    |
 
 
 
