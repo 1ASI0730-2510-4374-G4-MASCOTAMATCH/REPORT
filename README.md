@@ -2148,26 +2148,45 @@ Además, se plantearon historias técnicas fáciles relacionadas a la conexión 
 ## Bibliografía 
 A continuación, se listan las fuentes que sirvieron como referencia o guía para el desarrollo del trabajo:
 
-- [The Markdown Guide](https://www.markdownguide.org/)
-- [Seriously, what’s your (startup’s) problem?](https://medium.com/@jakemendel/seriously-whats-your-startup-s-problem-b3a884c54ab4)
-- [5W+2H - Técnica de análisis de problemas](https://www.progressalean.com/5w2h-tecnica-de-analisis-de-problemas/)
-- [Ubiquitous Language (Martin Fowler)](https://martinfowler.com/bliki/UbiquitousLanguage.html)
-- [Lean UX – Chapter 3](https://www.scribd.com/document/655516553/Leanux-Sampler)
-- [Mike Cohn’s Mountain Goat Software Blog – User Stories](https://www.mountaingoatsoftware.com/blog/tag/user-stories)
-- [User vs. Buyer Persona: Differences and Free Template](https://uxpressia.com/blog/user-persona-vs-buyer-persona-difference)
-- [How to create an Impact Map in 4 easy steps](https://uxpressia.com/blog/build-impact-map-4-easy-steps)
-- [As-is Scenario Map](https://www.ibm.com/design/thinking/page/toolkit/activity/as-is-scenario-map)
-- [To-be Scenario Map](https://www.ibm.com/design/thinking/page/toolkit/activity/to-be-scenario-map)
-- [Acceptance Criteria in Scrum: Explanation, Examples, and Template](https://dzone.com/articles/acceptance-criteria-in-software-explanation-exampl)
-- [A Beginner’s Guide to finding User Needs](https://jdittrich.github.io/userNeedResearchBook/)
-- [Scenario Mapping](http://www.uxforthemasses.com/scenario-mapping/)
-- [What are User Flows in User Experience (UX) Design?](https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/)
-- [Design Systems 101](https://www.nngroup.com/articles/design-systems-101/)
-- [Front-End Style-Guides](https://www.nngroup.com/articles/front-end-style-guides/)
-- [HTML Style Guide and Coding Conventions (W3Schools)](https://www.w3schools.com/html/html5_syntax.asp)
-- [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
-- [Gherkin Conventions for Readable Specifications](https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/)
-- [How to Write a User Story for an API Product](https://sameera17w.medium.com/how-to-write-a-user-story-for-an-api-product7af6abd4ad2e)
+- CareerFoundry. (n.d.). *What are User Flows in User Experience (UX) Design?* https://careerfoundry.com/en/blog/ux-design/what-are-user-flows/
+
+- Dzone. (n.d.). *Acceptance Criteria in Scrum: Explanation, Examples, and Template*. https://dzone.com/articles/acceptance-criteria-in-software-explanation-exampl
+
+- Fowler, M. (n.d.). *Ubiquitous Language*. https://martinfowler.com/bliki/UbiquitousLanguage.html
+
+- Google. (n.d.). *HTML/CSS Style Guide*. https://google.github.io/styleguide/htmlcssguide.html
+
+- IBM. (n.d.-a). *As-is Scenario Map: Build a better understanding of your users’ current experience*. https://www.ibm.com/design/thinking/page/toolkit/activity/as-is-scenario-map
+
+- IBM. (n.d.-b). *To-be Scenario Map: Draft a vision of your user’s future experience*. https://www.ibm.com/design/thinking/page/toolkit/activity/to-be-scenario-map
+
+- Jdittrich. (n.d.). *A Beginner’s Guide to finding User Needs*. https://jdittrich.github.io/userNeedResearchBook/
+
+- Mendel, J. (2018). *Seriously, what’s your startup’s problem?* Medium. https://medium.com/@jakemendel/seriously-whats-your-startup-s-problem-b3a884c54ab4
+
+- Mountain Goat Software. (n.d.). *User Stories – Blog by Mike Cohn*. https://www.mountaingoatsoftware.com/blog/tag/user-stories
+
+- NNGroup. (n.d.-a). *Design Systems 101*. https://www.nngroup.com/articles/design-systems-101/
+
+- NNGroup. (n.d.-b). *Front-End Style-Guides: Definition, Requirements, Component Checklist*. https://www.nngroup.com/articles/front-end-style-guides/
+
+- ProgressaLean. (2021). *5W+2H - Técnica de análisis de problemas*. https://www.progressalean.com/5w2h-tecnica-de-analisis-de-problemas/
+
+- Scribd. (n.d.). *Lean UX – Chapter 3*. https://www.scribd.com/document/655516553/Leanux-Sampler
+
+- SpecFlow. (n.d.). *Gherkin Conventions for Readable Specifications*. https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/
+
+- UXPressia. (n.d.-a). *User vs. Buyer Persona: Differences and Free Template*. https://uxpressia.com/blog/user-persona-vs-buyer-persona-difference
+
+- UXPressia. (n.d.-b). *How to create an Impact Map in 4 easy steps*. https://uxpressia.com/blog/build-impact-map-4-easy-steps
+
+- UX for the Masses. (n.d.). *A step-by-step guide to scenario mapping*. http://www.uxforthemasses.com/scenario-mapping/
+
+- W3Schools. (n.d.). *HTML Style Guide and Coding Conventions*. https://www.w3schools.com/html/html5_syntax.asp
+
+- W3Schools. (n.d.). *The Markdown Guide*. https://www.markdownguide.org/
+
+- Sameera. (2023). *How to Write a User Story for an API Product*. https://sameera17w.medium.com/how-to-write-a-user-story-for-an-api-product7af6abd4ad2e
 
 
 
