@@ -2066,6 +2066,11 @@ El diseño aplicado en los mockups reflejó consistencia en la paleta de colores
 Además, se plantearon historias técnicas fáciles relacionadas a la conexión API, promoviendo una arquitectura ordenada para que los datos de servicios, planes, citas y perfiles de usuario puedan cargarse dinámicamente, reduciendo el mantenimiento manual y mejorando la escalabilidad.
 
 ---
+[5.2.2. Sprint 2]
+[5.2.2.1. Sprint Planning 2]
+[5.2.2.2. Aspect Leaders and Collaborators]
+[5.2.2.3. Sprint Backlog 2]
+
 
 ###  5.2.2.4. Development Evidence for Sprint Review
 
