@@ -2066,6 +2066,64 @@ El diseño aplicado en los mockups reflejó consistencia en la paleta de colores
 Además, se plantearon historias técnicas fáciles relacionadas a la conexión API, promoviendo una arquitectura ordenada para que los datos de servicios, planes, citas y perfiles de usuario puedan cargarse dinámicamente, reduciendo el mantenimiento manual y mejorando la escalabilidad.
 
 ---
+
+###  5.2.2.4. Development Evidence for Sprint Review
+
+Durante el Sprint 2, se avanzó significativamente en la implementación de nuevas funcionalidades para la aplicación MascotaMatch. Se desarrollaron vistas clave como el dashboard de bienvenida personalizado, el módulo de edición de perfil con campos dinámicos y la sección de preguntas frecuentes (FAQ). Estas mejoras consolidan la arquitectura base del sistema, aportando una experiencia más completa para el usuario final.
+
+![image](https://github.com/user-attachments/assets/bf201540-4a1b-4d3b-a77c-915b7206e292)
+
+###  5.2.2.5. Execution Evidence for Sprint Review
+
+En este sprint, se ejecutaron tareas de desarrollo correspondientes a la visualización y navegación dentro de la plataforma MascotaMatch. Se completó la implementación de componentes como:
+
+✅Página de bienvenida personalizada con mensaje dinámico.
+
+✅Vista de servicios con diseño gráfico mejorado.
+
+✅Planes de suscripción visualmente diferenciados y responsivos.
+
+✅Módulo de FAQ con respuestas claras y jerarquía visual optimizada.
+
+✅Perfil editable con campos personales estructurados.
+
+![image](https://github.com/user-attachments/assets/5d210477-8362-4ea1-81b4-51ac71995851)
+
+
+###  5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Durante este sprint, aún no se implementaron servicios o consumo de APIs externas, ya que el enfoque se centró en el desarrollo del frontend completo. No obstante, se estructuró el diseño base para la futura integración de funcionalidades dinámicas que involucren lógica de backend y comunicación con servicios externos. La documentación correspondiente será incluida conforme se avance hacia esas etapas.
+
+![image](https://github.com/user-attachments/assets/9912d183-7d87-499d-a5d5-a7a9577f40ff)
+
+###  5.2.2.7. Software Deployment Evidence for Sprint Review
+
+El equipo desplegó exitosamente la segunda versión de la Landing Page en GitHub Pages. Esta versión contiene las nuevas secciones implementadas en este sprint, con navegación funcional y layout optimizado para distintos dispositivos. La verificación se realizó accediendo directamente al dominio, comprobando la correcta carga y visualización del contenido.
+
+Enlace a la landing page desplegada:
+
+Enlace al repositorio: https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/tree/develop
+
+Imágenes de la pantalla del despliegue:
+(ver capturas adjuntas al repositorio o entregable del sprint)
+
+
+
+###  5.2.2.8. Team Collaboration Insights during Sprint
+
+| Repository      | Branch                | Commit ID | Commit Message                  | Commit Message Body | Committed on Date     |
+|-----------------|------------------------|-----------|----------------------------------|----------------------|------------------------|
+| MascotaMatch    | feature/    |    | feat:         | -                    | 26 de abril de 2025    |
+| MascotaMatch    | feature       |    | feat:add                | -                    | 26 de abril de 2025    |
+| MascotaMatch    | feature/     |   | feat:Add            | -                    | 26 de abril de 2025    |
+| MascotaMatch    | feature/  |   | feat: add          | -                    | 26 de abril de 2025    |
+| MascotaMatch    | feature/          |   | feat:              | -                    | 26 de abril de 2025    |
+| MascotaMatch    | feature/           |  | Feature:  | -                | 26 de abril de 2025    |
+
+
+
+
+
 ## Bibliografía 
 A continuación, se listan las fuentes que sirvieron como referencia o guía para el desarrollo del trabajo:
 
