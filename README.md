@@ -203,41 +203,69 @@ En nuestor país, el crecimiento acelerado de las ciudades ha generado cambios s
 
 ![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-1/Screenshot%202025-04-25%20003027.png)
 
-### 1.2.2 Lean UX Process.
+## 1.2.2 Lean UX Process
 
-#### 1.2.2.1. Lean UX Problem Statements.
+### 1.2.2.1 Problem Statements
 
-Para usuarios:
-Los dueños de mascotas que tienen una agenda ocupada o poca experiencia en cuidado animal necesitan una forma confiable, centralizada y segura de gestionar la salud y bienestar de sus mascotas.
+#### Problem Statement 1
+Muchos dueños de mascotas en la actualidad tienen sus agendas ocupadas o tienen poca experiencia en el cuidado de su mascota. Esto causa la dificultad de tener un control eficiente y seguro del bienestar de sus mascotas. Puede generar problemas como el descuido de vacunaciones o dificultades para encontrar profesionales confiables.
 
-Para el negocio:
-MascotaMatch necesita validar si una app que centraliza múltiples servicios para mascotas (paseos, grooming, salud, recordatorios y emergencias) puede atraer y retener usuarios de forma sostenible y escalable.
+---
 
-#### 1.2.2.2. Lean UX Assumptions.
+**¿Cómo podríamos diseñar una solución de manera digital que permita a los dueños de mascotas gestionar de manera efectiva los servicios esenciales para el cuidado de sus mascotas, optimizando su tiempo y reduciendo los riesgos de salud?**
 
-Los dueños de mascotas desean soluciones digitales todo-en-uno para gestionar el bienestar de sus mascotas.
+#### Problem Statement 2
+En la actualidad, los dueños de mascotas suelen utilizar varias herramientas para gestionar paseos, grooming, emergencias y citas médicas, lo que fragmenta su experiencia y reduce la eficiencia del cuidado de su mascota. Esto también puede generar desconfianza, olvidos en vacunas o dificultades para actuar en situaciones de emergencia.
 
-Los usuarios confían más en una app que ofrece servicios verificados y notificaciones automáticas.
+**¿Cómo podríamos diseñar la experiencia dentro de la plataforma para unificar estos servicios de manera clara, accesible y eficiente, asegurando que los usuarios puedan apreciar el valor desde el primer uso y continúen utilizando la app de manera regular?**
 
-Las personas están dispuestas a pagar por conveniencia y atención especializada para sus mascotas.
+---
 
-Las urgencias veterinarias requieren una respuesta inmediata, lo que hace valioso tener un botón de emergencia en la app.
+### 1.2.2.2 Lean UX Assumptions
 
-La geolocalización de paseadores y veterinarios cercanos mejora la experiencia del usuario.
+#### Business Assumptions
+- Existe una creciente demanda en mercados urbanos por soluciones todo-en-uno para el cuidado de mascotas.
+- Los dueños de mascotas están dispuestos a pagar por conveniencia, confianza y servicios especializados.
+- Las emergencias veterinarias requieren atención inmediata, lo que convierte a la geolocalización en una funcionalidad clave.
 
-#### 1.2.2.3. Lean UX Hypothesis Statements.
+#### Business Outcomes
+- Aumentar la retención de usuarios mediante una oferta integrada y personalizable.
+- Incrementar la conversión de usuarios gratuitos a usuarios de suscripción mediante servicios diferenciadores.
+- Posicionar a MascotaMatch como una app líder en cuidado de mascotas en el mercado local.
 
-Creemos que una app con servicios integrados (paseos, grooming, salud, recordatorios y emergencias)
-ayudará a los dueños de mascotas a cuidar mejor de ellas,
-lo que resultará en una mayor retención de usuarios activos dentro del primer mes.
+#### User Assumptions
+- Los usuarios desean gestionar el bienestar de sus mascotas de forma rápida, móvil y sin complicaciones.
+- La confianza del usuario se incrementa con servicios verificados, alertas automáticas y botones de emergencia.
+- Los usuarios valoran la cercanía geográfica de paseadores y veterinarios.
 
-Creemos que el botón de emergencia con ubicación automática
-ayudará a los usuarios a gestionar situaciones críticas con rapidez,
-lo que resultará en una mejora en la percepción de confiabilidad del servicio.
+#### User Outcomes
+- Los usuarios experimentan mayor tranquilidad al poder gestionar paseos, salud y emergencias desde una sola app.
+- Se incrementa la frecuencia de reservas semanales gracias a la confianza generada por perfiles verificados.
+- Mejora la percepción del servicio como una solución confiable y moderna para el cuidado integral de mascotas.
 
-Creemos que mostrar perfiles verificados de paseadores y veterinarios
-aumentará la confianza en el uso de los servicios,
-lo que resultará en más reservas semanales por usuario.
+### 1.2.2.3 Lean UX Hypothesis Statements
+
+#### Hypothesis Statement 1
+**Creemos que** una app con servicios integrados (paseos, grooming, salud, recordatorios y emergencias)  
+**logrará** que los usuarios gestionen el bienestar de sus mascotas de forma más eficiente.
+
+**Sabremos que es así si los usuarios**  
+Interaccionan regularmente con las funcionalidades principales de la app y mantienen activa su suscripción.
+
+**Cuando veamos**  
+Un aumento en la retención de usuarios activos durante el primer mes posterior al registro.
+
+---
+
+#### Hypothesis Statement 2
+**Creemos que** implementar notificaciones inteligentes de salud (vacunas, chequeos, desparasitaciones)  
+**ayudará** a reducir olvidos importantes en el cuidado veterinario de las mascotas.
+
+**Sabremos que es así si los usuarios**  
+Permiten las notificaciones y las consultan antes de agendar una visita veterinaria.
+
+**Cuando veamos**  
+Una mayor tasa de programación de servicios veterinarios después de recibir una notificación automática.
 
 #### 1.2.2.4. Lean UX Canvas.
 <div align="center">
