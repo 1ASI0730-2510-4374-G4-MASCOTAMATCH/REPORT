@@ -2173,6 +2173,31 @@ Enlace al repositorio: https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REP
 | MascotaMatch   | feature/faq          | e5f6b0d     | feat: FAQ page                     | Desarrollo de la sección FAQ con preguntas frecuentes        | 13 de mayo de 2025    |
 | MascotaMatch   | deploy/github-pages  | f9c2a1b     | chore: deploy to GitHub Pages      | Despliegue de la landing actualizada en entorno de producción| 13 de mayo de 2025    |
 
+## 5.2.3. Sprint 3 
+### 5.2.3.1.Spring Planning 3.
+### 5.2.3.2. Aspect Leaders and Collaborators.
+### 5.2.2.2. Aspect Leaders and Collaborators – Backend
+
+##### Introducción
+
+En este sprint, se ha definido el desarrollo del backend del proyecto **MascotaMatch**, dividiéndolo en tres bounded contexts principales: **User** (incluye Planes), **Pet** y **Medication** (incluye PetPurchases). Además, se han identificado aspectos críticos como la implementación de **API REST**, diseño de **Base de Datos** y pruebas en **Testing Backend**.  
+La distribución de tareas y liderazgo se ha realizado con base en las fortalezas técnicas de cada integrante y su participación en las etapas anteriores del proyecto.
+
+#### Tabla de Aspect Leaders and Collaborators (Backend)
+
+| Team Member (Last Name, First Name)     | GitHub Username        | User Context (L/C) | Pet Context (L/C) | Medication Context (L/C) | API REST (L/C) | Base de Datos (L/C) | Testing Backend (L/C) |
+|----------------------------------------|------------------------|--------------------|-------------------|---------------------------|----------------|----------------------|------------------------|
+| Mayrzon Landauri Preciado, Stephano   | `Mayrzon02`            | C                  | **L**             | C                         | C              | C                    | C                      |
+| Vidal, Miguel Angel                   | `Gossk`                | **L**              | C                 | C                         | **L**          | C                    | C                      |
+| Vasquez Goicoechea, Erick Alessander | `erick580`             | C                  | C                 | **L**                     | C              | **L**                | C                      |
+| Durand Vega, Gianfranco Jared         | `Azucarita`            | C                  | C                 | C                         | C              | C                    | **L**                  |
+| Espinoza Quijandría, Oscar           | `OscarEspinoza5443`    | **L**              | C                 | C                         | C              | C                    | C                      |
+| Oliva Lopez, Fabian Alejandro         | `FabulousFabstar`      | C                  | C                 | C                         | C              | C                    | C                      |
+
+### 5.2.3.3.Sprint Backlog 3.
+### 5.2.3.4.Development Evidence for Sprint Review.
+### 5.2.3.5.Execution Evidence for Sprint Review.
+### 5.2.3.6.Services Documentation Evidence for Sprint Review
 
 ## Conclusiones
 
