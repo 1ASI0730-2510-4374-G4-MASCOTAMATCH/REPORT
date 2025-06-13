@@ -2176,14 +2176,12 @@ Enlace al repositorio: https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REP
 ## 5.2.3. Sprint 3 
 ### 5.2.3.1.Spring Planning 3.
 ### 5.2.3.2. Aspect Leaders and Collaborators.
-### 5.2.2.2. Aspect Leaders and Collaborators – Backend
-
 ##### Introducción
 
 En este sprint, se ha definido el desarrollo del backend del proyecto **MascotaMatch**, dividiéndolo en tres bounded contexts principales: **User** (incluye Planes), **Pet** y **Medication** (incluye PetPurchases). Además, se han identificado aspectos críticos como la implementación de **API REST**, diseño de **Base de Datos** y pruebas en **Testing Backend**.  
 La distribución de tareas y liderazgo se ha realizado con base en las fortalezas técnicas de cada integrante y su participación en las etapas anteriores del proyecto.
 
-#### Tabla de Aspect Leaders and Collaborators (Backend)
+#### Tabla de Aspect Leaders and Collaborators
 
 | Team Member (Last Name, First Name)     | GitHub Username        | User Context (L/C) | Pet Context (L/C) | Medication Context (L/C) | API REST (L/C) | Base de Datos (L/C) | Testing Backend (L/C) |
 |----------------------------------------|------------------------|--------------------|-------------------|---------------------------|----------------|----------------------|------------------------|
