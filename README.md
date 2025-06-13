@@ -2210,6 +2210,31 @@ La distribución de tareas y liderazgo se ha realizado con base en las fortaleza
 | Oliva Lopez, Fabian Alejandro         | `FabulousFabstar`      | C                  | C                 | C                         | C              | C                    | C                      |
 
 ### 5.2.3.3.Sprint Backlog 3.
+
+| User Story | Work-Item / Task | Description                                                                                             | Estimation (Hours) | Assigned To   | Status       |
+|------------|------------------|---------------------------------------------------------------------------------------------------------|---------------------|----------------|--------------|
+| HU05       | T1               | Como desarrollador, quiero mostrar los planes disponibles para que el usuario elija.                    | 4                   | Oscar          | In Progress   |
+| HU06       | T2               | Como desarrollador, quiero permitir la elección de métodos de pago en los planes.                       | 4                   | Erick          | In Progress   |
+| TS02       | T3               | Visualización visual de los tres planes y botón Comprar                                                 | 4                   | Miguel         | In Progress   |
+| TS05       | T4               | Compra de medicamentos                                                                                   | 4                   | Erick          | In Progress   |
+| HU14       | T5               | Como desarrollador, quiero permitir agendar nuevas citas.                                               | 4                   | Stephano       | In Progress   |
+| TS15       | T6               | Agendar cita [POST]                                                                                      | 2                   | Erick          | In Progress   |
+| HU09       | T7               | Como desarrollador, quiero visualizar la lista de citas próximas de mi mascota.                         | 4                   | Oscar          | In Progress   |
+| TS16       | T8               | Obtener citas agendadas por usuario [GET]                                                                | 2                   | Oscar          | In Progress   |
+| HU07       | T9               | Como desarrollador, quiero consultar el historial de pagos anteriores.                                  | 4                   | Fabian         | In Progress   |
+| TS07       | T10              | Mostrar historial de tratamientos en una tabla                                                           | 4                   | Oscar          | In Progress   |
+| TS08       | T11              | Filtrar historial por mascota                                                                            | 4                   | Miguel         | In Progress   |
+| HU01       | T12              | Como desarrollador, quiero registrar usuarios para que accedan a la plataforma.                         | 4                   | Oscar          | In Progress   |
+| TS12       | T13              | Registro de usuarios [POST]                                                                              | 2                   | Gianfranco     | In Progress   |
+| HU02       | T14              | Como desarrollador, quiero permitir el inicio de sesión para proteger el acceso.                        | 4                   | Miguel         | In Progress   |
+| TS13       | T15              | Inicio de sesión [POST]                                                                                  | 2                   | Stephano       | In Progress   |
+| TS01       | T16              | Validación de campos vacíos en el login                                                                  | 2                   | Oscar          | In Progress   |
+| HU08       | T17              | Como desarrollador, quiero modificar datos del perfil del usuario autenticado.                          | 4                   | Gianfranco     | In Progress   |
+| TS14       | T18              | Obtener perfil de usuario [GET]                                                                          | 2                   | Fabian         | In Progress   |
+| TS03       | T19              | Gestión de mascotas desde tarjetas                                                                      | 4                   | Gianfranco     | In Progress   |
+| TS04       | T20              | Agregar nueva mascota con formulario sencillo                                                            | 4                   | Stephano       | In Progress   |
+
+
 ### 5.2.3.4.Development Evidence for Sprint Review.
 ### 5.2.3.5.Execution Evidence for Sprint Review.
 ### 5.2.3.6.Services Documentation Evidence for Sprint Review
