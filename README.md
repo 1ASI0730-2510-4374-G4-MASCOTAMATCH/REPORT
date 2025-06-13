@@ -2176,20 +2176,21 @@ Enlace al repositorio: https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REP
 ## 5.2.3. Sprint 3 
 ### 5.2.3.1.Spring Planning 3.
 
-| Campo                              | Información                                                                                                                                            |
-|-----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Sprint #**                      | Sprint 3                                                                                                                                               |
-| **Date**                          | 2025-06-13                                                                                                                                             |
-| **Time**                          | 08:00 PM                                                                                                                                               |
-| **Location**                      | Virtual (Discord y Zoom)                                                                                                                               |
-| **Prepared By**                   | Oscar Espinoza Quijandría                                                                                                                              |
-| **Attendees (to planning meeting)**| Oscar Espinoza, Miguel Vidal, Stephano Landauri, Fabian Oliva, Gianfranco Durand, Erick Vasquez                                                       |
-| **Sprint 2 – 3 Review Summary**   | En el sprint anterior se completó la versión MVP del frontend de MascotaMatch, incluyendo login, registro, navegación entre secciones y UI responsive. Esto permitió identificar las necesidades de integración con un backend funcional que administre usuarios, mascotas, planes y medicamentos. |
-| **Sprint 2 – 3 Retrospective Summary** | Se destacó la necesidad de estructurar correctamente los bounded contexts para facilitar la escalabilidad del sistema. Se decidió trabajar con JSON Server para simular el backend mientras se diseña el real. Se acordó implementar endpoints RESTful, estructurar bien los modelos y validar flujos como agendamiento y compra de medicamentos. |
-| **Sprint 3 Goal**                 | **Sprint Goal:**<br>Desarrollar el backend inicial de MascotaMatch con tres bounded contexts principales: User, Pet y Medication, con endpoints funcionales y conexión simulada usando JSON Server.<br><br>**Success** se confirma cuando los endpoints pueden manejar operaciones básicas como: crear usuario, actualizar mascota, listar planes y registrar compras. |
-| **Sprint 3 Velocity**             | 78 Story Points                                                                                                                                       |
-| **Sprint Goal & User Stories**   | **User Stories:**<br>HU19, HU20, HU21, HU22, HU23, HU24, HU25, HU26<br>**Technical Stories:**<br>TS09, TS10, TS11, TS12, TS13, TS14 |
-| **Sum of Story Points**          | **78 Story Points**                                                                                                                                   |
+| Campo                        | Información                                                                                                   |
+|-----------------------------|---------------------------------------------------------------------------------------------------------------|
+| **Sprint #**                | Sprint 3                                                                                                     |
+| **Date**                    | 2025-06-15                                                                                                   |
+| **Time**                    | 07:00 PM                                                                                                     |
+| **Location**                | Virtual (Discord y Zoom)                                                                                     |
+| **Prepared By**             | Oscar Espinoza                                                                                               |
+| **Attendees (to planning meeting)** | Oscar Espinoza, Miguel Vidal, Stephano Landauri, Fabian Oliva, Gianfranco Durand, Erick Vasquez               |
+| **Sprint 1 – 2 Review Summary** | Se finalizó correctamente la estructura visual y lógica del frontend, incluyendo rutas, vistas, y pruebas de navegación. La landing page fue completada con sus respectivas secciones funcionales. |
+| **Sprint 1 – 2 Retrospective Summary** | Se identificó la necesidad de una mejor conexión entre frontend y backend. Se estableció priorizar endpoints REST en esta nueva fase, organizar mejor los contextos de negocio y reforzar testing de integración. |
+| **Sprint 3 Goal**           | **Sprint Goal:**<br>Construir el backend funcional de MascotaMatch, dividiendo la lógica en tres Bounded Contexts: User (planes), Pet y Medication (compras de medicamentos).<br>**Success:**<br>Todos los endpoints deben responder correctamente ante solicitudes del frontend y mantener persistencia con JSON Server. |
+| **Sprint 3 Velocity**       | 82 Story Points                                                                                              |
+| **Sprint Goal & User Stories** | **User Stories:**<br>HU01, HU02, HU05, HU06, HU07, HU08, HU09, HU10, HU14<br>**Technical Stories:**<br>TS01, TS02, TS03, TS04, TS05, TS06, TS07, TS08, TS12, TS13, TS14, TS15, TS16 |
+| **Sum of Story Points**     | 82 Story Points                                                                                              |
+
 
 ### 5.2.3.2. Aspect Leaders and Collaborators.
 ##### Introducción
