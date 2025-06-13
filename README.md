@@ -2098,7 +2098,7 @@ En el presente Sprint, se han identificado cinco aspectos clave para el desarrol
 
 | User Story | Work-Item / Task | Description                                              | Estimation (Hours) | Assigned To         | Status |
 |------------|------------------|----------------------------------------------------------|---------------------|----------------------|--------|
-| HU01       | T1               | Como desarrollador, quiero ver un mensaje de bienvenida en la portada que me explique qué es MascotaMatch. | 4         | Oscar (Home)         | Done   |
+| HU01       | T1               | Como desarrollador, quiero ver un mensaje de bienvenida en la portada que me explique qué es MascotaMatch. | 4         | Oscar          | Done   |
 | HU02       | T2               | Como desarrollador, quiero hacer clic en "See Services" en portada para ir a servicios.        | 4         | Oscar                | Done   |
 | HU03-HU04-HU05 | T3          | Como desarrollador, quiero visualizar tarjetas de servicios con descripción e íconos.          | 8         | Stephano  | Done   |
 | HU06       | T4               | Como desarrollador, quiero ver los planes (Mini, Completo, VIP) y comparar sus beneficios.     | 8         | Oscar               | Done   |
@@ -2106,7 +2106,7 @@ En el presente Sprint, se han identificado cinco aspectos clave para el desarrol
 | HU10       | T6               | Como desarrollador, quiero ver sección de preguntas frecuentes con íconos y respuestas.        | 4         | Miguel           | Done   |
 | HU11       | T7               | Como desarrollador, quiero ver el logo de MascotaMatch en el header del sitio.                | 1         | Fabian | Done   |
 | HU12       | T8               | Como desarrollador, quiero tener un menú con enlaces a Home, Services, Plans y FAQ.           | 4         | Miguel      | Done   |
-| HU13       | T9               | Como desarrollador, quiero tener un footer con contacto y secciones informativas.             | 4         | Fabian )| Done   |
+| HU13       | T9               | Como desarrollador, quiero tener un footer con contacto y secciones informativas.             | 4         | Fabian | Done   |
 | HU14       | T10              | Como desarrollador, quiero crear una pantalla de Login previa al acceso al sitio.             | 4         | Stephano  | Done   |
 | HU15       | T11              | Como desarrollador, quiero crear una pantalla de Registro sencilla para nuevos usuarios.       | 4         | Oscar        | Done   |
 | HU18       | T12              | Como desarrollador, quiero acceder a detalle de cada plan desde su botón.                     | 4         | Oscar        | Done   |
