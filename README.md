@@ -201,7 +201,52 @@ En nuestor país, el crecimiento acelerado de las ciudades ha generado cambios s
   
 ### Esto lo explicamos en el siguiente a través del método 5W’s y 2H’s: 
 
-![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-1/Screenshot%202025-04-25%20003027.png)
+#### 🟩 What (¿Qué sucede?)
+
+Muchos dueños de mascotas en zonas urbanas tienen dificultades para organizar adecuadamente el cuidado de sus animales. Utilizan múltiples canales (llamadas, redes sociales, referencias informales) y enfrentan descoordinación, olvidos de citas o servicios poco confiables. No existe una plataforma única que centralice todos los servicios de cuidado animal de forma segura y profesional.
+
+#### 🟩 Why (¿Por qué es un problema?)
+
+La falta de centralización y profesionalización en los servicios de cuidado animal genera varios problemas:
+
+- Pérdida de tiempo en la búsqueda de proveedores.
+- Riesgos para la salud de las mascotas por descuidos en vacunas o atención.
+- Experiencias negativas con paseadores o groomers no certificados.
+- Dificultad para reaccionar ante emergencias veterinarias.
+- Frustración y estrés en los dueños por no tener control digital ni trazabilidad del bienestar de sus mascotas.
+
+#### 🟩 Who (¿A quiénes afecta?)
+
+- A los **dueños de mascotas** que tienen agendas ocupadas y buscan soluciones confiables y rápidas.
+- A los **veterinarios, paseadores y groomers independientes**, que quieren profesionalizarse y acceder a más clientes.
+- A las **familias urbanas**, que desean mejorar la calidad de vida de sus mascotas sin perder tiempo.
+- A los **emprendedores del cuidado animal**, que necesitan una vitrina digital para ofrecer sus servicios.
+
+#### 🟩 When (¿Cuándo ocurre?)
+
+De forma continua, especialmente en contextos urbanos donde las personas trabajan a tiempo completo y carecen de redes de apoyo para el cuidado diario de sus mascotas. Ocurre cuando:
+
+- No se encuentra atención inmediata.
+- Se olvidan vacunas, baños o chequeos regulares.
+- Se desea agendar varios servicios, pero hay desorganización.
+
+#### 🟩 Where (¿Dónde ocurre?)
+
+En **ciudades peruanas urbanas** como Lima, Arequipa y Trujillo, donde existe una alta densidad de mascotas y servicios informales. El problema se presenta con mayor intensidad en sectores sin digitalización del cuidado animal o sin acceso a servicios profesionales centralizados.
+
+#### 🟩 How (¿Cómo sucede?)
+
+- Los dueños usan múltiples herramientas desconectadas: llamadas, WhatsApp, redes sociales.
+- No existe un historial clínico digital ni recordatorios automáticos.
+- Los servicios se agendan manualmente, sin integración ni seguimiento.
+- No hay validación de proveedores, lo que reduce la confianza.
+
+#### 🟩 How Much (¿Cuánto cuesta o impacta?)
+
+- **Emocionalmente:** Estrés y preocupación por la salud y seguridad de la mascota.
+- **Económicamente:** Pérdida de dinero al contratar servicios de baja calidad o repetir citas por falta de seguimiento.
+- **Socialmente:** Se normalizan servicios informales sin garantía, afectando el desarrollo del sector de cuidado animal.
+- **En el proveedor:** Dificultad para formalizarse, pérdida de clientes por mala reputación o falta de visibilidad digital.
 
 ## 1.2.2 Lean UX Process
 
