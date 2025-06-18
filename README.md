@@ -532,11 +532,11 @@ Se entrevistó a dos jóvenes dueños de mascotas que relataron su rutina diaria
 
 ### 2.3.5. As-is Scenario Mapping.
 
-![Escenario As-Is de Angel](./assets/miro1.jpg)
+![miro1](https://github.com/user-attachments/assets/9cfa51a6-18eb-4f6d-9e16-311268bf2709)
 
 ### Escenario As-Is: Carla buscando clientes sin plataforma especializada
 
-![Escenario As-Is de Carla](./assets/miro2.jpg)
+![miro2](https://github.com/user-attachments/assets/3541a448-0ec0-4d0a-80b8-f6d6caf651a7)
 
 </div>
 
