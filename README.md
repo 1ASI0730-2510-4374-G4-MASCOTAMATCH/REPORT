@@ -669,14 +669,14 @@ MascotaMatch es una plataforma que conecta a dueños de mascotas con profesional
 
 <div align="center">
 
-![logo](./assets/un.png)
+![un](https://github.com/user-attachments/assets/c85e87cb-71c0-47c1-ab8d-ae681d42784e)
 </div>
 
 ### Typography:
 Se utiliza la tipografía "Nunito", una fuente redondeada, amigable y altamente legible. Su estructura moderna y fluida se adapta perfectamente a textos largos, botones y encabezados. Además, brinda una experiencia visual cómoda y cercana, ideal para transmitir confianza y afecto. En algunos casos, se combina con "Inter" para contenidos secundarios o informativos.
 <div align="center">
   
-![typography](./assets/dos.png)
+![dos](https://github.com/user-attachments/assets/51abd7bd-d0d7-4808-bfc5-54d5dea17a0a)
 </div>
 
 ### Colors:
@@ -687,18 +687,18 @@ Para nuestra versión de  landing page hemos utilizado un fondo azul degradado q
 
 #34D399 – Verde Menta: botones y llamados a la acción
 
-![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-4/assets/Color1.png)
+![Color1](https://github.com/user-attachments/assets/2c5629b2-b9e7-466b-84a1-bbf0f9733201)
 
-![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-4/assets/Color2.png)
+![Color2](https://github.com/user-attachments/assets/37d41cc7-e79c-4b18-9aa6-c142343bbff6)
 
 ### Fondo:
 #FFFFFF – Blanco: áreas de contenido y tarjetas.
 
 #F3F4F6 – Gris muy claro: fondo alternativo y separación sutil.
 
-![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-4/assets/Color2%20(2).png)
+![Color2 (2)](https://github.com/user-attachments/assets/f9a499d9-20a7-45ac-a96a-b5e629255fac)
 
-![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-4/assets/color1%20(2).png)
+![color1 (2)](https://github.com/user-attachments/assets/7d53f728-9a35-4ac2-b5db-ee090df75ef8)
 
 ### Detalles:
 #111827 – Gris oscuro: texto principal y títulos.
@@ -707,11 +707,11 @@ Para nuestra versión de  landing page hemos utilizado un fondo azul degradado q
 
 #2563EB – Azul secundario para navegación y resaltes.
 
-![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-4/assets/Color1.png)
+![Color1 (1)](https://github.com/user-attachments/assets/17f620f2-09d1-4802-9580-3b115ad2c9ea)
 
-![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-4/assets/color1%20(2).png)
+![color1 (2) (1)](https://github.com/user-attachments/assets/5c7219fb-bba4-4f43-b7ba-2bf051284b8b)
 
-![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-4/assets/color%203.jpg)
+![color 3](https://github.com/user-attachments/assets/dbbfda34-f1cb-4dc3-ae28-9e2a38fe51e3)
 
 ### Tone of Communication:
 El tono de MascotaMatch es positivo, empático y claro, adaptándose según la sección:
@@ -729,7 +729,7 @@ Tranquilizador y profesional en servicios como urgencias veterinarias.
 La web de MascotaMatch está enfocada en ser una entrada clara y amigable para el usuario. Utiliza una landing con estructura simple, encabezado directo, visual principal con mascota, CTA visible (“See Services”) y tarjetas explicativas de servicios. Los planes están presentados con imágenes reales que aportan confianza, mientras que las preguntas frecuentes usan íconos grandes y textos concretos para resolver dudas comunes.
 
 
-![](https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REPORT/blob/feature/Chapter-4/assets/Home.png)
+![Home](https://github.com/user-attachments/assets/037bc2b9-b9a9-4a19-99cc-140a774b095d)
 
 En el diseño de la web se evita la sobrecarga de contenido y se prioriza la jerarquía visual a través del uso de espacios amplios, tarjetas modulares y una navegación intuitiva. La estructura está pensada para acompañar al usuario paso a paso, facilitando la comprensión de los planes de suscripción, servicios disponibles y preguntas frecuentes.
 La página de inicio (landing page) cumple una función de presentación general: presenta el valor diferencial de la plataforma, sus beneficios clave, y los distintos planes con imágenes amigables y testimonios visuales. Aunque la funcionalidad completa de MascotaMatch se encuentra en la app, la web sirve como vitrina digital que guía al usuario hacia su descarga y registro.
