@@ -913,11 +913,11 @@ Visualmente se usaron colores frescos (degradado celeste), tipografías legibles
 
 ### Desktop Web Browser
 
-![Image](./assets/1.jpg)
-![Image](./assets/2.jpg)
-![Image](./assets/3.jpg)
-![image](./assets/faq.jpg)
-![Image](./assets/6.jpg)
+![1](https://github.com/user-attachments/assets/3d2268b5-8663-4aaa-9c5c-fd86a58cdb59)
+![2](https://github.com/user-attachments/assets/00212d93-6c0d-4f0e-ad92-957581486a26)
+![3](https://github.com/user-attachments/assets/1c22dbad-3a26-4a87-bcdb-f7adb39d668f)
+![faq](https://github.com/user-attachments/assets/06102192-38ca-4f1e-a171-1540628a604a)
+![6](https://github.com/user-attachments/assets/e07aff67-d517-4765-84d0-8f0ff7dcadc9)
 
 ## 4.4.1 Web Applications Wireframes
 
