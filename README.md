@@ -884,27 +884,27 @@ Se presentan las siguientes secciones:
 - **Navbar:** Fijo en la parte superior con acceso directo a Home, Services, Plans, FAQ, y botones de Login/Register.
 - **Hero Section:** Mensaje central con un eslogan claro (“Comprehensive care for your pet”), imagen representativa (un perro) y botón de llamada a la acción ("See Services").
 
-![Image](./assets/wf1.jpg)
+![wf1](https://github.com/user-attachments/assets/57d758c5-51f9-4f5b-bcd6-9094879ffd41)
 
 - **Our Services:** Cards o bloques visuales que describen los servicios clave (Safe Walks, Veterinary Check-Ups, Grooming, Emergencies) acompañados de íconos ilustrativos y texto breve.
 
-![Image](./assets/wf2.jpg)
+![wf2](https://github.com/user-attachments/assets/225ed6fe-ac44-49ae-93d0-23ada3eff61e)
 
 - **Plans Section:** Presenta los planes disponibles (VIP Plan, Complete Plan, Mini Plan) en tarjetas visuales con breve descripción de beneficios y botones para "Read more".
 
-![Image](./assets/wf3.jpg)
+![wf3](https://github.com/user-attachments/assets/e3b62231-05db-4708-aab3-285dea9a0b3a)
 
 - **FAQ Section:** Cards individuales que responden a preguntas frecuentes relevantes sobre servicios, suscripciones, cambios de plan y emergencias veterinarias.
 
-![Image](./assets/wf4.jpg)
+![wf4](https://github.com/user-attachments/assets/ea93f263-63f8-4605-84c7-b3b4e63c67bd)
 
 - **Contact Support:** Formulario simple para ingresar un correo electrónico y solicitar asistencia directa.
 
-![Image](./assets/wf5.jpg)
+![wf5](https://github.com/user-attachments/assets/8d2f2c88-5c21-4ae1-b2dd-02610cc43365)
 
 - **Footer:** Información básica de la empresa, zonas de cobertura (Surquillo, San Borja, San Isidro) y enlaces rápidos de ayuda.
 
-![Image](./assets/wf6.jpg)
+![wf6](https://github.com/user-attachments/assets/6625307f-b480-4a3b-a4bc-7ae2fe9f4ef9)
 
 ## 4.3.2. Landing Page Mock-up
 El mock-up de la landing page de MascotaMatch presenta una interfaz limpia, moderna y funcional, organizada en una estructura vertical con navegación fija superior. Las secciones Home, Services, Plans y FAQs se muestran claramente en el navbar, acompañadas de botones visibles para Login y Register.
