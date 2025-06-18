@@ -538,8 +538,6 @@ Se entrevistó a dos jóvenes dueños de mascotas que relataron su rutina diaria
 
 ![miro2](https://github.com/user-attachments/assets/3541a448-0ec0-4d0a-80b8-f6d6caf651a7)
 
-</div>
-
 ## 2.4. Ubiquitous Language.
 
 <div align="center">
