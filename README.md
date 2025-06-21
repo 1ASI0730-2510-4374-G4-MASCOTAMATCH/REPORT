@@ -633,34 +633,41 @@ Se entrevistó a dos jóvenes dueños de mascotas que relataron su rutina diaria
 
 El Product Backlog es una lista priorizada de todas las funcionalidades, mejoras, correcciones y tareas necesarias para desarrollar un producto. Cada ítem del backlog, como las User Stories y Technical Stories, representa algo que aporta valor al proyecto. El backlog se actualiza constantemente y sirve como guía para el equipo, asegurando que se enfoque en construir lo que realmente necesita el usuario o cliente final.
 
-| # Orden | User Story ID | Título | Descripción | Story Points (1/2/3/5/8) |
-|:-------:|:-------------:|:------:|:------------|:------------------------:|
-| 1 | HU14 | Pantalla de Login obligatoria | Como visitante, deseo iniciar sesión en una pantalla previa para acceder al contenido protegido. | 5 |
-| 2 | HU15 | Registrarse si no tiene cuenta | Como visitante, deseo registrarme fácilmente si aún no tengo cuenta para ingresar al contenido. | 5 |
-| 3 | HU01 | Mensaje de bienvenida | Como visitante, deseo ver un mensaje de bienvenida para entender rápidamente el propósito del sitio. | 3 |
-| 4 | HU02 | Botón See Services | Como visitante, deseo hacer clic en "See Services" para ir directamente a la sección de servicios. | 3 |
-| 5 | HU03 | Visualizar tarjetas de servicios | Como visitante, deseo visualizar las tarjetas de servicios ofrecidos para conocer las opciones disponibles. | 5 |
-| 6 | HU04 | Descripción clara de servicios | Como visitante, deseo leer una breve descripción debajo de cada servicio para entender qué incluye. | 3 |
-| 7 | HU05 | Imágenes representativas de servicios | Como visitante, deseo que cada servicio tenga una imagen visual para reconocerlo rápidamente. | 2 |
-| 8 | HU06 | Ver planes de suscripción | Como visitante, deseo visualizar los distintos planes para comparar opciones y elegir el mejor. | 5 |
-| 9 | HU07 | Beneficios organizados en lista | Como visitante, deseo ver los beneficios de cada plan organizados en listas para entender qué incluye cada uno. | 3 |
-| 10 | HU09 | Botón Read More en cada plan | Como visitante, deseo hacer clic en un botón "Read More" para ver una página con información completa. | 2 |
-| 11 | HU18 | Acceso a páginas de detalle por plan | Como visitante, deseo poder acceder a una página individual con todos los detalles del plan. | 3 |
-| 12 | HU10 | Acceso a sección FAQ | Como visitante, deseo ver una sección de preguntas frecuentes con íconos y respuestas simples para resolver dudas. | 3 |
-| 13 | HU11 | Visualización del logo | Como visitante, deseo ver el logo de MascotaMatch en la parte superior izquierda para confirmar que estoy en el sitio correcto. | 1 |
-| 14 | HU12 | Menú de navegación | Como visitante, deseo tener acceso a un menú con secciones principales para moverme rápidamente por el sitio. | 2 |
-| 15 | HU13 | Footer con contacto | Como visitante, deseo ver en el pie de página opciones de contacto y ayuda para comunicarme si necesito información. | 2 |
-| 16 | HU16 | Diseño uniforme | Como visitante, deseo navegar en un sitio con diseño uniforme para sentir confianza y comodidad. | 2 |
-| 17 | HU17 | Visualización responsiva | Como visitante, deseo que el sitio se vea bien en mi computadora o celular para poder explorarlo cómodamente. | 3 |
-| 18 | HU08 | Imagen por plan | Como visitante, deseo que cada plan tenga una imagen para diferenciarlo visualmente. | 2 |
-| 19 | TS04 | POST Registro de usuario | Como desarrollador, deseo enviar información a la API para registrar nuevos usuarios. | 5 |
-| 20 | TS05 | POST Inicio de sesión | Como desarrollador, deseo enviar información a la API para permitir el inicio de sesión. | 5 |
-| 21 | TS01 | GET Servicios disponibles | Como desarrollador, deseo conectar con la API para obtener los servicios disponibles. | 3 |
-| 22 | TS02 | GET Planes disponibles | Como desarrollador, deseo conectar con la API para obtener los planes de suscripción. | 3 |
-| 23 | TS03 | GET Preguntas frecuentes | Como desarrollador, deseo conectar con la API para obtener las preguntas frecuentes. | 2 |
-| 24 | TS07 | POST Agendar citas | Como desarrollador, deseo enviar información a la API para registrar una cita de servicio. | 5 |
-| 25 | TS08 | GET Citas agendadas | Como desarrollador, deseo obtener desde la API la lista de citas agendadas del usuario. | 3 |
-| 26 | TS06 | GET Perfil de usuario | Como desarrollador, deseo obtener desde la API la información del perfil del usuario autenticado. | 3 |
+| # Orden | User Story ID | Título                                      | Descripción                                                                                             | Story Points |
+|---------|----------------|---------------------------------------------|----------------------------------------------------------------------------------------------------------|--------------|
+| 1       | HU01           | Registro de usuarios                        | Como usuario, deseo registrarme fácilmente para acceder a la plataforma.                                | 5            |
+| 2       | HU02           | Inicio de sesión                            | Como usuario, deseo iniciar sesión para acceder a la plataforma.                                        | 5            |
+| 3       | TS01           | Validación al iniciar sesión                | Como desarrollador, quiero validar el login para evitar campos vacíos o credenciales incorrectas.       | 3            |
+| 4       | HU03           | Visualización de plan actual                | Como usuario, deseo ver mi plan activo.                                                                 | 2            |
+| 5       | HU04           | Compra de planes                             | Como usuario, quiero ver los planes disponibles y seleccionar uno.                                     | 5            |
+| 6       | HU05           | Selección de método de pago                 | Como usuario, deseo elegir un método de pago para confirmar mi compra.                                  | 3            |
+| 7       | TS03           | Backend: Métodos de pago                    | Como desarrollador, quiero mostrar y gestionar los métodos de pago.                                     | 3            |
+| 8       | TS04           | Backend: Historial de pagos                 | Como desarrollador, deseo listar pagos realizados por usuario.                                          | 3            |
+| 9       | HU06           | Visualización de historial de pagos         | Como usuario, quiero revisar mis transacciones anteriores.                                              | 2            |
+| 10      | HU07           | Registro de mascotas                        | Como usuario, deseo registrar a mi mascota con sus datos.                                               | 5            |
+| 11      | TS06           | Agregar mascota (formulario)               | Como desarrollador, quiero que el usuario registre fácilmente a su mascota.                             | 3            |
+| 12      | TS05           | CRUD de mascotas                            | Como desarrollador, quiero permitir gestión de mascotas (ver, agregar, eliminar).                       | 5            |
+| 13      | HU09           | Compra de medicina                          | Como usuario, quiero comprar medicamentos para mi mascota.                                              | 5            |
+| 14      | HU10           | Modificar cantidad de medicina              | Como usuario, quiero elegir la cantidad necesaria antes de pagar.                                       | 3            |
+| 15      | TS07           | Backend: Registro de medicamentos           | Como desarrollador, quiero mostrar medicamentos y permitir la compra.                                   | 5            |
+| 16      | TS08           | Validación de unidades en compra            | Como desarrollador, quiero validar que se seleccione cantidad antes de confirmar compra.                | 2            |
+| 17      | HU11           | Ver medicamentos comprados                  | Como usuario, quiero ver un listado de productos comprados.                                             | 2            |
+| 18      | HU12           | Detalle de medicamento                      | Como proveedor, deseo ver detalles de cada medicamento adquirido.                                       | 2            |
+| 19      | TS09           | Backend: Historial de medicamentos          | Como desarrollador, deseo mostrar los tratamientos aplicados a mascotas.                                | 2            |
+| 20      | HU13           | Visualizar historial de tratamientos        | Como usuario, deseo ver historial clínico de mi mascota.                                                | 2            |
+| 21      | HU14           | Navegación por landing page                 | Como visitante, deseo navegar por la landing y conocer la información.                                  | 1            |
+| 22      | HU15           | Visualización de servicios                  | Como visitante, deseo ver los servicios ofrecidos de forma clara.                                       | 2            |
+| 23      | HU16           | Consultar sección FAQ                       | Como visitante, deseo resolver mis dudas desde una sección de preguntas frecuentes.                     | 1            |
+| 24      | HU17           | Visualizar planes disponibles               | Como visitante, deseo comparar los distintos planes ofrecidos.                                          | 3            |
+| 25      | HU18           | Ver detalle de cada plan                    | Como visitante, deseo ver información más detallada de cada plan antes de comprar.                      | 3            |
+| 26      | TS02           | Backend: Renderizar tarjetas de planes      | Como desarrollador, quiero mostrar los planes con botón "Comprar".                                     | 3            |
+| 27      | TS10           | Backend: GET /plans                         | Como desarrollador, quiero obtener los planes desde la API.                                             | 2            |
+| 28      | TS11           | Backend: GET /faq                           | Como desarrollador, quiero cargar preguntas y respuestas frecuentes desde la API.                       | 2            |
+| 29      | TS12           | Backend: POST /register                     | Como desarrollador, deseo registrar usuarios en el servidor.                                            | 3            |
+| 30      | TS13           | Backend: POST /login                        | Como desarrollador, deseo autenticar usuarios en el servidor.                                           | 3            |
+| 31      | TS14           | Backend: GET /users/profile                 | Como desarrollador, deseo obtener el perfil del usuario autenticado.                                    | 3            |
+| 32      | TS15           | Backend: POST /appointments                 | Como desarrollador, deseo registrar una cita desde el formulario.                                       | 3            |
+| 33      | TS16           | Backend: GET /appointments/:userId         | Como desarrollador, deseo obtener todas las citas agendadas de un usuario.                              | 3            |
 
 ### 4. UX/UI Design
 </div>
