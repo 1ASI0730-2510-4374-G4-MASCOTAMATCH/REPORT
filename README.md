@@ -2323,6 +2323,11 @@ La distribución de tareas y liderazgo se ha realizado con base en las fortaleza
 Cada feature fue desarrollado en una branch diferente siguiendo buenas prácticas de control de versiones y trabajo en equipo. Se utilizaron mensajes de commit descriptivos y cada cambio fue verificado.
 
 ### 5.2.3.5.Execution Evidence for Sprint Review.
+
+En este Sprint se desarrollaron los principales servicios del backend para Mascota Match. Se implementaron endpoints para el registro e inicio de sesión de usuarios, programación de citas, gestión de mascotas y compra de medicamentos.
+
+Las funcionalidades se validaron mediante pruebas con herramientas externas y se documentaron los resultados. Se adjuntan capturas de pantalla de las peticiones realizadas y un video explicativo que muestra el funcionamiento general de los servicios implementados y su integración con el sistema.
+
 ### 5.2.3.6.Services Documentation Evidence for Sprint Review
 
 ## Conclusiones
