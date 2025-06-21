@@ -2180,9 +2180,19 @@ En el presente Sprint, se han identificado cinco aspectos clave para el desarrol
 
 ###  5.2.2.4. Development Evidence for Sprint Review
 
-Durante el Sprint 2, se avanzó significativamente en la implementación de nuevas funcionalidades para la aplicación MascotaMatch. Se desarrollaron vistas clave como el dashboard de bienvenida personalizado, el módulo de edición de perfil con campos dinámicos y la sección de preguntas frecuentes (FAQ). Estas mejoras consolidan la arquitectura base del sistema, aportando una experiencia más completa para el usuario final.
 
-![image](https://github.com/user-attachments/assets/bf201540-4a1b-4d3b-a77c-915b7206e292)
+| Repository      | Branch                | Commit ID | Commit Message                  | Commit Message Body | Committed on Date     |
+|-----------------|------------------------|-----------|----------------------------------|----------------------|------------------------|
+| MascotaMatch    | feature/animaciones     | 298c45a   | feat: add vc animaciones         | -                    | 26 de abril de 2025    |
+| MascotaMatch    | feature/plan_vip        | e856efe   | feat:add plan_vip                | -                    | 26 de abril de 2025    |
+| MascotaMatch    | feature/plan_mini       | d08a274   | feat:Add Plan_mini               | -                    | 26 de abril de 2025    |
+| MascotaMatch    | feature/plan_complete   | b8fe11d   | feat: add PlanComplete           | -                    | 26 de abril de 2025    |
+| MascotaMatch    | feature/index           | afe5753   | feat: landing page               | -                    | 26 de abril de 2025    |
+| MascotaMatch    | feature/home            | b1a74fa   | Feature: add landing register-login | -                | 26 de abril de 2025    |
+
+
+## Detalles
+Cada feature fue desarrollado en una branch diferente siguiendo buenas prácticas de control de versiones y trabajo en equipo. Se utilizaron mensajes de commit descriptivos y cada cambio fue verificado.
 
 ###  5.2.2.5. Execution Evidence for Sprint Review
 
@@ -2197,6 +2207,10 @@ En este sprint, se ejecutaron tareas de desarrollo correspondientes a la visuali
 ✅Módulo de FAQ con respuestas claras y jerarquía visual optimizada.
 
 ✅Perfil editable con campos personales estructurados.
+
+Durante el Sprint 2, se avanzó significativamente en la implementación de nuevas funcionalidades para la aplicación MascotaMatch. Se desarrollaron vistas clave como el dashboard de bienvenida personalizado, el módulo de edición de perfil con campos dinámicos y la sección de preguntas frecuentes (FAQ). Estas mejoras consolidan la arquitectura base del sistema, aportando una experiencia más completa para el usuario final.
+
+![image](https://github.com/user-attachments/assets/bf201540-4a1b-4d3b-a77c-915b7206e292)
 
 ![image](https://github.com/user-attachments/assets/5d210477-8362-4ea1-81b4-51ac71995851)
 
@@ -2290,6 +2304,20 @@ La distribución de tareas y liderazgo se ha realizado con base en las fortaleza
 | HU13                                  | T35      | Historial de pedidos de medicamentos por proveedor       | 4 horas           | Gianfranco  | In Progress |
 
 ### 5.2.3.4.Development Evidence for Sprint Review.
+
+| Repository      | Branch                | Commit ID | Commit Message                  | Commit Message Body | Committed on Date     |
+|-----------------|------------------------|-----------|----------------------------------|----------------------|------------------------|
+| MascotaMatch    | feature/animaciones     | 298c45a   | feat: add vc animaciones         | -                    | 26 de abril de 2025    |
+| MascotaMatch    | feature/plan_vip        | e856efe   | feat:add plan_vip                | -                    | 26 de abril de 2025    |
+| MascotaMatch    | feature/plan_mini       | d08a274   | feat:Add Plan_mini               | -                    | 26 de abril de 2025    |
+| MascotaMatch    | feature/plan_complete   | b8fe11d   | feat: add PlanComplete           | -                    | 26 de abril de 2025    |
+| MascotaMatch    | feature/index           | afe5753   | feat: landing page               | -                    | 26 de abril de 2025    |
+| MascotaMatch    | feature/home            | b1a74fa   | Feature: add landing register-login | -                | 26 de abril de 2025    |
+
+
+## Detalles
+Cada feature fue desarrollado en una branch diferente siguiendo buenas prácticas de control de versiones y trabajo en equipo. Se utilizaron mensajes de commit descriptivos y cada cambio fue verificado.
+
 ### 5.2.3.5.Execution Evidence for Sprint Review.
 ### 5.2.3.6.Services Documentation Evidence for Sprint Review
 
