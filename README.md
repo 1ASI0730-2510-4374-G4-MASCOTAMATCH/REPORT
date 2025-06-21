@@ -2015,9 +2015,9 @@ El Sprint Planning 1 establece la organización inicial del equipo para desarrol
 | **Sprint n – 1 Review Summary** | No aplica (Primer Sprint del proyecto Mascota Match). |
 | **Sprint n – 1 Retrospective Summary** | No aplica (Primer Sprint del proyecto Mascota Match). |
 | **Sprint n Goal** | Finalizar la primera versión de Mascota Match, incluyendo registro de usuarios, login, navegación general, publicación de servicios, planes de suscripción, sección de FAQ, agendamiento de citas y perfil de usuario.<br><br>**Sprint Goal:**<br>Our focus is on launching Mascota Match MVP.<br>We believe it delivers essential functionality and first user experience.<br>This will be confirmed when users can register, navigate, consult services, choose a plan, and book an appointment successfully. |
-| **Sprint n Velocity** | 72 Story Points |
-| **Sprint Goal & User Stories** | **User Stories:**<br> HU01, HU02, HU03, HU04, HU07, HU08, HU09, HU10, HU11, HU12, HU14, HU15, HU16, HU17 |
-| **Sum of Story Points** | **72 Story Points** |
+| **Sprint n Velocity** | 21 Story Points |
+| **Sprint Goal & User Stories** | **User Stories:**<br> HU14, HU15, HU16, HU17 , HU18 |
+| **Sum of Story Points** | **21 Story Points** |
 
 ### 5.2.1.2. Aspect Leaders and Collaborators
 
@@ -2036,22 +2036,13 @@ Para asegurar una ejecución eficiente del Sprint 1, se definieron líderes y co
 
 El Sprint Backlog 1 consolida todas las funcionalidades principales de Mascota Match, enfocándose en completar toda la experiencia de usuario inicial: registro, login, navegación, servicios, planes de suscripción, sección FAQ, agendamiento de citas y consulta de perfiles.
 
-| User Story | Work-Item / Task | Description                          | Estimation (Hours) | Assigned To             | Status |
-|------------|------------------|--------------------------------------|---------------------|--------------------------|--------|
-| HU01       | T1               | Registro de usuarios                 | 5                   | Oscar                    | Done   |
-| HU02       | T2               | Inicio de sesión                     | 5                   | Oscar                    | Done   |
-| HU03       | T3               | Elección y visualización de plan     | 6                   | Stephano                 | Done   |
-| HU04       | T4               | Compra de planes disponibles         | 6                   | Stephano                 | Done   |
-| HU07       | T7               | Registro de mascota                  | 5                   | Gianfranco               | Done   |
-| HU08       | T8               | Eliminar mascota del registro        | 4                   | Gianfranco               | Done   |
-| HU09       | T9               | Comprar medicina                     | 4                   | Fabian                   | Done   |
-| HU10       | T10              | Modificar cantidad de medicina       | 4                   | Fabian                   | Done   |
-| HU11       | T11              | Ver lista de medicamentos comprados  | 4                   | Oscar                    | Done   |
-| HU12       | T12              | Ver detalle de medicamentos          | 4                   | Stephano                 | Done   |
-| HU14       | T14              | Navegación en landing page           | 4                   | Oscar                    | Done   |
-| HU15       | T15              | Visualización de servicios ofrecidos | 4                   | Stephano                 | Done   |
-| HU16       | T16              | Consulta de información en FAQ       | 4                   | Miguel                   | Done   |
-| HU17       | T17              | Visualización de planes de suscripción | 4                 | Oscar                    | Done   |
+| User Story | Tarea ID | Descripción de la Tarea | Duración Estimada | Responsable | Estado |
+|---------------------|----------|--------------------------|-------------------|-------------|--------|
+| HU14                | T1       | Mostrar mensaje de bienvenida e información general en la landing | 4 horas | Oscar | Done |
+| HU15                | T2       | Mostrar tarjetas con nombre, ícono y descripción de cada servicio | 4 horas | Stephano | Done |
+| HU16                | T3       | Renderizar sección FAQ con al menos 6 preguntas | 4 horas | Miguel | Done |
+| HU17                | T4       | Mostrar resumen de los 3 planes con botón “Read More” | 4 horas | Oscar | Done |
+| HU18                | T5       | Crear navegación a página de detalle de cada plan | 4 horas | Oscar | Done |
 
 
  URL del Board Trello 
@@ -2172,30 +2163,14 @@ En el presente Sprint, se han identificado cinco aspectos clave para el desarrol
 
 ###  5.2.2.3. Sprint Backlog 2.
 
-| User Story | Work-Item / Task | Description                                                                                             | Estimation (Hours)  | Assigned To    | Status       |
-|------------|------------------|---------------------------------------------------------------------------------------------------------|---------------------|----------------|--------------|
-| HU01       | T1               | Mensaje de bienvenida en la portada                                                                     | 4                   | Oscar          | Done         |
-| HU02       | T2               | Botón "See Services" en portada                                                                         | 4                   | Oscar          | Done         |
-| HU03-HU05  | T3               | Visualizar tarjetas de servicios con descripción e íconos                                               | 8                   | Stephano       | Done         |
-| HU06       | T4               | Ver los planes y comparar beneficios                                                                    | 8                   | Oscar          | Done         |
-| HU07-HU09  | T5               | Ver beneficios por plan con imagen y botón "Read more"                                                  | 8                   | Oscar          | Done         |
-| HU10       | T6               | Ver sección de FAQ con íconos y respuestas                                                              | 4                   | Miguel         | Done         |
-| HU11       | T7               | Ver logo de MascotaMatch en el header                                                                   | 1                   | Fabian         | Done         |
-| HU12       | T8               | Menú con enlaces a Home, Services, Plans y FAQ                                                          | 4                   | Miguel         | Done         |
-| HU13       | T9               | Footer con contacto y secciones informativas                                                            | 4                   | Fabian         | Done         |
-| HU14       | T10              | Pantalla de Login previa al sitio                                                                       | 4                   | Stephano       | Done         |
-| HU15       | T11              | Pantalla de Registro sencilla                                                                           | 4                   | Oscar          | Done         |
-| HU18       | T12              | Acceder al detalle de cada plan desde su botón                                                          | 4                   | Oscar          | Done         |
-| HU19       | T13              | Opción de pago (Yape, Tarjeta, PayPal)                                                                  | 8                   | Miguel         | Done         |
-| HU20       | T14              | Agendar una cita desde sección de servicios                                                             | 8                   | Stephano       | Done         |
-| TS01       | T15              | Obtener servicios desde API - GET /servicios                                                            | 4                   | Miguel         | Done         |
-| TS02       | T16              | Obtener planes desde API - GET /planes                                                                  | 4                   | EriK           | Done         |
-| TS03       | T17              | Obtener preguntas frecuentes - GET /faq                                                                 | 4                   | Miguel         | Done         |
-| TS04       | T18              | Registrar nuevos usuarios - POST /registro                                                              | 4                   | Erik           | Done         |
-| TS05       | T19              | Enviar credenciales de inicio - POST /login                                                             | 4                   | Miguel         | Done         |
-| TS06       | T20              | Obtener perfil del usuario - GET /perfil                                                                | 4                   | Miguel         | Done         |
-| TS07       | T21              | Registrar citas - POST /citas                                                                           | 4                   | Stephano       | Done         |
-| TS08       | T22              | Obtener lista de citas - GET /citas                                                                     | 4                   | Stephano       | Done         |
+| Historia de Usuario | Tarea ID | Descripción de la Tarea | Duración Estimada | Responsable | Estado |
+|---------------------|----------|--------------------------|-------------------|-------------|--------|
+| HU01                | T6       | Crear formulario de registro con validación y conexión al backend | 4 horas | Oscar | Done |
+| HU02                | T7       | Crear formulario de login con validación y conexión al backend | 4 horas | Stephano | Done |
+| HU03                | T8       | Visualizar plan actual del usuario desde su perfil | 4 horas | Oscar | Done |
+| HU04                | T9       | Mostrar tarjetas de planes disponibles con beneficios | 4 horas | Stephano | Done |
+| HU05                | T10      | Desplegar métodos de pago en pantalla de compra (Yape, tarjeta, etc.) | 4 horas | Oscar | Done |
+| HU06                | T11      | Mostrar tabla con historial de pagos realizados | 4 horas | Miguel | Done |
 
 ###  5.2.2.4. Development Evidence for Sprint Review
 
@@ -2286,30 +2261,17 @@ La distribución de tareas y liderazgo se ha realizado con base en las fortaleza
 | Oliva Lopez, Fabian Alejandro         | `FabulousFabstar`      | C                  | C                 | C                         | C              | C                    | C                      |
 
 ### 5.2.3.3.Sprint Backlog 3.
-| User Story | Work-Item / Task | Description                                                                                             | Estimation (Hours)  | Assigned To    | Status       |
-|------------|------------------|---------------------------------------------------------------------------------------------------------|---------------------|----------------|--------------|
-| HU01       | T1               | Registrar usuarios para la plataforma                                                                   | 4                   | Oscar          | In Progress |
-| HU02       | T2               | Inicio de sesión para proteger el acceso                                                                | 4                   | Miguel         | In Progress |
-| HU05       | T3               | Mostrar planes disponibles para elegir                                                                  | 4                   | Oscar          | In Progress |
-| HU06       | T4               | Permitir elección de métodos de pago                                                                    | 4                   | Erick          | In Progress |
-| HU07       | T5               | Consultar historial de pagos anteriores                                                                 | 4                   | Fabian         | In Progress |
-| HU08       | T6               | Modificar datos del perfil autenticado                                                                  | 4                   | Gianfranco     | In Progress |
-| HU09       | T7               | Ver citas próximas de mi mascota                                                                        | 4                   | Oscar          | In Progress |
-| HU10       | T8               | Mostrar historial de tratamientos                                                                       | 4                   | Oscar          | In Progress |
-| HU14       | T9               | Permitir agendar nuevas citas                                                                           | 4                   | Stephano       | In Progress |
-| TS01       | T10              | Validar campos vacíos en login                                                                          | 4                   | Miguel         | In Progress |
-| TS02       | T11              | Visualización de planes y botón comprar                                                                 | 4                   | Miguel         | In Progress |
-| TS03       | T12              | Obtener preguntas frecuentes [GET]                                                                      | 4                   | Miguel         | In Progress |
-| TS04       | T13              | Registrar usuarios [POST]                                                                               | 4                   | Oscar          | In Progress |
-| TS05       | T14              | Login [POST]                                                                                            | 4                   | Miguel         | In Progress |
-| TS06       | T15              | Agendar cita [POST]                                                                                     | 2                   | Erick          | In Progress |
-| TS07       | T16              | Registrar citas [POST]                                                                                  | 4                   | Stephano       | In Progress |
-| TS08       | T17              | Filtrar historial por mascota                                                                           | 4                   | Miguel         | In Progress |
-| TS12       | T18              | Registro de usuarios [POST]                                                                             | 2                   | Gianfranco     | In Progress |
-| TS13       | T19              | Inicio de sesión [POST]                                                                                 | 2                   | Stephano       | In Progress |
-| TS14       | T20              | Validación campos login                                                                                 | 2                   | Miguel         | In Progress |
-| TS15       | T21              | Obtener perfil usuario autenticado [GET]                                                                | 2                   | Fabian         | In Progress |
-| TS16       | T22              | Obtener perfil usuario [GET]                                                                            | 2                   | Fabian         | In Progress |
+
+| Historia de Usuario / Técnica | Tarea ID | Descripción de la Tarea | Duración Estimada | Responsable | Estado |
+|-------------------------------|----------|--------------------------|-------------------|-------------|--------|
+| TS12 (POST /register)         | T12      | Crear endpoint para registro de usuario | 4 horas | Oscar | In Progress |
+| TS13 (POST /login)            | T13      | Crear endpoint para login de usuario | 4 horas | Stephano | In Progress |
+| TS14 (GET /users/profile)     | T14      | Crear endpoint para obtener perfil de usuario autenticado | 4 horas | Fabian | In Progress |
+| TS15 (POST /appointments)     | T15      | Crear endpoint para agendar cita | 4 horas | Erick | In Progress |
+| TS16 (GET /appointments/:id)  | T16      | Crear endpoint para obtener citas del usuario | 4 horas | Gianfranco | In Progress |
+| TS05 (Gestión de mascotas)    | T17      | CRUD de mascotas con nombre y edad | 4 horas | Oscar | In Progress |
+| TS07 (Compra de medicamentos) | T18      | Endpoint para compra y selección de medicamentos | 4 horas | Stephano | In Progress |
+| TS09 (Historial medicamentos) | T19      | Endpoint para visualizar tratamientos por mascota | 4 horas | Erick | In Progress |
 
 ### 5.2.3.4.Development Evidence for Sprint Review.
 ### 5.2.3.5.Execution Evidence for Sprint Review.
