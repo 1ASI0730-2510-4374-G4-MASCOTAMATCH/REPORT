@@ -2336,6 +2336,23 @@ Las funcionalidades se validaron mediante pruebas con herramientas externas y se
 
 ### 5.2.3.6.Services Documentation Evidence for Sprint Review
 
+![image](https://github.com/user-attachments/assets/2b6345ed-a01e-4c2a-9dbe-b293c52f4f19)
+
+
+Durante este sprint no se implementaron servicios ni se consumieron APIs externas, ya que el enfoque estuvo en completar la parte visual del frontend. Aun así, se dejó lista la estructura para futuras integraciones, como el manejo dinámico de mascotas y el consumo de datos reales.
+
+Se trabajó en la interfaz de servicios (paseos, chequeos, grooming, emergencias) y en la sección de mascotas, con botones funcionales para seleccionar, eliminar o agregar. Todo quedó preparado para conectar con la lógica del backend en los siguientes sprints.
+
+### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+![image](https://github.com/user-attachments/assets/acf4bf2d-5cce-4910-96dd-435c879f0e6f)
+
+
+Nuestro equipo desplegó correctamente una nueva versión de la plataforma en GitHub Pages, donde ya se pueden visualizar los distintos planes de suscripción (VIP, Complete, Mini). Esta versión incluye navegación funcional, diseño responsivo y componentes visuales activos como botones de compra y mensajes dinámicos.
+La verificación se hizo accediendo directamente al enlace del despliegue, asegurando que todo el contenido cargue correctamente en distintos dispositivos.
+
+
+
 ### 5.2.2.8. Team Collaboration Insights during Sprint
 
 | Repository     | Branch             | Commit ID | Commit Message                                 | Commit Message Body                                               | Committed on Date      |
