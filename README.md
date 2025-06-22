@@ -2059,15 +2059,16 @@ El Sprint Backlog 1 consolida todas las funcionalidades principales de Mascota M
 
 ### 5.2.1.4. Development Evidence for Sprint Review
 
+| Repository   | Branch               | Commit ID | Commit Message                  | Commit Message Body | Committed on Date     |
+|--------------|----------------------|-----------|----------------------------------|----------------------|------------------------|
+| MascotaMatch | feature/animaciones  | 298c45a   | feat: add vc animaciones         | -                    | 26 de abril de 2025    |
+| MascotaMatch | feature/plan_vip     | e856efe   | feat:add plan_vip                | -                    | 26 de abril de 2025    |
+| MascotaMatch | feature/plan_mini    | d08a274   | feat:Add Plan_mini               | -                    | 26 de abril de 2025    |
+| MascotaMatch | feature/plan_complete| b8fe11d   | feat: add PlanComplete           | -                    | 26 de abril de 2025    |
+| MascotaMatch | feature/index        | afe5753   | feat: landing page               | -                    | 26 de abril de 2025    |
+| MascotaMatch | feature/home         | b1a74fa   | Feature: add landing register-login | -                 | 26 de abril de 2025    |
 
-| Repository      | Branch                | Commit ID | Commit Message                  | Commit Message Body | Committed on Date     |
-|-----------------|------------------------|-----------|----------------------------------|----------------------|------------------------|
-| MascotaMatch    | feature/router     | 0b90c13   | feat: router         | -                    | 25 de mayo de 2025    |
-| MascotaMatch    | feature/fake-api        | ba3a4ba   | feat: fake-api                | -                    | 21 de mayo de 2025    |
-| MascotaMatch    | feature/styles      | 166289d   | feat: styles             | -                    | 20 de mayo de 2025    |
-| MascotaMatch    | feature/assets   | a39c564   | feat: assets           | -                    | 26 de mayo de 2025    |
-| MascotaMatch    | feature/main           | 74712f1   | feat: main               | -                    | 24 de mayo de 2025    |
-| MascotaMatch    | feature/layout            | 4906d4d   | feat: layout | -                |  23 de mayo de 2025    |
+
 
 
 ## Detalles
@@ -2189,12 +2190,12 @@ En el presente Sprint, se han identificado cinco aspectos clave para el desarrol
 
 | Repository      | Branch                | Commit ID | Commit Message                  | Commit Message Body | Committed on Date     |
 |-----------------|------------------------|-----------|----------------------------------|----------------------|------------------------|
-| MascotaMatch    | feature/animaciones     | 298c45a   | feat: add vc animaciones         | -                    | 26 de abril de 2025    |
-| MascotaMatch    | feature/plan_vip        | e856efe   | feat:add plan_vip                | -                    | 26 de abril de 2025    |
-| MascotaMatch    | feature/plan_mini       | d08a274   | feat:Add Plan_mini               | -                    | 26 de abril de 2025    |
-| MascotaMatch    | feature/plan_complete   | b8fe11d   | feat: add PlanComplete           | -                    | 26 de abril de 2025    |
-| MascotaMatch    | feature/index           | afe5753   | feat: landing page               | -                    | 26 de abril de 2025    |
-| MascotaMatch    | feature/home            | b1a74fa   | Feature: add landing register-login | -                | 26 de abril de 2025    |
+| MascotaMatch    | feature/router     | 0b90c13   | feat: router         | -                    | 25 de mayo de 2025    |
+| MascotaMatch    | feature/fake-api        | ba3a4ba   | feat: fake-api                | -                    | 21 de mayo de 2025    |
+| MascotaMatch    | feature/styles      | 166289d   | feat: styles             | -                    | 20 de mayo de 2025    |
+| MascotaMatch    | feature/assets   | a39c564   | feat: assets           | -                    | 26 de mayo de 2025    |
+| MascotaMatch    | feature/main           | 74712f1   | feat: main               | -                    | 24 de mayo de 2025    |
+| MascotaMatch    | feature/layout            | 4906d4d   | feat: layout | -                |  23 de mayo de 2025    |
 
 
 ## Detalles
