@@ -2336,6 +2336,39 @@ Las funcionalidades se validaron mediante pruebas con herramientas externas y se
 
 ### 5.2.3.6.Services Documentation Evidence for Sprint Review
 
+### 5.2.2.8. Team Collaboration Insights during Sprint
+
+| Repository     | Branch             | Commit ID | Commit Message                                 | Commit Message Body                                               | Committed on Date      |
+|----------------|--------------------|-----------|------------------------------------------------|-------------------------------------------------------------------|-------------------------|
+| MascotaMatch   | feat/PetProfile     | ad37a73   | feat: add PetController                        | Controlador para gestionar mascotas (PetController)              | 21 de junio de 2025     |
+| MascotaMatch   | feat/PetProfile     | bdc2bc1   | feat: add resources                            | Carga inicial de recursos necesarios para la aplicación          | 21 de junio de 2025     |
+| MascotaMatch   | feat/PetProfile     | 091f08a   | feat: add PetProfile ContextFacade             | Fachada de contexto para el perfil de mascota                    | 21 de junio de 2025     |
+| MascotaMatch   | feat/PetProfile     | f1a7937   | feat: add ACL PetProfile                       | Control de acceso para perfil de mascota                         | 21 de junio de 2025     |
+| MascotaMatch   | feat/owner          | d47d2a3   | feat: Create Internal                          | Creación del módulo interno de lógica de negocio                 | 21 de junio de 2025     |
+| MascotaMatch   | feat/owner          | ab68d7b   | Feat Add QueryServices                         | Servicios de consulta para manejo de información                 | 21 de junio de 2025     |
+| MascotaMatch   | feat/owner          | 8b0b3fe   | Feat Add Repositories                          | Repositorio de persistencia para entidades                       | 21 de junio de 2025     |
+| MascotaMatch   | feat/owner          | b0dd8ed   | Feat Add Services                              | Servicios principales para el dominio de mascotas                | 21 de junio de 2025     |
+| MascotaMatch   | feat/shopping-cart  | 212ab17   | feat:add Interfaces\\REST                      | Implementación de endpoints REST para el carrito de compras      | 21 de junio de 2025     |
+| MascotaMatch   | feat/shopping-cart  | fca06c4   | feat:add Interfaces\\ACL                       | Configuración de control de acceso para el carrito               | 21 de junio de 2025     |
+| MascotaMatch   | feat/shopping-cart  | 4adc55c   | feat:add Applicatio\\Internal                  | Lógica interna del carrito de compras                            | 21 de junio de 2025     |
+| MascotaMatch   | feat/shopping-cart  | fc543eb   | feat:add Application\\ACL                      | Control de acceso desde capa aplicación                          | 21 de junio de 2025     |
+| MascotaMatch   | feat/shopping-cart  | c742f51   | feat:add Infrastructure                        | Configuración de la infraestructura del carrito                  | 21 de junio de 2025     |
+| MascotaMatch   | feat/shopping-cart  | 62c59a4   | feat:add Infrastructure                        | Configuración adicional de infraestructura                       | 21 de junio de 2025     |
+| MascotaMatch   | feat/shopping-cart  | 7fff3ea   | feat:add .git                                   | Inicialización del repositorio                                   | 21 de junio de 2025     |
+| MascotaMatch   | feat/shopping-cart  | db69b49   | feat:add Repositories                          | Repositorios del carrito de compras                              | 21 de junio de 2025     |
+| MascotaMatch   | feat/shopping-cart  | bcaba0d   | feat:add Commands                              | Comandos para lógica del carrito                                 | 21 de junio de 2025     |
+| MascotaMatch   | feat/shopping-cart  | 8077598   | feat: Add Commands, Queries ValueObjects       | Objetos de valor usados en CQRS                                  | 21 de junio de 2025     |
+| MascotaMatch   | feat/shopping-cart  | aac8209   | feat: Add Aggregates                           | Agregados del dominio de carrito                                 | 21 de junio de 2025     |
+| MascotaMatch   | feat/medicine       | 1e9d4b7   | feature: add Commands and Queries              | Lógica CQRS para módulo de medicamentos                          | 20 de junio de 2025     |
+| MascotaMatch   | feat/medicine       | ffd266c   | feature: add Infrastructure                    | Infraestructura de medicamentos                                  | 20 de junio de 2025     |
+| MascotaMatch   | feat/medicine       | 6828fbb   | feature: add repositories and services         | Repositorios y servicios de medicamentos                         | 20 de junio de 2025     |
+| MascotaMatch   | feat/medicine       | 3185122   | feature: Add aggregates, entities, value obj...| Estructuras base del módulo                                      | 20 de junio de 2025     |
+| MascotaMatch   | feat/medicine       | 10c2ee5   | feat:Interfaces                                | Interfaces para módulo medicamentos                              | 20 de junio de 2025     |
+| MascotaMatch   | feat/medicine       | 990d79b   | feat:OutBoundServices                          | Servicios externos para farmacia                                 | 20 de junio de 2025     |
+| MascotaMatch   | feat/medicine       | 1291ccb   | feat:ACLServices                               | Configuración de control de acceso                               | 20 de junio de 2025     |
+| MascotaMatch   | main                | d582970   | Initial commit                                 | Inicio del repositorio                                           | 6 de junio de 2025      |
+
+
 ### 5.3.1 Diseño de Entrevistas 
 
 ###  Segmento 1: Dueños de Mascotas (Clientes)
