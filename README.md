@@ -2330,6 +2330,118 @@ Las funcionalidades se validaron mediante pruebas con herramientas externas y se
 
 ### 5.2.3.6.Services Documentation Evidence for Sprint Review
 
+### 5.3.1 Diseño de Entrevistas 
+
+###  Segmento 1: Dueños de Mascotas (Clientes)
+
+- ¿Te resultó sencillo registrar a tus mascotas con su nombre y edad?
+- ¿Pudiste entender claramente qué incluye cada plan antes de comprarlo?
+- ¿La funcionalidad del carrito de compras y la compra de medicamentos te pareció clara?
+- ¿Te gustaría recibir recomendaciones automáticas para tu mascota según su edad o necesidades?
+- ¿Te resultó fácil moverte entre las diferentes secciones de la app?
+- ¿Los botones y etiquetas fueron comprensibles y visibles en todo momento?
+- ¿Los colores, textos y elementos visuales son legibles y accesibles?
+- ¿Crees que alguien sin conocimientos técnicos podría usar fácilmente esta plataforma?
+- ¿La aplicación te da retroalimentación clara al realizar acciones como guardar o comprar?
+- ¿En algún momento sentiste que la acción que hiciste no fue registrada correctamente?
+---
+###  Segmento 2: Proveedores de Servicios (Veterinarios, Paseadores, Groomers)
+
+- ¿Te pareció fácil identificar qué mascota debes atender y acceder a su información?
+- ¿Recibiste confirmación clara cuando fuiste seleccionado por un dueño?
+- ¿Te resultó útil el historial de servicios o mascotas asignadas para organizar tu trabajo?
+- ¿Te gustaría tener una opción para comunicarte directamente con los dueños dentro de la app?
+- ¿Te resultó fácil moverte entre las diferentes secciones de la app?
+- ¿Los botones y etiquetas fueron comprensibles y visibles en todo momento?
+- ¿Los colores, textos y elementos visuales son legibles y accesibles?
+- ¿Crees que alguien sin conocimientos técnicos podría usar fácilmente esta plataforma?
+- ¿La aplicación te da retroalimentación clara al realizar acciones como guardar o comprar?
+- ¿En algún momento sentiste que la acción que hiciste no fue registrada correctamente?
+
+### 5.3.3. Registro de entrevistas
+
+## Entrevista a dueños de mascotas
+
+### Entrevistado 1: Fressia Vazques
+
+- **Timing:** 05:32 - 10:30  min
+- **Edad:** 20  
+- **Distrito:** Surco  
+- **Resumen:**  
+Fressia tuvo una experiencia completamente positiva al interactuar con la plataforma. Mencionó que el registro de mascotas, incluyendo nombre y edad, fue sencillo e intuitivo, y que entendió claramente qué incluía cada plan antes de adquirirlo. Consideró clara la funcionalidad del carrito de compras y la compra de medicamentos, y expresó interés en recibir recomendaciones automáticas para su mascota según su edad o necesidades. También comentó que moverse entre las diferentes secciones fue fácil, que los botones y etiquetas eran comprensibles y visibles, y que los colores, textos y elementos visuales eran legibles y accesibles.
+
+![image](https://github.com/user-attachments/assets/68a41cc4-7f50-4cb2-9274-ef24b5d64b59)
+
+
+
+[https://bit.ly/4jSgQgS](https://lnk.ink/tDrJQ)
+
+---
+
+### Entrevistado 2: Vanessa Villegas
+
+- **Timing:** 11:17 - 14:10 min
+- **Edad:** 21  
+- **Distrito:** San Borja.  
+- **Resumen:**  
+Vanessa tuvo una experiencia mayormente positiva al interactuar con la plataforma, ya que mencionó que entendía el funcionamiento general y consideraba que todo estaba correcto. Sin embargo, señaló que en algunos momentos tuvo dificultades para visualizar ciertos elementos de la interfaz, ya que algunos colores hacían que se perdiera información o no destacaran adecuadamente ciertos textos o botones. A pesar de ello, logró utilizar la plataforma, aunque este detalle sugiere que sería beneficioso realizar ajustes en la paleta de colores para mejorar la accesibilidad y la visibilidad general del sistema.
+
+![image](https://github.com/user-attachments/assets/69a5c25f-a16e-4055-8aa0-ee8661a7195e)
+
+
+[https://bit.ly/4jSgQgS](https://lnk.ink/tDrJQ)
+
+--- 
+
+### Entrevistado 3: Marycielo Bravo
+
+- **Timing:** 10:30 - 14:51 min
+- **Edad:** 21  
+- **Distrito:** San Borja.  
+- **Resumen:**  
+En el caso de Marycielo, su experiencia con la plataforma fue en general clara y positiva. Comentó que entendía perfectamente cómo utilizar la mayoría de las funciones y no tuvo inconvenientes en el registro de mascotas, la navegación entre secciones ni en la comprensión de los planes y funcionalidades. No obstante, indicó que al momento de querer visualizar su historial tuvo ciertas dificultades, lo que sugiere que esta sección podría necesitar una mejora en su diseño o en la forma en que se presenta la información para asegurar que sea más intuitiva y accesible para todos los usuarios.
+
+![image](https://github.com/user-attachments/assets/eee5bb38-1c1f-4349-a666-c55cc69f3c7e)
+
+
+
+[https://bit.ly/4jSgQgS](https://lnk.ink/tDrJQ)
+
+--- 
+
+
+## Entrevista a Profesionales del cuidado animal
+
+### Entrevistado 4: Dylan Cabrejos 
+
+- **Timing:** 0:00 - 05:32 min
+- **Edad:** 26  
+- **Distrito:** Ventanilla  
+- **Resumen:**  
+El veterinario entrevistado tuvo una experiencia general positiva con la plataforma, destacando que todas las secciones le parecieron bien organizadas y funcionales. Mencionó que pudo identificar fácilmente qué mascota debía atender y acceder a su información, recibió confirmación clara al ser seleccionado por un dueño y consideró útil el historial de servicios o mascotas asignadas para organizar su trabajo. También señaló que la navegación por la app fue sencilla, con botones y etiquetas comprensibles y visibles, así como una interfaz con colores y elementos visuales legibles y accesibles.
+
+![image](https://github.com/user-attachments/assets/23a1a4d3-7a25-4fd0-883f-a15ba705c1f5)
+
+
+[https://bit.ly/4jSgQgS](https://lnk.ink/tDrJQ)
+
+---
+
+### Entrevistado 5: li Llaxa
+
+- **Timing:** 5:32 - 10:30 min
+- **Edad:** 27
+- **Distrito:** Chiclayo 
+- **Resumen:**  
+El veterinario entrevistado presentó algunas dificultades durante su experiencia con la plataforma. Si bien reconoció el valor de la aplicación y su utilidad general, comentó que tuvo problemas al intentar visualizar correctamente la información de las mascotas que debía atender, lo que podría dificultar su trabajo diario. Además, al igual que el otro veterinario, expresó su interés en contar con una funcionalidad de chat dentro de la app que le permita comunicarse directamente con los dueños de las mascotas. Esta sugerencia resalta la necesidad de mejorar tanto la visibilidad de los datos importantes como la interacción entre profesionales y usuarios, para optimizar la coordinación y calidad del servicio ofrecido.
+
+![image](https://github.com/user-attachments/assets/4cf65d69-35e7-48bc-b14c-741b4a962cef)
+
+
+[https://bit.ly/4jSgQgS](https://lnk.ink/tDrJQ)
+
+---
+
 ## Conclusiones
 
 El desarrollo del proyecto *MascotaMatch* permitió aplicar de manera efectiva los principios de diseño UX/UI, así como el modelado de la interacción de los usuarios a través de wireframes, wireflows y prototipos.
