@@ -2359,7 +2359,7 @@ Las funcionalidades se validaron mediante pruebas con herramientas externas y se
 - ¿La aplicación te da retroalimentación clara al realizar acciones como guardar o comprar?
 - ¿En algún momento sentiste que la acción que hiciste no fue registrada correctamente?
 
-### 5.3.3. Registro de entrevistas
+### 5.3.2. Registro de entrevistas
 
 ## Entrevista a dueños de mascotas
 
@@ -2442,6 +2442,114 @@ El veterinario entrevistado presentó algunas dificultades durante su experienci
 [https://bit.ly/4jSgQgS](https://lnk.ink/tDrJQ)
 
 ---
+
+### 5.3.3. Evaluaciones según heurísticas.
+
+# Anexo D. Evaluación de User Experience según Heurísticas
+
+## UX Heuristics & Principles Evaluation  
+*Usability – Inclusive Design – Information Architecture*
+
+### Información General
+
+- **Carrera:** Ingeniería de Software  
+- **Curso:** Aplicaciones Web  
+- **Sección:** 4374  
+- **Profesores:** Todos  
+- **Auditor:** Manolocorp  
+- **Cliente(s):** Manolocorp  
+
+---
+
+## Site o App a Evaluar
+
+**Nombre de App:** MascotaMatch
+
+---
+
+## Tareas a Evaluar
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Registro de un nuevo usuario  
+2. Registro de mascota  
+3. Selección y compra de medicamentos  
+4. Compra de planes de cuidado  
+5. Visualización de historial de mascotas  
+6. Selección de cuidador de mascotas  
+7. Confirmación de acciones realizadas  
+8. Navegación entre las secciones principales de la plataforma  
+
+**No están incluidas en esta versión de la evaluación las siguientes tareas:**
+
+- Modificación de datos de planes comprados  
+- Chat entre usuarios y cuidadores  
+- Edición de mascotas ya registradas  
+- Ver detalles completos del plan contratado  
+- Etc.
+
+---
+
+## Escala de Severidad
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1 | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2 | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja para resolverlo de cara al siguiente release. |
+| 3 | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4 | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+---
+
+## Tabla Resumen
+
+| # | Problema | Escala de severidad | Heurística/Principio violado(a) |
+|---|----------|----------------------|----------------------------------|
+| 1 | No hay un control que permita regresar a la tienda durante el trámite de compra | 3 | Usability: Libertad y control del usuario |
+| 2 | Incluye un botón “Ver más” pero no existe contenido al que dirigirse | 3 | Information Architecture: Is it usable? |
+| 3 | No incluye información de los planes de servicio | 2 | Information Architecture: Is it findable? |
+
+---
+
+## Descripción de Problemas
+
+### Problema #1: No hay un control que permita regresar a la tienda durante el trámite de compra
+
+- **Severidad:** 3  
+- **Heurística violada:** Usabilidad - Libertad y control del usuario
+
+**Descripción:**  
+Al momento de ingresar nuestros datos, no podemos regresar a la tienda. Una vez el cliente pasa al trámite de compra, si desea volver atrás no hay un botón que lo lleve al inicio de la web. Esto obliga al usuario a completar el trámite o a realizar otro proceso adicional para añadir más productos.
+
+**Recomendación:**  
+Incluir un botón que abra la tienda en una ventana nueva o agregar una opción visible de “volver a la tienda” durante el proceso de compra.
+
+---
+
+### Problema #2: Incluye un botón “Ver más” pero no existe contenido al que dirigirse
+
+- **Severidad:** 3  
+- **Heurística violada:** Information Architecture - Is it usable?
+
+**Descripción:**  
+En algunas tarjetas o secciones aparece un botón “Ver más” que no redirige a ningún contenido o está deshabilitado, lo cual genera confusión y frustración.
+
+**Recomendación:**  
+Eliminar los botones que no cumplen función o implementar correctamente la ruta de redirección a contenido relacionado.
+
+---
+
+### Problema #3: No incluye información de los planes de servicio
+
+- **Severidad:** 2  
+- **Heurística violada:** Information Architecture - Is it findable?
+
+**Descripción:**  
+En algunas pantallas no se muestra el detalle del plan contratado por el usuario, solo aparece el nombre del plan y no sus beneficios o condiciones.
+
+**Recomendación:**  
+Agregar una sección expandible o emergente donde se detalle claramente qué incluye cada plan adquirido por el usuario.
+
 
 ## Conclusiones
 
