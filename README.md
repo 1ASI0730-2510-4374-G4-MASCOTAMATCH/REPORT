@@ -2334,9 +2334,28 @@ En este Sprint se desarrollaron los principales servicios del backend para Masco
 
 Las funcionalidades se validaron mediante pruebas con herramientas externas y se documentaron los resultados. Se adjuntan capturas de pantalla de las peticiones realizadas y un video explicativo que muestra el funcionamiento general de los servicios implementados y su integración con el sistema.
 
+En el Sprint 3 se realizó el lanzamiento de la primera versión del BACKEND, la cual fue publicada mediante GitHub Pages. A continuación, se muestran las evidencias correspondientes al despliegue.
+
+Imágenes de la pantalla del BACKEND:
+
+![image](https://github.com/user-attachments/assets/8b110ff1-e2d7-4414-a4a6-b317c1392b65)
+
+![image](https://github.com/user-attachments/assets/6d158721-50f7-4cdd-bfe6-2c084e216fc0)
+
+![image](https://github.com/user-attachments/assets/b5b46053-cc92-4a03-a86d-5f3d8472a44a)
+
+![image](https://github.com/user-attachments/assets/543f622d-9d5e-465f-8a62-7990dd2872ce)
+
+![image](https://github.com/user-attachments/assets/937a0cf4-8372-4e56-b532-77d242c7977a)
+
+![image](https://github.com/user-attachments/assets/675515b8-fb80-4fad-858b-a11f32b49e8d)
+
+
+
+
 ### 5.2.3.6.Services Documentation Evidence for Sprint Review
 
-![image](https://github.com/user-attachments/assets/2b6345ed-a01e-4c2a-9dbe-b293c52f4f19)
+![image](https://github.com/user-attachments/assets/93e86a39-7520-4800-ac57-f1017b55869c)
 
 
 Durante este sprint no se implementaron servicios ni se consumieron APIs externas, ya que el enfoque estuvo en completar la parte visual del frontend. Aun así, se dejó lista la estructura para futuras integraciones, como el manejo dinámico de mascotas y el consumo de datos reales.
@@ -2345,7 +2364,8 @@ Se trabajó en la interfaz de servicios (paseos, chequeos, grooming, emergencias
 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-![image](https://github.com/user-attachments/assets/acf4bf2d-5cce-4910-96dd-435c879f0e6f)
+![image](https://github.com/user-attachments/assets/8920276d-15d7-4fcb-9e29-b5423acd6021)
+
 
 
 Nuestro equipo desplegó correctamente una nueva versión de la plataforma en GitHub Pages, donde ya se pueden visualizar los distintos planes de suscripción (VIP, Complete, Mini). Esta versión incluye navegación funcional, diseño responsivo y componentes visuales activos como botones de compra y mensajes dinámicos.
