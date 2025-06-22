@@ -2291,24 +2291,24 @@ La distribución de tareas y liderazgo se ha realizado con base en las fortaleza
 
 | Historia Técnica / Usuario            | Tarea ID | Descripción de la Tarea                                  | Duración Estimada | Responsable | Estado      |
 | ------------------------------------- | -------- | -------------------------------------------------------- | ----------------- | ----------- | ----------- |
-| TS12 (POST /register)                 | T18      | Crear endpoint para registro de usuario                  | 4 horas           | Oscar       | In Progress |
-| TS13 (POST /login)                    | T19      | Crear endpoint para login de usuario                     | 4 horas           | Stephano    | In Progress |
-| TS14 (GET /users/profile)             | T20      | Endpoint para obtener perfil autenticado                 | 4 horas           | Fabian      | In Progress |
-| TS15 (POST /appointments)             | T21      | Endpoint para agendar cita                               | 4 horas           | Erick       | In Progress |
-| TS16 (GET /appointments/\:id)         | T22      | Obtener citas del usuario autenticado                    | 4 horas           | Gianfranco  | In Progress |
-| TS05 (CRUD mascotas)                  | T23      | Endpoints para agregar, ver y eliminar mascotas          | 4 horas           | Oscar       | In Progress |
-| TS06 (Agregar mascota)                | T24      | Endpoint adicional para agregar mascota con validaciones | 4 horas           | Stephano    | In Progress |
-| TS07 (Compra medicamentos)            | T25      | Endpoint para compra y selector de cantidad              | 4 horas           | Oscar       | In Progress |
-| TS08 (Validación compra medicamentos) | T26      | Validar mínimo 1 medicamento antes de confirmar          | 4 horas           | Miguel      | In Progress |
-| TS09 (Historial medicamentos)         | T27      | Mostrar historial por mascota (nombre/productos)         | 4 horas           | Erick       | In Progress |
-| HU20                                  | T28      | Actualización de la documentación en GitHub              | 4 horas           | Gianfranco  | In Progress |
-| HU07                                  | T29      | Registro de mascota en frontend                          | 4 horas           | Oscar       | In Progress |
-| HU08                                  | T30      | Eliminar mascota desde frontend                          | 4 horas           | Stephano    | In Progress |
-| HU09                                  | T31      | Comprar medicina desde vista de medicamentos             | 4 horas           | Miguel      | In Progress |
-| HU10                                  | T32      | Modificar cantidad antes de comprar medicina             | 4 horas           | Oscar       | In Progress |
-| HU11                                  | T33      | Visualización de medicamentos comprados                  | 4 horas           | Erick       | In Progress |
-| HU12                                  | T34      | Detalle específico del medicamento adquirido             | 4 horas           | Fabian      | In Progress |
-| HU13                                  | T35      | Historial de pedidos de medicamentos por proveedor       | 4 horas           | Gianfranco  | In Progress |
+| TS12 (POST /register)                 | T18      | Crear endpoint para registro de usuario                  | 4 horas           | Oscar       | DONE |
+| TS13 (POST /login)                    | T19      | Crear endpoint para login de usuario                     | 4 horas           | Stephano    | DONE |
+| TS14 (GET /users/profile)             | T20      | Endpoint para obtener perfil autenticado                 | 4 horas           | Fabian      | DONE |
+| TS15 (POST /appointments)             | T21      | Endpoint para agendar cita                               | 4 horas           | Erick       | DONE |
+| TS16 (GET /appointments/\:id)         | T22      | Obtener citas del usuario autenticado                    | 4 horas           | Gianfranco  | DONE |
+| TS05 (CRUD mascotas)                  | T23      | Endpoints para agregar, ver y eliminar mascotas          | 4 horas           | Oscar       | DONE |
+| TS06 (Agregar mascota)                | T24      | Endpoint adicional para agregar mascota con validaciones | 4 horas           | Stephano    | DONE |
+| TS07 (Compra medicamentos)            | T25      | Endpoint para compra y selector de cantidad              | 4 horas           | Oscar       | DONE |
+| TS08 (Validación compra medicamentos) | T26      | Validar mínimo 1 medicamento antes de confirmar          | 4 horas           | Miguel      | DONE |
+| TS09 (Historial medicamentos)         | T27      | Mostrar historial por mascota (nombre/productos)         | 4 horas           | Erick       | DONE |
+| HU20                                  | T28      | Actualización de la documentación en GitHub              | 4 horas           | Gianfranco  | DONE |
+| HU07                                  | T29      | Registro de mascota en frontend                          | 4 horas           | Oscar       | DONE |
+| HU08                                  | T30      | Eliminar mascota desde frontend                          | 4 horas           | Stephano    | DONE |
+| HU09                                  | T31      | Comprar medicina desde vista de medicamentos             | 4 horas           | Miguel      | DONE |
+| HU10                                  | T32      | Modificar cantidad antes de comprar medicina             | 4 horas           | Oscar       | DONE |
+| HU11                                  | T33      | Visualización de medicamentos comprados                  | 4 horas           | Erick       | DONE |
+| HU12                                  | T34      | Detalle específico del medicamento adquirido             | 4 horas           | Fabian      | DONE |
+| HU13                                  | T35      | Historial de pedidos de medicamentos por proveedor       | 4 horas           | Gianfranco  | DONE |
 
 ### 5.2.3.4.Development Evidence for Sprint Review.
 
