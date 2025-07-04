@@ -563,23 +563,18 @@ Se entrevistó a dos jóvenes dueños de mascotas que relataron su rutina diaria
 
 # Task Matrix para Dueños de Mascotas
 
-| **Tareas**                          | **Frecuencia** | **Importancia** |
-|-------------------------------------|----------------|-----------------|
-| Buscar proveedores confiables       | Media          | Alta            |
-| Agendar una cita                    | Media          | Alta            |
-| Pagar servicio mensual              | Media          | Alta            |
-| Revisar historial de la mascota    | Media          | Media           |
-| Acceso a servicios de emergencia   | Baja           | Alta            |
-
-# Task Matrix para Proveedores de Cuidado Animal
-
-| **Tareas**                          | **Frecuencia** | **Importancia** |
-|-------------------------------------|----------------|-----------------|
-| Agendar un servicio                 | Alta           | Media           |
-| Buscar nuevos clientes              | Alta           | Alta            |
-| Verificar disponibilidad de citas   | Media          | Alta            |
-| Recibir pago por servicios          | Alta           | Alta            |
-| Recibir feedback y mejorar servicio | Media          | Media           |
+| **User Task Matrix**                 | **Dueños de Mascotas**             |   **Dueños de Mascotas**       | **Proveedores de Cuidado Animal**    | **Proveedores de Cuidado Animal** |
+|-------------------------------------|------------------------------------|----------------------------------|----------------------------------------|----------------------------------|
+|                                     | **Frecuencia**                     | **Importancia**                 | **Frecuencia**                         | **Importancia**                 |
+| Buscar proveedores confiables       | Media                              | Alta                            | Alta                                   | Alta                            |
+| Agendar una cita / servicio         | Media                              | Alta                            | Alta                                   | Media                           |
+| Pagar servicio mensual              | Media                              | Alta                            | Alta                                   | Alta                            |
+| Revisar historial de la mascota     | Media                              | Media                           | Baja                                   | Media                           |
+| Acceso a servicios de emergencia    | Baja                               | Alta                            | Baja                                   | Alta                            |
+| Buscar nuevos clientes              | Baja                               | Media                           | Alta                                   | Alta                            |
+| Verificar disponibilidad de citas   | Media                              | Alta                            | Media                                  | Alta                            |
+| Recibir pago por servicios          | Baja                               | Alta                            | Alta                                   | Alta                            |
+| Recibir feedback y mejorar servicio | Media                              | Media                           | Media                                  | Media                           |
 
 ### 2.3.3 User Journey Map
 
@@ -639,14 +634,13 @@ Se entrevistó a dos jóvenes dueños de mascotas que relataron su rutina diaria
 
 <div align="center">
 
--Dueños de Mascotas (Usuario):
+-Dueños de Mascotas:
 
 ![image](https://github.com/user-attachments/assets/71f9ccc9-a107-4367-8852-00065efc151c)
 
 </div>
 
--Proveedores Certificados (Veterinarios, Groomers, Paseadores)
-
+-Proveedores de Cuidado Animal
 <div align="center">
   
 ![image](https://github.com/user-attachments/assets/f75b03ed-61ca-4242-8d4b-1ff0772cf109)
