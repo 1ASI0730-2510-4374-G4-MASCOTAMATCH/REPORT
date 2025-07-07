@@ -2668,7 +2668,7 @@ El veterinario entrevistado presentó algunas dificultades durante su experienci
 - **Sección:** 4374  
 - **Profesores:** Todos  
 - **Auditor:** Manolocorp  
-- **Cliente(s):** Manolocorp  
+- **Cliente(s):** Dueños de mascotas  
 
 ---
 
