@@ -1382,53 +1382,52 @@ o	Las respuestas proporcionadas en la sección de FAQ están desactualizadas y n
   
 <div align="center">
 	
-<img width="425" alt="image" src="https://github.com/user-attachments/assets/ec21e128-74eb-492d-8efc-1740d82de57f" />
-
-</div>
-
-### Registrarse
-- La imagen muestra la sección de "registro de Mascota Match", donde los usuarios ingresarán la información para crear su cuenta y disfrutar de los beneficios de Mascota Match.
-
-<div align="center">
-
-<img width="425" alt="image" src="https://github.com/user-attachments/assets/c03e15c9-afc4-49ae-bc90-52f939c032af" />
-
-</div>
-
-### Pantalla principal
-- La imagen muestra la sección de pantalla principal, donde los usuarios podrán navegar brevemente por el espacio mostrado.
-
-<div align="center">
-
-<img width="425" alt="image" src="https://github.com/user-attachments/assets/d80df61d-045e-4b49-a894-8c1bd39e2b56" />
-
-</div>
-
-### Nuestros servicios
-- La imagen muestra la sección de nuestros servicios, donde el usuario podrá ver los servicios que podemos ofrecerle como empresa.
-
-<div align="center">
-
-<img width="425" alt="image" src="https://github.com/user-attachments/assets/3b0a88c6-7f67-4e28-bd8e-b8ccfd7bb9ce" />
+<br> ![Primero](https://github.com/user-attachments/assets/cd73159b-854f-4247-8672-f1b0e1e6c080)<br>
 
 </div>
 
 ### Planes
-- La imagen muestra la sección de nuestros planes, donde el usuario podrá ver los planes que podemos ofrecerle como empresa para una mejor atención.
+- La imagen muestra la sección de pantalla de planes, donde el usuario podrá ver los planes que podemos ofrecerle como empresa para una mejor atención.
 
 <div align="center">
-  
-<img width="425" alt="image" src="https://github.com/user-attachments/assets/1409e29f-8401-40b7-9d36-eb6ea90f2bc9" />
-<img width="425" alt="image" src="https://github.com/user-attachments/assets/136703d0-8abd-4245-bcfa-9d5b88bef991" />
+
+<br> ![Segundo](https://github.com/user-attachments/assets/bb12f60c-cee3-4156-a978-30d526194e25)<br>
 
 </div>
 
-### Preguntas Frecuentes
-- La imagen muestra la sección de preguntas frecuentes, donde el usuario podrá ver las preguntas frecuentes que tienen otros usuarios y resolver sus dudas.
+### Mascotas 
+- La imagen muestra la sección de Mascotas en el cual el usuario puede ver a sus mascotas poder seleccionarlas o eliminarlas.
 
 <div align="center">
 
-<img width="425" alt="image" src="https://github.com/user-attachments/assets/a3bbc980-4fea-49c5-991a-38825af391f3" />
+<br> ![Tercero](https://github.com/user-attachments/assets/aaf0c667-5b04-46dc-8105-fb29455ddc3b)<br>
+
+</div>
+
+### Agregar Mascotas
+- La imagen muestra la sección de Agregar Mascotas, en el cual el usuario puede añadir su mascota donde puede ingresar su nombre, edad y raza
+
+<div align="center">
+
+ <br> ![Cuarto](https://github.com/user-attachments/assets/67970516-f23e-4632-a3b7-33ef2622daa9)<br> 
+
+</div>
+
+### Medicamentos 
+- La imagen muestra la sección de medicamentos en el cual usuario puede ver los tipos de medicamentos y poder añadir la cantidad necesaria y poder comprarlo
+
+<div align="center">
+
+<br> ![Quinto](https://github.com/user-attachments/assets/be916fe8-f6dd-46b0-a15e-56abecec7570)<br> 
+
+</div>
+
+### Historial
+- La imagen muestra la sección de Historial en el cual el usuario puede verificar todo su historial que hizo durante el uso de la pagina.
+
+<div align="center">
+
+<br> ![Sexto](https://github.com/user-attachments/assets/bb9dba50-ef71-42e4-bb0f-cb1699f8d124)<br>
 
 </div>
 
