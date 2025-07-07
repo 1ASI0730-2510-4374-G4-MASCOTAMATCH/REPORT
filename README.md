@@ -2338,8 +2338,8 @@ En el presente Sprint, se han identificado cinco aspectos clave para el desarrol
 | HU05                | T12      | Desplegar métodos de pago en pantalla de compra (Yape, tarjeta, etc.) | 4 horas           | Oscar       | Done   |
 | HU06                | T13      | Mostrar tabla con historial de pagos realizados                       | 4 horas           | Miguel      | Done   |
 | TS01                | T14      | Validación de campos en login                                         | 4 horas           | Stephano    | Done   |
-| TS02                | T15      | Mostrar los 3 planes diferenciados en la vista                        | 4 horas           | Fabian      | Done   |
-| TS03                | T16      | Mostrar opciones de método de pago y registro en historial            | 4 horas           | Miguel      | Done   |
+| TS02                | T15      | Mostrar los 3 planes diferenciados en la vista                        | 8 horas           | Fabian      | Done   |
+| TS03                | T16      | Mostrar opciones de método de pago y registro en historial            | 8 horas           | Miguel      | Done   |
 | TS04                | T17      | Mostrar historial de pagos recientes del usuario                      | 4 horas           | Gianfranco  | Done   |
 
 ![image](https://github.com/user-attachments/assets/f1fde68e-5aae-4f15-a6a1-ab5a69f4ebb9)
@@ -2468,11 +2468,11 @@ La distribución de tareas y liderazgo se ha realizado con base en las fortaleza
 | TS14 (GET /users/profile)             | T20      | Endpoint para obtener perfil autenticado                 | 4 horas           | Fabian      | DONE |
 | TS15 (POST /appointments)             | T21      | Endpoint para agendar cita                               | 4 horas           | Erick       | DONE |
 | TS16 (GET /appointments/\:id)         | T22      | Obtener citas del usuario autenticado                    | 4 horas           | Gianfranco  | DONE |
-| TS05 (CRUD mascotas)                  | T23      | Endpoints para agregar, ver y eliminar mascotas          | 4 horas           | Oscar       | DONE |
+| TS05 (CRUD mascotas)                  | T23      | Endpoints para agregar, ver y eliminar mascotas          | 8 horas           | Oscar       | DONE |
 | TS06 (Agregar mascota)                | T24      | Endpoint adicional para agregar mascota con validaciones | 4 horas           | Stephano    | DONE |
-| TS07 (Compra medicamentos)            | T25      | Endpoint para compra y selector de cantidad              | 4 horas           | Oscar       | DONE |
+| TS07 (Compra medicamentos)            | T25      | Endpoint para compra y selector de cantidad              | 8 horas           | Oscar       | DONE |
 | TS08 (Validación compra medicamentos) | T26      | Validar mínimo 1 medicamento antes de confirmar          | 4 horas           | Miguel      | DONE |
-| TS09 (Historial medicamentos)         | T27      | Mostrar historial por mascota (nombre/productos)         | 4 horas           | Erick       | DONE |
+| TS09 (Historial medicamentos)         | T27      | Mostrar historial por mascota (nombre/productos)         | 8 horas           | Erick       | DONE |
 | HU20                                  | T28      | Actualización de la documentación en GitHub              | 4 horas           | Gianfranco  | DONE |
 | HU07                                  | T29      | Registro de mascota en frontend                          | 4 horas           | Oscar       | DONE |
 | HU08                                  | T30      | Eliminar mascota desde frontend                          | 4 horas           | Stephano    | DONE |
@@ -2480,7 +2480,7 @@ La distribución de tareas y liderazgo se ha realizado con base en las fortaleza
 | HU10                                  | T32      | Modificar cantidad antes de comprar medicina             | 4 horas           | Oscar       | DONE |
 | HU11                                  | T33      | Visualización de medicamentos comprados                  | 4 horas           | Erick       | DONE |
 | HU12                                  | T34      | Detalle específico del medicamento adquirido             | 4 horas           | Fabian      | DONE |
-| HU13                                  | T35      | Historial de pedidos de medicamentos por proveedor       | 4 horas           | Gianfranco  | DONE |
+| HU13                                  | T35      | Historial de pedidos de medicamentos por proveedor       | 8 horas           | Gianfranco  | DONE |
 
 ![image](https://github.com/user-attachments/assets/a077f714-2857-4690-a93b-69feb23dc699)
 
