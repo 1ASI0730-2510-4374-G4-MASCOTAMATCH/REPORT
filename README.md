@@ -2535,10 +2535,20 @@ Se trabajó en la interfaz de servicios (paseos, chequeos, grooming, emergencias
 
 ![image](https://github.com/user-attachments/assets/8920276d-15d7-4fcb-9e29-b5423acd6021)
 
+![image](https://github.com/user-attachments/assets/e4fce52f-8a63-4da6-9b57-cf18fdd56ce9)
+
+![image](https://github.com/user-attachments/assets/864f1f3e-e7a7-48ef-a1f4-9500b8bab4e4)
+
+![image](https://github.com/user-attachments/assets/661e7e53-af7a-46d9-abe7-28ae019e4799)
+
+![image](https://github.com/user-attachments/assets/e994f953-5a1a-4f2e-8d33-77446e47f515)
+
+![image](https://github.com/user-attachments/assets/823d9eeb-f110-4170-b4f2-b44625ad15a6)
+
+![image](https://github.com/user-attachments/assets/5a912986-4011-4e20-8946-00a028aa474b)
 
 
-Nuestro equipo desplegó correctamente una nueva versión de la plataforma en GitHub Pages, donde ya se pueden visualizar los distintos planes de suscripción (VIP, Complete, Mini). Esta versión incluye navegación funcional, diseño responsivo y componentes visuales activos como botones de compra y mensajes dinámicos.
-La verificación se hizo accediendo directamente al enlace del despliegue, asegurando que todo el contenido cargue correctamente en distintos dispositivos.
+Nuestro equipo desplegó correctamente una nueva versión de la plataforma en GitHub Pages, donde ya se pueden visualizar los distintos planes de suscripción (VIP, Complete, Mini). Esta versión incluye navegación funcional, diseño responsivo y componentes visuales activos como botones de compra y mensajes dinámicos. Además de hacer la actualización de el frontend de manera correcta desplegandolo en una dirección publica. La verificación se hizo accediendo directamente al enlace del despliegue, asegurando que todo el contenido cargue correctamente en distintos dispositivos.
 
 
 
