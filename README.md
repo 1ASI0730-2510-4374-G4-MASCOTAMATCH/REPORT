@@ -543,9 +543,13 @@ https://bit.ly/4jSgQgS
 
 Se entrevistó a dos médicos veterinarios que trabajan en centros privados, quienes resaltaron que gestionan a sus clientes a través de promociones y atención presencial, aunque también realizan algunas consultas virtuales. Entre sus principales dificultades mencionaron la necesidad de explicar de manera didáctica los tratamientos a los propietarios y el manejo de mascotas nerviosas o agresivas. También señalaron la falta de laboratorios propios como una limitación. Ambos coincidieron en que la fidelización de clientes es esencial para garantizar ingresos y prestigio profesional. Además, expresaron gran interés en el uso de una aplicación que permita registrar citas, enviar recordatorios, organizar agendas y calificar discretamente a los clientes, mejorando la atención y el servicio. Finalmente, destacaron que la sostenibilidad económica del centro veterinario depende de ofrecer servicios especializados y modernizar la gestión mediante nuevas tecnologías.
 
+<img width="878" alt="image" src="https://github.com/user-attachments/assets/231b1514-b208-4fda-8bc0-067ff28dd96d" />
+
 # Resumen de entrevistas a dueños de mascotas
 
 Se entrevistó a dos jóvenes dueños de mascotas que relataron su rutina diaria de cuidado, incluyendo paseos, control de alimentación y visitas veterinarias cuando detectan problemas de salud. Ambos comentaron que al inicio tuvieron dificultades para encontrar veterinarios confiables, pero actualmente trabajan con profesionales en quienes confían. Mostraron gran interés en una suscripción mensual que ofrezca servicios como paseos, emergencias, atención veterinaria 24/7 y peluquería, siempre con profesionales certificados. También expresaron preocupación por enfermedades o accidentes que puedan afectar a sus mascotas. Ambos se mostraron familiarizados con el uso de aplicaciones móviles y consideran muy útil contar con una plataforma que centralice estos servicios para facilitar la organización, mejorar el bienestar de sus animales y ahorrar tiempo en la gestión de citas y atenciones.
+
+![image](https://github.com/user-attachments/assets/91ebffb1-b974-4ae6-863b-9bf99eef14cd)
 
 ## 2.3 NeedFinding
 
