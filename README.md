@@ -2435,7 +2435,8 @@ Enlace al repositorio: https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REP
 | **Attendees (to planning meeting)** | Oscar Espinoza, Miguel Vidal, Stephano Landauri, Fabian Oliva, Gianfranco Durand, Erick Vasquez               |
 | **Sprint 2 – 3 Review Summary** | The visual and logical structure of the frontend was successfully completed, including routes, views, and navigation tests. The landing page was completed with its respective functional sections. |
 | **Sprint 2 – 3 Retrospective Summary** | The need for a better connection between the frontend and backend was identified. REST endpoints were prioritized in this new phase, business contexts were better organized, and integration testing was strengthened. |
-| **Sprint 3 Goal**           | **Sprint Goal:**<br>Build the functional backend of MascotaMatch, dividing the logic into three Bounded Contexts: User (planes), Pet y Medication (compras de medicamentos).<br>**Success:**<br>Todos los endpoints deben responder correctamente ante solicitudes del frontend y mantener persistencia con JSON Server. |
+| **Sprint 3 Goal**           | **Sprint Goal:**<br>Build the functional backend of MascotaMatch, dividing the logic into three Bounded Contexts: User (plans), Pet, and Medication (medication purchases).
+Also, create the final version of the landing page and web application.<br>**Success:**<br>All endpoints must respond correctly to frontend requests and maintain persistence with the database, in addition to being deployed to a public address. |
 | **Sprint 3 Velocity**       | 55 Story Points                                                                                              |
 | **Sprint Goal & User Stories** |**<br> TS05, TS06, TS07, TS08, TS09, TS12, TS13, TS14, TS15, TS16, HU20, HU07, HU08, HU09, HU10, HU11, HU1, HU13|
 | **Sum of Story Points**     | 55 Story Points                                                                                              |
