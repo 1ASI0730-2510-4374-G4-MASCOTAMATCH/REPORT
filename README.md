@@ -36,16 +36,29 @@
 | ------- | ---------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | TB1     | 17/04/2025 | **Oscar Espinoza Quijandría**          | Desarrollé el Lean UX Canvas y definí los problem statements, assumptions e hipótesis basados en las necesidades detectadas en usuarios.                           | 
 | TB1     | 20/04/2025 | **Stephano Mayrzon Landauri Preciado** | Conduje entrevistas a usuarios del segmento objetivo, analicé patrones y definí el lenguaje ubicuo del proyecto.                                                   |
-| TB1     | 16/04/2025 | **Fabian Oliva**                       | Diseñé la arquitectura de la información y los sistemas de búsqueda, navegación y etiquetado del sistema, además de configurar el entorno de desarrollo.           |
+| TB1     | 16/04/2025 | **Fabian Alejandro Oliva López**       | Diseñé la arquitectura de la información y los sistemas de búsqueda, navegación y etiquetado del sistema, además de configurar el entorno de desarrollo.           |
 | TB1     | 23/04/2025 | **Erick Alessander Vasquez Goicochea** | Elaboré los diagramas de arquitectura de software (contexto, contenedores y componentes) aplicando diseño orientado al dominio.                                    |
 | TB1     | 19/04/2025 | **Gianfranco Jared Durand Vega**       | Documenté los antecedentes y problemática del proyecto, definiendo con claridad los retos a abordar.                                                               |
-| TB1     | 22/04/2025 | **Miguel Vidal**                       | Diseñé la interfaz gráfica y maqueta de la landing page en Figma, además de estructurar la base de datos y su diagrama respectivo.                                 |
+| TB1     | 22/04/2025 | **Miguel Angel Vidal Castro**          | Diseñé la interfaz gráfica y maqueta de la landing page en Figma, además de estructurar la base de datos y su diagrama respectivo.                                 |
 | TB1     | 25/04/2025 | **Oscar Espinoza Quijandría**          | Configuré el despliegue del software, diseñé los diagramas de clases y aseguré la implementación funcional de la landing page y servicios.                         |
 | TB1     | 18/04/2025 | **Stephano Mayrzon Landauri Preciado** | Redacté las user stories y participé en la organización de roles y la planificación del Sprint 1.                                                                  |
 | TB1     | 21/04/2025 | **Gianfranco Jared Durand Vega**       | Elaboré el perfil de la startup, definiendo su propuesta de valor, objetivos y estructura de trabajo.                                                              |
 | TB1     | 24/04/2025 | **Erick Alessander Vasquez Goicochea** | Reuní evidencias de ejecución, documentación y despliegue para el sprint review. También analicé la colaboración del equipo e identifiqué mejoras en coordinación. |
-| TB1     | 15/04/2025 | **Miguel Vidal**                       | Realicé el proceso de needfinding, elaboré los user personas, empathy maps y escenarios As-is.                                                                     |
-| TB1     | 17/04/2025 | **Fabian Oliva**                       | Propuse estrategias competitivas tras evaluar productos similares, diferenciando nuestra solución en el mercado.                                                   |
+| TB1     | 15/04/2025 | **Miguel Angel Vidal Castro**          | Realicé el proceso de needfinding, elaboré los user personas, empathy maps y escenarios As-is.                                                                     |
+| TB1     | 17/04/2025 | **Fabian Alejandro Oliva López**       | Propuse estrategias competitivas tras evaluar productos similares, diferenciando nuestra solución en el mercado.                                                   |
+| TP      | 10/05/2025 | **Oscar Espinoza Quijandría**          | Desarrollé el Bounded Context de Planes y el Sprint 2                                                                                                              |
+| TP      | 10/05/2025 | **Fabian Alejandro Oliva López**       | Desarrollé el Bounded Context de Pet-Historial y el Sprint 2                                                                                                       |
+| TP      | 10/05/2025 | **Stephano Mayrzon Landauri Preciado** | Desarrollé el Bounded Context de Planes y el Sprint 2                                                                                                              |
+| TP      | 10/05/2025 | **Gianfranco Jared Durand Vega**       | Desarrollé el Bounded Context de Login y el Sprint 2                                                                                                               |
+| TP      | 10/05/2025 | **Miguel Angel Vidal Castro**          | Desarrollé el Bounded Context de New-Version-Connected y el Sprint 2                                                                                               |
+| TP      | 10/05/2025 | **Erick Alessander Vasquez Goicochea** | Desarrollé el Bounded Context de Login y el Sprint 2                                                                                                               |
+| TB2     | 10/05/2025 | **Oscar Espinoza Quijandría**          | Desarrollé el Bounded Context del Pet Profile y el Sprint 3                                                                                                        |
+| TB2     | 10/05/2025 | **Fabian Alejandro Oliva López**       | Desarrollé el Bounded Context del Shopping Cart y el Sprint 3                                                                                                      |
+| TB2     | 10/05/2025 | **Stephano Mayrzon Landauri Preciado** | Desarrollé el Bounded Context de Owner y Registro de Entrevistas                                                                                                   |
+| TB2     | 10/05/2025 | **Gianfranco Jared Durand Vega**       | Desarrollé el Bounded Context de Pet Profile y Registro de Entrevistas                                                                                             |
+| TB2     | 10/05/2025 | **Miguel Angel Vidal Castro**          | Desarrollé el Bounded Context de Shopping-Cart y despliegue del FrontEnd, BackEnd                                                                                  |
+| TB2     | 10/05/2025 | **Erick Alessander Vasquez Goicochea** | Desarrollé el Bounded Context de Medicine y Revisión de tareas BackEnd y soporte general en integración                                                            |
+
 
 ## Project Report Collaboration Insights
 
@@ -1451,7 +1464,7 @@ Explicación del flujo: El proceso de inicio de sesión se inicia cuando el usua
    
 5.	El usuario es dirigido a "Debe pasar por la parte del registro".
 
-![path](https://github.com/user-attachments/assets/422f960a-61c8-4f1e-bce2-7e5dab8af842)
+![Primero](https://github.com/user-attachments/assets/da33044b-78b9-4b51-9123-ed45d93f8a09)
 
 ### User Goal: Registro
 
