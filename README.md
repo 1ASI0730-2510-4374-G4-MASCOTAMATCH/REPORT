@@ -744,7 +744,13 @@ Se entrevistó a dos jóvenes dueños de mascotas que relataron su rutina diaria
 
 ## 3.3 Impact Mapping
 
-![Impact map 1](https://github.com/user-attachments/assets/e10660e6-3bed-4e57-82b4-1089468dbe21)
+*User Person Angel Shevchenko:
+
+![image](https://github.com/user-attachments/assets/0a294949-b8e6-4690-a00d-edb4dd314552)
+
+*User Person Carla López:
+
+![image](https://github.com/user-attachments/assets/4f6f9338-664a-4832-84c0-75a00b5b2322)
 
 ## 3.4. Product Backlog.
 
