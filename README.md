@@ -10,7 +10,7 @@
 
 ## Desarrollo de Aplicaciones App Web - 4374
 
-## Docente: Alberto Wilmer
+## Docente: Alberto Wilmer Sanchez Seña
 
 ## Startup: ManoloCorp
 
