@@ -1005,43 +1005,44 @@ El Product Backlog es una lista priorizada de todas las funcionalidades, mejoras
 
 | # Orden | User Story ID | Título                                      | Descripción                                                                                             | Story Points |
 |---------|----------------|---------------------------------------------|----------------------------------------------------------------------------------------------------------|--------------|
-| 1       | HU1            | Barra de navegación por el sitio            | **Como** visitante, **quiero** acceder fácilmente a las secciones de inicio, servicios, planes y preguntas frecuentes, **para** navegar cómodamente por la información. |              |
-| 2       | HU2            | Visualización de sección inicial (Hero)     | **Como** visitante, **quiero** ver una sección inicial llamativa con contenido relevante, **para** entender rápidamente el propósito de la aplicación. |              |
-| 3       | HU3            | Visualización de servicios ofrecidos        | **Como** visitante, **quiero** ver una sección con tarjetas que describan los servicios ofrecidos, **para** conocer lo que incluye la aplicación. |              |
-| 4       | HU4            | Visualización de planes disponibles         | **Como** visitante, **quiero** ver los planes de suscripción con detalles claros, **para** poder compararlos y evaluar cuál me conviene. |              |
-| 5       | HU5            | Consulta de preguntas frecuentes            | **Como** visitante, **quiero** acceder a una sección con preguntas frecuentes organizadas, **para** resolver mis dudas comunes. |              |
-| 6       | HU6            | Visualización del pie de página (footer)   | **Como** visitante, **quiero** ver una sección final con información adicional y enlaces relevantes, **para** acceder a datos de contacto o redes sociales. |              |
-| 7       | HU7            | Creación de User Personas                  | **Como** equipo de desarrollo, **queremos** definir User Personas basadas en los datos recolectados, **para** entender mejor a nuestros usuarios objetivos. |              |
-| 8       | HU8            | Desarrollo del User Journey Map            | **Como** equipo de UX, **queremos** mapear el recorrido del usuario, **para** detectar puntos críticos y oportunidades de mejora. |              |
-| 9       | HU9            | Elaboración de Empathy Mapping             | **Como** equipo de UX, **queremos** visualizar lo que piensan, sienten, dicen y hacen nuestros usuarios, **para** diseñar soluciones más empáticas. |              |
-| 10      | HU10           | Construcción del User Task Matrix          | **Como** equipo de análisis, **queremos** mapear las tareas que realizan nuestros segmentos, **para** identificar cuáles son prioritarias y frecuentes. |              |
-| 11      | HU11           | Mapeo de escenarios actuales (As-Is)       | **Como** equipo de análisis, **queremos** mapear cómo nuestros usuarios interactúan hoy con soluciones existentes, **para** identificar problemas reales. |              |
-| 12      | HU12           | Diseño del escenario futuro (To-Be)        | **Como** equipo de diseño, **queremos** construir el escenario ideal de interacción, **para** mejorar la experiencia de usuario dentro de nuestra app. |              |
-| 13      | HU13           | Construcción del Impact Mapping            | **Como** equipo estratégico, **queremos** alinear objetivos del negocio con acciones del producto, **para** generar impacto real en los usuarios. |              |
-| 14      | HU14           | Elaboración del Diagrama C4                | **Como** equipo de arquitectura, **queremos** construir el diagrama C4 en sus cuatro niveles, **para** representar claramente los componentes y relaciones del sistema. |              |
-| 15      | HU15           | Creación del Diagrama de Clases            | **Como** equipo de backend, **queremos** diseñar un diagrama de clases, **para** visualizar la estructura de las entidades del dominio y sus relaciones. |              |
-| 16      | HU16           | Diseño del Diagrama de Base de Datos       | **Como** equipo de desarrollo, **queremos** definir un diagrama de base de datos, **para** estructurar cómo se almacenará la información del sistema. |              |
-| 17      | HU17           | Registro de nuevos usuarios                | **Como** visitante, **quiero** crear una cuenta en la plataforma, **para** poder acceder a los servicios personalizados para mi mascota. |              |
-| 18      | HU18           | Inicio de sesión                           | **Como** usuario registrado, **quiero** iniciar sesión con mis credenciales, **para** acceder a mi cuenta y funcionalidades de la aplicación. |              |
-| 19      | HU19           | Visualización de planes disponibles        | **Como** usuario, **quiero** ver los planes de suscripción disponibles, **para** comparar beneficios y elegir el más adecuado. |              |
-| 20      | HU20           | Selección y contratación de plan           | **Como** usuario, **quiero** seleccionar y contratar un plan, **para** obtener beneficios de acuerdo a mi suscripción. |              |
-| 21      | HU21           | Visualización de mascotas registradas      | **Como** usuario, **quiero** ver una lista de mis mascotas registradas, **para** gestionarlas fácilmente según sus necesidades. |              |
-| 22      | HU22           | Registro de nueva mascota                  | **Como** usuario, **quiero** registrar una nueva mascota, **para** poder acceder a los servicios correspondientes a ella. |              |
-| 23      | HU23           | Eliminación de mascota                     | **Como** usuario, **quiero** eliminar una mascota registrada, **para** mantener actualizada mi lista. |              |
-| 24      | HU24           | Compra de medicamentos por mascota         | **Como** usuario, **quiero** comprar medicamentos relacionados con la mascota seleccionada, **para** asegurar su salud y tratamiento adecuado. |              |
-| 25      | HU25           | Visualización de historial de medicamentos | **Como** usuario, **quiero** ver un historial de medicamentos comprados, **para** llevar control del tratamiento de mis mascotas. |              |
-| TS01 | Registro de nuevo dueño | Como developer, quiero permitir registrar dueños mediante un endpoint, para que puedan acceder a la plataforma. | Escenario 1: Registro válido<br>Dado que el dueño llena sus datos correctamente, cuando envío la solicitud POST, entonces se guarda con código 201.<br><br>Escenario 2: Registro inválido<br>Dado que falta algún campo obligatorio, cuando envío la solicitud, entonces recibo un código 400 con errores de validación. | EPIC02 |
-| TS02 | Autenticación de dueño | Como developer, quiero autenticar al dueño mediante email y contraseña, para generar un token de acceso. | Escenario 1: Login exitoso<br>Dado que el dueño existe y envía credenciales correctas, cuando hace login, entonces recibe un token JWT y código 200.<br><br>Escenario 2: Login fallido<br>Dado que las credenciales son incorrectas, cuando intenta loguearse, entonces recibe un código 401. | EPIC02 |
-| TS03 | Actualización de plan del dueño | Como developer, quiero permitir actualizar el idPlan del dueño, para cambiar su suscripción. | Escenario 1: Actualización exitosa<br>Dado que el dueño tiene un plan válido, cuando envío un PUT al endpoint con su ID, entonces el idPlan se actualiza con código 200.<br><br>Escenario 2: Plan inexistente<br>Dado que el ID de plan no existe, cuando hago el update, entonces recibo un error 404. | EPIC02 |
-| TS04 | Consulta de planes disponibles | Como developer, quiero obtener todos los planes disponibles, para permitir al usuario compararlos. | Escenario 1: Existen planes<br>Dado que hay planes registrados, cuando hago GET, entonces recibo la lista con sus detalles.<br><br>Escenario 2:  No hay planes<br>Dado que aún no hay planes cargados, cuando consulto entonces obtengo una lista vacía. | EPIC03 |
-| TS05 | Consulta de plan por dueño | Como developer, quiero obtener el plan actual asignado a un dueño, para personalizar su acceso y restricciones. | Escenario 1: Plan asignado<br>Dado que el dueño tiene un plan activo, cuando hago una solicitud GET a /api/v1/plan/owner/{ownerId}, entonces recibo la información del plan con código 200.<br><br>Escenario 2: Sin plan asignado<br>Dado que el dueño no ha contratado ningún plan, cuando realizo la consulta, entonces recibo una respuesta vacía o null con código 200. |  EPIC03 |
-| TS06 | Registro de nueva mascota | Como developer, quiero registrar una nueva mascota para un dueño, para que pueda gestionarla. | Escenario 1: Registro válido<br>Dado que ingreso datos válidos, cuando realizo un POST, entonces la mascota se guarda y devuelve código 201.<br><br>Escenario 2: Registro inválido<br>Dado que faltan datos, cuando intento registrar, entonces obtengo un 400 con mensaje de error. | EPIC04 |
-| TS07 | Consulta de mascotas por dueño | Como developer, quiero obtener todas las mascotas de un dueño, para mostrarlas en su perfil. | Escenario 1: Existen mascotas<br>Dado que el dueño tiene mascotas, cuando hago GET con su ID, entonces recibo la lista con código 200.<br><br>Escenario 2: No hay mascotas<br>Dado que no tiene mascotas registradas, cuando hago la solicitud, entonces obtengo una lista vacía con código 200. | EPIC04 |
-| TS08 | Eliminación de mascota | Como developer, quiero eliminar una mascota por su ID, para mantener actualizada la información. | Escenario 1: Eliminación válida<br>Dado que la mascota existe, cuando hago DELETE, entonces se elimina con código 204.<br><br>Escenario 2: Mascota no encontrada<br>Dado que el ID no existe, cuando intento borrar, entonces obtengo un 404. | EPIC04 |
-| TS09 | Registro de nuevo medicamento | Como developer, quiero crear un endpoint para registrar nuevos medicamentos, para que estén disponibles para su compra. | Escenario 1:  Datos válidos<br>Dado que envío una solicitud POST con nombre, tipo y dosis, cuando los datos son válidos, entonces el medicamento se crea con código 201.<br><br>Escenario 2: Datos inválidos<br>Dado que omito campos obligatorios, cuando intento registrar el medicamento, entonces recibo un código 400 con un mensaje de validación. | EPIC05 |
-| TS10 | Consulta de medicamentos | Como developer, quiero obtener todos los medicamentos registrados, para mostrarlos en la sección de compra. | Escenario 1: Existen medicamentos<br>Dado que hay medicamentos guardados, cuando hago una solicitud GET, entonces recibo un listado con código 200.<br><br>Escenario 2: No hay medicamentos<br>Dado que la base está vacía, cuando consulto, entonces recibo una lista vacía y código 200. | EPIC05 |
-| TS11 | Crear carrito de compra | Como developer, quiero crear un carrito de compra asociado a un dueño y su mascota, para registrar los medicamentos adquiridos. | Escenario 1: Creación exitosa<br>Dado que el dueño tiene una mascota seleccionada y un plan activo, cuando se registra un medicamento, entonces se guarda en el carrito con código 201.<br><br>Escenario 2: Creación fallida<br>Dado que no hay mascota activa, cuando intento crear el carrito, entonces obtengo código 400 con mensaje de error.| EPIC06 |
-| TS12 | Consulta de carrito por dueño y mascota | Como developer, quiero obtener los productos en el carrito según el dueño y mascota, para mostrar las compras asociadas. | Escenario 1: Datos válidos<br>Dado que envío los IDs correctos, cuando consulto, entonces recibo los productos registrados en el carrito.<br><br>Escenario 2: No hay compras registradas<br>Dado que el dueño no ha comprado, cuando hago GET, entonces recibo una lista vacía. | EPIC06 |
+| 1       | HU1            | Barra de navegación por el sitio            | **Como** visitante, **quiero** acceder fácilmente a las secciones de inicio, servicios, planes y preguntas frecuentes, **para** navegar cómodamente por la información. | 3 |
+| 2       | HU2            | Visualización de sección inicial (Hero)     | **Como** visitante, **quiero** ver una sección inicial llamativa con contenido relevante, **para** entender rápidamente el propósito de la aplicación. | 2 |
+| 3       | HU3            | Visualización de servicios ofrecidos        | **Como** visitante, **quiero** ver una sección con tarjetas que describan los servicios ofrecidos, **para** conocer lo que incluye la aplicación. | 3 |
+| 4       | HU4            | Visualización de planes disponibles         | **Como** visitante, **quiero** ver los planes de suscripción con detalles claros, **para** poder compararlos y evaluar cuál me conviene. | 3 |
+| 5       | HU5            | Consulta de preguntas frecuentes            | **Como** visitante, **quiero** acceder a una sección con preguntas frecuentes organizadas, **para** resolver mis dudas comunes. | 2 |
+| 6       | HU6            | Visualización del pie de página (footer)   | **Como** visitante, **quiero** ver una sección final con información adicional y enlaces relevantes, **para** acceder a datos de contacto o redes sociales. | 2 |
+| 7       | HU7            | Creación de User Personas                  | **Como** equipo de desarrollo, **queremos** definir User Personas basadas en los datos recolectados, **para** entender mejor a nuestros usuarios objetivos. | 2 |
+| 8       | HU8            | Desarrollo del User Journey Map            | **Como** equipo de UX, **queremos** mapear el recorrido del usuario, **para** detectar puntos críticos y oportunidades de mejora. | 3 |
+| 9       | HU9            | Elaboración de Empathy Mapping             | **Como** equipo de UX, **queremos** visualizar lo que piensan, sienten, dicen y hacen nuestros usuarios, **para** diseñar soluciones más empáticas. | 2 |
+| 10      | HU10           | Construcción del User Task Matrix          | **Como** equipo de análisis, **queremos** mapear las tareas que realizan nuestros segmentos, **para** identificar cuáles son prioritarias y frecuentes. | 2 |
+| 11      | HU11           | Mapeo de escenarios actuales (As-Is)       | **Como** equipo de análisis, **queremos** mapear cómo nuestros usuarios interactúan hoy con soluciones existentes, **para** identificar problemas reales. | 2 |
+| 12      | HU12           | Diseño del escenario futuro (To-Be)        | **Como** equipo de diseño, **queremos** construir el escenario ideal de interacción, **para** mejorar la experiencia de usuario dentro de nuestra app. | 3 |
+| 13      | HU13           | Construcción del Impact Mapping            | **Como** equipo estratégico, **queremos** alinear objetivos del negocio con acciones del producto, **para** generar impacto real en los usuarios. | 3 |
+| 14      | HU14           | Elaboración del Diagrama C4                | **Como** equipo de arquitectura, **queremos** construir el diagrama C4 en sus cuatro niveles, **para** representar claramente los componentes y relaciones del sistema. | 5 |
+| 15      | HU15           | Creación del Diagrama de Clases            | **Como** equipo de backend, **queremos** diseñar un diagrama de clases, **para** visualizar la estructura de las entidades del dominio y sus relaciones. | 4 |
+| 16      | HU16           | Diseño del Diagrama de Base de Datos       | **Como** equipo de desarrollo, **queremos** definir un diagrama de base de datos, **para** estructurar cómo se almacenará la información del sistema. | 4 |
+| 17      | HU17           | Registro de nuevos usuarios                | **Como** visitante, **quiero** crear una cuenta en la plataforma, **para** poder acceder a los servicios personalizados para mi mascota. | 3 |
+| 18      | HU18           | Inicio de sesión                           | **Como** usuario registrado, **quiero** iniciar sesión con mis credenciales, **para** acceder a mi cuenta y funcionalidades de la aplicación. | 3 |
+| 19      | HU19           | Visualización de planes disponibles        | **Como** usuario, **quiero** ver los planes de suscripción disponibles, **para** comparar beneficios y elegir el más adecuado. | 3 |
+| 20      | HU20           | Selección y contratación de plan           | **Como** usuario, **quiero** seleccionar y contratar un plan, **para** obtener beneficios de acuerdo a mi suscripción. | 5 |
+| 21      | HU21           | Visualización de mascotas registradas      | **Como** usuario, **quiero** ver una lista de mis mascotas registradas, **para** gestionarlas fácilmente según sus necesidades. | 3 |
+| 22      | HU22           | Registro de nueva mascota                  | **Como** usuario, **quiero** registrar una nueva mascota, **para** poder acceder a los servicios correspondientes a ella. | 3 |
+| 23      | HU23           | Eliminación de mascota                     | **Como** usuario, **quiero** eliminar una mascota registrada, **para** mantener actualizada mi lista. | 2 |
+| 24      | HU24           | Compra de medicamentos por mascota         | **Como** usuario, **quiero** comprar medicamentos relacionados con la mascota seleccionada, **para** asegurar su salud y tratamiento adecuado. | 4 |
+| 25      | HU25           | Visualización de historial de medicamentos | **Como** usuario, **quiero** ver un historial de medicamentos comprados, **para** llevar control del tratamiento de mis mascotas. | 3 |
+| 26      | TS01           | Registro de nuevo dueño                    | Como developer, quiero permitir registrar dueños mediante un endpoint, para que puedan acceder a la plataforma. | 3 |
+| 27      | TS02           | Autenticación de dueño                     | Como developer, quiero autenticar al dueño mediante email y contraseña, para generar un token de acceso. | 3 |
+| 28      | TS03           | Actualización de plan del dueño            | Como developer, quiero permitir actualizar el idPlan del dueño, para cambiar su suscripción. | 2 |
+| 29      | TS04           | Consulta de planes disponibles             | Como developer, quiero obtener todos los planes disponibles, para permitir al usuario compararlos. | 2 |
+| 30      | TS05           | Consulta de plan por dueño                 | Como developer, quiero obtener el plan actual asignado a un dueño, para personalizar su acceso y restricciones. | 3 |
+| 31      | TS06           | Registro de nueva mascota                  | Como developer, quiero registrar una nueva mascota para un dueño, para que pueda gestionarla. | 3 |
+| 32      | TS07           | Consulta de mascotas por dueño             | Como developer, quiero obtener todas las mascotas de un dueño, para mostrarlas en su perfil. | 2 |
+| 33      | TS08           | Eliminación de mascota                     | Como developer, quiero eliminar una mascota por su ID, para mantener actualizada la información. | 2 |
+| 34      | TS09           | Registro de nuevo medicamento              | Como developer, quiero crear un endpoint para registrar nuevos medicamentos, para que estén disponibles para su compra. | 3 |
+| 35      | TS10           | Consulta de medicamentos                   | Como developer, quiero obtener todos los medicamentos registrados, para mostrarlos en la sección de compra. | 2 |
+| 36      | TS11           | Crear carrito de compra                    | Como developer, quiero crear un carrito de compra asociado a un dueño y su mascota, para registrar los medicamentos adquiridos. | 5 |
+| 37      | TS12           | Consulta de carrito por dueño y mascota    | Como developer, quiero obtener los productos en el carrito según el dueño y mascota, para mostrar las compras asociadas. | 3 |
+
 
 
 ### 4. UX/UI Design
@@ -2036,17 +2037,17 @@ Para asegurar una ejecución eficiente del Sprint 1, se definieron líderes y co
 
 ### 5.2.1.3. Sprint Backlog 1 
 
-El Sprint Backlog 1 consolida todas las funcionalidades principales de Mascota Match, enfocándose en completar toda la experiencia de usuario inicial: registro, login, navegación, servicios, planes de suscripción, sección FAQ, agendamiento de citas y consulta de perfiles.
+El Sprint Backlog 1 consolida todas las funcionalidades principales de Mascota Match, enfocándose en completar toda la experiencia de usuario inicial: navegación, servicios, planes de suscripción, sección FAQ.
 
 | Historia de Usuario | Tarea ID | Descripción de la Tarea                                           | Duración Estimada | Responsable | Estado |
 | ------------------- | -------- | ----------------------------------------------------------------- | ----------------- | ----------- | ------ |
-| HU14                | T1       | Mostrar mensaje de bienvenida e información general en la landing | 4 horas           | Oscar       | Done   |
-| HU15                | T2       | Mostrar tarjetas con nombre, ícono y descripción de cada servicio | 4 horas           | Stephano    | Done   |
-| HU16                | T3       | Renderizar sección FAQ con al menos 6 preguntas                   | 4 horas           | Miguel      | Done   |
-| HU17                | T4       | Mostrar resumen de los 3 planes con botón “Read More”             | 4 horas           | Oscar       | Done   |
-| HU18                | T5       | Crear navegación a página de detalle de cada plan                 | 4 horas           | Oscar       | Done   |
-| HU19                | T6       | Visualización de documentación desde GitHub                       | 4 horas           | Gianfranco  | Done   |
-| HU21                | T7       | Visualizar imágenes del proceso Lean UX desde GitHub              | 4 horas           | Miguel      | Done   |
+| HU1                 | T01      | Implementar barra de navegación con anclaje a secciones           | 6h                | Oscar       | Done   |
+| HU2                 | T02      | Diseñar e implementar la sección hero (introducción)              | 4h                | Stephano    | Done   |
+| HU3                 | T03      | Crear sección de tarjetas de servicios                            | 5h                | Miguel      | Done   |
+| HU4                 | T04      | Implementar visualización de planes de suscripción                | 5h                | Oscar       | Done   |
+| HU5                 | T05      | Desarrollar sección de preguntas frecuentes (FAQ)                 | 4h                | Erick       | Done   |
+| HU6                 | T06      | Diseñar y programar el footer con enlaces y datos útiles          | 3h                | Miguel      | Done   |
+
 
 ![image](https://github.com/user-attachments/assets/496c1f22-9727-4739-b45b-588d305acc79)
 
@@ -2176,32 +2177,30 @@ En el presente Sprint, se han identificado cinco aspectos clave para el desarrol
 
 ###  5.2.2.3. Sprint Backlog 2.
 
-
-| Historia de Usuario | Tarea ID | Descripción de la Tarea                                               | Duración Estimada | Responsable | Estado |
-| ------------------- | -------- | --------------------------------------------------------------------- | ----------------- | ----------- | ------ |
-| HU01                | T8       | Crear formulario de registro con validación y conexión al backend     | 4 horas           | Oscar       | Done   |
-| HU02                | T9       | Crear formulario de login con validación y conexión al backend        | 4 horas           | Stephano    | Done   |
-| HU03                | T10      | Visualizar plan actual del usuario desde su perfil                    | 4 horas           | Oscar       | Done   |
-| HU04                | T11      | Mostrar tarjetas de planes disponibles con beneficios                 | 4 horas           | Stephano    | Done   |
-| HU05                | T12      | Desplegar métodos de pago en pantalla de compra (Yape, tarjeta, etc.) | 4 horas           | Oscar       | Done   |
-| HU06                | T13      | Mostrar tabla con historial de pagos realizados                       | 4 horas           | Miguel      | Done   |
-| TS01                | T14      | Validación de campos en login                                         | 4 horas           | Stephano    | Done   |
-| TS02                | T15      | Mostrar los 3 planes diferenciados en la vista                        | 8 horas           | Fabian      | Done   |
-| TS03                | T16      | Mostrar opciones de método de pago y registro en historial            | 8 horas           | Miguel      | Done   |
-| TS04                | T17      | Mostrar historial de pagos recientes del usuario                      | 4 horas           | Gianfranco  | Done   |
+| User Story ID | Título                                      | Descripción                                                                                             | Duración Estimada | Responsable  | Estado |
+|---------------|---------------------------------------------|-------------------------------------------------------------------------------------------------------|-------------------|--------------|--------|
+| HU7           | Creación de User Personas                  | Definir User Personas basadas en los datos recolectados, para entender mejor a nuestros usuarios objetivos. | 6h                | Oscar        | Done   |
+| HU8           | Desarrollo del User Journey Map            | Mapear el recorrido del usuario para detectar puntos críticos y oportunidades de mejora.               | 8h                | Stephano     | Done   |
+| HU9           | Elaboración de Empathy Mapping             | Visualizar lo que piensan, sienten, dicen y hacen los usuarios para diseñar soluciones empáticas.       | 4h                | Erick        | Done   |
+| HU10          | Construcción del User Task Matrix          | Mapear las tareas que realizan los segmentos para identificar prioridades.                             | 5h                | Fabian       | Done   |
+| HU11          | Mapeo de escenarios actuales (As-Is)       | Mapear cómo los usuarios interactúan hoy con soluciones existentes para identificar problemas reales. | 7h                | Miguel       | Done   |
+| HU12          | Diseño del escenario futuro (To-Be)        | Construir el escenario ideal de interacción para mejorar la experiencia de usuario en la app.          | 6h                | Gianfranco   | Done   |
+| HU13          | Construcción del Impact Mapping            | Alinear objetivos de negocio con acciones del producto para generar impacto real.                      | 7h                | Oscar        | Done   |
+| HU14          | Elaboración del Diagrama C4                | Construir diagrama C4 en sus cuatro niveles para representar claramente componentes y relaciones.     | 8h                | Stephano     | Done   |
+| HU15          | Creación del Diagrama de Clases            | Diseñar un diagrama de clases para visualizar la estructura del dominio y sus relaciones.              | 7h                | Erick        | Done   |
+| HU16          | Diseño del Diagrama de Base de Datos       | Definir un diagrama de base de datos para estructurar el almacenamiento del sistema.                   | 6h                | Fabian       | Done   |
+| HU17          | Registro de nuevos usuarios                | Permitir a visitantes crear una cuenta para acceder a servicios personalizados para mascotas.         | 5h                | Miguel       | Done   |
+| HU18          | Inicio de sesión                           | Permitir a usuarios registrados iniciar sesión con sus credenciales para acceder a su cuenta.          | 6h                | Gianfranco   | Done   |
+| HU19          | Visualización de planes disponibles        | Mostrar planes de suscripción con detalles claros para comparar y elegir el más adecuado.              | 4h                | Oscar        | Done   |
+| HU20          | Selección y contratación de plan           | Permitir seleccionar y contratar un plan para obtener beneficios según la suscripción.                | 7h                | Stephano     | Done   |
+| HU21          | Visualización de mascotas registradas      | Mostrar lista de mascotas registradas para gestión según necesidades.                                  | 5h                | Erick        | Done   |
+| HU22          | Registro de nueva mascota                  | Registrar una nueva mascota para acceder a sus servicios correspondientes.                            | 6h                | Fabian       | Done   |
+| HU23          | Eliminación de mascota                     | Eliminar una mascota registrada para mantener actualizada la lista.                                   | 4h                | Miguel       | Done   |
+| HU24          | Compra de medicamentos por mascota         | Comprar medicamentos relacionados con la mascota seleccionada para su salud y tratamiento adecuado.   | 8h                | Gianfranco   | Done   |
+| HU25          | Visualización de historial de medicamentos | Mostrar historial de medicamentos comprados para llevar control del tratamiento de mascotas.          | 5h                | Oscar        | Done   |
 
 ![image](https://github.com/user-attachments/assets/f1fde68e-5aae-4f15-a6a1-ab5a69f4ebb9)
 
-| User Story | Work-Item / Task | Description                                                       | Estimation (Hours) | Assigned To            | Status |
-|------------|------------------|-------------------------------------------------------------------|--------------------|------------------------|--------|
-| HU19       | T1               | Crear pantalla de Login con validación de campos                  | 4                  | Stephano (Plan Mini)   | Done   |
-| HU20       | T2               | Visualizar planes disponibles (Cachimbo, Universitario, Graduado) | 4                  | Oscar (Home)           | Done   |
-| HU21       | T3               | Visualizar tarjetas de mascotas existentes                        | 4                  | Stephano (Plan Mini)   | Done   |
-| HU22       | T4               | Agregar nueva mascota con nombre y edad                           | 4                  | Oscar (Home)           | Done   |
-| HU23       | T5               | Visualizar medicamentos con cantidad y botón comprar              | 4                  | Miguel (Index)         | Done   |
-| HU25       | T6               | Mostrar historial de tratamientos aplicados a mascotas            | 4                  | Fabian (Plan Complete) | Done   |
-| HU24       | T7               | Validar cantidad seleccionada al comprar medicamentos             | 4                  | Miguel (Index)         | Done   |
-| HU26       | T8               | Filtrar historial por mascota seleccionada                        | 4                  | Fabian (Plan Complete) | Done   |
 
 
 ###  5.2.2.4. Development Evidence for Sprint Review
@@ -2310,24 +2309,18 @@ La distribución de tareas y liderazgo se ha realizado con base en las fortaleza
 
 | Historia Técnica / Usuario            | Tarea ID | Descripción de la Tarea                                  | Duración Estimada | Responsable | Estado      |
 | ------------------------------------- | -------- | -------------------------------------------------------- | ----------------- | ----------- | ----------- |
-| TS12 (POST /register)                 | T18      | Crear endpoint para registro de usuario                  | 4 horas           | Oscar       | DONE |
-| TS13 (POST /login)                    | T19      | Crear endpoint para login de usuario                     | 4 horas           | Stephano    | DONE |
-| TS14 (GET /users/profile)             | T20      | Endpoint para obtener perfil autenticado                 | 4 horas           | Fabian      | DONE |
-| TS15 (POST /appointments)             | T21      | Endpoint para agendar cita                               | 4 horas           | Erick       | DONE |
-| TS16 (GET /appointments/\:id)         | T22      | Obtener citas del usuario autenticado                    | 4 horas           | Gianfranco  | DONE |
-| TS05 (CRUD mascotas)                  | T23      | Endpoints para agregar, ver y eliminar mascotas          | 8 horas           | Oscar       | DONE |
-| TS06 (Agregar mascota)                | T24      | Endpoint adicional para agregar mascota con validaciones | 4 horas           | Stephano    | DONE |
-| TS07 (Compra medicamentos)            | T25      | Endpoint para compra y selector de cantidad              | 8 horas           | Oscar       | DONE |
-| TS08 (Validación compra medicamentos) | T26      | Validar mínimo 1 medicamento antes de confirmar          | 4 horas           | Miguel      | DONE |
-| TS09 (Historial medicamentos)         | T27      | Mostrar historial por mascota (nombre/productos)         | 8 horas           | Erick       | DONE |
-| HU20                                  | T28      | Actualización de la documentación en GitHub              | 4 horas           | Gianfranco  | DONE |
-| HU07                                  | T29      | Registro de mascota en frontend                          | 4 horas           | Oscar       | DONE |
-| HU08                                  | T30      | Eliminar mascota desde frontend                          | 4 horas           | Stephano    | DONE |
-| HU09                                  | T31      | Comprar medicina desde vista de medicamentos             | 4 horas           | Miguel      | DONE |
-| HU10                                  | T32      | Modificar cantidad antes de comprar medicina             | 4 horas           | Oscar       | DONE |
-| HU11                                  | T33      | Visualización de medicamentos comprados                  | 4 horas           | Erick       | DONE |
-| HU12                                  | T34      | Detalle específico del medicamento adquirido             | 4 horas           | Fabian      | DONE |
-| HU13                                  | T35      | Historial de pedidos de medicamentos por proveedor       | 8 horas           | Gianfranco  | DONE |
+| TS01          | Registro de nuevo dueño             | Permitir registrar dueños mediante un endpoint para que puedan acceder a la plataforma.          | 6h                | Oscar        | Done   |
+| TS02          | Autenticación de dueño             | Autenticar al dueño mediante email y contraseña para generar un token de acceso.                 | 5h                | Stephano     | Done   |
+| TS03          | Actualización de plan del dueño    | Permitir actualizar el idPlan del dueño para cambiar su suscripción.                            | 7h                | Erick        | Done   |
+| TS04          | Consulta de planes disponibles     | Obtener todos los planes disponibles para permitir al usuario compararlos.                      | 4h                | Fabian       | Done   |
+| TS05          | Consulta de plan por dueño         | Obtener el plan actual asignado a un dueño para personalizar su acceso y restricciones.         | 6h                | Miguel       | Done   |
+| TS06          | Registro de nueva mascota          | Registrar una nueva mascota para un dueño para que pueda gestionarla.                           | 7h                | Gianfranco   | Done   |
+| TS07          | Consulta de mascotas por dueño     | Obtener todas las mascotas de un dueño para mostrarlas en su perfil.                            | 5h                | Oscar        | Done   |
+| TS08          | Eliminación de mascota             | Eliminar una mascota por su ID para mantener actualizada la información.                        | 6h                | Stephano     | Done   |
+| TS09          | Registro de nuevo medicamento      | Crear un endpoint para registrar nuevos medicamentos disponibles para compra.                   | 7h                | Erick        | Done   |
+| TS10          | Consulta de medicamentos           | Obtener todos los medicamentos registrados para mostrarlos en la sección de compra.            | 5h                | Fabian       | Done   |
+| TS11          | Crear carrito de compra            | Crear un carrito de compra asociado a un dueño y su mascota para registrar medicamentos adquiridos. | 8h             | Miguel       | Done   |
+| TS12          | Consulta de carrito por dueño y mascota | Obtener los productos en el carrito según dueño y mascota para mostrar las compras asociadas.  | 6h                | Gianfranco   | Done   |
 
 ![image](https://github.com/user-attachments/assets/a077f714-2857-4690-a93b-69feb23dc699)
 
