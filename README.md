@@ -1743,286 +1743,110 @@ En esta sección se detallan los componentes asociados al componente Subscriptio
 
 ### 4.7.1. Class Diagrams.
 
-Diagrama de clases(PlantUML):
+## Diagrama de BoundedPet 
 
-![image](https://github.com/user-attachments/assets/272d15d1-3dd0-4cb8-9578-6dea102b5acb)
+![BoundedPet](https://github.com/user-attachments/assets/f9949849-4f32-43e4-9caa-15560da56483)
+
+## Diagrama de BoundedMedicina
+
+![BoundedMedicina](https://github.com/user-attachments/assets/b40bc285-b967-4581-b1cd-f0641e66a35c)
+
+## Diagrama de BoundedShoppingCart
+
+![BoundedShoppingCart](https://github.com/user-attachments/assets/911b7f72-c4c9-4dd2-bab5-163d291d659b)
+
+## Diagrama General 
+
+![BoundedGeneral](https://github.com/user-attachments/assets/2dd7ce18-74d4-4802-94d8-d0d42e9c8b7f)
 
 ### 4.7.2. Class Dictionary
 
-<table border="0" width="50%">
-  <tr>
-    <td colspan="3" valign="top">Usuario</td>
-  </tr>
-  <tr>
-    <td colspan="1" valign="top" width="40%">Attribute</td>
-    <td colspan="1" valign="top" width="40%">Type</td>
-    <td colspan="2" valign="top">Description</td>
-  </tr>
-  <tr>
-    <td colspan="1" valign="top">id</td>
-    <td colspan="1" valign="top">int</td>
-    <td colspan="2" valign="top">Identificador único del usuario</td>
-  </tr>
- <tr>
-    <td colspan="1" valign="top">nombre</td>
-    <td colspan="1" valign="top">string</td>
-    <td colspan="2" valign="top">Nombre completo del usuario</td>
-  </tr>
-  <tr>
-    <td colspan="1" valign="top">correo</td>
-    <td colspan="1" valign="top">string</td>
-    <td colspan="2" valign="top">Correo electrónico del usuario.</td>
-  </tr>
-  <tr>
-    <td colspan="1" valign="top">contraseña</td>
-    <td colspan="1" valign="top">string</td>
-    <td colspan="2" valign="top">Contraseña para acceder al sistema.</td>
-  </tr>
-  <tr>
-    <td colspan="1" valign="top">direccion</td>
-    <td colspan="1" valign="top">string</td>
-    <td colspan="2" valign="top">Dirección física del usuario</td>
-  </tr>
-  <tr>
-    <td colspan="1" valign="top">numeroTelefono</td>
-    <td colspan="1" valign="top">string</td>
-    <td colspan="2" valign="top">Número de teléfono del usuario.</td>
-  </tr>
-</table>
+#### **Pet**
+| Attribute        | Type  | Description                                  |
+|------------------|-------|----------------------------------------------|
+| id               | int   | Identificador único de la mascota.           |
+| name             | string| Nombre de la mascota.                        |
+| breed            | string| Raza de la mascota.                          |
+| age              | int   | Edad de la mascota.                          |
+| ownerId          | int   | ID del propietario de la mascota.            |
 
-<table border="0" width="50%">
-  <tr>
-    <td colspan="3" valign="top">Plan</td>
-  </tr>
-   <tr>
-    <td colspan="1" valign="top" width="40%">Attribute</td>
-    <td colspan="1" valign="top" width="40%">Type</td>
-    <td colspan="2" valign="top">Description</td>
-  </tr>
-  <tr>
-    <td colspan="1" valign="top">id</td>
-    <td colspan="1" valign="top">int</td>
-    <td colspan="2" valign="top">Identificador único del plan</td>
-  </tr>
- <tr>
-    <td colspan="1" valign="top">nombre</td>
-    <td colspan="1" valign="top">string</td>
-    <td colspan="2" valign="top">Nombre completo del plan</td>
-  </tr>
-  <tr>
-    <td colspan="1" valign="top">descripcion</td>
-    <td colspan="1" valign="top">string</td>
-    <td colspan="2" valign="top">Detalles y beneficios del plan.</td>
-  </tr>
-  <tr>
-    <td colspan="1" valign="top">precio</td>
-    <td colspan="1" valign="top">double</td>
-    <td colspan="2" valign="top">Costo del plan.</td>
-  </tr>
-</table>
+#### **Medication**
+| Attribute        | Type    | Description                                      |
+|------------------|---------|--------------------------------------------------|
+| id               | int     | Identificador único del medicamento.             |
+| name             | string  | Nombre del medicamento.                          |
+| description      | string  | Descripción del medicamento.                     |
+| price            | double  | Precio del medicamento.                          |
+| characteristics  | string  | Características del medicamento.                 |
 
-<table border="0" width="50%">
-  <tr>
-    <td colspan="3" valign="top">Suscripcion</td>
-  </tr>
-   <tr>
-    <td colspan="1" valign="top" width="40%">Attribute</td>
-    <td colspan="1" valign="top" width="40%">Type</td>
-    <td colspan="2" valign="top">Description</td>
-  </tr>
-  <tr>
-    <td colspan="1" valign="top">id</td>
-    <td colspan="1" valign="top">int</td>
-    <td colspan="2" valign="top">Identificador único de la suscripción</td>
-  </tr>
- <tr>
-    <td colspan="1" valign="top">fehcaInicio</td>
-    <td colspan="1" valign="top">string</td>
-    <td colspan="2" valign="top">Fecha de inicio de la suscripción.</td>
-  </tr>
-  <tr>
-    <td colspan="1" valign="top">fechaFin</td>
-    <td colspan="1" valign="top">string</td>
-    <td colspan="2" valign="top">Fecha de finalización de la suscripción.</td>
-  </tr>
-  <tr>
-    <td colspan="1" valign="top">estado</td>
-    <td colspan="1" valign="top">bool</td>
-    <td colspan="2" valign="top">Estado actual (activa/inactiva) de la suscripción.</td>
-  </tr>
-  <tr>
-    <td colspan="1" valign="top">idUsuario</td>
-    <td colspan="1" valign="top">int</td>
-    <td colspan="2" valign="top">ID del usuario asociado a la suscripción.</td>
-  </tr>
-  <tr>
-    <td colspan="1" valign="top">idPlan</td>
-    <td colspan="1" valign="top">int</td>
-    <td colspan="2" valign="top">ID del plan seleccionado</td>
-  </tr>
-</table>
+#### **PurchaseCart**
+| Attribute        | Type    | Description                                      |
+|------------------|---------|--------------------------------------------------|
+| id               | int     | Identificador único del carrito de compras.      |
+| ownerId          | int     | ID del propietario del carrito.                  |
+| petId            | int     | ID de la mascota asociada al carrito.            |
+| items            | List<PurchaseItem> | Lista de ítems en el carrito.             |
 
-<table border="0" width="50%">
-  <tr>
-    <td colspan="3" valign="top">Mascota</td>
-  </tr>
-  <tr>
-    <td colspan="1" valign="top" width="40%">Attribute</td>
-    <td colspan="1" valign="top" width="40%">Type</td>
-    <td colspan="2" valign="top">Description</td>
-  </tr>
-  <tr>
-    <td colspan="1" valign="top">id</td>
-    <td colspan="1" valign="top">int</td>
-    <td colspan="2" valign="top">Identificador único de la mascota.</td>
-  </tr>
- <tr>
-    <td colspan="1" valign="top">nombre</td>
-    <td colspan="1" valign="top">string</td>
-    <td colspan="2" valign="top">Nombre de la mascota</td>
-  </tr>
-  <tr>
-    <td colspan="1" valign="top">especie</td>
-    <td colspan="1" valign="top">string</td>
-    <td colspan="2" valign="top">Tipo de especie (perro, gato, etc.).</td>
-  </tr>
-  <tr>
-    <td colspan="1" valign="top">raza</td>
-    <td colspan="1" valign="top">string</td>
-    <td colspan="2" valign="top">Raza específica de la mascota.</td>
-  </tr>
-  <tr>
-    <td colspan="1" valign="top">edad</td>
-    <td colspan="1" valign="top">int</td>
-    <td colspan="2" valign="top">Edad de la mascota.</td>
-  </tr>
-  <tr>
-    <td colspan="1" valign="top">idUsuario</td>
-    <td colspan="1" valign="top">string</td>
-    <td colspan="2" valign="top">ID del dueño (usuario) de la mascota.</td>
-  </tr>
-</table>
+#### **PurchaseItem**
+| Attribute        | Type    | Description                                      |
+|------------------|---------|--------------------------------------------------|
+| id               | int     | Identificador único del ítem.                    |
+| medicationId     | int     | ID del medicamento asociado al ítem.             |
+| quantity         | int     | Cantidad de unidades del medicamento.            |
+| quantityValue    | int     | Valor de la cantidad de unidades.                |
+| purchaseCartId   | int     | ID del carrito de compras al que pertenece.      |
 
-<table border="0" width="50%">
-  <tr>
-    <td colspan="3" valign="top">Proveedor</td>
-  </tr>
-   <tr>
-    <td colspan="1" valign="top" width="40%">Attribute</td>
-    <td colspan="1" valign="top" width="40%">Type</td>
-    <td colspan="2" valign="top">Description</td>
-  </tr>
-  <tr>
-    <td colspan="1" valign="top">id</td>
-    <td colspan="1" valign="top">int</td>
-    <td colspan="2" valign="top">Identificador único del proveedor.</td>
-  </tr>
- <tr>
-    <td colspan="1" valign="top">nombre</td>
-    <td colspan="1" valign="top">string</td>
-    <td colspan="2" valign="top">Nombre del proveedor o especialista.</td>
-  </tr>
-  <tr>
-    <td colspan="1" valign="top">especialidad</td>
-    <td colspan="1" valign="top">string</td>
-    <td colspan="2" valign="top">Tipo de servicio o área en la que se especializa</td>
-  </tr>
-  <tr>
-    <td colspan="1" valign="top">certificado</td>
-    <td colspan="1" valign="top">string</td>
-    <td colspan="2" valign="top">Certificación o acreditación del proveedor.</td>
-  </tr>
-  <tr>
-    <td colspan="1" valign="top">contacto</td>
-    <td colspan="1" valign="top">string</td>
-    <td colspan="2" valign="top">Información de contacto (teléfono o correo).</td>
-  </tr>
-</table>
+#### **Owner**
+| Attribute        | Type    | Description                                      |
+|------------------|---------|--------------------------------------------------|
+| id               | int     | Identificador único del propietario.             |
+| name             | string  | Nombre completo del propietario.                 |
+| email            | string  | Correo electrónico del propietario.              |
+| address          | string  | Dirección del propietario.                       |
+| phoneNumber      | string  | Número de teléfono del propietario.              |
 
-<table border="0" width="50%">
-  <tr>
-    <td colspan="3" valign="top">Cita</td>
-  </tr>
-   <tr>
-    <td colspan="1" valign="top" width="40%">Attribute</td>
-    <td colspan="1" valign="top" width="40%">Type</td>
-    <td colspan="2" valign="top">Description</td>
-  </tr>
-  <tr>
-    <td colspan="1" valign="top">id</td>
-    <td colspan="1" valign="top">int</td>
-    <td colspan="2" valign="top">Identificador único de la cita.</td>
-  </tr>
- <tr>
-    <td colspan="1" valign="top">fechaHora</td>
-    <td colspan="1" valign="top">date</td>
-    <td colspan="2" valign="top">Fecha y hora programadas para la cita.</td>
-  </tr>
-  <tr>
-    <td colspan="1" valign="top">tipoServicio</td>
-    <td colspan="1" valign="top">string</td>
-    <td colspan="2" valign="top">Tipo de servicio que se brindará en la cita.</td>
-  </tr>
-  <tr>
-    <td colspan="1" valign="top">idMascota</td>
-    <td colspan="1" valign="top">int</td>
-    <td colspan="2" valign="top">ID de la mascota que recibirá el servicio.</td>
-  </tr>
-  <tr>
-    <td colspan="1" valign="top">idProveedor</td>
-    <td colspan="1" valign="top">int</td>
-    <td colspan="2" valign="top">ID del proveedor que brindará el servicio.</td>
-  </tr>
-</table>
+#### **Plan**
+| Attribute        | Type    | Description                                      |
+|------------------|---------|--------------------------------------------------|
+| id               | int     | Identificador único del plan.                    |
+| name             | string  | Nombre del plan.                                 |
+| description      | string  | Descripción y beneficios del plan.               |
+| price            | double  | Precio del plan.                                 |
 
-<table border="0" width="50%">
-  <tr>
-    <td colspan="3" valign="top">Servicio</td>
-  </tr>
-   <tr>
-    <td colspan="1" valign="top" width="40%">Attribute</td>
-    <td colspan="1" valign="top" width="40%">Type</td>
-    <td colspan="2" valign="top">Description</td>
-  </tr>
-  <tr>
-    <td colspan="1" valign="top">id</td>
-    <td colspan="1" valign="top">int</td>
-    <td colspan="2" valign="top">Identificador único del servicio.</td>
-  </tr>
- <tr>
-    <td colspan="1" valign="top">nombre</td>
-    <td colspan="1" valign="top">string</td>
-    <td colspan="2" valign="top">Nombre del servicio (baño, vacuna, etc.).</td>
-  </tr>
-  <tr>
-    <td colspan="1" valign="top">descripción</td>
-    <td colspan="1" valign="top">string</td>
-    <td colspan="2" valign="top">Detalles del servicio ofrecido.</td>
-  </tr>
-</table>
+#### **Subscription**
+| Attribute        | Type    | Description                                      |
+|------------------|---------|--------------------------------------------------|
+| id               | int     | Identificador único de la suscripción.           |
+| startDate        | string  | Fecha de inicio de la suscripción.               |
+| endDate          | string  | Fecha de finalización de la suscripción.         |
+| status           | bool    | Estado de la suscripción (activa o inactiva).    |
+| userId           | int     | ID del usuario asociado a la suscripción.        |
+| planId           | int     | ID del plan asociado a la suscripción.           |
 
-<table border="0" width="50%">
-  <tr>
-    <td colspan="3" valign="top">ServicioPlan</td>
-  </tr>
-   <tr>
-    <td colspan="1" valign="top" width="40%">Attribute</td>
-    <td colspan="1" valign="top" width="40%">Type</td>
-    <td colspan="2" valign="top">Description</td>
-  </tr>
-  <tr>
-    <td colspan="1" valign="top">id</td>
-    <td colspan="1" valign="top">int</td>
-    <td colspan="2" valign="top">Identificador único del registro.</td>
-  </tr>
- <tr>
-    <td colspan="1" valign="top">nombre</td>
-    <td colspan="1" valign="top">string</td>
-    <td colspan="2" valign="top">ID del servicio incluido en el plan.</td>
-  </tr>
-</table>
+#### **Service**
+| Attribute        | Type    | Description                                      |
+|------------------|---------|--------------------------------------------------|
+| id               | int     | Identificador único del servicio.                |
+| name             | string  | Nombre del servicio (ej. baño, vacuna).          |
+| description      | string  | Descripción detallada del servicio.              |
 
-</div>
+#### **Appointment**
+| Attribute        | Type    | Description                                      |
+|------------------|---------|--------------------------------------------------|
+| id               | int     | Identificador único de la cita.                  |
+| dateTime         | date    | Fecha y hora programada de la cita.              |
+| serviceType      | string  | Tipo de servicio brindado en la cita.            |
+| petId            | int     | ID de la mascota asociada a la cita.             |
+| providerId       | int     | ID del proveedor de servicios para la cita.      |
+
+#### **Provider**
+| Attribute        | Type    | Description                                      |
+|------------------|---------|--------------------------------------------------|
+| id               | int     | Identificador único del proveedor.               |
+| name             | string  | Nombre del proveedor.                            |
+| specialty        | string  | Especialidad del proveedor.                      |
+| certificate      | string  | Certificación del proveedor.                     |
+| contactInfo      | string  | Información de contacto del proveedor.           |
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
