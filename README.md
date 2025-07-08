@@ -571,10 +571,24 @@ https://bit.ly/4jSgQgS
 
 --- 
 
+### Entrevistado 3: Marcia Ramirez 
+
+- **Timing:** 00:00 - 02:51 min
+- **Edad:** 19  
+- **Distrito:** Magdalena   
+- **Resumen:**  
+Dueña de un perro de 11 años que vive en una casa con amplio campo, por lo que no necesita paseos frecuentes. No ha tenido experiencias negativas con veterinarios, pero le interesa contar con un mejor control sobre servicios como baños, cortes de pelo y vacunación. Actualmente no organiza estos servicios de manera sistemática. Usa con frecuencia aplicaciones como Instagram y Twitter, y estaría dispuesta a pagar una suscripción mensual si esta le facilita el acceso integral y organizado a los servicios que su mascota necesita. Considera útil una app que le recuerde citas importantes y le permita gestionar el bienestar de su perro de forma más eficiente.
+
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/14f1b696-cf27-4328-a97a-bd7d5844f33e" />
+
+[https://bit.ly/4jSgQgS](https://bit.ly/4lKzcRO)
+
+--- 
+
 
 ## Entrevista a Profesionales del cuidado animal
 
-#### Entrevistado 3: Médico veterinario 
+#### Entrevistado 4: Médico veterinario 
 
 - **Timing:** 0:00 - 5:41 min
 - **Edad:** 36  
@@ -588,7 +602,7 @@ https://bit.ly/4jSgQgS
 
 ---
 
-#### Entrevistado 4: Médico veterinario clínico
+#### Entrevistado 5: Médico veterinario clínico
 
 - **Timing:** 5:41 - 11:16 min
 - **Edad:** 50
@@ -599,6 +613,20 @@ Veterinario con horario de 9 a.m. a 5 p.m., brinda atención clínica presencial
 ![image](https://github.com/user-attachments/assets/9bc8a69a-01de-4be0-ac01-c8b370bb83b1)
 
 https://bit.ly/4jSgQgS
+
+---
+
+### Entrevistado 6: Médico veterinario clínico
+
+- **Timing:** 0:00 - 02:00 min
+- **Edad:** 27
+- **Distrito:** Surco 
+- **Resumen:**  
+Veterinaria independiente que gestiona sus propios horarios y clientes. Ofrece principalmente servicios clínicos presenciales como consultas generales, vacunación y desparasitación, y ocasionalmente realiza atenciones a domicilio. Utiliza aplicaciones como Rappi y Uber, por lo que se siente cómoda usando plataformas digitales. Señala que la fidelización del cliente es clave para la estabilidad de sus ingresos y considera fundamental contar con un historial completo de cada mascota para brindar un mejor seguimiento. Está dispuesta a usar una aplicación como MascotaMatch si esta le permite conectarse con nuevos clientes, organizar citas, y llevar un registro detallado de atenciones. También muestra interés en recibir capacitaciones o certificaciones que la ayuden a mejorar sus servicios.
+
+<img width="818" alt="image" src="https://github.com/user-attachments/assets/4b87f54b-6de3-46ce-87ea-ffafeb3a44c7" />
+
+https://bit.ly/4kpnvyw
 
 ---
 
