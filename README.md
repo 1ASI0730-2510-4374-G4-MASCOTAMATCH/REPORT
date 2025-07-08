@@ -2340,6 +2340,93 @@ La distribución de tareas y liderazgo se ha realizado con base en las fortaleza
 | MascotaMatch    | feature/Owner   | b8fe11d   | feat: add UserManagement           | -                    | 21 de junio de 2025    |
 
 
+## 5.2.4. Sprint 4 
+
+### 5.2.4.1.Spring Planning 4.
+
+
+| Field                                | Information                                                                                           |
+|--------------------------------------|-------------------------------------------------------------------------------------------------------|
+| **Sprint #**                         | Sprint 4                                                                                              |
+| **Date**                             | 2025-07-07                                                                                             |
+| **Time**                             | 07:00 PM                                                                                               |
+| **Location**                         | Virtual (Discord and Zoom)                                                                             |
+| **Prepared By**                      | Oscar Espinoza                                                                                         |
+| **Attendees (to planning meeting)**  | Oscar Espinoza, Miguel Vidal, Stephano Landauri, Fabian Oliva, Gianfranco Durand, Erick Vasquez        |
+| **Sprint 3 – 4 Review Summary**      | The backend was deployed publicly and successfully responded to requests. Corrections were made to all Technical Stories (TS), and the frontend and landing page were finalized and verified. |
+| **Sprint 3 – 4 Retrospective Summary** | Final adjustments ensured integration between frontend and backend. REST endpoints were tested with the deployed database, confirming public access and functionality.                                 |
+| **Sprint 4 Goal**                    | **Sprint Goal:**<br>Complete the final deployment of MascotaMatch, ensuring all endpoints work correctly with the database, provide public access, and deliver a fully integrated system.<br><br>**Success:**<br>All Technical Stories (TS) must be corrected, deployed to production, and verified for complete integration with the frontend and database.  |
+| **Sprint 4 Velocity**                | 55 Story Points                                                                                        |
+| **Sprint Goal & User Stories**       | **Technical Stories:**<br> TS05, TS06, TS07, TS08, TS09, TS12, TS13, TS14, TS15, TS16                   |
+| **Sum of Story Points**              | **55 Story Points**                                                                                    |
+
+
+
+### 5.2.4.2. Aspect Leaders and Collaborators.
+##### Introducción
+
+### 5.2.3.2. Aspect Leaders and Collaborators
+
+En este Sprint 4 se identificaron cinco aspectos clave para el despliegue final de MascotaMatch: **Frontend**, **Backend / TS**, **Testing**, **UX/UI Design**, **Documentación y Coordinación General**. El objetivo fue asegurar la entrega del flujo completo del proyecto, validando endpoints, resolviendo issues y dejando el despliegue disponible en producción.  
+
+La distribución se realizó considerando fortalezas individuales y participación activa del equipo para cumplir con los tiempos de entrega y garantizar calidad.  
+
+A continuación, la tabla de líderes y colaboradores por aspecto:
+
+| Team Member (Apellido, Nombre)         | GitHub Username         | Frontend (L/C) | Backend / TS (L/C) | Testing (L/C) | UX/UI Design (L/C) | Documentación (L/C) | Coordinación (L/C) |
+|----------------------------------------|-------------------------|-----------------|--------------------|----------------|--------------------|---------------------|--------------------|
+| Mayrzon Landauri Preciado, Stephano    | Mayrzon02               | C               | L                  | L              | C                  | C                   |                    |
+| Vidal, Miguel Angel                     | Gossk                   | C               | C                  | L              | L                  |                     |                    |
+| Vasquez Goicochea, Erick Alessander     | erick580                |                  | C                  | C              |                    | C                   | L                  |
+| Durand Vega, Gianfranco Jared           | Azucarita               |                  | C                  | C              |                    | L                   | C                  |
+| Espinoza Quijandría, Oscar              | OscarEspinoza5443       | L               | L                  | C              | C                  |                     | L                  |
+| Oliva Lopez, Fabian Alejandro           | FabulousFabStar         | C               | C                  | C              | L                  | L                   |                    |
+
+
+**L = Leader**  
+**C = Collaborator**  
+
+En Sprint 4 se reforzó la colaboración para validar todos los TS (endpoints) con el frontend, realizando ajustes y pruebas de integración. Se trabajó en la documentación de despliegue y en la organización del repositorio para la entrega final en un dominio público. El equipo destacó por su coordinación para solucionar incidencias y garantizar la funcionalidad completa del producto.
+
+### 5.2.4.3.Sprint Backlog 4.
+
+| Historia Técnica (TS) / User Story | Tarea ID | Descripción de la Tarea                                       | Duración Estimada | Responsable | Estado     |
+|------------------------------------|----------|---------------------------------------------------------------|--------------------|-------------|------------|
+| TS12 (POST /register)              | T18      | Crear endpoint para registro de usuario                       | 4 horas            | Oscar       | Done       |
+| TS13 (POST /login)                 | T19      | Crear endpoint para login de usuario                          | 8 horas            | Stephano    | Done       |
+| TS14 (GET /users/profile)          | T20      | Endpoint para obtener perfil autenticado                      | 4 horas            | Fabian      | Done       |
+| TS15 (POST /appointments)          | T21      | Endpoint para agendar cita                                    | 4 horas            | Erick       | Done       |
+| TS16 (GET /appointments/:id)       | T22      | Obtener citas del usuario autenticado                         | 4 horas            | Gianfranco  | Done       |
+| TS05 (CRUD mascotas)               | T23      | Endpoints para agregar, ver y eliminar mascotas               | 4 horas            | Oscar       | Done       |
+| TS06 (Agregar mascota)             | T24      | Endpoint adicional para agregar mascota con validaciones      | 8 horas            | Stephano    | Done       |
+| TS07 (Compra medicamentos)         | T25      | Endpoint para compra y selector de cantidad                   | 4 horas            | Oscar       | Done       |
+| TS08 (Validación compra medicamentos) | T26    | Validar mínimo 1 medicamento antes de confirmar               | 4 horas            | Miguel      | Done       |
+| TS09 (Historial medicamentos)      | T27      | Mostrar historial por mascota (nombre/productos)              | 4 horas            | Erick       | Done       |
+
+
+
+### 5.2.4.4.Development Evidence for Sprint Review.
+
+| Repository   | Branch                   | Commit ID | Commit Message                | Commit Message Body | Committed on Date         |
+|--------------|-------------------------|-----------|-------------------------------|---------------------|---------------------------|
+| MascotaMatch | feature/medication      | 298c45a   | feat: add MedicationCatalog   | -                   | 07 de julio de 2025       |
+| MascotaMatch | feature/PetProfile      | e856efe   | feat: add PetProfileManagement| -                   | 07 de julio de 2025       |
+| MascotaMatch | feature/ShoppingCart    | d08a274   | feat: add ShoppingCart        | -                   | 07 de julio de 2025       |
+| MascotaMatch | feature/Owner           | b8fe11d   | feat: add UserManagement      | -                   | 07 de julio de 2025       |
+
+**Detalles**
+
+Cada funcionalidad fue desarrollada en una rama específica siguiendo buenas prácticas de control de versiones y trabajo colaborativo en equipo.  
+Se usaron mensajes de commit descriptivos para facilitar la trazabilidad y validación del progreso del Sprint 4.  
+Todos los endpoints fueron revisados, validados e integrados al despliegue en dominio público.
+
+### 5.2.4.5. Evidencia de Ejecución para Sprint Review.
+
+En este Sprint se realizaron las correcciones finales de todos los servicios backend de MascotaMatch, asegurando su correcto funcionamiento con la base de datos y el frontend. Se corrigieron los Technical Stories (TS), se realizaron pruebas de integración y se desplegó la aplicación en una dirección pública.
+
+Las funcionalidades fueron validadas mediante pruebas automáticas y manuales, confirmando que los endpoints responden adecuadamente a las peticiones del frontend. Se documentaron los resultados con capturas de pantalla y un video explicativo que demuestra la operación general del sistema ya desplegado y accesible de forma pública.
+
+En el Sprint 4 se consolidó la versión final del BACKEND, garantizando que el sistema esté completamente funcional, accesible y disponible para su uso por parte de los usuarios y proveedores. A continuación, se presentan las evidencias correspondientes al despliegue público y las pruebas realizadas.
 
 
 ### 5.2.4.6.Services Documentation Evidence for Sprint Review
