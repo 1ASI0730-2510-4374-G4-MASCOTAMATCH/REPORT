@@ -2340,6 +2340,32 @@ La distribución de tareas y liderazgo se ha realizado con base en las fortaleza
 | MascotaMatch    | feature/Owner   | b8fe11d   | feat: add UserManagement           | -                    | 21 de junio de 2025    |
 
 
+
+
+### 5.2.4.6.Services Documentation Evidence for Sprint Review
+
+![image](https://github.com/user-attachments/assets/c4fbeb1b-f09d-4a41-a98a-61ecab3e23cd)
+
+
+Durante este sprint se trabajó en la corrección y levantamiento de todas las observaciones, priorizando tanto la coherencia visual como la funcionalidad de la plataforma. Se revisaron detenidamente los componentes desarrollados en la fase anterior, ajustando detalles de diseño, navegación y organización del contenido. Uno de los avances más importantes fue la carga completa de los enlaces funcionales en la landing page, permitiendo que los usuarios puedan navegar correctamente entre las distintas secciones del sitio sin errores ni enlaces rotos.
+
+Asimismo, se realizó el despliegue del proyecto en una dirección pública, lo cual representa un paso clave para futuras pruebas de usabilidad, validación con usuarios reales y revisiones externas. Esto también facilitará el acceso del equipo a la plataforma desde distintos dispositivos y ubicaciones, asegurando que el producto sea visualizado correctamente en diferentes entornos.
+
+### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+
+
+![image](https://github.com/user-attachments/assets/59def4b1-4a55-479f-bb1b-04f89bd86a99)
+
+![image](https://github.com/user-attachments/assets/5ce70107-3acc-4ed2-8293-74904709bb70)
+
+![image](https://github.com/user-attachments/assets/e4c549b9-a6fe-4b6d-9730-a2a99c7536d7)
+
+Se trabajó en asegurar una navegación fluida y completamente funcional entre secciones, mejorando la experiencia del usuario final. El diseño fue adaptado para ser completamente responsivo, garantizando una visualización óptima tanto en computadoras como en dispositivos móviles. Asimismo, se implementaron componentes visuales activos como botones de compra y mensajes dinámicos, brindando una primera interacción real con las funcionalidades clave de la plataforma.
+
+La verificación del correcto funcionamiento se realizó accediendo directamente al enlace público del despliegue, comprobando que todos los elementos se cargan adecuadamente y sin errores. Este avance representa un paso sólido hacia la integración de lógica backend.
+
+
 ## Detalles
 Cada feature fue desarrollado en una branch diferente siguiendo buenas prácticas de control de versiones y trabajo en equipo. Se utilizaron mensajes de commit descriptivos y cada cambio fue verificado.
 
