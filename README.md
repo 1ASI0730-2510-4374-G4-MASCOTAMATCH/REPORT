@@ -254,7 +254,7 @@ Lo que nos diferencia es que no solo brindamos comodidad y confianza a los dueñ
 
 **Logotipo de la Startup:**<br>
 
-![startup](/assets/chapter-1/ecomovilsquad.png)
+![startup](/assets/un.png)
 
 **Logotipo del Servicio:**<br>
 
