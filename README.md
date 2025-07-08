@@ -256,9 +256,6 @@ Lo que nos diferencia es que no solo brindamos comodidad y confianza a los dueñ
 
 ![startup](/assets/un.png)
 
-**Logotipo del Servicio:**<br>
-
-![service](/assets/chapter-1/ecomovil.jpg)
 
 
 ### 1.1.2. Perfiles de integrantes del equipo
@@ -2145,14 +2142,12 @@ La comunicación fue constante a través de plataforma usada: Discord, WhatsApp,
 | **Location** | Virtual (Discord y Zoom) |
 | **Prepared By** | Stephano Landauri |
 | **Attendees (to planning meeting)** | Oscar Espinoza, Miguel Vidal, Stephano Landauri, Fabian Oliva, Gianfranco Durand, Erick Vasquez |
-
 | **Sprint 1 – 2 Review Summary** | The Mascota Match landing page was developed exclusively, focusing on the visual design, informative text, initial navigation, and basic front-end structure. While no system features were integrated, the development allowed for the definition of the product's graphical layout and laid the groundwork for the future implementation of the MVP. The feedback received was positive, highlighting the aesthetics and clarity of the content. |
 | **Sprint 1 – 2 Retrospective Summary** | The team highlighted strengths in coordination for mockup design and visual implementation. Improvements were identified as a need to better divide tasks, as some members were unable to move forward due to a lack of definition regarding future functions. It was agreed to establish clear acceptance criteria from the start of the sprint. |
 | **Sprint 2 Goal** | Implement the first functional version of the MascotaMatch frontend with the main user flows:<br><br> - Iniciar sesión <br> - Registrarse <br> - Ver planes <br> - Agregar y seleccionar mascotas <br> - Ver medicamentos y comprarlos <br> - Consultar historial <br><br> **Sprint Goal (EN):**<br> Deliver a functional MVP of MascotaMatch with key user flows: authentication, user navigation, pet management, service browsing, and purchase history.<br> **Success Criteria:** User is able to complete all key flows without backend errors.|
 | **Sprint 2 Velocity** | 55 Story Points |
 | **Sprint Goal & User Stories** | **User Stories:**<br>HU01, HU02, HU03, HU04, HU05, HU06, TS01, TS02, TS04, TS03 |
 | **Sum of Story Points** | **55 Story Points** |
-
 | **Sprint 1 – 2 Review Summary** | Se desarrolló exclusivamente la Landing Page de Mascota Match, enfocándose en el diseño visual, los textos informativos, navegación inicial y estructura base del frontend. Si bien no se integraron funcionalidades del sistema, el avance permitió definir la línea gráfica del producto y sentó las bases para la futura implementación del MVP. El feedback recibido fue positivo, destacando la estética y claridad del contenido. |
 | **Sprint 1 – 2 Retrospective Summary** | El equipo resaltó fortalezas en la coordinación para el diseño de mockups y la implementación visual. Se identificó como mejora la necesidad de dividir mejor las tareas, ya que algunos miembros no pudieron avanzar por la falta de definición en funciones futuras. Se acordó establecer criterios de aceptación claros desde el inicio del sprint. |
 | **Sprint 2 Goal** | Implementar la primera versión del Frontend de Mascota Match, incluyendo registro de usuarios, login, navegación entre pantallas, perfil de usuario, listado de servicios disponibles, selección de planes y agendamiento de citas.<br><br>**Sprint Goal:**<br>Deliver the first MVP version of Mascota Match with core user flows: sign up, login, explore services, and schedule an appointment.<br>Success will be confirmed when users can complete these flows end-to-end. |
@@ -2288,8 +2283,7 @@ Enlace al repositorio: https://github.com/1ASI0730-2510-4374-G4-MASCOTAMATCH/REP
 | **Attendees (to planning meeting)** | Oscar Espinoza, Miguel Vidal, Stephano Landauri, Fabian Oliva, Gianfranco Durand, Erick Vasquez               |
 | **Sprint 2 – 3 Review Summary** | The visual and logical structure of the frontend was successfully completed, including routes, views, and navigation tests. The landing page was completed with its respective functional sections. |
 | **Sprint 2 – 3 Retrospective Summary** | The need for a better connection between the frontend and backend was identified. REST endpoints were prioritized in this new phase, business contexts were better organized, and integration testing was strengthened. |
-| **Sprint 3 Goal**           | **Sprint Goal:**<br>Build the functional backend of MascotaMatch, dividing the logic into three Bounded Contexts: User (plans), Pet, and Medication (medication purchases).
-Also, create the final version of the landing page and web application.<br>**Success:**<br>All endpoints must respond correctly to frontend requests and maintain persistence with the database, in addition to being deployed to a public address. |
+| **Sprint 3 Goal**           | **Sprint Goal:**<br>Build the functional backend of MascotaMatch, dividing the logic into three Bounded Contexts: User (plans), Pet, and Medication (medication purchases). Also, create the final version of the landing page and web application.<br>**Success:**<br>All endpoints must respond correctly to frontend requests and maintain persistence with the database, in addition to being deployed to a public address. |
 | **Sprint 3 Velocity**       | 55 Story Points                                                                                              |
 | **Sprint Goal & User Stories** |**<br> TS05, TS06, TS07, TS08, TS09, TS12, TS13, TS14, TS15, TS16, HU20, HU07, HU08, HU09, HU10, HU11, HU1, HU13|
 | **Sum of Story Points**     | 55 Story Points                                                                                              |
