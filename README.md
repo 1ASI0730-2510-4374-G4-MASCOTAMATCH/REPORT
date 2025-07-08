@@ -1670,6 +1670,12 @@ Explicación del flujo: El flujo se inicia cuando el usuario selecciona la opci�
 
 ![path5](https://github.com/user-attachments/assets/bc519a77-c3b5-4aa0-b190-b4311b518e6d)
 
+
+![Diagrama](https://github.com/user-attachments/assets/47649679-d79f-44fd-8177-e0f8bd9c495a)
+
+Este diagrama muestra cómo un usuario interactúa con la app para gestionar mascotas. Empieza al iniciar sesión, donde ingresa sus datos. Una vez dentro, llega al dashboard, desde donde puede hacer varias cosas: elegir un plan de servicio, agregar nuevas mascotas con información como nombre y edad, o eliminar mascotas si lo desea. También puede gestionar los medicamentos para sus mascotas, como comprar nuevos y ver el historial de los medicamentos ya adquiridos. Si el usuario termina, puede cerrar sesión y salir de la app. Todo está organizado para que el usuario pueda moverse fácilmente entre las secciones y realizar las acciones sin complicaciones.
+
+
 Enlace: https://lucid.app/lucidchart/d55fe3f4-9615-4091-a3e3-c715169b2df1/edit?viewport_loc=-36%2C283%2C1933%2C871%2C0_0&invitationId=inv_b17c5844-c165-436e-bd0a-4f6c24433e82 
 
 ## 4.5. Web Applications Prototyping
